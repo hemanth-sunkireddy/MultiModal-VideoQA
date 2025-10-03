@@ -3,9 +3,10 @@
 **/*.vtt
 **/*.zip
 **/*.vtt
-# **/*.srt
+**/*.srt
 **/*.wav
 Data/Audios
 Data/Audio-Chunks
 Data/Videos
 # Data/SRT-Files
+**/*.mp4
