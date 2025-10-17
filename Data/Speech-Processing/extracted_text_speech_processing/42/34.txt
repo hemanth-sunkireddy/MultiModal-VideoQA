@@ -1,0 +1,5 @@
+There may not be a region of silence, but what happen if you see there is a large movement of all prosodic parameters.
+So, may be there is a dip F 0 is going to this going down and then again going up.
+So, there will there will one kind of resetting of prosodic parameter deviation F 0.
+So, that can indicate that there is a break in speech chunk.
+So, that is called prosodic.

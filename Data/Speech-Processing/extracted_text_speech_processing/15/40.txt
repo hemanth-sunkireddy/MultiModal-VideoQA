@@ -1,0 +1,3 @@
+Let us there is a n equal to 10 tube, I take 10 tube to model this whole vocal tract system is divided by 10 part and model it, then I can get 10 by 2 complex conjugate pole.
+So, I can get 5 formant frequency.
+On the other hand, let us I derive that mathematics, there is a example I have given in the

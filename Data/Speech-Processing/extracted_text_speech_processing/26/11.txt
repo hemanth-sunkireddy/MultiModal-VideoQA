@@ -1,0 +1,4 @@
+if I take the phase only then it is called phase spectra.
+So, if I take the time this axis is the magnitude this axis is the frequency and y axis is the magnitude of discrete Fourier transform then I call this is a magnitude spectra ok.
+If I take the phase of phase so x k is nothing but in the form of a plus j b.
+So, what is the magnitude spectra root over of a square plus b square.

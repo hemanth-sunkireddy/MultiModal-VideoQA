@@ -1,0 +1,4 @@
+different kind of voice sound different kind of voice speech.
+Now if I see the I will come this one again I will come when I talk about the tube modeling, but here I will explain.
+So, excitation impulse is nothing but a excitation parameters excitation is generated and that excitation part of the going to the linear time varying system filter and I get the speech.
+So, this filter I have to model.

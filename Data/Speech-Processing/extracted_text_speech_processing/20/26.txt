@@ -1,0 +1,6 @@
+signal cross the 0 line I get the value of 2.
+So, what I want?
+I want number of 0 crossing through the that window let us this is the L root 20 millisecond.
+So, I can say this will be 1 by 2 has to be normalized because 0 crossing is number 1 number 2.
+So, instead of number 1 every time in this function I get value 2.
+So, 2 has to be normalized.

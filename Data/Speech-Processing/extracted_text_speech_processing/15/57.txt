@@ -1,0 +1,4 @@
+or whole vocal tag can be n number of tube, but if I say n number of tube each tube cross sectional area is constant.
+That is why uniform and lossless also because if it is lossy then all kinds of complexity will come up.
+So, if it is lossless uniform tube model then it can be implemented using digital system that is V z.
+Once I know that then I know yes if it is implementable via V z.

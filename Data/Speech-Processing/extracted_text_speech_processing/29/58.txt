@@ -1,0 +1,2 @@
+So, another thing is n w is greater than n then also it is possible, but if w r n is equal to 0 for r not equal to 0.
+That means, w r n equal to 0 for all r except 0 which is r equal to minus 1 1 because it is minus infinity to infinity.

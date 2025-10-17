@@ -1,0 +1,4 @@
+n number of discrete value?
+If it is n number of finite length discrete value, I can say then it is a the period is after n, I am saying the signal is repeating itself.
+So, x k is a period of n, capital N, the number of sample I have taken, I have the number of discrete sample, the discrete sample I have made the frequency response.
+So, this is the, if you explain it like this way.

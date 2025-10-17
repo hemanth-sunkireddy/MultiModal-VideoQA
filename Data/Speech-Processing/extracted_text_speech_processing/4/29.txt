@@ -1,0 +1,5 @@
+find out the magnitude frequency response frequency magnitude response.
+So, find out the magnitude frequency response of x.
+So, I have to plot the mod of x k. So, after computing DFT I get a plus j b from.
+So, I compute the a square plus b square root over that is the amplitude if it is voltage then it is has to be square to make it power if it is power then it is root over of a square plus b square.
+So, now if I want to drop draw it.

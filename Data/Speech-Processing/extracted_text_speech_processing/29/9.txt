@@ -1,0 +1,4 @@
+If I want to do STFT synthesis, I have to get back the x n exactly.
+So, in mathematics, how do you get back?
+Let us do the STFT synthesis in mathematics.
+So, what I have done for a given value of, I have done STFT for time instant n. This is my STFT output signal.

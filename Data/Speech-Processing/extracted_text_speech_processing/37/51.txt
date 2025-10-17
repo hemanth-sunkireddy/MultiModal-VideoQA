@@ -1,0 +1,3 @@
+that website to develop your own pronunciation lexicon in W3C format.
+Now there is a other kind of G2P approach also there the rule based approach that depending on the grapheme position we can develop some rule where the rule based approach will pronounce the grapheme to pronunciation conversion will be done.
+But most mostly used approach or hybrid approach that some simple rule we develop and then we use the.

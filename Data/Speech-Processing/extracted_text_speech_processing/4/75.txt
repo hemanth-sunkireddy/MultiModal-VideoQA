@@ -1,0 +1,3 @@
+If I implement using infinite impulse response, n varies from minus infinity to plus infinity, then I call IIR filter, infinite impulse response filter.
+So, one is finite impulse response, another implementation procedure is infinite impulse response.
+So, let us discuss about the FIR filter which is called finite impulse response filter.

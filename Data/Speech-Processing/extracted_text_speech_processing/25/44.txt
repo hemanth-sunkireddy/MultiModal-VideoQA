@@ -1,0 +1,5 @@
+Then what should be the order of the LPC analysis?
+16 kilohertz, so 16 K divided by 1000 into plus 2 plus 2, 2 for glottal, 2 for radiation.
+So, I can say 16 plus 2 plus 2 is equal to 20.
+So, I can get P is equal to 20.
+Then implement a z in a program.

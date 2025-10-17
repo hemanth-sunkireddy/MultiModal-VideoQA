@@ -1,0 +1,4 @@
+And then I can excite that model by a either a impulse or a noise to generate the speech.
+So that is called articulatory synthesis.
+So, lot of research is going on in articulatory synthesis because it not only provide me the speech synthesis also I can simulate the human vocal track also.
+If I able to construct mathematically or I can I can say that instead of this if I able to make a some student.

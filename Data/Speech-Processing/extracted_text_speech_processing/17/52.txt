@@ -1,0 +1,5 @@
+is called 0 dB.
+So, one way say 0 dB it is not defined for all frequency.
+0 dB means I take a 1 kilohertz acoustical signal or monotone signal and I want to find out the intensity I which just create a sensation in the human being that I call 0 dB.
+So, that I is called 10 to the power minus 12 watt.
+I think 10 to the power minus 12 watt.

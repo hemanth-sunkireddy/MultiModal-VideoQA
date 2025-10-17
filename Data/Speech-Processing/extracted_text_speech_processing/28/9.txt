@@ -1,0 +1,3 @@
+2 pi by L. So, if 0 are allowed omega sub n, then condition 2 can be relaxed.
+Now, in summary FBS method, the 2 pi by n, this one n w is greater than equal to n. If 0 in w n are allowed, then the condition 2 can be relaxed.
+So, now I come to the short term Fourier transform magnitude.

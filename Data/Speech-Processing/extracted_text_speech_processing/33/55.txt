@@ -1,0 +1,6 @@
+and plot with frequency.
+So, mod of S k is nothing but a frequency versus power plot which is the spectrum in normal frequency scale.
+Now, I work the frequency scale in male scale, male frequency or you can say the male filter bank.
+I pass that with the male filter bank.
+When I pass with the male filter bank, what I will get?
+I get same spectrum.

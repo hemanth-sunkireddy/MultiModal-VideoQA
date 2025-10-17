@@ -1,0 +1,2 @@
+So, what is output pressure of the kth tube?
+Zk u k plus 1 T minus tau k plus u k minus T plus tau k which will be equivalent to or equal to Zk plus 1 u k plus 1 plus u k plus 1 minus T. These are two equations.

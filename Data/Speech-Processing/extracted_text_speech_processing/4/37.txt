@@ -1,0 +1,5 @@
+There is two kind of things if you see.
+Suppose I have sampled a signal in 8 kilohertz and of a signal let the signal has 50 hertz.
+So, 50 hertz signal sinusoidal signal has sampled at 8 kilohertz.
+So, if I take the 1000 n equal to 1000 sample then the frequency resolution is 8 hertz.
+So, for every k.

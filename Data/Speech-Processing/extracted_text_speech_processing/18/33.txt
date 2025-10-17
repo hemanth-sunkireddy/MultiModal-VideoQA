@@ -1,0 +1,4 @@
+So, critical band filter band.
+So, I have a speech signal, I pass this speech signal, let us forget the pre-filtering, pass this speech signal through a various frequency band filter.
+So, each filter output or you can say the critical band filter output give me the response of a basilar membrane filter band each sensor.
+Now, I have to know which sensor is firing.

@@ -1,0 +1,5 @@
+Suppose I have this is my voicing segment.
+Let us I say something and there is a voicing segment.
+This voicing segment represent let us this to this represent is let us 1 second.
+If I want to match with the lip movement in the video, I have to make it let us 50 instead of 1 second, I have to make it 0.8 second.
+So how can I do it?

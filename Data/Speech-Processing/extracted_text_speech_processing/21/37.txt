@@ -1,0 +1,3 @@
+but for particular sum value the error will be 0.
+So, for a infinite set of solution I have to find out the optimum set of solution or I can say find out the find out the set of solution or find out the set of the a 1, a 2, a 3 value a p value for which the error is 0.
+So, that means, actually I am

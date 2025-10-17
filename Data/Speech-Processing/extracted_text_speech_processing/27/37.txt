@@ -1,0 +1,4 @@
+number of band that is k. So, let us I take a signal of 10 millisecond which contain 160 sample.
+So, n length of the DFT is the nearest 2 to the power something unless I have to put more 0 padding and the amplitude will be varies.
+So, what I will do nearest 2 to the power something.
+So, if it is nearest then I can say it is 256 let us 2 to the power 256 n equal to

@@ -1,0 +1,2 @@
+1, then I can say put 1, I can say a 3 2, a 4 2, then I can put 1, I can say a 4 3, then I put in 1, 1 here, rest are 0 0 0 0 0 0 0.
+This into let us diagonal element d 1, d 2, d 3, d 4.

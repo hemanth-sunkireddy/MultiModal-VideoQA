@@ -1,0 +1,6 @@
+order dynamics.
+If I want to calculate the second order dynamics, so difference between the first order dynamics is nothing but the second order dynamics.
+So, first order dynamics is called delta coefficient.
+So, double delta is nothing but a difference of difference.
+So, I can say double delta coefficient F 3 minus F 2 minus F 2 plus F 1.
+So, it is nothing but a F 3 minus twice F 2.

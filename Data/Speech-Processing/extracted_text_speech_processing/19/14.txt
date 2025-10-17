@@ -1,0 +1,5 @@
+10 millisecond.
+So, 0 to 20 millisecond I take the signal, I process it, find the parameter, I find out the parameter vector, let us vector a, let us it is x 1 or let us a vector 1.
+Then I shift the window with 10 millisecond and again take the 20 millisecond, I find out a 2, a 2 vector.
+Then I again shift the 10 millisecond and take 20 millisecond a 3.
+So, in that case

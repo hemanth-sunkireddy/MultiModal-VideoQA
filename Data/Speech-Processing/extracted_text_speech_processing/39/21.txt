@@ -1,0 +1,3 @@
+Then absence of word boundary, yes this is very important.
+If I develop the word model, but if I say I will go to Calcutta, but the speech signal is very complex.
+If I say speech signal is very complex, now if you say this is a word, this is a word, this is a word, this is a word, this is a word, this is a word.

@@ -1,0 +1,5 @@
+high sampling frequency.
+So, my 8 kilohertz is sufficient even if double this thing nearest is 8 kilohertz is sufficient to sample this thing.
+So, that is why the telephone bandwidth is 4 if it 8 kilohertz is sampling frequency 4 kilohertz is the maximum frequency which can present in the speech.
+So, now I give a problem let us I am not going details of this digitization things let us this is the problem.
+An audio signal is recorded using the following format to store 50 millisecond signal in PCM warp format.

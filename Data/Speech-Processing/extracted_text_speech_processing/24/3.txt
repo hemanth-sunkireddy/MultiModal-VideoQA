@@ -1,0 +1,4 @@
+ok. And then we try to solve this linear equation ok.
+So, whether it is a autocorrelation methods or covariance methods there is a two step.
+First step is to compute this phi using correlation for covariance method using autocorrelation for autocorrelation methods.
+Next try to solve this p p linear equation p number of linear equation.

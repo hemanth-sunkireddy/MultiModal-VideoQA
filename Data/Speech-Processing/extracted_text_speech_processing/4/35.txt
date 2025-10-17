@@ -1,0 +1,4 @@
+property will be repeated in here in mirror in nature.
+So, I can take this one only to find out the frequency response of the signal.
+Then DFT magnitude when a real input signal contain a sine wave component a peak amplitude a 0 the integer number of cycle n then cycle over input sample then it is nothing but a m r equal to a 0 into.
+So, amplitude of the signal

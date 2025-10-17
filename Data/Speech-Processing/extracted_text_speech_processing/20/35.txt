@@ -1,0 +1,3 @@
+we get the following, we get the same value of Z m. So, window length is 320.
+So, if we know that Z 1 is nothing but a 2 into F 0 by F s and if it is multiply for particular 40 millisecond, then I know how many sample will be there in 40 millisecond and I can find out the Z value.
+If it is C, the Z value is same, Z m is same.

@@ -1,0 +1,2 @@
+that if the whole speech production system is linearly model LTI systems or it is linearly model then I can say if I apply if this is my H z is my vocal tract transfer function H z in here.
+So, what I said if we apply impulse A u j A u g z, what all impulse with amplitude then I get

@@ -1,0 +1,2 @@
+mod of x k versus frequency that drawing is called spectrum of the signal.
+So, if I told you record the vowel r and take the n equal to 1024 point and draw the spectrum of the vowel r. So, I will draw the frequency response of the vowel r.

@@ -1,0 +1,5 @@
+n n which is the nth frame of the speech signal.
+This should be passed through a some parallel filter.
+I can pass that signal with a parallel filter some parallel filter and each filter has a pass band.
+So, let us this is 100 0 to 100 hertz.
+This is again I said

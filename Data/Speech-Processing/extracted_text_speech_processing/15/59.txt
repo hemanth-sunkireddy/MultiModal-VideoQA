@@ -1,0 +1,4 @@
+area cross sectional area of different section if I say it is n tube model n different section cross sectional area is possible to find out from the behavior of output speech.
+Or if I know the area function I can implement it digitally it is possible to implement it if I excited by impulse response I can able to produce the speech.
+So, this is the tube modeling.
+So, this is called uniform tube model lossless tube modeling of speech production.

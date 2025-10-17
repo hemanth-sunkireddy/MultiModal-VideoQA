@@ -1,0 +1,2 @@
+this axis is k and this axis is the power mod of x k. So, k is nothing but a k is varies from 0 to n minus 1.
+Now, I told you I do not want the discrete frequency k, can you make it with the axis of f instead of k can I replace this axis by f very easy because f is equal to nothing but a.

@@ -1,0 +1,3 @@
+p th order this equation I get p number of unknown, but only single equation.
+So, if I have a two unknown how many equation I require to derive that unknown two equation, but here I see there is a p number of unknown, but only I have a single equation.
+The trick is that how do I find out a set of solution for which this is equal to 0.

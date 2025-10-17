@@ -1,0 +1,3 @@
+y n minus k then it is called time invariant system along the time system does not change its property.
+Now, linear and non-linear system so how do test the linearity of the system the system is linear if it is suppose the superposition principle.
+So, what is superposition principle if you know that if I apply two input x 1 plus x 2 n.

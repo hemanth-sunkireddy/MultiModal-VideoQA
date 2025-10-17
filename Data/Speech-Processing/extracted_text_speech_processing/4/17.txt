@@ -1,0 +1,3 @@
+e to the power minus j omega n. Now, I said that frequency domain it also discrete that is called DFT discrete time and discrete Fourier transform.
+So, it is not discrete time Fourier transform it is discrete Fourier transform.
+So, this omega is replaced by k, k is the discrete Fourier transform.

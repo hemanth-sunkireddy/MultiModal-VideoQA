@@ -1,0 +1,1 @@
+Then, if you see this is the this is that this blue line is indicate that original F 0, red line is indicate the HMM synthesize means without doing any F 0 modification, I have trained the HTS system and I synthesize a sentence, then red line is that synthesize sentence F 0 control.

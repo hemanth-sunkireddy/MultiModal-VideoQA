@@ -1,0 +1,4 @@
+Fourier transform.
+So, I can write this representation is called DFT, this representation called DTFT discrete time Fourier transform and discrete Fourier transform.
+Now, what is 2 pi by n?
+If you see 2 pi by n, 2 pi by n is my frequency resolution.

@@ -1,0 +1,4 @@
+del p by del t is equal to minus rho p gamma p sorry gamma p into del v by del x which is nothing but a I said pressure into gamma is equal to rho c square.
+So, I can say it is nothing but a minus rho c square del v by del x.
+So, I can write another wave equation.
+So, first wave equation was.

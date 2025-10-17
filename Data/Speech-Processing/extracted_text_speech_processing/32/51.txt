@@ -1,0 +1,2 @@
+and this each frame after windowing pass through a window.
+So, what I am doing I just framing the signal I am not doing the windowing there then after I cut the red to red I multiply W n after I cut green to green I multiply with W n which is window signal then what I will do windowing hamming, henning, cosine or rectangular if I not multiplying anything that means I am multiplying with 1.

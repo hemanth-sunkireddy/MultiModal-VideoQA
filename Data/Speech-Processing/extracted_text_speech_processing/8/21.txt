@@ -1,0 +1,4 @@
+then also I have to reduce it to then just this one not possible.
+So, this one is possible gate profile I get the noise profile then I close it then I control a select all then transform noise reduction.
+So, what it will do whole signal the signal is very long that is why it will take time whole signal noise will be subtracted as per the sample noise I have given to the system.
+So, there is lot details are there signal processing details are there I am not going that.

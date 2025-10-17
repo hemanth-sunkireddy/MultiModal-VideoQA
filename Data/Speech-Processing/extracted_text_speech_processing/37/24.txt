@@ -1,0 +1,5 @@
+prosodic word boundary I will discuss about in prosodic modeling that part.
+So, those called prosodic word boundary.
+So, some kind of tech processing I require to model the speech prosody.
+So, that modeling require tech processing.
+So, there is a lot of text processing block two part mainly one part is convert g to p grapheme to phoneme conversion second part is that some

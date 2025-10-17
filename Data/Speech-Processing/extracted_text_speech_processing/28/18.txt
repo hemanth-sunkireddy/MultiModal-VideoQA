@@ -1,0 +1,2 @@
+I modify the spectrum and then take the synthesis again I will get back the x n which is modified signal ok.
+So, I can do it in both term I can calculate x of n omega and do the modification x of n omega or I can calculate x n omega and take the magnitude part and modify in the magnitude part then also recovery is possible ok.

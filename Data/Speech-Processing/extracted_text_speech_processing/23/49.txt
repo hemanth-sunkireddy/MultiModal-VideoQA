@@ -1,0 +1,3 @@
+So, there will be a complex conjugate pole minus theta here and this is r. So, r which if it is close to unit circle the bandwidth r will be increase and bandwidth will be increase.
+If it is close to 0 the bandwidth will be 0.
+So, if we see the formant frequency is determined by this angle theta and the formant bandwidth is determined by r which is already explained in tube modelling.

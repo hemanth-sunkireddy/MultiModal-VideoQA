@@ -1,0 +1,2 @@
+again this is complex number property.
+So, cos omega j sin omega k. So, I can write real part is nothing but a cos part and imaginary part is nothing but a sin part minus h k sin omega k. So, magnitude response is nothing but a complex number real square plus imaginary square phase is nothing but a tan inverse or arc tan tan inverse imaginary by real part and

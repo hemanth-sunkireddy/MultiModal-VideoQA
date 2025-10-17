@@ -1,0 +1,2 @@
+nth window which is nothing but a x n omega ok.
+So, let us I have taken the DFT length of the DFT n is equal to the length of DFT DFT length is equal to n. So, what we have done that whole frequency scale 0 to 2 pi is the highest frequency I have divided 2 pi by n resolution.

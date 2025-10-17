@@ -1,0 +1,3 @@
+So, not always 100 hertz in the low frequency they may vary every year 100 hertz, but the high frequency bandwidth may be larger and that bandwidth may be determined by male frequency male scale.
+So, all kind of things we can use and we can design the filter and find out the filter bank parameters.
+So, like this uniform filter bank then I can go for the non-linear log frequency filter bank then I go for the male scale filter bank.

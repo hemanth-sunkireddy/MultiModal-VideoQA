@@ -1,0 +1,4 @@
+So, the alpha value which root value which is close to the unit circle give you the formant frequency.
+Then I have already said in my tube class this LP analysis is related to the lossless tube model.
+If you remember that this is the lossless tube model if I consider all tube has same dimension then I know L equal to n into Linux.
+So, you know that R k value of R k is nothing but a a k plus 1 minus reflection coefficient.

@@ -1,0 +1,4 @@
+how do you locate the different kind of speech signal in that recording.
+So, all kinds of those things will be taught in this course.
+So, if you see the course coverage, the course coverage mainly covered if you see all are on the aspects of the speech signal aspects, not that the aspects of soft computing and developing a system that kind of things.
+But yes at the end of the course, I should cover some of the portions or some of the important speech processing application like that TTS, ASR many people are talking about the TTS and ASR.

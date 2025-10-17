@@ -1,0 +1,5 @@
+histogram is nothing but a model of cochlear hair cell transduction.
+This transduction, this motion how it is transduced this motion to the transduction is done place take place that is model here.
+How it is model?
+165 channel equal space on a log frequency scale between 150 to 700 hertz 150 channel filter sorry 165 channel filter.
+So, each cochlear filter design match neural tuning curve of

@@ -1,0 +1,3 @@
+So, for a let us I take this first this window find out the energy then 50 percent overlap take an window find out the energy E 1 E 2 then take an energy E 3.
+So, that way if I find out the energy now if you see since it is a voicing signal the energy will be very high since it is a noisy signal the energy value will be very low if it is a silence energy will be more low.
+So, from that short term energy this E value

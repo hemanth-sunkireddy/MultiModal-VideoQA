@@ -1,0 +1,4 @@
+change of pressure to for the d x distance.
+So, it is nothing but a del p by del x into del x. I said change of pressure is linear, I am not considering the non-linear term ok.
+This is the p 1 p 2 x.
+So, if I say p 2 minus p 1 which is nothing but a p of x or I can say p 1 minus p 2.

@@ -1,0 +1,6 @@
+nothing I can predict.
+So, total signal total sample itself is the error.
+So, I can say that at the beginning of the prediction the prediction error will be maximum.
+If I see the error signal at the beginning of the prediction, prediction error will be maximum.
+Because if I say here my window is started this is my sample and outside the window signal is 0.
+So, because those samples are not there.

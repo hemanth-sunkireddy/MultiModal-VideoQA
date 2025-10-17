@@ -1,0 +1,5 @@
+r k into u k plus 1.
+If I write that, if you see this is the two equation u k minus and u k plus u k. So, if it is u k plus 1 is nothing but a u k plus 1 plus z and u k plus 1 minus z ok.
+So, this has to be multiplied by this matrix equation.
+What is the matrix?
+z to the power half divided by 1 plus r k.

@@ -1,0 +1,5 @@
+we can say 2 pole or it is a second order equation.
+So, I have a single 0 for 2 tube model, I have a 0 at center 1 0 and 2 pole.
+So, at origin 1 0 and 2 pole.
+So, if I have a n tube model, I can say n by 2 0 at origin and nth this equation become n order.
+So, I can say there will be n number of pole.

@@ -1,0 +1,5 @@
+if it is decrease then resolution is increase.
+So, if this will be decrease 2 pi by n will be decrease if n is increase.
+So, once I increase the n length of the DFT, then I require a large number of signal at a time.
+So, if I take a large number of signal this is the time axis.
+So, instead of short segment if I take a long segment.

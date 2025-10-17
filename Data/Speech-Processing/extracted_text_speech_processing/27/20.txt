@@ -1,0 +1,3 @@
+So, I modulate this thing to omega 0.
+So, instead of omega in 0 frequency I can say let us at omega 0 it is come in omega 0 ok.
+I shifted that things to omega 0 and I pass this thing to a filter which only filter out this portion ok.

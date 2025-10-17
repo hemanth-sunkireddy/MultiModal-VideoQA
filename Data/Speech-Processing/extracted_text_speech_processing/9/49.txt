@@ -1,0 +1,5 @@
+derivation of linear wave equation.
+Now, if C is equal to then I can say C square is equal to rho R T by gamma R T by m. What is gamma?
+Gamma is not even specific heat ratio.
+So, I can say from here I can say that P into gamma is equal to rho into C square.
+P into

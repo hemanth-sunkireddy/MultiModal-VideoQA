@@ -1,0 +1,4 @@
+I can say the impulse is there.
+When the impulse is present, I take the measurement of the signal that is f s. Now, if you see, if my f s is increases, this gap will be decreases, delta s, delta t will be decreases.
+If f s is increases, delta t will be decreases.
+So, if I use the, if my sampling frequency is much much larger, then I can get

@@ -1,0 +1,4 @@
+producing different kind of sound.
+So, if you know the digital filter, how the digital filter is characterized depending on the frequency response.
+So, if I say the digital filter is represented by H s, you know the Laplace transform H s or you can say the H n whatever H s represent the frequency response of the filter.
+So, if the frequency response of the filter is look like this and the source is passing.

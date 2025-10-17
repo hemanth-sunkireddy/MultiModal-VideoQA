@@ -1,0 +1,7 @@
+generated those kind of random noise if I say fricative or if I say aspiration.
+So if it is fricative that means friction noise will be there.
+So I can easily say this is nothing but a fricative.
+Now if I see here there is no power at all in the frequency.
+If you see there is no power at all.
+So if you see the time domain this is zero sample level.
+So that means this portion is silence.

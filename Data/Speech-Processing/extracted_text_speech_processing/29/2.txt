@@ -1,0 +1,2 @@
+So, what we have done that we have a I have a long speech signal, we have taken a one segment of the speech signal and for that segment we have done that S t f t of that speech segments of speech signal.
+Now, if you see that in normal Fourier transform if x n is my signal if I apply discrete Fourier transform on x n I will get x k.

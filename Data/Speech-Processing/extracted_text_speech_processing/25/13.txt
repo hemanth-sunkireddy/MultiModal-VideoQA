@@ -1,0 +1,1 @@
+If I implement a z and apply S z I can get error E z which is nothing, but a I can get E z or forward prediction error or backward prediction error at the PS state both will be same E z or I can say if I apply SM time domain signal and if I implement this a z I will get

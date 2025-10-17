@@ -1,0 +1,5 @@
+I can extract the K i value using the autocorrelation technique or covariance technique.
+Then next I have to know the G value, what is the G value gain value.
+So, how do you calculate the G?
+If you see I can calculate easily I can calculate the computational model gain of the signal.
+If you see H z is nothing but a G by 1 minus K equal to 1 to P alpha K z to the power minus K.

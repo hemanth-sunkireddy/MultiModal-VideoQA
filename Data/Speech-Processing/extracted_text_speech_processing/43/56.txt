@@ -1,0 +1,6 @@
+number of action commands.
+How many number of action commands are there?
+1, 2, 3, 4, 5, 6, 7.
+So, there may be a 7 action command and a this is nothing but action command amplitude.
+Now, if you see this one, the red line is completely follow the green line, the dotted line.
+So, I can say it is possible to completely generate the original f 0 contour.

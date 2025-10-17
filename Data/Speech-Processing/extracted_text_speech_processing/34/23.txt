@@ -1,0 +1,3 @@
+So, if you see the variation is very random, if I want smooth variation what I should do?
+So instead of taking the just difference between the two consecutive sample, I can take the average difference of few sample that can be smooth b.
+So, instead of taking this difference I will take the I will take I will calculate the delta coefficient.

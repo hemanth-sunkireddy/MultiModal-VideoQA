@@ -1,0 +1,4 @@
+digitization of the speech.
+Now, there is expertise required, how do I record the speech?
+Normal recording is that if you see I have a collar mic connected to a wireless transmitter and there is a sound card and once I talk this mic is converted to electrical signal.
+This electrical signal goes to the sound card digitize the sound card is digitize the signal and recorded.

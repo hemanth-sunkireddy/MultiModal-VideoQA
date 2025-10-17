@@ -1,0 +1,3 @@
+I can derive the same equation which is nothing but a del square v volume particle velocity by del x square is nothing but a 1 by c square del square v by del t square.
+So, I can say this is the wave equation with this pressure wave equation this is the particle velocity wave equation.
+So, I can say this is the wave equation with along when the wave is propagated along the x axis, but I am not considered the wave.

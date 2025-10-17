@@ -1,0 +1,4 @@
+we have discussed about the speech prosody first then you can think about what kind of information processing we should use for what kind of application.
+What is speech prosody?
+The prosody is defined as per the Pujisaghi is the systematic organization of individual linguistic unit into an utterance or a coherent group of utterance in the process of speech production.
+So the meaning is that if I want to say read a paragraph

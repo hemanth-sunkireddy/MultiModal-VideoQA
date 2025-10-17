@@ -1,0 +1,3 @@
+and those are the speech sample, these are speech signal those are the sample.
+Now, I can say that is a sample number this sample or this sample can be predicted or can be generated from the previous p number of sample.
+So, if I get the previous p number of sample and the value of a 1 to a p then I can say I can generate the current signal which is S n.

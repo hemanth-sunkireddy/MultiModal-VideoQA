@@ -1,0 +1,6 @@
+from this information I can generate the speech signal.
+So, how do I implement 1 by a z filter?
+Let us try to implement 1 by a z. a z I can implement from that equation.
+So, 1 by a z.
+So, what I want?
+I want to supply error signal E p m I know inverse.

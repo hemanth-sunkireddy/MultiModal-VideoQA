@@ -1,0 +1,4 @@
+So, the if F s is my sampling frequency ok.
+So, what is the normalized frequency of the digital signal is 2 pi is equal to F s ok.
+So, what is the value of the theta?
+Theta maximum value is 2 pi and which is equal to F s. So, if the theta is let us 30 degree or this radian if it is a radian let us it is x radian then I can say F s by 2 pi.

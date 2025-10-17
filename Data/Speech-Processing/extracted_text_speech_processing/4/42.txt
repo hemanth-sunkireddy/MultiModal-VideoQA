@@ -1,0 +1,6 @@
+So, how do you can do it?
+That is why it is called fast Fourier transform.
+So, instead of n cross n, can I use some other method which can be computationally reduce which can reduce the computational cost of the DFT.
+One method is called fast Fourier transform.
+I will discuss only Radix II algorithm, other you can study from the DSP book.
+So, Radix II algorithm is most commonly used algorithm.

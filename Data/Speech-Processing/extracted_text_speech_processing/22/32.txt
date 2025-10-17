@@ -1,0 +1,2 @@
+I can say this is varies from m equal to 0 to l 1 minus 1 plus p n square m. So, there is no infinite signal length.
+I have a signal length which varies error varies from l minus 1 plus p n square m. Now, I know phi n i k is equal to m s n i k.

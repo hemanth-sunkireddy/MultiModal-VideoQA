@@ -1,0 +1,2 @@
+minus or minus del p by del x is equal to rho del v by del t and del p minus del p by del t is equal to rho c square del v by del x.
+Now, if I want to know the pressure equation, so what I will do let us this equation derive with respect to del dx.

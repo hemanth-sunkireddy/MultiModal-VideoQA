@@ -1,0 +1,3 @@
+Now, how the pressure from x equal to 0 is propagated along the tube, let us at x equal to L I want to know what is the pressure.
+So, I want to know the pressure movement equation, mathematical equation of the change of pressure with respect to position and time.
+And also mathematical equation for particle velocity with respect to position and time and also the relation between the.

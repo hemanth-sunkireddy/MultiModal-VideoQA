@@ -1,0 +1,4 @@
+how to extract the all kinds of speech parameters.
+Now, if I say this is the whole speech signal, I say the parameters are extracted segment wise.
+Now, if I say the phoneme or I say phoneme is a segment, how do I define the phoneme boundary in a continuous speech?
+Manually I can listen.

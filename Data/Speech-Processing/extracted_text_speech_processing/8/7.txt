@@ -1,0 +1,8 @@
+is the silence portion.
+And here there is a voice portion, there is a noise portion, noisy kind of signal.
+I can magnify it.
+So, if you see that this is noise kind of things.
+If you listen it also, some noise signals are there.
+Now if I see that this is a time domain representation of the speech signal.
+Now there is another kind of representation which is called spectral view.
+Look like a, you can see this is look like a mostly x-ray plate kind of things.

@@ -1,0 +1,5 @@
+that propagation become non-linear.
+So, I said amplitude is less with the limit within the limit and sound is propagated linearly in the medium and medium is also homogeneous.
+Then we can derive the linear wave equation.
+Similarly, here also we try to derive the linear wave equation, how the wave is propagated along the tube.
+Let us try to do that.

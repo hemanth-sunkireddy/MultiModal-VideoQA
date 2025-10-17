@@ -1,0 +1,4 @@
+100 tank circuit.
+I know the bandwidth of each and each and tank circuit.
+Now, suppose I want to perceive some, so is it is 20 hertz, it is 30 hertz like that way or non-linear way and whether this fiber, how this fiber is responsible particular frequency that I want to know.
+So, this there is a two theory, one is called temporal frequency, which is called temporal theory and another is called place theory.

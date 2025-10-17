@@ -1,0 +1,8 @@
+There is a frequency axis.
+So, this is 2 kilo Hertz, 4 kilo Hertz, 6 kilo Hertz, 8 kilo Hertz.
+So, sampling frequency is 44 kilo Hertz.
+So, up to 20 kilo Hertz it is there, 22 kilo Hertz, f s by 2.
+Now, if you see the black portion are contain the high power.
+So, if I say within 2 kilo Hertz most of the sections are black.
+So, that contain the high power.
+Now, if it is noise kind of sound if you listen it.

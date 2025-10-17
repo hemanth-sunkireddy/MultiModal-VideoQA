@@ -1,0 +1,4 @@
+R k value this this NCCF normalized cross correlation function.
+Then if I plot it, if you see first one is the signal, second one is the normal autocorrelation, third one is NCCF.
+If you see the amplitude is not decaying.
+So, now I can detect the peak easily and calculate the F 0 easily.

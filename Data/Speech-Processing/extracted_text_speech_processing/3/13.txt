@@ -1,0 +1,4 @@
+but if you see small f can varies only minus half to plus half and small omega what is the value of omega?
+Omega is nothing but a 2 pi f. So, f is nothing but a minus f minus half to plus half.
+So, I can say omega can vary only from minus pi to plus pi where f is the sampling frequency.
+So, small omega represent the discrete frequency.

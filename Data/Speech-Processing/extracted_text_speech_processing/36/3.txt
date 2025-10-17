@@ -1,0 +1,7 @@
+0, I can clip the signal in central part and that signal can be used to find out the autocorrelation and calculating the F 0.
+So, this the algorithm is very simple.
+So, clipping how do you find out the C L?
+Generally it is C L is one fourth of the peak.
+So, how do you do that?
+Suppose I have taken a 20 millisecond window signal.
+So, within the 20 millisecond I can find out the maximum peak.

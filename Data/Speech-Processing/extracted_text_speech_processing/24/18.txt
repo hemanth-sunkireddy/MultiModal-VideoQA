@@ -1,0 +1,4 @@
+M minus i th sample from the previous sample ok.
+So, if it is that then I can say this is nothing, but a B i or B m sorry B m ok.
+So, B m that original sample minus estimated sample value is the prediction error.
+So, I can say B if it is i th order predictor

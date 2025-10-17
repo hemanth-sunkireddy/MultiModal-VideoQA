@@ -1,0 +1,3 @@
+intensity represent the amplitude of the particular frequency amplitude of the particular frequency is represented by intensity.
+Suppose, I want to write a program for this spectrogram analysis how do I write it?
+If you see so I have to know so what is the parameter I have to set window I will come later on window option what kind of window I will should say if you see the settings and then the spectral.

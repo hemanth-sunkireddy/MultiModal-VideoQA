@@ -1,0 +1,4 @@
+instead of kuchisaki generation process model we try to find out that f 0 contour modeling using deep neural network training.
+So, I am not going details on DBN because DBN is the topics deep neural network is a topic recent days.
+So, I am not going details of the deep neural network training and all kinds of things you can go through the paper because that is not also that much required for this course.
+So, I am not going that.

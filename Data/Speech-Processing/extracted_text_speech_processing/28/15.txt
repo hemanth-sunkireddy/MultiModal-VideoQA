@@ -1,0 +1,6 @@
+signal.
+So, signal recover is possible if I only take the magnitude part.
+So, that if I take the magnitude part, then analysis is called STFTM, short term Fourier transform magnitude.
+And synthesis is STFTM synthesis.
+So, I am not going details on the mathematics.
+So, there will be.

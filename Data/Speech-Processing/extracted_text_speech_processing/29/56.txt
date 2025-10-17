@@ -1,0 +1,2 @@
+So, I can say this function this W n product of W window analysis window and impulse 10 must be delta n if n w, n w is less than equal to n, n w is less than equal to the analysis length of the DFT.
+So, what is the physically meaning?

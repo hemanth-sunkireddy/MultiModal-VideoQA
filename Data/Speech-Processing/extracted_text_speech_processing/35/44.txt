@@ -1,0 +1,5 @@
+I am not reading the slides you can read the slides.
+Now, what is if you remember the what is autocorrelation?
+So, suppose this is my signal think about the pure sine wave.
+So, autocorrelation means correlation the signal with itself.
+So, let us I again draw the same signal ok. Now, autocorrelation told me

@@ -1,0 +1,2 @@
+m equal to 0 to L minus 1 S m minus i.
+So, only the overlapping region will contribute to the calculation of value of phi i k. So, I can say that value that phi i phi n i k phi n i k I can rewrite m equal to 0 to L minus 1.

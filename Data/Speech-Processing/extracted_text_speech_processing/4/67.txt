@@ -1,0 +1,6 @@
+Spectrogram, x axis is the time, y axis is the frequency and power is converted into the intensity or color.
+So, it is a 3D curve.
+The representation is that if you see there is a long line, same line is coming.
+Why this line is coming?
+So, what I do?
+So, I want this axis is time, this axis is frequency and intensity.

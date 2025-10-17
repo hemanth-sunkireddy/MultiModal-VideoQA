@@ -1,0 +1,6 @@
+value of alpha.
+So, if I do that, if I put the value of alpha in here, then the dz will become or you can say vz will become g by 1 minus alpha k z to the power minus 1 into 1 minus alpha k star z to the power minus 1.
+Let us write down this product.
+I have not and product of k equal to 1 to n by 2.
+So, if I do this one, instead of alpha k, I put the value of r k e to the power z theta.
+Instead of alpha star k, I can put the r k e to the power minus z theta.

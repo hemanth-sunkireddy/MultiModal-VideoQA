@@ -1,0 +1,4 @@
+this is the first window and signal is x n. So, x n is 20 millisecond signal if f s is equal to 8 kilohertz then how many sample will be there in 20 millisecond 10 millisecond 80 sample.
+So, I can say there will be a 160 sample value.
+So, x n has an 160 value if it is so if it is start from 0 then it will be x 159.
+Now, I want to find out

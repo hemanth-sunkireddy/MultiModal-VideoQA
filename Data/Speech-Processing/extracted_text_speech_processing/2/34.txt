@@ -1,0 +1,4 @@
+in 20 millisecond in 1 second into 20, 320 sample.
+So, 320 sample represent 20 millisecond.
+If it is 8 kilohertz, then how many sample will be there?
+Half of this, half of this because it is half of this.

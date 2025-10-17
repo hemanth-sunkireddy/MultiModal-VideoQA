@@ -1,0 +1,3 @@
+is equal to m equal to 0 to l minus 1.
+So, I can say this is the correlation of tau or n tau.
+So, if it is tau equal to 0, then it will be r 0 is equal to m equal to 0 to 1 minus 1 plus 0 s n m plus tau.

@@ -1,0 +1,1 @@
+through a let us I write down this is called let us estimation P z. I can get estimated signal which is S cap n. So, S n previous samples are passed through a estimator which is nothing but a alpha k S n minus k alpha k into z to the power minus k P z is equal to nothing but a alpha k. So, P z is nothing but a k equal to 1 to P.

@@ -1,0 +1,4 @@
+x 0, x 1, x 2, x 3, x 4, x 5, x 6, x 7 and x 7.
+So, 8 number of signal I have taken n equal to 8.
+I divide this signal space in two space, one is odd and even.
+Let us even.

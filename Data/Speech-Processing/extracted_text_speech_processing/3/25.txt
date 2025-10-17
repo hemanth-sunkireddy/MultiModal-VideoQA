@@ -1,0 +1,8 @@
+sinusoidal of 500 hertz.
+Let this is a 500 hertz sinusoidal.
+If I take this time, if I take this time, all the time it is 500 hertz sinusoidal.
+So, I can say the signal is a stationary signal.
+It does not change its property along the time.
+Now, say the speech signal.
+If I say speech signal, if I say a sentence along the time, the signal properties varies.
+Sometime it is silent, sometime it is voice, sometime it is silent, sometime it is friction.

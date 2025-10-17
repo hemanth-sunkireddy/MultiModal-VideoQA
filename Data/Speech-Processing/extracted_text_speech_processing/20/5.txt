@@ -1,0 +1,5 @@
+So, if I convert this to number of 0 crossing per sample.
+So, I can say 2 into it will be cycle convert to sample.
+So, it will be F 0 by F s because cycle is 2 by cycle 2 pass cycle.
+So, it is nothing but a 2 by F s by F 0.
+So, it is nothing but a 2 F 0 by F s number of 0 crossing.

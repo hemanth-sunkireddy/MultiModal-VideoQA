@@ -1,0 +1,2 @@
+So, this is the Levenson recursion.
+Now, think about in here let us what is a i z a i z is nothing but a 1 minus k equal to 1 to i alpha k z to the power k minus k. I can write this one as a 1 minus k equal to 1 to i alpha k alpha k i minus 1.

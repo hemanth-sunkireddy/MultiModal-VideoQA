@@ -1,0 +1,4 @@
+Once I increase the quantization level, what is increasing?
+Data size, because if it is 8 bit, one sample is represented by 8 bit.
+If it is 16 bit, single sample is represented by a 16 bit.
+Similarly, F s, if it is 8 kilohertz, I can say in one second, I have generated 8 k sample in one second.

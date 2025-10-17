@@ -1,0 +1,4 @@
+It require that the sum of all synthesis window sum of all synthesis window obtained by siding W n with l point increment to added up a constant.
+So, I can say this one sum of all analysis window which is shifted by a l l sample must be give a constant.
+What is that?
+That means,

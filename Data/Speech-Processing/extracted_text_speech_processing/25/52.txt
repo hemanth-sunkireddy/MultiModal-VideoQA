@@ -1,0 +1,2 @@
+So, mean square error forward error square plus backward error square and then take the differentiation with respect to K i and make it 0 and find out the value of K i bug.
+So, you can if you know if you know K i you can implement a z or if you know E i 1 m and you have so, based on the previous error I can find out present K i.

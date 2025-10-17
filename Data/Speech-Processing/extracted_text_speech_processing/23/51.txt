@@ -1,0 +1,6 @@
+into x is the radian is the frequency.
+If it is hertz then I can convert f s is in hertz.
+So, I can say f s by 2 pi into x hertz is my Fermin frequency.
+So, suppose I have a pole I do not know whether the example is here or not no example is not there.
+So, suppose the theta is equal to let us 30 degree or let us pi by 3.
+So, what is the Fermin frequency?

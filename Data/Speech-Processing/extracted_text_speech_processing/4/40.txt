@@ -1,0 +1,5 @@
+is done based on fast Fourier transform algorithm.
+So, FFT is not the transform, FFT is an algorithm to implement DFT.
+So, that is why it is called fast Fourier transform algorithm, fast Fourier transform FFT.
+So, FFT is an implementation procedure for DFT.
+So, if I say the DFT is nothing but a x of k.

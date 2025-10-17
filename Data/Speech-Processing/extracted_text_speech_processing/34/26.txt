@@ -1,0 +1,1 @@
+I take 12 M f c c parameter, then I can take 12 delta parameter delta M f c c, then I can take 12 double delta M f c c. Now, if you see if you remember this last discussion, when I put the first filter, I multiply k 0 k 0th coefficient of the spectrum.

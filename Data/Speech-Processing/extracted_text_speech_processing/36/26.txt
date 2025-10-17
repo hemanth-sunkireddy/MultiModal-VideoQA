@@ -1,0 +1,4 @@
+So, this is the F 0 extraction you can say.
+So, now, if I give you a speech signal you can extract the F 0 and you can plot the F 0 against the time.
+So, for every 10 millisecond if I got a F 0 value I can plot it to find out the F 0 contour.
+During the prosody modeling I will discuss lot about F 0 contouring and if you see how this F 0 contour is useful to model the prosody even if F 0 contour can be useful in ASR also.

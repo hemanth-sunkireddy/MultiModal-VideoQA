@@ -1,0 +1,3 @@
+which will input to the second tube is nothing but a volume velocity which is exited from the first tube.
+So, the volume velocity which is exited from the kth tube will be the volume velocity which is the input of the k plus 1 tube.
+So, I can say u kth tube volume output volume velocity is nothing but a u k plus t minus tau k.

@@ -1,0 +1,1 @@
+8 kilohertz so my speed signal has a component up to 8 kilohertz so if i say i want to design 100 hertz band filter so how many filter will be there every filter is 100 non-overlapping condition so i can say 8k divided by 100 hertz so i can say it is nothing but a 8 000 divided by 100 hertz so i can say there is a 80 filter will be there so q is equal to

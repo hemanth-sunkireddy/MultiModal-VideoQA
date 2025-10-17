@@ -1,0 +1,6 @@
+So, those are the autocorrelation solution ok. Now, how do you define the order of the p?
+So, I say prediction order.
+So, how you which factor the p is dependent?
+Prediction order I have to take a signal which is 8 kilohertz sampling rate, I have take a signal which is 16 kilohertz sample, I have take a signal which is 32 kilohertz sample.
+So, make different sampling rate I can sample the speech signal.
+Now, what kind of order I should use?

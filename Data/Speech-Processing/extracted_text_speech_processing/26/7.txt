@@ -1,0 +1,3 @@
+that.
+That what is frequency analysis we are doing that if you know that if x n is my time domain signal then if I take the discrete Fourier transform or Fourier if I take the Fourier transform then signal domain it is discrete, but frequency domain it will be continuous.
+So, if I take the Fourier transform then what is I get I get x of n into omega or if it is single frame signal let us x omega.

@@ -1,0 +1,4 @@
+x n k is nothing but a frequency response of the signal multiply by the frequency response of the window.
+If you see that it is nothing but a m equal to minus infinity to infinity x n multiply by the omega n. So, I am multiplying a window function with this thing.
+So, it is so in frequency domain it will be convolution.
+So, I can say that frequency response whatever I get it is a convolution of frequency response of the signal.

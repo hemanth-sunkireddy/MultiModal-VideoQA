@@ -1,0 +1,1 @@
+when i access the signal i will change the bit reverse i get it and then i do the calculation whatever is required for butterfly algorithm so that i have explained in dft i am not explaining details because this can be explained details in dsp class you know it now i come to the application side so once i done the where i use the dft or frequency transform in speech

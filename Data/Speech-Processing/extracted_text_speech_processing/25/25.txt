@@ -1,0 +1,6 @@
+So, I can say if I want to draw the decoder.
+So, I can say if it is a voice let this is a impulse generator then there is a gain let us gain also transmitted G in 1 byte.
+So, gain is transmitted using 1 byte.
+So, it is a 50 byte ok.
+So, this is gain it is multiply with gain this is gain this is no head source.
+There is a switch if it is voiced the switch will be connected to here if it is unvoiced.

@@ -1,0 +1,3 @@
+Bandwidth of the window means I take the frequency response of the window and find out the bandwidth of the window is b.
+Now, in STFT analysis what is happened the frequency response of the window function is convolved with the original frequency response of the signal.
+So, I can say the frequency response of the window function

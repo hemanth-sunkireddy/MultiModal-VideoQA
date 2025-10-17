@@ -1,0 +1,4 @@
+is called LPC analysis, all pole analysis.
+When I know the value generating the signal S n, this is called LPC synthesis.
+I synthesize the signal, let us describe in a block diagram in the error.
+So, I can say prediction error E n is nothing but a my current sample minus my estimated sample.

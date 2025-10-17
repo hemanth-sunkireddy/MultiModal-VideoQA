@@ -1,0 +1,2 @@
+So, which can be modeled as A is the gain divided by 1 minus k equal to 1 to p a k z to the power minus k, p is the number of pole number of pole p is the number of pole which we have already studied.
+Now, if it is that then I can say the S z is nothing but a S divided into 1 minus k equal to 1 to p a k.

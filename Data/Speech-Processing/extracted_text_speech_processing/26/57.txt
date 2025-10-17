@@ -1,0 +1,5 @@
+on DFT view.
+So, in DFT view I can say if I want to do that, so I will say take a window take a window any kind of window effect I will discuss later on.
+So, if I have a signal take a small portion of the signal and analyze the frequency using DFT technique.
+The DFT view of the STFT analysis we are doing the STFT.
+Once I do the IDFT then I can say I can get back this frame again.

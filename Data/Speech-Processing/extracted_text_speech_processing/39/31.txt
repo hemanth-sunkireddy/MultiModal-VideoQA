@@ -1,0 +1,5 @@
+method today statistical method is most usually method and right now there is a research trend in deep neural network based ASR system.
+People are trying to develop the ASR system using the deep neural network method.
+Every method has an cause and pause statistical method rule based method template matching method.
+So, I just I just go one or two methods so that you understand the deeper issue of the ASR like template based method.
+Let us I describe the template based method.

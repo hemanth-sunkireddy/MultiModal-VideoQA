@@ -1,0 +1,3 @@
+or I can say v is equal to u by a.
+Now, if I put this thing on put this thing on this two equations where I can say that del square or del p by del x is equal to minus rho del v by del t. So, this will become v is equal to u by a.
+So, del del p by del x is equal to

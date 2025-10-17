@@ -1,0 +1,4 @@
+then 4 part, 5 part like that itself like the binary search whole number divided middle first part, second part and then I will do the first part, then I will do the second part like that way I want to do it.
+So, what I want that length of the DST must be expressed by this way 2 to the power something.
+So, I cannot take n equal to 1000 because it cannot be expressed in 2 to the power something way.
+So, if I take n is equal to 1024 then I can say it is nothing, but a 2 to the power 10.

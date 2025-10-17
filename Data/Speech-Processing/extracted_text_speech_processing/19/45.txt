@@ -1,0 +1,3 @@
+Then, I pass the signal.
+So, all signal is every sample is square rate is still F s. Now, once I pass through the window W n, after the window my rate is F s by R. R is the shifting time.
+If it is 10 millisecond, it is 10 millisecond.

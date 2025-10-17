@@ -1,0 +1,1 @@
+to produce the speech in frequency domain convolution is nothing but a multiplication so if i say in signal little bit of signal forcing if i if i apply here if i say source is nothing but a e t and filter is nothing but a h t ok so output speech is s t so s t is nothing but a h t convolve with

@@ -1,0 +1,5 @@
+to get the same frame back.
+So, that is called synthesis.
+So, analysis when I doing the transform synthesis when I get back the signal again is called synthesis.
+So, after analysis after finding out the let us I get the magnitude spectra is like this I modified the magnitude spectra I can modify it.
+Once I modified it and again I take the inverse transform I should get the signal back which is modified property.

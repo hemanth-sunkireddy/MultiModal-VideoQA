@@ -1,0 +1,2 @@
+f 0 is not present fundamental frequency is not there, but still receive the fundamental frequency.
+Because the property of fundamental frequency says that the spectral information will repeat if you plot it you know the this is f 0 next will be twice f 0 and all the spectral component will be repeated here next will be twice f 0.

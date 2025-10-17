@@ -1,0 +1,5 @@
+window.
+You know the frequency response of the what is the frequency transform of the rectangular window is nothing but a sinc function nothing but a sinc function.
+So, there is a peak main lobe and there is a side lobe.
+So, that will be and the main lobe with depends on the length of the window.
+So, that will be convolved with the frequency response of the original signal.

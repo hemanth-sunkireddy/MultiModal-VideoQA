@@ -1,0 +1,3 @@
+If I do that then output is called complex safe term safe term.
+If I want the real safe term then what I will do instead of x k I do another block here which is nothing but a mod of s k then take the log.
+So, if I mod of s k is omitted complex safe term if I take the log mod.

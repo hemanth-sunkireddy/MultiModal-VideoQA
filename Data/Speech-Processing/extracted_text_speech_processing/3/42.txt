@@ -1,0 +1,3 @@
+So, suppose Yn is produced using a system property Hn convolved with input Xn.
+So, how the mathematically it is written?
+It is k equal to minus infinity to infinity H of k into X of n minus k. So, Yn is equal to H of k into Xn minus k.

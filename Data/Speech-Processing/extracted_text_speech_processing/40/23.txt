@@ -1,0 +1,1 @@
+which is which can be developed by bigram or trigram probability what is bigram probability ah bigram model that for a pw p given w 2 so if i have a sentence w 1 w 2 w 3 w 4 i can say the bigram model is pw 1 p w 2 for a given w 1 probability of w 3 for a given w 2

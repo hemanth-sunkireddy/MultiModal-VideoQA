@@ -1,0 +1,6 @@
+but if I slide it 10 millisecond then I get 100 frame in a second.
+So, frame rate is 100 frame per second.
+Here sampling frequency I get F s number of sample per second.
+Now, if I say for every 10 millisecond I take a point then I get 100 point in 1 second signal.
+So, I can say it is down sample the signal.
+So, if I want to process the signal.

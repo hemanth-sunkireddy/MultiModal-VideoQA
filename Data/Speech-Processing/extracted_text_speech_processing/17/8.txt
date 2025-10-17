@@ -1,0 +1,5 @@
+then it is called tank circuit.
+So, it is a tank circuit this is H 1 sensor, there will be H 2 sensor, there will be H 3 sensor.
+So, H 1, H 2, H 3 is nothing, but a band pass filter I can consider.
+So, I can say it is nothing, but a filter bank analysis by the human basilar membrane.
+So, whatever the input signal come it pass through a particular band of filter and ultimately response of the each band.

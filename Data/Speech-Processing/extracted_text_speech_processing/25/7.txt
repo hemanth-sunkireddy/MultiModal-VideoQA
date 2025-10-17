@@ -1,0 +1,2 @@
+So, I can say b 0 m minus 1 minus k 1 E 0 m. So, I can say this one is nothing, but a this is E 0 m this will be minus k 1.
+So, if I say that I want to predict E 2 m and I want to predict b 2 m. So, again I have to delay one delay z to the power minus 1.

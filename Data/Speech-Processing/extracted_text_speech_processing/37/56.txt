@@ -1,0 +1,4 @@
+unique unicode.
+So, I do not have any problem in processing.
+So, unicode processing is there then based on that you can develop the dictionary, non-analysing, g to p all kinds of thing based on the unicodes of the text ok. Then synthesis there is a lot of algorithms are there in synthesis, articulatory synthesis, parametric synthesis and concatenative synthesis.
+So, in the next class I will details discuss about the each of the model articulatory synthesis, parametric synthesis and concatenative synthesis which is the main part of that.

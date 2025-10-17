@@ -1,0 +1,4 @@
+How many times signal cross the 0 line for 400 sample?
+So, I can say it is nothing but a Z 400 is equal to nothing but a 2 into F 0 by F s into 400.
+So, I can say 2 into 1 kilohertz means 10 to the power 3 divided by 10 into 10 to the power 3 into 400 cancel.
+So, it is nothing but a 80.

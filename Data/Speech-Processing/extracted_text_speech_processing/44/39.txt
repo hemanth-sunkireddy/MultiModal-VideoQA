@@ -1,0 +1,4 @@
+and that can generate better result ok.
+So, this is the last lecture in prosody modeling.
+So, this will be the my last lecture in speech this course, but after reviewing all the lectures whatever I have given in this things up to seventh week you can say those are related to or up to sixth week is related to signal processing.
+So, only one things I have missed which is called GMM Gaussian mixture modeling I have not covered.

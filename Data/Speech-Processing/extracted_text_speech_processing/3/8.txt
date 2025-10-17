@@ -1,0 +1,2 @@
+So, this frequency is continuous frequency.
+Now, once I make it discrete frequency then omega is equal to 2 pi f, but this t is replaced by n t. So, this omega n becomes omega n is nothing but a 2 pi f into n into t. So, it is nothing but a 2 pi f into n divided by f s. So, if the frequency content let us

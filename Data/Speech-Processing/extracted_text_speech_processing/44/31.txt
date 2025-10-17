@@ -1,0 +1,3 @@
+So, if you see that we have done and if you see the result this is the result this is the original sentence.
+This is the baseline means where only HTS is trained based on the prosodic structures not syntactic structure prosodic structure.
+Now, I modify the F 0 based on the sentence structure using Fujisaki model.

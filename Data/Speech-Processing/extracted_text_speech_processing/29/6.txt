@@ -1,0 +1,6 @@
+and done the Fourier transform and get back the signal.
+Since the speech is non-stationary signal, this is true for stationary signal.
+Speech is a non-stationary signal.
+That means, along the time, speech signal changes its property.
+So what we do, instead of analyzing whole signal at a time, we take a small segment.
+So if I take a 20 millisecond window,

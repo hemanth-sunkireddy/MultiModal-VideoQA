@@ -1,0 +1,4 @@
+Next, I design another filter.
+So, that way I can design the filter.
+So, equation becomes so, S k is the spectrum, then M L k is the filter weight function multiply and k equal to L L to U L. L L is the k equal to 0 and upper frequency is k equal to 3.
+Similarly, for the next filter, if it is 50 hertz is k equal to 2, almost k equal to 2 or k equal to 1.

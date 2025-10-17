@@ -1,0 +1,2 @@
+So, I can say that I can multiply the two sample and then take the sum product and sum is the correlation.
+So, I can say the first correlation coefficient or I can say lth correlation coefficient R L is nothing but a product and sum n equal to minus infinity to infinity x n with x 1 n minus L or x n with n plus L x 1 n plus L.

@@ -1,0 +1,3 @@
+So, helical interpolation and weightage overlap at method based interpolation that is there.
+So, FBS constraint is that FBS says that that analysis window size NW must be less than equal to length of the DFT.
+So, if I use less 20 millisecond window which is 320 sample.

@@ -1,0 +1,2 @@
+Now, what will happen if you say sometime you may say that I have recorded the signal and this is my 0 line 0 amplitude line by my sine wave in here, which never crosses the 0 line.
+That means, there is a 0 line, but the sine wave is dc shifted dc shifted means 0 there is a sine wave.

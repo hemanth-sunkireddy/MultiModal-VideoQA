@@ -1,0 +1,2 @@
+So, if it is n equal to nothing but r into l, so r equal to 1 first shift thing, r equal to 2 second analysis window, r equal to 3 third, fourth, fifth that is what I will get.
+So, I replace that r l. So, time varying smoothing function, let us f of

@@ -1,0 +1,5 @@
+I have to define which, so this is called the hair cell firing.
+So this hair cell firing I have to find out which filter is firing based on the collected energy at the output of the each filter band.
+So what this, so second stage is called you can say the modeling of hair cell.
+So this is called hair cell modeling.
+So half wave rectifier rectification for find out the energy then short term.

@@ -1,0 +1,5 @@
+spectrum this is the normal spectrum.
+So, then once I get the spectrum I get the formant frequency plot.
+So, that means I know the formant frequency representation of the signal and details I will come STFT when we discuss.
+Now this is called spectrum now when you draw this kind of representation this is called spectrogram.
+So, difference is that spectrum is frequency versus power means the power of each frequency plot.

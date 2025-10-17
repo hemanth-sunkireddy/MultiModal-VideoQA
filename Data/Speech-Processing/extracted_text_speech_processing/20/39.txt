@@ -1,0 +1,3 @@
+So, what I will do for every sample similarity of the whole signal.
+So, similarity number 1 or 0 I have to find take the one sample of this signal, take the first sample of this signal, take the product, then take the sum.
+So, it is nothing but a product x n multiplied by y n. Now, if I find out the similarity of degree 1 or 1.

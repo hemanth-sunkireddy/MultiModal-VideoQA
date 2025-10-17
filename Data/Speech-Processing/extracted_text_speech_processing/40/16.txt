@@ -1,0 +1,1 @@
+so speak suppose i am speaking some sentence that means if i speak spontaneously so how the ah when speaker said some sentence how they generate that message there is a message planning idea message planning production now my asr model told me that whatever the production signal is there that is nothing but a w one w two w three w whatever the some some set of words

@@ -1,0 +1,5 @@
+I can find out the covariance method to detect the this to find out that LPC coefficient.
+So, what we want?
+We want the same things, same solution of that matrix, solution of this matrix ok.
+This we have already derived.
+Now, the difference is that in this matrix that I have not taken the outside the window signal is 0.

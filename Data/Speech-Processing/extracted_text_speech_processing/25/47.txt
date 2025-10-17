@@ -1,0 +1,3 @@
+So, there will be 320 sample value 320 sample value SM is nothing, but a 320 sample value.
+So, apply this 320 sample value through AZ and find out the error signal.
+Now, apply this error signal and implement 1 by AZ same K value K value will be same both function and see whether you get back the SM or not.

@@ -1,0 +1,3 @@
+Bengali, Hindi, all Indian language, unvoiced, unaspirated, unvoiced, aspirated, voiced, unaspirated, voiced, aspirated.
+This is velar, this is retroflex, this is dental or alveolar.
+Then we have a

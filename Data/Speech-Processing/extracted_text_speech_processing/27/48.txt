@@ -1,0 +1,3 @@
+there is a if I just open a sample English file English voice file and if you see that setting spectral analysis setting if you see there is a window hamming window triangular window.
+So, depending on the window function that frequency response will be different because the effect of window frequency response will be transferred to there.
+So, if it is hamming window something else if it is hamming window if it is hamming

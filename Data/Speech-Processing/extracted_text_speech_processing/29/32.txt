@@ -1,0 +1,4 @@
+I have a signal ok.
+So, I said STFT completely recovering if I shifted the signal by one sample ok.
+So, for every one sample it is ok. Now, I said let us I shifted the window dissemination factor is L. So, let us this is my window ok.
+So, the length of the window here to here length of the window is.

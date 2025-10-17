@@ -1,0 +1,6 @@
+with the any particle velocity with the x y and y and z direction.
+So, let us I say the wave is propagated along the x axis and there is a not other directional particle velocity.
+So, friction force is not there, viscosity loss is not there.
+So, nothing is there.
+Then this is my velocity pressure equation, this is my velocity equation.
+Now, I what I know, I know in the tube how the pressure wave is propagated.

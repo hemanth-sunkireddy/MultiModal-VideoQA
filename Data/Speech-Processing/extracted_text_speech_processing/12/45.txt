@@ -1,0 +1,5 @@
+current.
+Now, what is P g t?
+P g t is nothing but a P 0 t or I can say P 0 t or P t 0 t input track voltage.
+So, pressure at vocal track input.
+So, I can write U g t minus 1 pi z g into z t U t plus.

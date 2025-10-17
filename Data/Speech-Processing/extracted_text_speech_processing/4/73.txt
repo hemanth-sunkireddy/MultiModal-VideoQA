@@ -1,0 +1,5 @@
+pole on every 0 complex pole has its conjugate value.
+So, if there is a pole in here, there will be a conjugate value pole in here.
+So, it is the unit circle if all poles are lying inside the unit circle then we can say this is a causal and stable filter.
+Now, how do we implement filter in digital domain?
+So, I can say H z has an impulse response

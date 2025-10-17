@@ -1,0 +1,7 @@
+from a 0 sample.
+So, all S n minus 1, S n minus 2, all S n minus p all are 0.
+So, what is the linear combination of those 0?
+I get always 0, but make first sample value is not 0.
+So, the first non-zero sample value let us its value is something x.
+So, what is the total error?
+0 minus x or sorry x minus 0.

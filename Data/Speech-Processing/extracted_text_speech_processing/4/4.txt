@@ -1,0 +1,4 @@
+each and every frequency let us say 1 hertz, 2 hertz, 3 hertz, 4 hertz, 5 hertz, 6 hertz, 7 hertz and then I try to find out the output for 1 hertz, 2 hertz, 3 hertz then I get the frequency response of the system.
+So, instead of x n let us say input the single sinusoidal.
+So, it is e to the power j omega n j omega n I can instead of.
+So, I apply a e to the power j omega n where omega is distinct let us for 1 hertz.

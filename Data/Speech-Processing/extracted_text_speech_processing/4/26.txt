@@ -1,0 +1,3 @@
+So, I can say DFT once I done the DFT I have a x k ok.
+So, x k is nothing but a n equal to 0 to n minus 1 where n is the DFT length x of n input signal e to the power minus j omega n k ok. Now, x k is a complex signal x k is a complex signal.
+So, a complex signal

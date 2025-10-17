@@ -1,0 +1,3 @@
+intensity is different intensity for 1 kilohertz it is 10 dB may be here intensity is 25 dB, but perception of the sound is same that is why it is called this line is called equal loudness curve.
+So, loudness is a perceptual quantity that is related to the physical property level or pressure level of sound or intensity, but it is not direct intensity.
+So, this curve is called foam curve.

@@ -1,0 +1,5 @@
+medium is homogeneous, pressure change across the small distance, there is no friction in air particle, air particle velocity is small, sound is adiabatic.
+Now, if I want to derive that equation, what I will do?
+Let this is p 1.
+So, I can say p 1 is nothing but a p 1 acting on the pressure.
+So, it is p of x t, not capital P, small p. Okay.

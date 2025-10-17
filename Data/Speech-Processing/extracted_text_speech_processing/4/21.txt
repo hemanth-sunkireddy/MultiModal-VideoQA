@@ -1,0 +1,2 @@
+So, this is continuous frequency I discretize it with a number of discrete value.
+So, if it is discrete DFT then equation is x k is equal to n equal to 0 to n minus 1 x n e to be power j omega n k. So, if it is that then this n is called DFT length of the DFT length of the

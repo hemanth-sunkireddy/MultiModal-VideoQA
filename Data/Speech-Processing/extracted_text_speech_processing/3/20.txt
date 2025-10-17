@@ -1,0 +1,7 @@
+signal has amplitude a 1.
+So, that can be represented like this way because it is plus 3.
+So, minus 3 point there will be a sample whose coefficient amplitude is minus a 3 that is a sample at first sample position 1 2 like that way it is represented.
+So, this is the impulse representation of a sequence.
+So, if I say I have a speech signal x n who has suppose there is a 100 sample.
+Now, if I say the sample start from 0 1 to 100.
+So,

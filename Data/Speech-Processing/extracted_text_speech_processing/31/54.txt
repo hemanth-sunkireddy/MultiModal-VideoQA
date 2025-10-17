@@ -1,0 +1,4 @@
+So, a m parameter m number of parameters are there which is designed by a filter bank analysis is clear.
+Now, those filters those design of those filter has a different methodology.
+So, I can design them either overlapping I can design them non overlapping quadrature mirror filter lot kind of design of those filter can be done.
+And whatever I design

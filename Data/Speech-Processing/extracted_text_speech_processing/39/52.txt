@@ -1,0 +1,3 @@
+I am not reading out the slide.
+Now, next class I will discuss this one that state of art speech recognition system what is their problem?
+What are the research issue are there in state of art speech recognition problem issues and there is a less resource what is the requirement of this kind of statistical model and what is the problem in race language what are the alternative solution what are the research going on this lecture.

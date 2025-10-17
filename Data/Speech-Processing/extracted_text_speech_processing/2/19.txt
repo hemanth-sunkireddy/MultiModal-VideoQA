@@ -1,0 +1,4 @@
+I am restricted the speech signal, but I am interested the speech signal.
+So, if it is 20 kilohertz is sampling frequency, so highest frequency of the speech signal is 8 kilohertz.
+So, human speech has to be passed to a filter whose highest cutoff frequency is low pass filter is 8 kilohertz.
+Above 8 kilohertz, all frequency has what down to 0 or you can say discard almost frequency.

@@ -1,0 +1,5 @@
+I am taking 80 point of the spectrum and find out the spectral coefficient.
+I can treat that is a signal pass through the inverse DFT and spectral coefficient will be generated.
+Spectral coefficient can be generated.
+So, information is reduced.
+Now, the problem is that if it is a linear filter, this does not match with human perception, human frequency perception.

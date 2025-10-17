@@ -1,0 +1,2 @@
+plus R R because inductance j omega L R parallel with R. So, j omega L R R R divided by j omega L R plus R R. Now, if you see if omega is where omega tends to 0 at very low frequency Z R is equal to 0.
+That means, if omega is 0 at very low frequency, then omega is 0 at

@@ -1,0 +1,2 @@
+So, there is an amplitude movement also, but people say that amplitude is not that much of important for prosody, because even if amplitude is equal, if you able to model the duration f 0 and pause, then I can convey the prosodic information of the speech.
+So, the prosodic parameter for the speech are pause, intonation or f 0.

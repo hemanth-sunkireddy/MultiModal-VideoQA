@@ -1,0 +1,5 @@
+quantization error.
+So, what I am saying that if I recorded the speech signal with a high quantization, the accuracy or quantization error of the signal is reduced.
+So, when I am going for a good quality recording, I should use quantization level should be very high instead of 8 bit.
+If I use 12 bit or 16 bit, the quantization error is less, but other aspects is there.
+What is other aspects?

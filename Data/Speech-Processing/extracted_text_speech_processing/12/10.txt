@@ -1,0 +1,3 @@
+I know the vocal track transfer function, I know the load condition or boundary condition at the lips which is the radiation load, I know the input condition vocal cords loading to the tube.
+Now, can I implement that tube in a or in a circuits or in a digital domains or in a circuits?
+So, let this is my vocal track, this is the vocal track.

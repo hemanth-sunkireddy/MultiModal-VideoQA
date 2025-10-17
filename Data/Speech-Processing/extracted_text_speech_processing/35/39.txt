@@ -1,0 +1,4 @@
+So, there is a lot of technique for F 0 extraction from the beginning there is some time domain methods some frequency domain methods.
+So, let us start with some time domain methods.
+Now, if you remember during time domain speech processing class I said 0 crossing 0 crossing.
+So, we said that if it is a pure sine wave signal then within a single period.

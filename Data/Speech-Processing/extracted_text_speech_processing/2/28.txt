@@ -1,0 +1,1 @@
+I have generated 8 k sample if each sample is represented by 8 bit so for one second speech recording I will get 8 kilo byte 8 bit is 1 byte so 8 kilo byte similarly if I quantize it with 16 bit it will be 16 kilo byte 16 bit is 2 byte so 16 kilo byte so one I increase the quantization level.

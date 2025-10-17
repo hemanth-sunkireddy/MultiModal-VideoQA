@@ -1,0 +1,5 @@
+bounded input, bounded output.
+In bounded input should produce bounded output, then stable and unstable system.
+Then there is recursive and non recursive system that you know that this slide is self exclamatory that explaining that recursive.
+If the output depends on the previous output then you call it is a recursive system.
+I am not describing details then very much.

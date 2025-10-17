@@ -1,0 +1,6 @@
+So, this may be voice, this may be silence, this may be noise.
+So, all kinds of steps signals are there.
+If I want to know the which part is voice, which part is noise.
+So, I have to instead of taking the whole signal at a time, I have to take a small window.
+Same as calculation of energy that is why you call short term zero crossing rate.
+So, once I make a short term, let us 20 millisecond window.

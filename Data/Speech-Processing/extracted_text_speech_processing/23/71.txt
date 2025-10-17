@@ -1,0 +1,3 @@
+auto correlation methods ok. Then there is a other techniques also that is called latex methods that we will discuss in the next class.
+Let us discuss in one things which is there which is important which is called gain.
+So, what I am saying in LPC analysis we can say if I apply the if I know the alpha value or K value.

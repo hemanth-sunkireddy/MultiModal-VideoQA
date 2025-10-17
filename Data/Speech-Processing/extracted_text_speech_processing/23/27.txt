@@ -1,0 +1,6 @@
+coefficient may slightly changed.
+So, what I want?
+I want normalized autocorrelation that with respect to R0, I can normalize that correlation value.
+So, suppose my correlation value is 1, R2, R3.
+Now, I can normalize R1 with respect to R0 because R0 is the energy of the signal.
+So, I can say instead of R1, I can use small R1.

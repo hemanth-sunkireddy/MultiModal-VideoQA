@@ -1,0 +1,7 @@
+Either I can cut some portion of the signal and add them.
+If I cut then I can paste them.
+So, if I cut in arbitrary position what will happen?
+There may be a pitch mismatch.
+A half period is cut this side and half period is cut this side.
+So, there is pitch mismatch ok also if I want to expand it let us one second I want to make it 1.2 second.
+So, what

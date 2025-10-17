@@ -1,0 +1,4 @@
+4 byte let us take 4 byte.
+So, 4 into 12 48 byte I require to encoded the alpha value.
+Now, it is said that if I know the alpha value or k value k i value let us k i value.
+So, if I know the k i value then at the receiving side I can say that I can implement the filter which is 1 by a z.

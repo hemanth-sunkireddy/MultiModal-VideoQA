@@ -1,0 +1,3 @@
+So, if x cap n is my real shape term, then I can say the complex shape term, then the real shape term is nothing but a x cap n plus x cap minus n divided by 2.
+This prove I will do in the next class.
+So, this can be proved real shape term is nothing but a complex shape term plus x cap minus n divided by 2.

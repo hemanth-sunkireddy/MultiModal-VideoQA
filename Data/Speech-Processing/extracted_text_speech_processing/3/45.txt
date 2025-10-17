@@ -1,0 +1,4 @@
+multiply x minus k. So, I can say the x k is folded to produce x minus k. So, I can give you an example.
+So, this is my signal and this has to be convolved with this.
+So, green is the let us the system.
+So, sorry there is a wrong interpretation you can say that this is h and this is x.

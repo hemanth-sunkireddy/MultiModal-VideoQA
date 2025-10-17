@@ -1,0 +1,3 @@
+If I do this one, this is called synthesis.
+If I pass A u g n and implement 1 by A z, I can estimate S n. Now, what is the boil down the principle?
+Principle is that I have to either estimate the value of A 1, A 2 up to A p or if I know A 1, A 2, A p, I have to pass the A u g with 1 minus A z.

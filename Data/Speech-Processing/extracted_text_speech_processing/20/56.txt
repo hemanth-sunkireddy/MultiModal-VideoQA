@@ -1,0 +1,5 @@
+So, details I will discuss that what are the extraction of F 0, what is the drawback of this algorithm or all things.
+So, this is called average magnitude difference.
+So, all those time domain parameters can be used to detect the speech and suppose I want to detect the speech and non speech.
+So, what is the important?
+If I not talk suppose I want to develop and feature speaker identification systems.

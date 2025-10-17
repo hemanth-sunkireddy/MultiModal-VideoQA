@@ -1,0 +1,9 @@
+Now, if I say what is the force acting on this plane multiply by the area.
+So, it is A 1 multiply by A 1.
+So, I can say the A 1 is multiply.
+So, it is A 1 is multiply.
+So, it is nothing but A 1 del p by del x into del x.
+So, what is A 1?
+It is a cross sectional area of this area.
+So, this is nothing but a del z into del y.
+So, I can say it is nothing but a minus.

@@ -1,0 +1,4 @@
+all are called suprasegmental features how they extract.
+So, we will discuss about the two kinds of methodology one is segmental features extraction another is suprasegmental features extraction and suprasegmental features are used to model speech prosody.
+Now, consider on segmental features ok.
+If you see if I choose a segment of a speech signal let us I choose the this segment.

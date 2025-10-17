@@ -1,0 +1,3 @@
+Now, if I say Zg minus Zd divided by Zg plus Zd is equal to Rg, I say that this terminology this term is equivalent to Rg.
+So, what is the value of Zg divided by Zg plus Zd?
+So, Zg plus Zd will be 1 plus Rg.

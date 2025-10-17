@@ -1,0 +1,4 @@
+because spoken language is different from written language.
+So, those discussion I will come in the next week lectures.
+Then speech coding, yes already we have said that even if basic LPC encoding F0 has to be provided in the receiver end because I have to know what should be the F0 of the input impulse which I will to generate that voice signal.
+So, F0 is very very important part for.

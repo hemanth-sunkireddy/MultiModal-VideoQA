@@ -1,0 +1,3 @@
+This is analogous to electrical transmission line equation.
+So, electrical transmission line voltage V is a function of x and t and current I is also a function of x and t transmission line.
+So, in that case in electrical transmission line minus del V by del x is equal to L into del I by del t. Similarly, minus del I by del x is equal to

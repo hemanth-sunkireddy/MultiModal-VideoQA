@@ -1,0 +1,4 @@
+all frequency because the LPC coefficient analysis is amplitude dependent a time domain analysis.
+So, across the frequency if I want to normalize it, so I normalize the frequency parameters with respect to human perception.
+If you see the block diagram I am not detail discussing the detail slides are there.
+So, what I said take the speech signal find out the fast Fourier transform.

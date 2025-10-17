@@ -1,0 +1,4 @@
+is known for all omega.
+So, since there is a spectral loss, so complete recovery of x m is not possible due to the spectral loss.
+So, what will be the optimum condition?
+At least 2 pi by n must be equal to the bandwidth, 2 pi by n.

@@ -1,0 +1,4 @@
+order of the filter if it implement the filter in FIR way.
+So, I said finite impulse response ideally and filter has an infinite impulse.
+So, I truncated the infinite impulse to a finite number if it is m then m is called order of the filter.
+Ideally if I want to design a low pass filter this is infinite impulse response once I truncated it I cannot get this half.

@@ -1,0 +1,4 @@
+2 pi by n. So, this is at a nut shell the filtering view of the STFT.
+So, in mathematically how it will be represent?
+So, I can say let us I want to find out the output frequency response for a particular band or a particular signal particular frequency omega 0.
+So, I have a signal x n I want to find out.

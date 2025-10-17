@@ -1,0 +1,6 @@
+a basilar membrane filter by a filter bank non-linear filter bank.
+So, there is a pre-filtering.
+Pre-filtering means since it is a digitized signal.
+So, what I can do?
+I can develop a pre-filtering after ADC.
+So, that high frequency and low frequency signal are cut up and then I pass the signal through a band pass or you can say the chunk of band pass filter which is called basilar membrane or you can say critical band filter.

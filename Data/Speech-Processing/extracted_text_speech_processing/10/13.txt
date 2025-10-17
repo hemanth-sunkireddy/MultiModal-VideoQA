@@ -1,0 +1,3 @@
+in the tube ok. What are the travelling wave solution?
+Now, if I say that minus del u by del x is equal to a by rho c square del p by del t or I can write down these two equation where I said this is the pressure wave equation not this not this one where it is this will be here.
+So, this is the pressure wave equation this is the pressure wave equation and this is the velocity wave equation.

@@ -1,0 +1,4 @@
+So, this resource is large amount of level speech data is available.
+Once the level speech data is available, whatever the input text will come, I can search on the level speech data and find out the best possible match part of that corresponding to input text and I can produce that is my synthesized speech.
+So, that is called unit selection based speech synthesis technique.
+So, if it is unit selection, I can select

@@ -1,0 +1,3 @@
+Since vocal tract transfer function can be modelized or it can be model using a all pole model that is why that we have linear prediction can be possible in vocal tract or you can in a speech production systems.
+Now, if I go to that the linear prediction systems.
+So, I can say H z let us H z is nothing, but a output speech S z divided by input is U z.

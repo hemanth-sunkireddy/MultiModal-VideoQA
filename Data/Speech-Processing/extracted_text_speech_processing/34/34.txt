@@ -1,0 +1,4 @@
+Then, take the inverse Fourier transform or you can say the take the inverse Fourier transform or then what I will get?
+I will get the spectral coefficient.
+From the spectral coefficient, I can calculate the a 1, a 2, a 3, a p which I have already discussed that is called PLP perception perceptual linear prediction.
+Then, there is another shift parameter.

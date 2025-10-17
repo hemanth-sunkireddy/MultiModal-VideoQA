@@ -1,0 +1,3 @@
+the V z is model using g by dz where dz is equal to 1 plus k equal to 1 to n alpha k z to the power minus k. So, dz has an n if it is order is n, so n number of pole.
+So, I can say V z is a all pole model which has n number of pole.
+So, if I have a 10 junction tube 10 tube.

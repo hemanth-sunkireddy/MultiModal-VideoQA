@@ -1,0 +1,2 @@
+So, we discuss about the filter bank analysis.
+So, output of a filter is nothing but a frequency parameter that is why the filter bank analysis is called frequency domain parameter extraction matrix.

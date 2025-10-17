@@ -1,0 +1,2 @@
+There is a two kind of spectral one is called real spectrum which is represented by a C n is called real spectrum or it can be a complex spectrum which is x cap n. If I only take the log magnitude part then it is real spectrum if I take the whole signal this is a complex spectrum.
+So, complex spectrum 1 by 2 pi x cap e to the power j omega j omega n which is nothing but a log of x of e to the power j omega e to the power j omega.

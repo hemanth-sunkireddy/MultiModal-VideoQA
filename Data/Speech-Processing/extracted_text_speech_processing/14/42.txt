@@ -1,0 +1,2 @@
+R 2 R 3 dot dot dot R n 1 0 U L z.
+Now, I get U g z divided by U L z is equal to 2 by 1 plus R g 1 minus R g R 1 R 2 R 3 dot dot dot dot R n.

@@ -1,0 +1,4 @@
+losses and not rigid wall.
+So, instead of a infinite band 0 bandwidth infinite impulse at every resonant frequency, it becomes a finite bandwidth with a slightly shifting higher direction of the formant.
+So, formant is shifted slightly higher direction.
+So, instead of this figure ultimately I will get some bandwidth kind of formant, but if you want to see more or less.

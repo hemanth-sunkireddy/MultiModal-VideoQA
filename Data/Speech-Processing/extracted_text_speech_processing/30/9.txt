@@ -1,0 +1,4 @@
+shifting.
+So, this is r, this is 2 r, this is 3 r, ok.
+So, this is the dissemination in time r. So, f of n minus r, so I can say smoothing function f of nm, nm is the smoothing function, time varying synthesis filter, this is called time varying synthesis filter.
+It can be shown that any f of nm that

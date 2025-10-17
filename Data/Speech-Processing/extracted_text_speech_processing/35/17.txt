@@ -1,0 +1,4 @@
+But, really in modern speech recognition systems, people are thinking that why the fundamental frequency can be used effectively to improve the speech recognition rate.
+The new dimension is coming, which is called spoken language processing.
+I will discuss some issue in speech application, spoken language processing.
+Whatever we are doing ASR, it is not ASR.

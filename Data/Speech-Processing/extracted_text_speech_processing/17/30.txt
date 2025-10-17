@@ -1,0 +1,4 @@
+cannot differentiate.
+So, suppose I extract a formant frequency of a particular vowel, let us see 450 hertz.
+If it is differ by 10 hertz instead of 450, if it is 460 hertz, then also human being cannot distinguish the difference, because we do not have resolving power of this formant position.
+Then, formant bandwidth, this is the formant bandwidth,

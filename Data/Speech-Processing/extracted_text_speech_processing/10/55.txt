@@ -1,0 +1,3 @@
+p omega will be 0, the solution point of p omega then h omega will be 0.
+So, I can see that if each solution point of q omega that means, in every pole the system response will be infinite.
+So, that means, system will resonate and every solution for p omega which is nothing but a 0.

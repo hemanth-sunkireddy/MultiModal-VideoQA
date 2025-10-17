@@ -1,0 +1,2 @@
+as a window length and shifted the frame by 10 millisecond.
+So, that I get 100 frame per second you can shifted it 15 millisecond also, but what will happen for every 15 millisecond I get a vector in here for every 10 millisecond I get a vector for analysis or for I get a parameter vector what kind of parameter I can analyze.

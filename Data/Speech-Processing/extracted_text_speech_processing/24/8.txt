@@ -1,0 +1,3 @@
+sample this previous sample.
+So, I can predict S m based on the i number of previous sample this side or I can predict this sample based on the m number of sample i number of sample this side.
+So, either I can predict S m from S m minus i sample from the this side or I can predict S m minus i from i sample in this side.

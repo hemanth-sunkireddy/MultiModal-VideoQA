@@ -1,0 +1,4 @@
+synthesis, because here what you do speech data base is there we extract the excitation parameter.
+So, if you see the speech signal consist of two part one is called segmental supra segmental or I can say it consist of two part one is called excitation parameters another is called spectral parameter or you can say if I have a vocal track vocal track is excited by a vocal chord.
+So, I can say excitation parameter and vocal track parameter.
+So, this is called spectral parameter.

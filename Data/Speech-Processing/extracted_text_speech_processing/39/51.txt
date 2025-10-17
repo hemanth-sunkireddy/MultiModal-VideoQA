@@ -1,0 +1,2 @@
+So, there is a lot of techniques of ASR are developed lot of sophisticated pattern matching techniques are developed SVM support vector machine there is a neural network there is a now today in all research are going to the deep neural network DBN deep belief neural network deep neural network.
+So, all DNN so all kinds of things are happening.

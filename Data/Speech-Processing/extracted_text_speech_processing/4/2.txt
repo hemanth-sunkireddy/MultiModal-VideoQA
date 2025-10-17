@@ -1,0 +1,2 @@
+Suppose, I have an LTI system in here ok LTI system which is H n H H n let us ok. Now, I want to provide a input and I get an output Y n if I provide a input X n ok. Now, I want to know frequency response of this H n ok.
+So, mathematically I can do many things, but so what is Y n?

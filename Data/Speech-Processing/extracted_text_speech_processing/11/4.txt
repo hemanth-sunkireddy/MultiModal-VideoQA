@@ -1,0 +1,3 @@
+fixed and then it is delta A x t is expansion.
+So, now if I instead of u A and rho A the wave equation I have modified because the wave equation instead of fixed A, A is modified then if I put this one A 0 x t into del A x t for A 0 x t then the modified equation will be like this.
+So, I am not going details.

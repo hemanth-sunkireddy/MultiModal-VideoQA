@@ -1,0 +1,4 @@
+delay function is nothing but a tau omega is equal to d phi omega by d omega.
+Those things will be used frequently in signal processing of speech signal processing.
+Then I am not going this property you can find out the phase component is nothing but a odd function and the response is nothing but a even function.
+So, this is the LTI systems signals.

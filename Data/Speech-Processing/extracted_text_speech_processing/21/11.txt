@@ -1,0 +1,1 @@
+Then, I can say S n is nothing but a minus k equal to 1 to p a k S of n minus k is equal to 0 or I can say S n can be roughly equal to k equal to 1 to p a k S of n minus k. Now, if it is that then what I get from this equation.

@@ -1,0 +1,6 @@
+across the segment information is very much important.
+You can do an experiment.
+Suppose you get a speech signal, you record a speech signal and find out the fundamental frequency for this segment.
+Let us the fundamental frequency 200 hertz.
+Design a filter or you can say that I can let us 0 to 200 hertz, design a 0 to 200 hertz filter, low pass filter, cut the signal.
+Again if you play the signal, you still perceive that 200 hertz is the fundamental frequency.

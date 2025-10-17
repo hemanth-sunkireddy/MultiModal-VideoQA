@@ -1,0 +1,5 @@
+And, if you see dot solid line is the original boundary dotted line is the HMM picked word boundary those are the word boundary.
+So, there is a I am not showing that phoneme alignment every phoneme alignment I can show.
+So, that phoneme alignment I am not showing here.
+If you listen the original speech.
+If you see the just HTS after training I generate the sentence.

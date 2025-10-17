@@ -1,0 +1,5 @@
+0.
+So, 0 0 alpha 0 0 is equal to 0.
+Then you know that there is a three iteration one is weight factor i th pole model K i, then alpha i K i is equal to alpha i i equal to K i, then alpha j i is equal to iteration, then update the mean square error.
+So, those are the fourth prediction is used in Levinson recursion.
+So, I can say that let Levinson recursion take this one alpha i i is equal to K i.

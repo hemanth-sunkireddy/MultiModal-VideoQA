@@ -1,0 +1,7 @@
+I forcefully make them 0 by windowing.
+So, once make them 0, I am estimating the first sample from the all 0 sample.
+So, I get the estimation 0.
+So, error the error is the sample 1.
+Take the next sample.
+I am estimating the next sample from previous p sample where only one sample is there which is S n minus 1 is non-zero.
+So, my prediction will be alpha 1 into

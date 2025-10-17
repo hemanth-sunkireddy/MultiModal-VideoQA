@@ -1,0 +1,4 @@
+2 to 2 poles and for radiation loss 2 to 4 pole.
+So, if I say radiation 2 pole and what is 2 pole?
+So, 2 plus 2 is equal to 4 pole, 4 plus 8, 12 pole if my signal is sampled at 8 kilohertz.
+If my signal is sampled at 16 kilohertz, then I can say 16 plus 4 20, 16 plus 20 or 21 or 22 I can say 16 plus 6 also if I if the radiation loss is used by

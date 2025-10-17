@@ -1,0 +1,2 @@
+So, that pattern is called intonation of the utterance or F 0 contour of that utterance.
+So, F 0 is not flat for all hold the signal, it is moving along the signal and if I continuous if I model it continuous model using a spline curve if I make it continuous then I found the F 0 is moving in a particular rhythm or particular pattern that is called.

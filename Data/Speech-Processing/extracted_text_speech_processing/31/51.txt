@@ -1,0 +1,3 @@
+So, output of the filter is nothing but a 0 to 100 hz representation of the signal ok that is 100 hz to 200 hz signal that is 200 hz to 300 hz signal.
+So, now if I quantize the let us the power let whatever the frequency component is there let sum their power and take as a parameter a 1.
+So, I can take those sum as a parameter of a 2 those sum a 3.

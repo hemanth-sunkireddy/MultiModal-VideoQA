@@ -1,0 +1,4 @@
+So, instead of doing finding out that in signal what I will do let us Kolkata is recorded in 0.5 second.
+So, that means, there is a 8 k samples are there now I frame the signal 100 frame per second.
+So, in Kolkata I will get 50 frames signal.
+So, how each of the

@@ -1,0 +1,4 @@
+So, duration modeling, duration is also an important parameter which control the speech prosody.
+Loudness, amplitude, if you see the whole utterance, amplitude is not fixed.
+Amplitude, if we take the average amplitude of every 10 millisecond, if I plot it instead of unvoiced region, all voiced region, you find the amplitude is moving.
+Sometimes, it may fall or it may fall and again rise if there is a emphasis in the last words.

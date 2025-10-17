@@ -1,0 +1,3 @@
+1, 2 if it is period.
+So, if it is I start from 1 then 1, 2 then this point is part of the next period.
+So, I can say if it is a pure sine wave then 2 number of zero crossing per cycle per cycles 2 number of zero crossing.

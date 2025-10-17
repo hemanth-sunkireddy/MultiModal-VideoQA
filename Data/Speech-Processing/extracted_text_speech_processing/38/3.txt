@@ -1,0 +1,5 @@
+excite that articulator by excitation which is called vocal cords and then I can generate the speech signal.
+But what is the complexity in articulatory modeling?
+The complexity is that if I develop that model, some model parameters or you can say the model is changing with respect to time, it is not continuous.
+If I say Kolkata model is not same for all voice.
+So, once against the time,

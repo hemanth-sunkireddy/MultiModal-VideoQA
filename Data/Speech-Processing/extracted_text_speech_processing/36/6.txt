@@ -1,0 +1,2 @@
+Instead of taking the signal, if you remember in LPC analysis that if this is my vocal tract transfer function H n and if I apply A u n, then I get speech signal S n. Now, if you remember that linear prediction, what I want?
+I want to predict signal

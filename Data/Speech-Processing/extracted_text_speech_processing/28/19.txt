@@ -1,0 +1,5 @@
+So, STFT or STFT-M is used to signal estimation.
+So, I want to the sparse spectral magnitude of this estimate the spectral density of the signal.
+I can do the estimating or I can modify the some spectra and that then another one is called time scale modification.
+I can do the time scale modification of the speech signal and noise reduction.
+So, time scale modification.

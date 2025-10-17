@@ -1,0 +1,5 @@
+Now, how it is varies?
+If you see this first graph x axis is tension, y axis is incremental tension d t by dx.
+So, d t by dx is equal to b into t plus a, t is a tension b and a are constant.
+So, I can say d t by dx is equal to b into t plus a, t is a tension b.
+So,

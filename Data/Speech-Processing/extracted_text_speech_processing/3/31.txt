@@ -1,0 +1,6 @@
+So, this is my system diagram.
+So, this is y n and this is x n. So, signal flow is this way sorry this way this way or not.
+So, discrete system can be implemented like this way.
+So, z to the power minus 1 is nothing but a single sample display.
+Now, a system consists of certain properties.
+I will come implementation later on also.

@@ -1,0 +1,5 @@
+that I can say sum of all analysis window.
+So, suppose this is by n number of sample.
+So, let us this is my first window.
+Let us it is shifted by l. The second window will be here 2 l. So, sum of all analysis window shifted by time dissimulation factor.
+So,

@@ -1,0 +1,6 @@
+the 0 will be padded with the length of the signal.
+So, what we will get?
+I will get a autocorrelation coefficient r 1 which is less than r 0, r 2 less than r 0.
+If you see the signal will be come in the in phase when it is reaches here.
+So, if this much of amount of shift is there then the 0th sample will be multiplied with 0th sample.
+Again I get

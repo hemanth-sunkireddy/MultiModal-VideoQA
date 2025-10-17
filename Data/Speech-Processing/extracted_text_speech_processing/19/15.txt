@@ -1,0 +1,7 @@
+I will get a 100.
+So, if I write like this way a 1, a 2, a 100 data I will get.
+Why I take this one?
+Why I take 20 millisecond, 10 millisecond?
+Why I take this kind of statement or what is the logic behind it?
+Now, if you see time speech is an time variant signal.
+So, if I

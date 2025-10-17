@@ -1,0 +1,4 @@
+I have taken a analysis window which is N. So, N w is less than analysis window.
+So, it is satisfied FBS constant and it is said that the summation of filter response.
+So, if the less the this is the frequency scale.
+So, this is omega less this is my filter frequency response.

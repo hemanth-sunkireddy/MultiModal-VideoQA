@@ -1,0 +1,3 @@
+So, 48 byte plus 1 byte plus 49 byte is required.
+So, if I transmit instead of 160 byte, I can transmit 49 byte and recover the signal same segment at the receiver end this is called LPC encoding.
+So, in LPC encoding I only transmit this alpha value whether it is a voiced or unvoiced or F 0 value and then receiver side I connect.

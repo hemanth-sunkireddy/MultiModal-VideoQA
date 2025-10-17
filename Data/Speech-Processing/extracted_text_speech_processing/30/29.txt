@@ -1,0 +1,2 @@
+here w 0 is not the 0th sample of the window say w 0 is nothing but a n equal to in minus infinity to infinity w n normalize.
+So, this is the average or you can say the past component

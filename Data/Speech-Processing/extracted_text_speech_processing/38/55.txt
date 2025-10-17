@@ -1,0 +1,4 @@
+unit selection based TTS system.
+I am not details describe the target cost it is available in the slide you can go through it.
+Then there is another TTS is come HMM based synthesis this is HMM based synthesis we have developed for Bangla also HMM based synthesis.
+So, it is two type one is called parametric if I use the V coder then it is parametric

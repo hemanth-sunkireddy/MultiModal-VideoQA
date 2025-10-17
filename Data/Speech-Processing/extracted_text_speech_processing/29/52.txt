@@ -1,0 +1,3 @@
+with a period n. So, I can say Y n is the output of the convolution X n this is a constant.
+So, I can say Y n is the output of the convolution of X n with a product of analysis window and impulse strength.
+So, ultimately Y n is nothing, but a X n convolved with

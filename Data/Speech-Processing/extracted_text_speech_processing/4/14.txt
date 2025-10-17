@@ -1,0 +1,5 @@
+Fourier transform.
+Here the time domain signal is discrete, but frequency domain it is continuous.
+Time domain signal is discrete, but frequency domain it is continuous.
+So, discrete time Fourier transform time domain it is discrete, but here discrete Fourier transform input is discrete and frequency domain also it is represented as a discrete.
+So, this is a DTFT

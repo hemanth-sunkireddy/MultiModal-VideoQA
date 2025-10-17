@@ -1,0 +1,5 @@
+that depends on from the acoustic signal I have to find out the word, word I have said.
+So, anyhow I have to do that thing.
+So, now if you see the basic idea that what is speech recognition that there is a speech signal I have to find out the next word w 1.
+So, it is nothing but a that I should know which word I have spoken.
+So, machine should learn the words with the acoustic signal.

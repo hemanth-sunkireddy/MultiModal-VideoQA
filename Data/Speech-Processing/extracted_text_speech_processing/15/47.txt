@@ -1,0 +1,3 @@
+5 kilohertz.
+So, 10 section is required to model that tube 5 kilohertz bandwidth I require 10 section.
+So, similar kind of mathematics you can expect that if I want to generate 4 kilohertz bandwidth signal and f s is equal to let us 8 kilohertz sampling frequency is equal to 8 kilohertz, then find out the number of section is required minimum number of section is required.

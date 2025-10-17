@@ -1,0 +1,4 @@
+frequency and capital omega represent analog frequency.
+This is radian per second, this is radian per sample, radian per sample and this is radian per second.
+So, if I say this sometime this omega is called also normalized frequency.
+So, if I say I have a signal whose capital F is 50 kilohertz and less than this.

@@ -1,0 +1,2 @@
+So, in that case I can write minus del P by del x minus del P by del x is equal to M into del V by del t ok. What is M?
+M is nothing but a density into volume which is sorry this that will be del x del y.

@@ -1,0 +1,5 @@
+Now, suppose I have a signal with sampling frequency fs is 8 kilohertz.
+Sampling frequency is 8 kilohertz.
+Now, I said I take n is equal to let us 1000.
+I divided whole frequency range is the 8 kilohertz frequency range.
+I divided in.

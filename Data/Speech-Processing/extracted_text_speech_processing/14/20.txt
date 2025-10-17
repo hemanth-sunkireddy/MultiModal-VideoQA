@@ -1,0 +1,2 @@
+this is R n minus 1, this is R n. And at the end leap there will be a boundary condition.
+So, there will be a z to the power minus 1, then I put the boundary condition which is like this z to the power minus half, z to the power minus half and this is nothing but a minus R L, this is 1 plus R L, I get U L n. This is the output.

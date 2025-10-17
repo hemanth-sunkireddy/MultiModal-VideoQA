@@ -1,0 +1,6 @@
+I may be very sad.
+So, those kinds of prosody planning will come here, utterance planning.
+Then motor command will be generated and speech production system will produce the speech.
+If you see in message planning, lexical, syntactic, semantic, pragmatic.
+Then if you see the utterance planning, paralinguistic, intention, attitude, stylistic, every human being has a different kind of speech styles.
+Then non-linguistic parameters also there, which is common in the motor and utterance planning also.

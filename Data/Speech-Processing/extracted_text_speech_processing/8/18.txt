@@ -1,0 +1,10 @@
+So I can say it is an unaspirated flow sieve is there.
+So by seeing the spectrogram and the time domain waveform of the signal, I can find out some manner of articulation of the phoneme.
+I will show you.
+Suppose if you just open some Hindi recording like this.
+Let us open this one.
+If you listen it, this is ka, kha, ga, gha, all kind of things.
+So it is ka, kha, ka.
+Ka, ka, ka, ka.
+Kha, kha, kha, kha.
+Ga, ga, ga, ga.

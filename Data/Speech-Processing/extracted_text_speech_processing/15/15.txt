@@ -1,0 +1,6 @@
+1, R n minus 2, R n minus 3, if it is 10 tube model.
+So, R n means R 10 is equal to 1.
+I can find out R 9, R 8, R 7.
+How?
+Because using n equal to reasonable number of tube, then model R n equal to 1, R n equal to let us this one n plus 1 is equal to 18 centimeter.
+So, what is saying that that if I know the reflection coefficient, then I can find out

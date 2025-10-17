@@ -1,0 +1,4 @@
+then it is called real septum.
+Then beginning so, then it can be passed through a low pass filter that means, beginning portion is a slowly varying component.
+So, those are called septum coefficient or septal transfer coefficient C c or septal coefficient you can say the septal coefficient.
+So, if I extract the so, whatever I get here so, after I DFT let us I take the n length.

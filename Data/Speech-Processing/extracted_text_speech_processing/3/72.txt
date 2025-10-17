@@ -1,0 +1,4 @@
+1 and this is C 1 will be there x n input y n output.
+So, this is the advantage this is called direct form 1 and this is called direct form 2 implementation.
+So, DSP book it is there this is I said that n long this is one block and this is block once you interchange it will come same side.
+So, instead of 2 z to the power delay I can club together and put a single delay.

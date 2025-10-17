@@ -1,0 +1,3 @@
+where r is nothing but a root over of a square plus b square and theta is nothing but a tan inverse b by a, same thing say complex signal.
+Now, I come to the impulse representation.
+So, suppose this is given x n is represented by x k and delta function, so n minus k. So, if I say this my P n is like this.

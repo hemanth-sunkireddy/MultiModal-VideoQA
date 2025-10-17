@@ -1,0 +1,8 @@
+means the number of oscillations or number of period per second will be increases.
+So, high frequency means oscillations will be increases.
+So, that is the property.
+So, more period are included in one second, more period are included in time.
+So, this is the low frequency and this is the high frequency signal.
+So, this is the concept of analog signal.
+Now, once I make the digital signal, let us this cos omega t I sampled and stored it is a digital signal.
+So, if it is a continuous if x at is a continuous signal.

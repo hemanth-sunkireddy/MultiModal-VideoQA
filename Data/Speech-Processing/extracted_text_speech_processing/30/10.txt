@@ -1,0 +1,2 @@
+Fulfill the condition below, make the synthesis equation above valid.
+So this is x n if this multiply by the analysis window f of n minus m into w m is equal to 1, where m equal to minus infinity to infinity.

@@ -1,0 +1,4 @@
+But, you should know what is there in computer.
+So, there is a analog speech which is coming from the microphone may be converted to the going to the NTLizing filter, then sampling hold, then ADC analog to digital conversion, then we do the required signal processing.
+Then again if I say the human being human listeners cannot listen that electrical signal.
+Again I have to convert that electrical or digital signal to analog signal and analog signal should be play in a loud speaker.

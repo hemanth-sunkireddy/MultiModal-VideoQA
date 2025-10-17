@@ -1,0 +1,7 @@
+speaker identification problem.
+So, it is nothing but distance measuring.
+Important issue where the speech recognition is start dynamic time working which is very important.
+It lead to that you can say that the dynamic programming from here it is started.
+So, what is the problem?
+Problem if you see there is a two utterance a and b.
+Let first utterance is let it is a speech or something else something is utterance of one unverse.

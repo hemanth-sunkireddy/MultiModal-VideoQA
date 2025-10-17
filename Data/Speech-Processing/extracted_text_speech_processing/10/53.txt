@@ -1,0 +1,3 @@
+omega L by C ok.
+So, what I describe that any transfer function can be written any any system transfer function h omega can be written as p omega divided by q omega p omega divided by q omega.
+Now, if you know that solution of p omega this polynomial will give me the what 0 and solution of this.

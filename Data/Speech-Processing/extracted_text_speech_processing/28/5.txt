@@ -1,0 +1,2 @@
+is allowable is defined by the omega c which is the bandwidth of the analysis window.
+So, if it is Hamming window then bandwidth b is equal to 8 pi by n w. So, L w should be 2 pi by b is equal to n w by

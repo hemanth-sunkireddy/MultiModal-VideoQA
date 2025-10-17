@@ -1,0 +1,8 @@
+but not the future input.
+Future input will be x n plus 1.
+If it is not depend on x n plus 1, then I call it is a causal system.
+If it is depend, then it is a non-causal system.
+Then stable system, unstable system.
+What is stability?
+If I apply a bounded input to input to the system, it should produce bounded output.
+If I apply a bounded input, if the system produce bounded output, then I call system is stable system, B I B O.

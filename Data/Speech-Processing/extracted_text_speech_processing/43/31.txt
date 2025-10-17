@@ -1,0 +1,6 @@
+e to the power b x.
+So, I can say log e c 0 T 0 by sigma to the power half plus log e b x.
+So, I can say log e b x to the power half.
+So, half will be there.
+So, it will be the power half b x.
+So, now if you see

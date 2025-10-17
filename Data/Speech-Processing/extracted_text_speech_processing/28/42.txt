@@ -1,0 +1,3 @@
+So, STFTM can be used or STFT can be used for noise reduction, time scale modification, speech enhancement all those things.
+Only thing is that desynthesis is done by OLA method overlap add method or FBS method.
+OLA method is recommended you can write an OLA method algorithm to reconstruct the because I have to get back the signal again ok.

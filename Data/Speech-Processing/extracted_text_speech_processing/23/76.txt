@@ -1,0 +1,2 @@
+z to the power minus k plus g ok.
+So, if it is H z it is nothing but a I can time domain H m is nothing but a k equal to 1 2 p H alpha k H of m minus k z k sample delay plus g. If I say my input of the system is a delta function.

@@ -1,0 +1,6 @@
+Now, forget about the signal processing engineering model part.
+Human vocal track produce different kind of sound.
+How do I classify those sounds?
+How do I describe?
+Forget about the classification, I want to describe the different sound produced by the human being for speech communication.
+So, I can say that whatever the sound is coming out from the mouth, I can say that whatever

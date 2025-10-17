@@ -1,0 +1,6 @@
+how many times signal cross the 0 line.
+So, if I say if I generally drawn suppose those are the sample.
+So, when the 0 crossing will be happened this is a sample once the signal sample will come this side.
+So, this is the positive sample this is the negative sample.
+So, there will be a 0 crossing.
+Similarly, there is a negative sample negative sample then once it is a positive sample then there will be a 0 crossing.

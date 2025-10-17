@@ -1,0 +1,2 @@
+The Besselier membrane is nothing but a output of a different filter bank.
+If I think in engineering model, I can think the human conversion of acoustical signal or you can mechanical signal to the normal signal is nothing but a sensor or nothing but a tank circuits or which is a particular filter or tank circuits or you can the sensor is active for a particular band.

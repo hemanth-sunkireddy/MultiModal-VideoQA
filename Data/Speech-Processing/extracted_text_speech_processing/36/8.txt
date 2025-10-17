@@ -1,0 +1,4 @@
+which is the error LPC prediction error ok. Now, if you remember the F 0 is part of the excitation not the vocal tract.
+So, F 0 information is here not in here.
+So, I can extracted the F 0 from EN signal.
+So, instead of using SN speech signal.

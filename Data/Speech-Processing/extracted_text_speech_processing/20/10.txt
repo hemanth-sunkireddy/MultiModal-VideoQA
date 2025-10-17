@@ -1,0 +1,6 @@
+So, 1 millisecond has 10 sample.
+So, 30 millisecond has 300 sample.
+So, instead of 400, I can say 2 into 1 k divided by 10 k into 360 number.
+So, I can find out the number of zero crossing.
+Okay.
+Now,

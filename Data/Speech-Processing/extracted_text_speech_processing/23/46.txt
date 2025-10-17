@@ -1,0 +1,2 @@
+you can go through that slides I am not details describe this frequency analysis equation and this is the LPC spectrogram because here if you see the formants are more more much more clear ok.
+This is done how it is how it is plotted you suppose you have a speech signal you take a window find out the LPC coefficient take the spectrogram of the LPC spectrum of the draw the magnitude spectrum of the LPC coefficient then for that time

@@ -1,0 +1,4 @@
+1, then I can calculate the pth p order LPC coefficient.
+So, a 0 a 1 dot dot a p, how do I do that?
+In that case gain is nothing but a e to the power c 0 by 2, this is inverse c 0 is equal to log g square.
+So, c 0 is equal to e to the power c 0 by 2, then I can say a m is equal to

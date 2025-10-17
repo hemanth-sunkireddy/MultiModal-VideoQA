@@ -1,0 +1,3 @@
+If it is discrete Fourier transform, then I get x of k that I have already discussed in the Fourier transform view.
+If x n is my signal and if I take the Fourier transform, then in Fourier frequency domain it is continuous, but time domain it is discrete and that is called DTFT discrete time Fourier transform discrete time Fourier transform.
+Once I both domain it is discrete, then I say

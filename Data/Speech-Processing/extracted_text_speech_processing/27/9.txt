@@ -1,0 +1,3 @@
+If I have a system h n is a system response system impulse response, if I have a signal at x n if I pass the x n with h n what is the output?
+y n is nothing, but a convolution of h n with x of n input signal.
+So, if by x output frequency response is nothing, but a convolution of this term with window function.

@@ -1,0 +1,7 @@
+minus.
+So, it is minus.
+So, minus S n M minus i.
+Otherwise, it is 0.
+So, I can say the output of this one is nothing but a S of n M minus i.
+So, I can put that value in here.
+So, I can put 0 is equal to 2 of minus infinity to infinity S n M.

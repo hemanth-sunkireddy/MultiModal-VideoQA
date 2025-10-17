@@ -1,0 +1,2 @@
+k in term of discrete frequency which is called k. So, instead of omega I can write x of n k where I can write m equal to minus infinity to infinity x of m will be same w n minus m will be same.
+So, instead of continuous omega I have divided the omega in term of 2 pi by k e to the power minus j.

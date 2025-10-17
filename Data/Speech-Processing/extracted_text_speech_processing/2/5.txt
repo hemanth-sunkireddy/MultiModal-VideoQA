@@ -1,0 +1,6 @@
+amplifier and then microphone amplifier then analog to digital conversion to convert the acoustics wave to a digital signal in this speech.
+So, how do you do that?
+You know that this is the basic theory.
+This is called sampling theory that sampling frequency, this is the complete circuits that this is the normal DSP systems.
+So, I can say analog speech do not I am not details with the details of this every blocks.
+So, those are the signal processing domain.

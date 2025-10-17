@@ -1,0 +1,2 @@
+Similarly, alpha j i is equal to alpha j i minus 1 Levinson recursion said that current step can be estimated from the previous iteration.
+So, it is previous iteration alpha value minus k i into alpha i minus j alpha i to the power minus 1.

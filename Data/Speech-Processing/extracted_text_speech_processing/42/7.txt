@@ -1,0 +1,3 @@
+So, suppose if I am, if I say the emotion recognition, lot of people are working today in emotion recognition, speech emotion.
+So, emotion information is mainly on the speech prosody, because prosodic parameter is changed.
+That is why different times I produce different kind of emotional speech, because if you remember the content, what phoneme I have pronounced is the segmental features.

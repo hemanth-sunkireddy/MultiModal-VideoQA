@@ -1,0 +1,4 @@
+slightly higher frequency the frequency will be instead of 500 hertz it may be 500 and 5 hertz slightly frequency shifted towards the higher frequency side most effected in the lower band lower frequency will be the most.
+So, lower frequency bandwidth will be increased more compared to the higher frequency.
+So, most effected is the lower band.
+Now, if I consider

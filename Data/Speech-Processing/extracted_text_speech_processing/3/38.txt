@@ -1,0 +1,5 @@
+So, if the system is linear and time invariant, then we called LTI system, linear time invariant system, that is called LTI system.
+That means, the system is linear, system does not change its property along the time.
+Then you know causal and non-causal system.
+So, if it is not depends on the future, then I call system is a causal system.
+Means, Y n is only depends on either X n or X n minus 1.

@@ -1,0 +1,4 @@
+that can be solved in efficient manner.
+Now, if I say if I write it in matrix form, so what I will write?
+This form, so I can write this side, if I want to write this side, how do I write this side?
+This side I can write let us this one phi i k, k equal to 1 to p and i also varies from 1 to p. So, I can say phi let us 1 1, phi 1 2, phi 1 2, phi 1 2,

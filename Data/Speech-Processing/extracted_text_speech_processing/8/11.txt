@@ -1,0 +1,6 @@
+black and white.
+So black means the power is high, white means there is no power in this case.
+In this case black means power is high, white means there is no power.
+So I am not going details about the how the spectrogram is made that I will discuss in the signal processing class.
+So if you see in this picture some portion are very dark those contain the high frequency power of those portion are very high.
+So if I see this y axis is the frequency axis if you see.

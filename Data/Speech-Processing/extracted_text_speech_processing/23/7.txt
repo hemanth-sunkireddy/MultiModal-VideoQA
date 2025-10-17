@@ -1,0 +1,4 @@
+1 alpha i minus 1 is equal to E n i minus 1 if I see this matrix.
+So, from here we can derive the solution for R n i alpha i is equal to E n i this we can derive.
+How we derive?
+That is the details explanation that matrix I can write this way and then I can append 0 vector at alpha multi this is the matrix we can do it you can see that this right and you can find out this is the nothing but a mathematics.

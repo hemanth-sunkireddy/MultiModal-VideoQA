@@ -1,0 +1,5 @@
+if is r k is minus 1 then 1 minus r k is positive.
+So, minus 1 2.
+So, this is the maximum value of r k will be either plus 1 and minus 1.
+So, you can prove it that r k value make maximum value will be plus 1 or minus 1.
+Now, suppose I have a kth n number of tube with equal length.

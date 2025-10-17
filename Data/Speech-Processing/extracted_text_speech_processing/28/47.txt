@@ -1,0 +1,4 @@
+So, I take 10 to 30 millisecond, third frame 20 to 40 millisecond.
+So, I can now instead of millisecond I can number of sample I can do ok.
+So, I said 100 frame per second that means, the shifting of the window is 10 millisecond.
+If I say I want 200 frame per second shifting of the window I can

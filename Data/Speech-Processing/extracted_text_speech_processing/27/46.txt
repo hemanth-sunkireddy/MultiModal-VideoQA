@@ -1,0 +1,3 @@
+then I can say the frequency response whatever I get it is exactly the frequency response of the window ok.
+So, if you see there is a different kinds of window is there if I if you remember that I have given in the review of DSP that Butterworth Blackman window, Hamming window, Henning window, Kaiser window.
+So, and different window has a different kinds of frequency response.

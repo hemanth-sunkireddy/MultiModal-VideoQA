@@ -1,0 +1,7 @@
+band.
+So, this is called spectra, spectrogram plot.
+How do you plot the spectrogram?
+So, depending on the intensity or the particular frequency component, the color will come and the band is called band resolution.
+So, that is all come resolution trade off.
+So, 2 pi by n or F s by n is nothing but a resolution of that particular band.
+So, this is the STFT analysis.

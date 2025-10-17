@@ -1,0 +1,3 @@
+Conversion from acoustic wave to the electrical signal is microphone and conversion from the electrical signal to the acoustic wave is the loudspeaker.
+So this is the mechanism I can say that I can transmit the speech from one point to another point.
+So now I can deal with this electrical signal whatever the coding, technology all kinds of things I can do with this.

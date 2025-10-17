@@ -1,0 +1,4 @@
+if I want to replace this a i z in here then what I will get?
+I get b i z is equal to z to the power minus i s z into a i z to the power minus 1.
+So, now I can put same a i z value instead of z, z to the power minus 1 I can put here.
+If I put that then I get z to the power minus 1.

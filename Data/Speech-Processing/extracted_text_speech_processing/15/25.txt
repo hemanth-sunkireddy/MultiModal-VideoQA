@@ -1,0 +1,3 @@
+2 complex conjugate pole will be there, n by 2 pair of complex conjugate pole.
+So, I can say v z is nothing but a g by k equal to 1 to n by 2 1 minus alpha k z to the power minus 1 into 1 minus alpha k star z to the power minus 1.
+So, it is nothing but a n by 2 complex

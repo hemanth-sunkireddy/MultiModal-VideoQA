@@ -1,0 +1,7 @@
+difficult to estimate speech with low energy.
+High F0 can be affected by a low formant.
+Yes, this is a very important issue.
+If you see, if you remember the fast formant frequency is in and around 500 Hz.
+So, it can reduce and it can be goes to 360 Hz also.
+So, if it is 360 Hz is the fast formant frequency and if F0 is in around 300 Hz.
+So, F0 can coincide with the fast formant frequency.

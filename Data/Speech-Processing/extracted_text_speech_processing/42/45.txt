@@ -1,0 +1,2 @@
+Then we try to linear regression analysis we have done, linear modeling we have done, may be it is it can be improved by non-linear modeling also we have not done it, but you can do it non-linear modeling also.
+Then duration probability we have done that find out the pause duration again linear modeling we have done and we have calculated something and we have calculated the cumulative percentage error for prediction error in the for prediction pause prediction.

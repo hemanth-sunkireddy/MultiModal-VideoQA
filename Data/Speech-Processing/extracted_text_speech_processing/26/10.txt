@@ -1,0 +1,4 @@
+Now, again you know that if I get that x t x k, x k has a complex number, x a is a complex number.
+So, it has a two property one is mod of x k that is called amplitude, amplitude and angle of x k tan inverse imaginary y.
+So, this is phase and angle.
+So, if I take the spectra of magnitude only, then it is called magnitude spectra.

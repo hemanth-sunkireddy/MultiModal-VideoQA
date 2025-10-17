@@ -1,0 +1,6 @@
+If you see in parameter domain there is a lot of speech parameters or features one is called filter bank.
+So, features parameter extraction methods lot of like LPC we have discussed LPC parameter extraction method we have discussed.
+So, there is a frequency domain parameters there may be a time domain parameter.
+So, features can be extracted from the time domain representation of the speech signal.
+So, if the speech signal is this.
+So, I from the time domain representation I can extract the features.

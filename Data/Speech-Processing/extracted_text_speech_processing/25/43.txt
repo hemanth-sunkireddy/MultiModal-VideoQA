@@ -1,0 +1,5 @@
+signal of 20 millisecond from the.
+So, there is a signal is there.
+So, from the middle you cut 20 millisecond speech signal.
+So, required how well with 16 kilohertz sampling frequency 16 bit 16 bit encoding then cut 20 millisecond of speech signal.
+So, let us try for one frame only one frame.

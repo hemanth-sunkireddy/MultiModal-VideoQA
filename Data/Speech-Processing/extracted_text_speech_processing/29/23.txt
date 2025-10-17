@@ -1,0 +1,3 @@
+that I can say whole frequency scale is divided into n number of channel or n number of filter, n number of filter or n number of channel.
+Now, I have when I do the STFT, I multiply the signal with a window function with a window function.
+So, let us the bandwidth of the window is b.

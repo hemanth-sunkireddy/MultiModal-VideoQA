@@ -1,0 +1,3 @@
+I can divided this 20 millisecond signal in may be another 4 segment may be 5 millisecond, 5 millisecond, 5 millisecond, 5 millisecond and from each segment find out the maxima and take the mean of that maxima to find out the C L value that is the formula.
+So, this is called central clipping to improve the autocorrelation base F 0 extraction.
+Another

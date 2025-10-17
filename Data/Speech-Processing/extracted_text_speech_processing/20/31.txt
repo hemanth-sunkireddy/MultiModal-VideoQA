@@ -1,0 +1,2 @@
+The problem is that even though the signal is non-sibling let silence, but there is a simple noise is there then also I can get the zero crossing rate very high or less there is a 50 hertz frequency fine the line frequency disturbance then also I get the zero crossing rate with the like the voice signal.
+So, that is why the zero crossing rate is not a you cannot say this is a very rigid parameter.

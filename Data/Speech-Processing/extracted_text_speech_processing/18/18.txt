@@ -1,0 +1,6 @@
+After 500 hertz, the bandwidth is non-linear.
+So I can find out how many critical band is required to cover the 0 to 20 kilohertz.
+So that bandwidth is called Bach scale.
+So those are the critical band, pictures of critical band.
+And again I will discuss when we think about the MFCC kind of things.
+So, Bach scale.

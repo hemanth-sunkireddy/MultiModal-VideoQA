@@ -1,0 +1,5 @@
+Second limitation is that I have said the sample by sample recovery.
+So, I have shifted the window one sample which may not be necessary.
+Only thing is that that consider x in a band because the dissemination factor is L. So, STFT is applied for every L sample.
+So, x of W of n is nonzero over the nW.
+nW is the length of the sample.

@@ -1,0 +1,5 @@
+So, due to small amount of data, now if you see the pitch, let us I have taken 5 millisecond window.
+Now, it may found that within 5 millisecond, may be one or two fundamental period is there.
+If it is male voice, then may be 1.5 fundamental period is there.
+So, if I analyze it, it is no use.
+Now, if I take it.

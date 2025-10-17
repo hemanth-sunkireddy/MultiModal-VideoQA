@@ -1,0 +1,3 @@
+So, if you see only problem is the unit selection is that how do I select the unit.
+So, given a big database is there for each segment that we want to synthesize find the unit in the database that is the best to synthesize this target segment.
+How the best is measured depending on the target cost closest match to the target.

@@ -1,0 +1,3 @@
+Then depending on that text, we have estimate the parameter which segmental parameter is best match for that input text and which excitation parameter has the best match with the input text.
+Once I get the excitation parameter and spectral parameter, then we can use the synthesized filter or V coder to generate the speech.
+So, that is HMM based speech synthesis technique which is used which is named as.

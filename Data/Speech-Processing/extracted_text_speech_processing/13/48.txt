@@ -1,0 +1,1 @@
+of r k what is the minimum value of r k if a k is very small compared to a k plus 1 if i neglect a k then r k will be 1 if a k is very very big compared to the a k plus 1 or if a k is much much greater than a k plus 1 then i can say

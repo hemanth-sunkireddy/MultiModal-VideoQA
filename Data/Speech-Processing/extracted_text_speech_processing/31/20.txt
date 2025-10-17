@@ -1,0 +1,2 @@
+speech recognition speech synthesis speaker identification lpc coefficient lpc coding or any speech coding all are nothing, but a extract the speech features and using those features i can apply any kind of classification or i can coding or i can synthesis algorithm so that i can revert back the signal.
+So, what i can say the speech features actually the representation of the original speech signal using those features.

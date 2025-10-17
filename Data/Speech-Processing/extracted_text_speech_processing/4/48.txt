@@ -1,0 +1,5 @@
+I reach 2 point where I cannot divide 1 even and 1 odd.
+So, this algorithm is described in a book you can do that I just explain you by a let us take the 8 point DFT 8 point DFT n equal to 8.
+So, that means, it can be expressed 2 to the power 3.
+So, 3 stage I can divide it.
+So, first stage let us the signal is

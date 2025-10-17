@@ -1,0 +1,7 @@
+to get that correct coefficient value.
+If I it is true that if I increase the order the your error will be less.
+So, I cannot take infinite order.
+So, what kind of order is optimum?
+So, in the what basis I can decide the order?
+So, if you see that in tube model for formant every formant are separated by 1 kilohertz 1 kilohertz.
+So, if you see if you remember in the first first class the first tube model.

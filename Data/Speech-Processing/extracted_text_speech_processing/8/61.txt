@@ -1,0 +1,4 @@
+So, if you see there is a word, one word is end and another word is begin, but there is no gap.
+It is a co-articulate, it likes a complete single word.
+So, that details I will come later on that.
+So, there is no gap, main thing is that there is no word boundary which is define SP signal.

@@ -1,0 +1,4 @@
+So, here instead of z to the power minus k, minus k I write and put a z to the power minus 1 inside.
+So, I can say it is nothing but a A i z to the power minus 1.
+So, I can say B z is nothing but a z to the power minus i S z into A i z to the power minus 1.
+So, this is forward prediction error, this is this is forward prediction error.

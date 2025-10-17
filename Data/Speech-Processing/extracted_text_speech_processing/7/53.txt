@@ -1,0 +1,5 @@
+depending on their production mechanism, tongue position and tongue height, they are described and that can be mapped in the F 1 and F 2 plane.
+So, when I describe the engineering model, I use this thing.
+So, if I say I want to classify, let us I give an example.
+If I say I want to classify between O and E, if the distance is much, one is front vowel, one is back vowel.
+So, in that case,

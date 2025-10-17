@@ -1,0 +1,5 @@
+frequency component of the signals.
+So, if you see this these slides there is a this is the spectrum information and if you see the if the red line is the envelope of the spectrum and those peak peak of the envelope denotes the formant.
+So, if I say formant is my features.
+So, I have to extract those formant how do I find out those formant.
+So, I have to find out an algorithm.

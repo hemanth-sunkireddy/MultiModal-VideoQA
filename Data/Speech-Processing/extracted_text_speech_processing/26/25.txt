@@ -1,0 +1,3 @@
+For this omega is nothing but a x of m, m equal to minus infinity to plus infinity.
+I have cut the signal that means I have multiplied this signal with a window function which is n minus m. I will I just illustrate this one.
+What is this?

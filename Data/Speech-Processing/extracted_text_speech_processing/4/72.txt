@@ -1,0 +1,6 @@
+So, I can implement P z and I can implement Q z and I can implement H z.
+Now, how it is look like this?
+If you see the mathematics, so there is a number of pole m number of 0 if it is order is m, m number of 0 and n number of pole.
+So, every pole and 0 has a complex conjugate.
+So, that I will discuss later on that every pole has a complex conjugate if it is complex pole complex 0.
+So, it is if the real value H z is real then every

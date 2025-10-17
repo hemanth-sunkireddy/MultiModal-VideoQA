@@ -1,0 +1,4 @@
+but I have p th order.
+So from last sample, if I take the last sample is this one, let us last sample is this one, this one is a last sample.
+So, I can say this is my window, this is the first sample, this is the second sample, this is the third sample, this is the last sample, then this is the previous last sample, this is the previous last sample.
+side all are 0, all are this side also all are 0.

@@ -1,0 +1,4 @@
+uniform tube is the vocal tract.
+So, here is an radiation load at the lip.
+So, if this is my ZL radiation load in the, so this is x equal to 0, this is x equal to length, length of the vocal tract is L and here is the radiation load.
+This side there is a some impedance in here and then there is a pressure source Pg.

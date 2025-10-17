@@ -1,0 +1,6 @@
+So, I can calculate the first order differentiation.
+Then, I can repeat the same process to get the double delta coefficient where input is this one.
+So, delta coefficient is the first order dynamics.
+So, if I say the ferment is moving, so first order dynamics is nothing but a velocity of the ferment.
+If I take the second order dynamics, that is give me the acceleration of the form.
+So, how ferment are moving?

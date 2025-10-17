@@ -1,0 +1,3 @@
+1 c p plus 2 dot dot dot dot c n minus 1 using this formula.
+So, I get c 0, c 1, c 2, c 3 up to c n minus 1 using this.
+Similarly, reverse also possible that if I know the spectral coefficient c 1, c 0, c 1, c 2, c 3 dot dot dot dot c n minus 1.

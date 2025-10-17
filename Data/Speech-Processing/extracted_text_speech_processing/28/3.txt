@@ -1,0 +1,1 @@
+the number of DFT I have taken N which define the number of channel and so if I say that I have a 3 2 2 16 kilohertz speech signal and if I take 20 millisecond window so length of the signal is nothing but a 320 sample if I take the DFT length if I take the DFT length N is equal to 512 that means this is NW this is N

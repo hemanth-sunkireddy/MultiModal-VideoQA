@@ -1,0 +1,4 @@
+So, if you see in action component, so suppose this is the global component in action component, it will vary like this.
+So, even if I apply the command in here, it will be take time to reach the up and again it will be going down because of elasticity.
+Then again if I apply a command in here, it will be again up somewhere else because it requires some rising time.
+So, this is for Fuchisaki's slide I have taken.

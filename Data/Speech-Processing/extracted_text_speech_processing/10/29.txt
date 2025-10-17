@@ -1,0 +1,1 @@
+divided by 1 plus e to the power 2 j omega L by c. Once I know the k plus and k minus, then I can write down the u x t, u x t is nothing but a k plus e to the power j omega t minus x by c minus e to the k minus e to the power j omega t plus x by c. Now, I put the value of

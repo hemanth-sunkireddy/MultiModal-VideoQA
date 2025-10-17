@@ -1,0 +1,3 @@
+and DFT.
+So, DFT X n is in DTFT X n is digital, but whatever I get X omega is continuous, but here X n is also digital and X omega is also digital.
+Sometimes we write it X k discrete frequency instead of omega.

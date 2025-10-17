@@ -1,0 +1,5 @@
+I want to digitally implement this tube.
+So, I know I have to implement dz is nothing but a 1 plus k equal to 1 to n alpha k z to the power minus k. This equation I have to implement.
+So, if I able to implement, how do I implement?
+Very simple.
+So, there is a u n, let us n u n n impulse.

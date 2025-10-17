@@ -1,0 +1,5 @@
+Let us triangular filter with 50 percent overlap.
+So, this kind of filter I can design.
+Let us uniform bandwidth filter I can design.
+If I design that, then I am assuming that if this is the peak of my envelope, then power of this average power of this filter will be very high.
+So, actually I am try to capturing the

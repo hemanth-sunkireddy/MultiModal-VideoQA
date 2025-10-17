@@ -1,0 +1,4 @@
+If I consider all tubes are equal length, then what should be the diagram?
+So, I said this delay tau k, tau k is equal to tau k plus 1, if all tube length are, so what is tau k?
+L k by c, so if all tube length are same, then I can say the tau k is equal to tau k plus 1, all are del x del x del x del x del x.
+So, delay circuit will be same.

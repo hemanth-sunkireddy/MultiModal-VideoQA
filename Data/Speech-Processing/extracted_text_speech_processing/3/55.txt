@@ -1,0 +1,4 @@
+So, 0 into 1 plus 0 into 1 plus 0 into 1 plus 1 into 1 plus 0 1 into 0 like that way it will come.
+This will multiply with this add add and so I can get first sample y.
+To get the second yn what I will do instead of doing here I shifted this signal one sample.
+So, what I can say let us see this will be one first sample this is the second sample.

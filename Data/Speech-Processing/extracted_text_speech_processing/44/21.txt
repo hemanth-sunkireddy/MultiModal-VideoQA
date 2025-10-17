@@ -1,0 +1,3 @@
+Then we see that that is the error rate is reduced.
+So, result is there in the paper if you see there is a journal paper on HMM based Bengali speech synthesis system based on that paper is there just you can search that paper or you can say the Bengali HTS based HTS that our paper will come you can read that paper.
+But if you see our proposal is like that way that we take the input text which is label input text and that is that the speech which is label.

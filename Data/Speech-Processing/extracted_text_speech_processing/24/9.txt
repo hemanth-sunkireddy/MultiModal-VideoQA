@@ -1,0 +1,4 @@
+So, if I predict this one then the prediction is this direction this is called backward prediction.
+So, there is a forward prediction there is a backward prediction I can do both way.
+So, let us how we can do that let us I am not explaining the slide again.
+So, what is that linear prediction equation if I if the system is linearly predictable then equation of the system that H z.

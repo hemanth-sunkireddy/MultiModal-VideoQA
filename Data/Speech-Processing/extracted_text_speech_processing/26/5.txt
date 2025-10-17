@@ -1,0 +1,5 @@
+along the time.
+So, if I take the whole signal and do the frequency analysis I do not get that any conclusion any information of different speech event what is happening.
+So, what I want we want during the pronunciation different time speech signal property is different.
+I want to analyze that property which how it is varies across the time.
+So, if I want

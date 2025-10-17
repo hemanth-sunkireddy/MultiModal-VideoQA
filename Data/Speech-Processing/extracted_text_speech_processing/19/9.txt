@@ -1,0 +1,6 @@
+50 slide.
+So, then I can say this is F s by 50.
+So, it is F s by 20.
+So, instead of F s sampling rate now for every window I get some parameter.
+So, parameters are sampled at 20 millisecond per second means 50 some 50 window per second.
+So, instead of F s number of sample now I get if each window represent is one sample then I get

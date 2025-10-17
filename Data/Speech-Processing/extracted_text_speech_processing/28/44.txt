@@ -1,0 +1,6 @@
+So, I have that number of sample.
+We have not taken all sample at a time and do the frequency analysis.
+What I will do?
+We will divide this signal with a frame rate and window length.
+So, we choose a window length analysis window N w is equal to let us 20 millisecond.
+So, N w is equal to 20 millisecond.

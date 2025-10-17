@@ -1,0 +1,4 @@
+Then, I can take up to n by 2, k equal to n by 2 is sufficient for designing the filter.
+So, suppose I have a 4, 8 kilohertz, f s is equal to 8 kilohertz.
+Then, I know that maximum speech frequency is 4 kilohertz.
+So, suppose I take 100 hertz filter, that is linear, all filter are 100 hertz bandwidth, all filter are 100 hertz.

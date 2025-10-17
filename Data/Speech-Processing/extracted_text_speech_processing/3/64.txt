@@ -1,0 +1,4 @@
+LTI system linear time invariant system.
+So, we want to make this model as a LTI system linear time invariant system.
+Now, if you this is the same signal sense system you already you have read it if the x n is the input h 1 and h 2 are the two system function the transfer function and y n is the output then it is a it is commutative the h 2 can be first and h 1 can be second also.
+So, all those property you know that.

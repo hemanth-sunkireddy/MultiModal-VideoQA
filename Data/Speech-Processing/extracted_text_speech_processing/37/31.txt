@@ -1,0 +1,3 @@
+where all the abbreviation they are full form will be there.
+So, once I get the abbreviation I am going to run through the dictionary and get the full form.
+And that text normalization for number it is difficult because you do not know where what kind of number system is required because sometime if I write 943091556 is a phone number then I can say this have to read this have to read as 943091556 we never said.

@@ -1,0 +1,5 @@
+whatever you said and then machine has to recognize from the input signal of speech signal.
+So, that is ASR.
+Now, what is problem?
+If I say let us think about only simple word recognition problem.
+Suppose I spoke a word let us speech S C double E C H. Then I think there will be acoustic waveform of the word.

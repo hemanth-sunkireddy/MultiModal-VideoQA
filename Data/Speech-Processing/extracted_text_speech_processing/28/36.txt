@@ -1,0 +1,8 @@
+So, this is l, 2l, 3l, 4l, 5l, 6l.
+Now, once I synthesize time, I make the decimation time is l by 2.
+So, it is half.
+m, 2m, 3m, 4m, 5m, 6m.
+So, I can say squeeze the number of sample.
+So, I can speed up the signal.
+If I want to slow down the signal, so instead of half, I can say 2l.
+So, it is double.

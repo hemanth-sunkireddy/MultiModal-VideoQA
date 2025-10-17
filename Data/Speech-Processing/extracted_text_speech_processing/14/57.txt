@@ -1,0 +1,5 @@
+So, if I able to simplify all pole digital filter and if I know alpha k, if I know alpha k which is nothing but in term of R 1 R 2 and the R 1 R 2 R g I have to know.
+So, what is R 1 R 2?
+All are reflection coefficient.
+If I know all reflection coefficient, I can simulate this dz.
+So, it is impossible to implement this dz using digital filter.

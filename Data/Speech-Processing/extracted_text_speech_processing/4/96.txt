@@ -1,0 +1,4 @@
+cut off.
+So, I get a transition.
+So, this transition bandwidth depends on the what kind of window I have used to truncate the filter transfer function or truncate the signal.
+So, if I use the rectangular window, then it is 4 pi by m. If it is hamming window 8 pi by m, then it is 8 pi by m. So, depending on the requirement, I can get a transition bandwidth of 8 pi by m.

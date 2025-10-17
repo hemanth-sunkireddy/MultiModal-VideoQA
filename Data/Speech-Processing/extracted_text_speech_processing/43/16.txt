@@ -1,0 +1,5 @@
+phase command control the phase part, action command control the action part and there is a baseline.
+And, Fujisaki mathematical model is this.
+So, let us try to derive this mathematical model or I can describe this model as per the Fujisaki papers.
+This will come later on.
+So, if you see that, how this or vocal quotes are there.

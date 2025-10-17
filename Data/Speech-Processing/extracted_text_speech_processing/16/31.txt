@@ -1,0 +1,6 @@
+this black box.
+So, that is nothing but I can say this is nothing but a square.
+So, X A square if X is the input Y is the output Y equal to X A square.
+We can derive this system property from observing the known input what is the behavior.
+Same black box model can be applied in human auditory system or human speech perception.
+Suppose I apply a particular frequency sound with a particular intensity.

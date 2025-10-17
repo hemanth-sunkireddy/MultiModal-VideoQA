@@ -1,0 +1,3 @@
+So, here instead of taking the log I find out that mod of S k and I plot that mod of S k with respect to frequency that is spectrum that this axis is the frequency axis and this axis is the mod of x a which is root over of S square plus B square because S k is in complex domain ok.
+So, I get this kind of response which is linear.
+Now, instead of plotting this if I plot the log of this.

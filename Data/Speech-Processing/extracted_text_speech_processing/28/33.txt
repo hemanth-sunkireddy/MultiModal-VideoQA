@@ -1,0 +1,1 @@
+then no problem if i cut one period and paste it one period here there is no problem so that is called pitch synchronous now to get that exact pitch period from the voice signal automatically is very difficult so estimation of pitch synchronization or you can make the pitch synchronization is very difficult so that is why this process is also very difficult

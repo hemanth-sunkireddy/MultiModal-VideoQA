@@ -1,0 +1,3 @@
+in a 1 second I will get 100 frame 100 such frame 10 millisecond 10 millisecond 10 millisecond.
+So, 100 such frame and each frame from each frame I get a representative feature vector that is my job.
+So, in 1 second or you can 1.5 second I can get at least 150 frame.

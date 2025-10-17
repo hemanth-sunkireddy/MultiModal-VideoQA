@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 # Folder containing your videos
-folder_path = Path("Data/Videos-Politics")  # <-- change this
+folder_path = Path("Data/Videos-Digital-Signal-Processing")  # <-- change this
 
 # File extensions to include
 video_extensions = {'.mp4'}

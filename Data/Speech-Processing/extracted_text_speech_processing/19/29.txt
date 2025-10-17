@@ -1,0 +1,5 @@
+So, let us the value is come around 28000 for a one sample.
+So, it is 32000 plus and 32000 minus if it is maximum possible.
+Now, if it is 28000 if you square it, the number will be integer number will be very high.
+So, instead of squaring the signal, what I can do?
+I can find out the short term average energy, short term average magnitude energy.

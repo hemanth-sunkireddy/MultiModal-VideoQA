@@ -1,0 +1,4 @@
+instead of n equal to 1024 let us I take n is equal to 256.
+Then my time domain resolution is increases because I my window size is very less.
+So, I can get the better time resolution.
+Now what is happen since f is equal to frequency resolution is nothing but a f s by n if n is decreasing the frequency resolution is also decreasing.

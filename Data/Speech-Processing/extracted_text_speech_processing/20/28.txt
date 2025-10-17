@@ -1,0 +1,7 @@
+take the mod, then I pass through the window and get the.
+So, what I get for every window I get a z value.
+So, for the window number 1, I get a z 1 for window number 2, I get a z 2 for window number 3, I get a z 3.
+So, how many if there is a 100 frame per second.
+So, I can get 100 z value.
+So, instead of fs, I can get 100 points of z value.
+So, fs is 1 second.

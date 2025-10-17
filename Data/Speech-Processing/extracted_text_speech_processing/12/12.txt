@@ -1,0 +1,3 @@
+So, this is the complete electrical model.
+Now, if it is P g, it can be think this is P g. So, if I make it replaced by a current source which is nothing but a U g, current source is nothing but a U g, then this impedance come in parallel.
+So, this is Z g and this is P g.

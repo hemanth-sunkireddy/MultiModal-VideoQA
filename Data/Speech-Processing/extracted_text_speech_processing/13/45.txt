@@ -1,0 +1,1 @@
+and here is I get the input of the kth tube which is nothing but a u k plus t and u minus k t. Here is the delay of the k plus 1 tube tau k plus 1 and here will be delay of the k plus 1 tube tau k plus 1 and I can get that u k plus 1 plus t minus tau k plus 1 and here I get.

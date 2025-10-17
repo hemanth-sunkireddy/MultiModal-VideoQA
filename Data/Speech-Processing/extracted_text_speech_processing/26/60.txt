@@ -1,0 +1,5 @@
+response and the frequency response of the window.
+So, the whatever the frequency response I get it is a convolution window effect will be there.
+So, at the boundary there is a window effect.
+So, if I do segment by segment and there will be a window effect.
+So, instead of doing that what we do we take a window of let us 20 millisecond and then shifted at the window 10 millisecond that means 50 percent overlap.

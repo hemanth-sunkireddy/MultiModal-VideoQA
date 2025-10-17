@@ -1,0 +1,5 @@
+this sample p order will be added here.
+So, this is called LPC error.
+So, if I see the LPC error beginning of the window LPC error will be maximum and the end of the window LPC error will be maximum.
+If I make the signal windowed by a window any kind of window you can say the window.
+So, outside the window the signal value is

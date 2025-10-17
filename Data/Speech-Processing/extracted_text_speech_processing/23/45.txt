@@ -1,0 +1,6 @@
+what is the possible order of the LPC analysis?
+What is the possible order of LPC analysis?
+So, I can say there is a 7 formant.
+So, I can say 7 into 2 each formant require 2 complex pole.
+So, it is nothing but a 14 order LPC analysis.
+So, this way this can be explained this is called LPC spectrum and then there is a LPC spectrogram can this is the frequency analysis equation.

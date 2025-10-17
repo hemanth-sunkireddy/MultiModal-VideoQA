@@ -1,0 +1,5 @@
+k. The value is alpha.
+So, let us del n by del e n by del alpha i equal to 0.
+Then, I get the minimize the set of value of alpha k for which the function is minimum.
+So, I can say del e n by del alpha i is equal to what?
+Del of del alpha i minus infinity to infinity m is minus m into infinity s of n m.

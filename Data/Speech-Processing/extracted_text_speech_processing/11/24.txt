@@ -1,0 +1,3 @@
+If it is passed through the radiation loss then low frequency will not affected much more, but high frequency will be lost.
+So, I will explain it in here if you see this is the figure with the no loss condition at 500 hertz infinite energy 0 bandwidth.
+If I consider the wall vibration then I say the bandwidth is increases slightly amplitude increases in high frequency.

@@ -1,0 +1,6 @@
+So, if you see the second formant are moving, even first formant is also moving.
+So, I can see there is a formant movement or I can say there is a dynamics of the parameter changing across the segment.
+So, that dynamics also can be a good feature.
+So, if I want to capture those dynamics, so this is represent the frame 1, this is represent the frame 2, this is represent the frame 3.
+So, what is the dynamics?
+Dynamics, this

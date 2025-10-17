@@ -1,0 +1,4 @@
+pressure wave pressure with respect to position time with the particle velocity with position and time.
+So, that I want to know that is why I want to know the derive those equation.
+So, for deriving those equation you already studied it may be in acoustics or in wave equation derivation in first year physics.
+We consider three principles of physics one is called Newton second law of motion second is called gas law of therionics.

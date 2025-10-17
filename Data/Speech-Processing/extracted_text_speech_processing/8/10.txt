@@ -1,0 +1,8 @@
+Then I do not know the time information.
+I want the time information should be there.
+So what I do?
+I do a spectrographic plot.
+How do I do it?
+I will discuss in the signal processing class.
+So in x axis, let us this is time or sample and y axis is the frequency okay and then the amplitude or power of the particular frequency is represented by a color.
+It may be a color or it may be a

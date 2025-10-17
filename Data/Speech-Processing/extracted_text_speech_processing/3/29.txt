@@ -1,0 +1,3 @@
+So, if this is my x n, let this is my x n. So, x n has to be multiplied with amplitude 0.5 and has to be added with 0.9 multiplied x n minus 1.
+So, I can say let us I take one x n in here input and apply a z to the power minus 1 delay.
+z to the power minus 1 represent one sample delay and added with this signal with a amplitude of 0.9.

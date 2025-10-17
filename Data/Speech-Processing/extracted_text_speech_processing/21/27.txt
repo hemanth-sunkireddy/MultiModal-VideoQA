@@ -1,0 +1,3 @@
+alpha k z to the power minus k. I get capital the estimated signal.
+Now, if I differentiate those two signals, I get the error signal which is E n or I can system diagram I can say from the beginning that S cap S n minus S cap n is my the error.
+So, I can say that if I synthesize 1 by a z.

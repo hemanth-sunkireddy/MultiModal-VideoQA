@@ -1,0 +1,4 @@
+1 is equal to E n 0 into 1 minus k 1 square.
+So, I get the value of k 1 here, I can put the value k 1 here and find out E 1 n, then what is alpha j i, if you see alpha j i here I put j equal to 1 or i equal to 1.
+So, it is alpha 1 0 minus k 1 square.
+So,

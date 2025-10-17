@@ -1,0 +1,3 @@
+that source is a impulse response that can be passes through a filter depending on the filter structures different sound can be generated.
+So, in engineering model or human production system if I see it is a source filter model.
+So, vocal code is producing the source which is nothing but a impulse either sound is present.

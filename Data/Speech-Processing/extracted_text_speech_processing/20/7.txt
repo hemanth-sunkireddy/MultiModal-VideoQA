@@ -1,0 +1,3 @@
+for M sample is nothing but a 2 into F 0 divided by F s into M is clear.
+So, now suppose I have a signal 1 kilohertz signal F 0 is equal to pure tone of 1 kilohertz sampled at F s 10 kilohertz.
+If I say find out the number of zero crossing for 40 or 400 sample.

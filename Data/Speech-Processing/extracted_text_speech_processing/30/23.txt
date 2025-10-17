@@ -1,0 +1,3 @@
+overlap add method.
+So, in overlap add method, so take inverse DFT for each fixed time of the discrete S DFT instead of dividing out the analysis window from each of the resulting short time section, I can do a add operation.
+So, what I said that take the window, I can

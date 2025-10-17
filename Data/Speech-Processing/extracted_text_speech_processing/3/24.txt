@@ -1,0 +1,5 @@
+Next, discrete time system.
+So, some signal periodic, aperiodic, signal symmetric, anti-symmetric, I have not discussed signal is called stationary and non-stationary signal is also.
+So, what do you mean by stationary signal?
+If the signal does not change its property over the time, then I can say it is a stationary signal.
+Suppose, I have a

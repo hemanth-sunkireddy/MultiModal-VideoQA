@@ -1,0 +1,5 @@
+256 ok.
+So, I take the n equal to 256.
+Now, what is the resolution?
+If the signal is 16 kilohertz sample n equal to 256, then I can 16 k divided by 256 is my resolution.
+Now, if I want to increase the frequency resolution, so instead of 10 millisecond, if I take 20 second, then it is a 320 sample.

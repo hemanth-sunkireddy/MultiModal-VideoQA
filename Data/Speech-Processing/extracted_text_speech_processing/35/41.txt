@@ -1,0 +1,5 @@
+zero line two times that is called zero crossing base f 0 detection.
+But what is the problem?
+In this case it is ok. Now, suppose there is a high frequency this speech is not a monotone signal.
+So, it is a there is a high frequency component.
+Now, we see the number of zero crossing single this is the fundamental frequency, but number of zero crossing.

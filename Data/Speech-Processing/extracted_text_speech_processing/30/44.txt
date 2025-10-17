@@ -1,0 +1,1 @@
+to get the signal back next take the next portion next portion so i want to know how much amount of shifting of this sliding is possible it is generally it is possible if i slide the analysis window once every sample but which is very time consuming and also time complexity because if i have a 480 4 800 sample then 408 800 times i have to analyze the sdft

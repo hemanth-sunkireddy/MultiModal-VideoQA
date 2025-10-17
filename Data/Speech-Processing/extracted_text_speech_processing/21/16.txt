@@ -1,0 +1,4 @@
+prediction.
+So, I can say I can predict current sample from previous p number of sample with a corresponding factor a 1, a 2 and a p. So, what I get in here?
+So, if I know a 1, a 2, a p those are the call coefficient.
+So, those are the linear prediction coefficient I can say those are describing the properties of the speech signal.

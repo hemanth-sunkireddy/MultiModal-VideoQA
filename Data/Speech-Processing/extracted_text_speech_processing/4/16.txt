@@ -1,0 +1,5 @@
+So, what is the concept behind this?
+I am not going this one, this DFT I will as I am describing the DFT.
+So, what I will do discrete Fourier transform.
+So, discrete time first you just know the equation of discrete time Fourier transform.
+So, I can say x of omega where the frequency is continuous is nothing, but a n equal to minus infinity to infinity x n.

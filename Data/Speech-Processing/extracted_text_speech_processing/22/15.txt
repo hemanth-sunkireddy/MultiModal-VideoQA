@@ -1,0 +1,3 @@
+So, it can consist of different type of signal with respect to time.
+Sometime it is waste, sometime it is un-waste, sometime it is sibilant.
+So, what I want if I want if I take that all waste sibilant silence at a time and try to find out the set of alpha 1, alpha 2, alpha 3, no use because whole signal is set and I do not know whether this time I have to supply the impulse response or this time I have to supply the noise, I do not know that.

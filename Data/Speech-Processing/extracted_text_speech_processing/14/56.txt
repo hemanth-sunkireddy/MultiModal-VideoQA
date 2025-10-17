@@ -1,0 +1,4 @@
+I can write this dz in a signal flow diagram as a all pole model and z equal to this vz z to the power minus all pole model then it will be z to the power minus n by 2.
+So, I can write down the signal flow diagram in all pole model.
+So, I can say mathematically it is proved that a vocal track transfer function can be simplified as a all pole digital filter.
+All pole digital filter I can simplify it.

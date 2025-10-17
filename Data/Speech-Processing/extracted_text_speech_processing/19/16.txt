@@ -1,0 +1,5 @@
+say that the time along the time the signal change its color.
+So, if I want to increase the time resolution, I should analyze the signal for every sample, but that analysis does not provide me any information.
+So, what I want?
+I want a small window let us 5 to 10 millisecond if I shift it.
+So, for 5 to 10 millisecond window very short signal.

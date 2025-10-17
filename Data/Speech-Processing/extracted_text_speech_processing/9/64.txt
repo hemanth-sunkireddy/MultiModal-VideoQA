@@ -1,0 +1,6 @@
+how the pressure wave is propagated I know in the tube.
+Now, I have to derive.
+So, pressure wave mathematical equation I know, but I do not know what is the solution of the p. So, I have to second order differential equation.
+I can solve that second order differential equation and find out the equation for p solution of the second order differential equation.
+And then try to find out how what should be the transfer function of this vocal tract tube ok.
+So, next class we try to derive.

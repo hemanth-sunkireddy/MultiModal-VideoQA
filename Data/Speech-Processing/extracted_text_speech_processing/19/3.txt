@@ -1,0 +1,2 @@
+So, that is a digital signal we know the sampling frequency of x n let us is f s ok.
+So, now speech if you see the speech is a time varying signal that means, along the time if this is the time axis then speech property has been changed this may be voiced that may be unvoiced then there may be a voice there may be noise then there may be a voice again then there will be a noise like that.

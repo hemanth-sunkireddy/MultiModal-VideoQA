@@ -1,0 +1,3 @@
+and I prepared a dictionary signal dictionary which content all the diphone.
+Now, if you see any text will come any sentence or any text will come that is consist of some combination of those diphone.
+So, I can pick up those diphone and added together to combine them and I produce the speech that is called diphone synthesis technique diphone synthesis technique.

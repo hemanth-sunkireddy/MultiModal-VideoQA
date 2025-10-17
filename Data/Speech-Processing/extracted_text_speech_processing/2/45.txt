@@ -1,0 +1,4 @@
+If it is mono, single channel recording is there and there also sampling frequency is important because unless I do not know the sampling frequency, I cannot process it.
+Digital signal or this digital processing of this sound file is required a sampling frequency.
+So sampling frequency also stored in this sampling rate, byte rate, block again, block size, so those format details are given in this slide.
+So digital format uncompressed and compressed format what I have expressed and then

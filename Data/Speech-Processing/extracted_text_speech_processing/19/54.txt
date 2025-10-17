@@ -1,0 +1,4 @@
+10 sample value.
+For M n also for 1 second I get 10 sample value.
+Now, you see whether you able to find out the voice zone using E n and M n or not.
+So, may be if it is voice zone E n value will be high if it is unvoiced or sibilant E n may be if it is noisy unvoiced amplitude may not be that much of fall amplitude may rise somewhere and then again voicing zone it may rise.

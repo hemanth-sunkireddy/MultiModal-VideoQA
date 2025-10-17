@@ -1,0 +1,5 @@
+theta is equal to 0.
+So, omega L by C is equal to pi by 2 if pi if pi by 2 then cos omega L by C is equal to 0.
+So, resonance will be occur.
+So, first resonance because cos theta can be 0 not only pi by 2, but cos theta is equal to 0 if theta is equal to pi by 2 not only pi by 2 if theta is equal to 3 pi by 2 then also it is 0.
+If it is 5 pi by 2 then also it is 0.

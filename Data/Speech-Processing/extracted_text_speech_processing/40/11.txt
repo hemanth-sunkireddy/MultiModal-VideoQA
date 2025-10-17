@@ -1,0 +1,1 @@
+So, I said whatever I have measured in acoustical measurement a whatever the parameter I have extracted find out the maximum probability of a for a given w 1 w 2 w 3 or w n which is for a probability of a for a given w. So, argmax of probability of a for a given w and probability of

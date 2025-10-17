@@ -1,0 +1,4 @@
+frequency response of the unit impulse will be modified by the filter frequency response.
+Details of how what should be the formant structures will come on when we model this speech production system.
+So, all the voice sounds are characterized by the formant frequency for different voice sound has different kind of formant frequency that is why they sound like different sound.
+So, then if just this we have already explained that why that woman has shorter f 0 and formant frequency.

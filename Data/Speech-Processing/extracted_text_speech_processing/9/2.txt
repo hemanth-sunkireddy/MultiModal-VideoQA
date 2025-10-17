@@ -1,0 +1,3 @@
+That what is the purpose of that whole course for speech processing is that we should know how the human speech is produced ok. After knowing that can I able to mathematically model that human speech production that is our motto.
+If I know the mathematical model is speech production system then studying the system property ah we can know what kind of speech property we should look for in the acoustic signal ok.
+So, our motto is to developed a mathematical model.

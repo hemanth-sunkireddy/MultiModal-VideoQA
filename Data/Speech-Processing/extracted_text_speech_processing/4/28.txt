@@ -1,0 +1,5 @@
+always depend on a third bracket.
+So, mod of x k is nothing but a root over of a square plus b square that is called magnitude response.
+So, what is the phase response?
+Theta is nothing but a or arg of theta arg of x k x k theta is nothing but a tan inverse b by a.
+Now, suppose I told you I have a signal x n.

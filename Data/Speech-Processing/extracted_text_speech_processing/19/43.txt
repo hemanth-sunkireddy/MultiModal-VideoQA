@@ -1,0 +1,6 @@
+and find out E2.
+Then that way I can show if it is 10 millisecond shifting, so I get 100 frame per second.
+So, in 5 second I will get 500 frame.
+So, I can get E1, E2, E3 dot dot dot dot E500.
+So, I get 500 short term energy data point.
+Now, if I told you that

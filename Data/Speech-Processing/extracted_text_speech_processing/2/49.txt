@@ -1,0 +1,6 @@
+may not be required in human speech, but I cannot get those speech after 10 kilohertz because my microphone has a limitation.
+It can only record the signal or you can only transfer the acoustic wave to electrical signal of 100 hertz to 10 kilohertz.
+So, if I apply a 12 kilohertz signal, acoustic wave, it may not produce any signal.
+It not produce any signal.
+So, I am not getting any information in the electrical wave.
+Once that electrical signal I get, I will pass through the digital cut.

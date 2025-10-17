@@ -1,0 +1,3 @@
+if it is k equal to 1, then k equal to 1 2 1 2 3 4 5, I can say calculate that k. So, you know k U L k or L L is equal to 0 for the first filter and U L is equal to 3 for the first filter.
+Then, second filter I can find out L L may be equal to 1 and I can find out U L equal to 4.
+That way, I can design the filter and find out that S S cap L S cap L which is male scale.

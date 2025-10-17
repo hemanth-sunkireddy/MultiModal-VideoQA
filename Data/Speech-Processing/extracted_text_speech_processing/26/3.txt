@@ -1,0 +1,3 @@
+Now, if I show you suppose this is my speech signal this is my whole speech signal is this one ok. Now, if I take the Fourier transform of whole speech signal then I get a spectrum or frequency domain representation whose consist of all average of all the variation.
+That means, if you see along the time this axis is the time axis.
+So, along the time

@@ -1,0 +1,4 @@
+1000 number of pieces equal amount of pieces.
+So, I can say each pieces.
+So, k is varies from 0 to 1000 0 1 2 3 4 6 4 5 6 8 up to 1000.
+So, I can say that whole 8 kilohertz space is divided in 1000 pieces that means every sample k value k equal to 0 k equal to 1 means it is separated by 800 hertz.

@@ -1,0 +1,7 @@
+So, analogous analysis window is non-zero, it is a finite length n w. So, temporal decimation factor is L is must be less than the length of the analysis window that we have already said.
+If it is greater than then I know I I I miss the signal and number of that 2 pi by n w must be greater less than the number of channel bandwidth.
+This is we know.
+So, considering window short time signal f n omega is equal to omega w n into x n and x of n omega Fourier transform of x n analysis window is.
+So, this is the analysis window.
+So, this is the analysis window.
+So, this is the analysis window.

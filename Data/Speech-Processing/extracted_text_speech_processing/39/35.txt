@@ -1,0 +1,3 @@
+and I give this acoustic signal to here machine, then machine try to match whether this template match with this template or not.
+So, there may be a home, there may be a friend, there may be a let us school all kinds of words are there and once I get this this template try to match with template of all words and the best matching template will declared you have said this one.
+That is called pattern recognition matching between the two things is pattern recognition.

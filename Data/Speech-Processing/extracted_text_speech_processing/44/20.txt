@@ -1,0 +1,3 @@
+Then we thought why not we train this HTS same system instead of labeling at syntactic written word boundary I should train it with the prosodic words prosodic structure.
+So, spoken corpora is labeled instead of syntactic structure.
+So, word boundary are all boundary are marked this is the word is based on the prosodic word based on the prosodic phase and based on the prosodic clause.

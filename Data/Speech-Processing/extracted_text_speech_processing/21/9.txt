@@ -1,0 +1,2 @@
+z to the power minus k can be equal to A into u z, u z is the input impulse.
+So, our I can write S z minus k equal to 1 to p a k z to the power minus k S z equal to A into u g z which is the input of the vocal track if it is voiced.

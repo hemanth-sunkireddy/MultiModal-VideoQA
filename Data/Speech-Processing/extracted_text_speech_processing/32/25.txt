@@ -1,0 +1,5 @@
+1 of this D then I get the y.
+So, linear filter is that suppose I want to extract this one.
+So, I can extract this one and I can inverse the inverse filter I can apply inverse transform I can apply I can get the x 1.
+So, this is the purpose for homomorphic convolution.
+So, if you see this picture there is a 3 1 2 3, 3 part.

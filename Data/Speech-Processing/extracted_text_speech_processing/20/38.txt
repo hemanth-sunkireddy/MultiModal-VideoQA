@@ -1,0 +1,4 @@
+between the two object is called correlation, similarity between these two object.
+If two object are similar then I can the similarity is similarity I have to measure the degree of similarity.
+So, there is a requirement of some parameter with respect to which I can find out the degree of similarity.
+So, suppose it is a digital signal x n another digital signal y n I have to find out the similarity between this signal and this signal.

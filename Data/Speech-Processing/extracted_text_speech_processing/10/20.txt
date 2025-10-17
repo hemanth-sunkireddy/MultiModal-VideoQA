@@ -1,0 +1,2 @@
+the the Gortle frequency response which is U G omega has to be passed through the tube and the tube output of the tube I have to find out and then output by input is the tube transfer function.
+So, U 0 t U 0 t is nothing, but a U G omega e to the power j omega t. And at the leaf let us there is a radiation load is for the low frequency radiation load

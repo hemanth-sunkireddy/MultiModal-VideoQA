@@ -1,0 +1,5 @@
+is less 201 hertz, whether can I am able to differentiate between this 200 hertz and 201 hertz?
+It said it is 0.3 to 0.5 percent.
+That means, if the difference is lie between this range, we cannot differentiate the two frequency, two frequency.
+So, we cannot separate them.
+So, let us 0.3.

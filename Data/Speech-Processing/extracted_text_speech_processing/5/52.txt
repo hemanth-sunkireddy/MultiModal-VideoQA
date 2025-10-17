@@ -1,0 +1,1 @@
+with e t if i take the laplace transform in frequency domain or z transform let us take the laplace transform then s s laplace domain is nothing but a h s multiply by s so frequency response of the filter will be multiply with the frequency response of the source and produce the speech so different sound

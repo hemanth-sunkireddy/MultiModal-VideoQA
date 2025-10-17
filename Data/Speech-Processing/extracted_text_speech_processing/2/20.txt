@@ -1,0 +1,7 @@
+So, sampling frequency, based on the sampling frequency you know up to what frequency I can get of this speech signal.
+So, that is the sampling frequency idea.
+So, in speech sometime we use 16 kilohertz.
+That means highest frequency component of the signal is 8 kilohertz.
+If it is 22 kilohertz, then it is 11 kilohertz.
+So, that is called sampling frequency.
+Other aspects is quantization.

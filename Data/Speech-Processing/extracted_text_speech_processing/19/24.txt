@@ -1,0 +1,5 @@
+What kind of time domain parameters are there?
+So, I can say short term energy.
+So, for every window I can find out the short term energy of the speech signal.
+So, suppose let us application side you can come.
+Suppose I have a speech signal there is a voicing, then there is a let us noisy part, then there is a silence part, again there is a voicing part and then again there is a silence part.

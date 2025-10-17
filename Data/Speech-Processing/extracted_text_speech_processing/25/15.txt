@@ -1,0 +1,3 @@
+So, suppose for a given speech signal find out the prediction error or prediction error signal which is nothing, but a gain into Guadal excitation signal.
+So, I can apply the speech signal and implement AZ I can implement easily AZ if I know K 1 value of K 1 K 2 in second stage it will be K 2.
+So, third stage it will be K p. So, if I know the value of K 1 K 2 K p and

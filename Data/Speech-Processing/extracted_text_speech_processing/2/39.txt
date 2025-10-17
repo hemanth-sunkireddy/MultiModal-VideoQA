@@ -1,0 +1,5 @@
+How this is stored in computer?
+There is a different kind of file format mono versus stereo that I said stereo means two channel mono means single channel.
+Stereo sound I have not explained in detail there is a stereo sound, there is a 5.1 channel sound, there is a Dolby digital sound.
+So, Dolby digital is again in one format it is not a sound you can say that it is a sound recording Dolby digital is a sound you can say the compression technique or you can say the sound compression procedure.
+So, Dolby digital is a format instead of

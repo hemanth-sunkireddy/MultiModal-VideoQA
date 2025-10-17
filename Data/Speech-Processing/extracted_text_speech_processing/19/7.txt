@@ -1,0 +1,4 @@
+through some purpose in the speech processing.
+So, what we have done instead of doing that whole signal at a time, we try to analyze the signal for a particular window, for a particular signal, for a particular segment.
+Now, this segment I take this segment and find out the parameters and move to the next segment, next segment, next segment, then I can get a segment.
+So, if this is my FAS.

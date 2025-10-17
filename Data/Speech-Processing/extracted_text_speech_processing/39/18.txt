@@ -1,0 +1,6 @@
+problem.
+Second thing is that word pattern matching large vocabulary.
+How much how many word I will store for any language?
+There is a huge number of words.
+If I store many words and then there is a probability of becoming same word that you can say the phonetically similar word will be increased.
+I said suppose I said as I give you in that problem the problem in

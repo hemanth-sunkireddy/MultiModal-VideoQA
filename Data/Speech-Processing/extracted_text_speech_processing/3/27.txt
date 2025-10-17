@@ -1,0 +1,5 @@
+If you call system, this is called discrete systems.
+I am not going to the analog system.
+You know the signals and systems that class.
+So, discrete system, let us output of a discrete system is Y n is nothing but a H of input X n. So, H is the transfer function of the systems.
+Let us the system is like this Y n is equal to 0.8 Y n minus 1.

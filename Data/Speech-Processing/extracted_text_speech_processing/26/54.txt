@@ -1,0 +1,5 @@
+white.
+So, the value of x 1 k will come a value.
+So, within that value I can assign appropriate color of this band for k equal to 1 this is the first band.
+Now, for k equal to 2 second band k equal to 3 third band k equal to 4 fourth band I can find out this value and color this block.
+Again I shifted the time next block I color this block.

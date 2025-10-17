@@ -1,0 +1,2 @@
+Same technology we want to produce in machine that in front of a microphone we want to speak out that was speech signal or the speaker output we want to give and from the microphone and the signal processing technique I want to develop how human being perceive the speech.
+So if I want to develop that technology we should know that signal processing involve in human brain.

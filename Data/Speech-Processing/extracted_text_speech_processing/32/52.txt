@@ -1,0 +1,3 @@
+which is nothing but a rectangular window then I do the DFT.
+So, the up to this process is convert SN to SK that conversion has to be done.
+Then what we will do for power spectrum analysis this SK will be go to the log then I do the IDFT.

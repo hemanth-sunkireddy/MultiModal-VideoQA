@@ -1,0 +1,2 @@
+with DFT view discrete Fourier transform view.
+So, what I said x of n omega omega is continuous is nothing but a m equal to minus infinity to infinity x of m w n minus m e to the power minus j omega m ok. Now, this is DTFT discrete time

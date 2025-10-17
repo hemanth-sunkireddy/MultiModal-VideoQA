@@ -1,0 +1,3 @@
+at this point is nothing but a P 0 t pressure at here is P x t and cross section of the tube is A the area cross sectional area of the tube is A ok. We consider throughout the tube A remain constant ok.
+So, now A remain constant.
+Now, try to find out the travelling wave solution.

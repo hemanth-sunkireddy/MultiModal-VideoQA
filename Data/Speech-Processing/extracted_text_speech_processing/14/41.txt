@@ -1,0 +1,3 @@
+So, it is minus R g into U 1 z.
+So, I can write U 1 is equal to R 1 R 2 R 3 R 4 R n into 1 0 U L z.
+So, I can write U g z is equal to R 1 R 2 R 3 sorry U g z equal to 2 by 1 plus R g 1 minus R g. So, instead of U 1 z I can write R 1 R 2.

@@ -1,0 +1,2 @@
+Now if you see that this x axis which is written the sample number of sample as we discuss in signal processing that once you recorded the digital speech that this is x axis is sample number of sample or it can be time or sample then y axis is the amplitude if you see this the amplitude.
+Now if you see this portion no speech that amplitude of the samples are very low almost close to zero line this is zero zero amplitude line.

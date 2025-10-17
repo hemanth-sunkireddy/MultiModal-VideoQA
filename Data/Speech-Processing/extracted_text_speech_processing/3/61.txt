@@ -1,0 +1,5 @@
+So, this portion of the signal is deducted and I compare this portion with whole signal.
+So, that is the correlation.
+So, details there may be a detailed discussion in signal passing books you can refer to the any signal passing book.
+The algorithm also I have written down you can go through the slides and find out that things then the convolution correlation.
+So, then LTI discrete time system which has to consider because in signal passing or speech digital speech passing.

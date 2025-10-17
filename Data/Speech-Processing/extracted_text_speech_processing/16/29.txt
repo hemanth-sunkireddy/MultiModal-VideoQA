@@ -1,0 +1,5 @@
+So, I can think let us the human sound perception is a black box.
+Now, how do you define how do you how do you find out a black box model property of a system?
+Suppose I have a system I do not know anything this is black box I do not know system property system things nothing.
+Now, how do you determine?
+We excite the system with a particular signal or known signal then try to find out the.

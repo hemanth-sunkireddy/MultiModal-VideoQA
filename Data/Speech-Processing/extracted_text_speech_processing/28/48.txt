@@ -1,0 +1,7 @@
+understand 5 milliseconds.
+So, that is why we are do the speech processing in frame rate.
+Then I can do the STFT, I can use the OLA method to get back the signal.
+So, I analyze the signal like this way.
+If you see there is a picture I have shown you, you can go through this slide also this one.
+So, I take frame by frame 70, I can make 75 percent overlap here.
+I analyze frame, this frame, this frame, I get back.

@@ -1,0 +1,3 @@
+tau plus k equal to 1 to infinity B k delta T minus n tau minus 2 k 2 tau, why?
+So, if you see if I have a tube with n number of junction of length let us n the n section of junction.
+So, each section create a delay tau.

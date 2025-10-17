@@ -1,0 +1,7 @@
+then I said it is represented by here this line.
+So, I quantized that continuous 5 volt in some sort of a level.
+So, same thing is happened.
+So, suppose I have a feature vector x 1 x 2 up to x n is a feature vector.
+I have collected all kinds of feature vector then I said x 1 has a variation from let it is x 1 varies from 0 to 10.
+I said generate 5 vector within the variation of 0 to 10.
+So, I can say

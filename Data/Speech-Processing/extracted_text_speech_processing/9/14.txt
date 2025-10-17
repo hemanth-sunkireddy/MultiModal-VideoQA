@@ -1,0 +1,2 @@
+Next one is that there may be a thermal loss, there may be a viscous loss, there may be a friction loss, let us consider that loss also not there.
+So, we simplify that human vocal track is nothing but a single tube whose cross sectional area is constant A, there is a no friction loss, there is a no viscous loss, there is a no thermal conduction.

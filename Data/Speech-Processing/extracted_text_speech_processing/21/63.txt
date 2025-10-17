@@ -1,0 +1,5 @@
+First, we will discuss about the autocorrelation method.
+So, there is three kinds of method autocorrelation methods, matrix method, the covariance method and another one is called the lattice filter method.
+So, using these three methods, I will try to estimate the value of alpha 1, alpha 2 and alpha 3.
+So, next class we will do that.
+Thank you.

@@ -1,0 +1,4 @@
+Then, take the difference.
+So, this is there is a n number of signal in my signal and take the first sample and take collect the difference of the first sample with other sample and take the sum and divided by n. Now, see the philosophy.
+If this is my x 0, let us my x 0 is in here.
+So, I take the x 1.

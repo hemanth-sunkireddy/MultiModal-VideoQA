@@ -1,0 +1,2 @@
+three parameters, then we realize these three parameters, then after analyzing we try to develop a linear model using these three factors, so that we can predict the pause.
+So, one is called occurrence probability prediction, whether for after this word or after this phase there will be a pause or not, whether there will be a pause or not, whether there will be a pause or not, so that we probability we have calculated.

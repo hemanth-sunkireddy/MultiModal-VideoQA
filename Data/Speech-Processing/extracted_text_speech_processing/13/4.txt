@@ -1,0 +1,3 @@
+So, let us the whole track is modeled by n number of tube with a fixed length, length is fixed, let us the length is L. So, I can say this L k length tube and n number of tube is connected with each other.
+So, I can say the vocal track is modeled like this way.
+So, I can say L 1 or I initially I can say that whole vocal track can be modeled different number of connected tube or different length also.

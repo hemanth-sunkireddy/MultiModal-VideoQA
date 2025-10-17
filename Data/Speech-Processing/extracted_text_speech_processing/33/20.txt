@@ -1,0 +1,3 @@
+that if I have a x signal and if a 1, a 2, dot dot a p are my LPC coefficient, those are the LPC coefficient of pth order, then if I take the frequency transform of this, if I take the DFT of this, what I will get?
+I get LPC spectrum, I get LPC spectrum which is nothing but a, I can get easily LPC spectrum.
+If I instead of

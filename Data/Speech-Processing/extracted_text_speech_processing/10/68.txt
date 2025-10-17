@@ -1,0 +1,5 @@
+loss at a time.
+If I consider one loss, how it will be modified?
+Second loss, how it will be modified?
+Then ultimately we can get what should be the frequency response or what should be the response of this vocal tract tube if I get it and what should be the transfer function.
+Thank you.

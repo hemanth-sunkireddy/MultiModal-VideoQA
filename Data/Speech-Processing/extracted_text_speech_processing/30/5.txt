@@ -1,0 +1,4 @@
+of summation frequency response of the analysis filter should sum to a constant.
+So, if I sum it, it should give me a constant which is nothing but a n into W 0.
+So, what is the FBS constant?
+That analysis window must be less than the length of the

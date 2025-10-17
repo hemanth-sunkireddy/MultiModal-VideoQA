@@ -1,0 +1,2 @@
+minus 1 1 minus 2 2 minus 3 3.
+So, number 1 it is straight forward delta n if it is n w is less than the n. Second one if even if n w is greater than n then I have to ensure that w r into n, n is the length of the analysis window must be 0 for all r.

@@ -1,0 +1,7 @@
+then satisfy this condition.
+Then if I see this, what is state that?
+This is nothing but a constant.
+W 0 is not 0.
+Summation of all frequency component.
+If I take the expression state, the frequency response of the analysis filter should sum to a constant across the entire bandwidth.
+So, this state that the frequency expression

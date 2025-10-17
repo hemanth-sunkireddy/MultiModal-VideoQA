@@ -1,0 +1,3 @@
+which is unique in certain domain.
+So, I can say probably if this is this kind of parameter extraction and those parameters belongs to particular phoneme may be so or may be parallel so.
+So, although the extraction of phoneme or part of a phoneme is a meaningful features or it is natural features of the speech signal, but detecting the boundary of a phoneme.

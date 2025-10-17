@@ -1,0 +1,6 @@
+It is very tough to record all those things.
+And also, if I recorded, then matching is very tough because some part of sentence will be same some other way, next part will be sentence speaking some other way.
+So, all kinds of problem will be generated.
+So, what will they said?
+Instead of recording word, sentence, all kind of things, initially they thought if I record only the diphone.
+So, for a particular language, if I have a phoneme, how many phonemes are there in English?

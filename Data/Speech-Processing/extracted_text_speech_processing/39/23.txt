@@ -1,0 +1,4 @@
+But if it is isolated word is ok, I can know that only word is spoken.
+But if it is a continuous speech, word boundary are absent.
+But in case of isolated word also, I said the single, I cannot reproduce exactly same word twice.
+Then if I say there is a two words like that ice cream and ice cream, those pronunciation are same ice cream and ice cream, which word I want to say I do not know, acoustically they are similar.

@@ -1,0 +1,2 @@
+So, let us I give an example I do not know the system if I put 2 it gives output 4, if I put 3 it gives output 9, if I give 4 it gives output 16.
+If I able to observe this behavior then if I able to plot 2 then 4 then 3 then 9 then I can know from the plot the behavior of the.

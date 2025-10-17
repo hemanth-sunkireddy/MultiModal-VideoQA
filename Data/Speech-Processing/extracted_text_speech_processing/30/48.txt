@@ -1,0 +1,2 @@
+the decimation factor L required to meet the Nyquist criteria which means that omega c the cutoff frequency or you can say the band of bandwidth omega c the bandwidth L must be less than equal to 2 pi by omega c ok.
+So, I can say L is must be equal to 2 pi by omega c

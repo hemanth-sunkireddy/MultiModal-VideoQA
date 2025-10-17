@@ -1,0 +1,2 @@
+So, what I define let instead of x 0 x 1 let us write it 1 1 minus 1 minus 1.
+So, I can say if x n is greater than 0 then let us I define a function S n g of x n will be 1 or or else

@@ -1,0 +1,5 @@
+sampling period is equal to tau.
+So, this is one sample delay one sample delay in here.
+So, I can say this is replaced by z to the power minus 1.
+So, if it is tau k is the delay.
+So, tau k delay is replaced by z to the power minus 1 and tau tau tau tau is tau is the tau k is equal to tau k plus 1 is equal to tau and this tau is equal nothing but a sampling period is equal to sampling period.

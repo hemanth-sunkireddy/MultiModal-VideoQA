@@ -1,0 +1,2 @@
+this is omega c, this is minus omega c, this is plus omega c. So, now what is bandwidth?
+Is nothing but a plus minus omega c to plus omega c which is nothing but a 2 pi by L 2 pi by N w. So, I can say 2 pi by N w minus 2 plus 2 pi by N w. This is the bandwidth.

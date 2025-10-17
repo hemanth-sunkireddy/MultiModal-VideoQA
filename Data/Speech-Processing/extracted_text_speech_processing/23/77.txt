@@ -1,0 +1,2 @@
+So, I can say the g g is nothing but a gain with a delta function at m equal to 0 only g exist with a gain.
+Now, if I multiply both side h m multiply by h m. So, I can say k equal to 1 to p alpha k h of m minus k

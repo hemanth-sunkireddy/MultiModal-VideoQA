@@ -1,0 +1,3 @@
+So, in that case I can say the signal is one sample delay that is z to the power minus 1.
+Now, considering the boundary condition I can derive the complete transfer function of this tube model in z domain then I can implement it.
+So, next class what I want to do I want to derive the total vocal chord transfer function for a n such tube model n such tube model.

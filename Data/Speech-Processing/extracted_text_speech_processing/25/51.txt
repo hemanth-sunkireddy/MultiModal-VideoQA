@@ -1,0 +1,2 @@
+So, if I say that percentage of correlation coefficient in K i then it is nothing but root over of K i K i forward K i K i forward equal to K i backward then either K i forward or K i backward you can take or you can use covariance methods which is equivalent to call I can say the Borg method.
+So, total error is forward error plus backward error.

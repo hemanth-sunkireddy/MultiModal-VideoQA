@@ -1,0 +1,6 @@
+50 sample.
+Now, the problem is that if I do that things then what will happen since this boundary in this boundary effect will come in the processing.
+So, there may be a this boundary I just this boundary may be fall in a very large signal.
+So, that this sample is included this window and this window energy will be less.
+So, what I want to know I want to remove this boundary effect also.
+So, then what will do?

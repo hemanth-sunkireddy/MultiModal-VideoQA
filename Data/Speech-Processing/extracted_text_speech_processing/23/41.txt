@@ -1,0 +1,3 @@
+I should get that LPC spectrum which will give me the resonant frequency have you understand or not.
+So, if I say f s by 2 number of pole I said ok now those coefficient are represent the pole position of the speech signal.
+Now, if I take the spectrum or in the frequency analysis of this LPC coefficient this should give the LPC spectra they should represent the peak at formant frequency.

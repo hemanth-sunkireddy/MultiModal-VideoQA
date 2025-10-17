@@ -1,0 +1,3 @@
+then the feature factor dimension is 320.
+Other way is that if I say this time ah after one day or after next time ah two signals are sound like ah, but if I recorded those two signal and I try to compare I found they are different sample wise they are different.
+So if I take the sampling.

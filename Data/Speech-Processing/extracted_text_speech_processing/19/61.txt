@@ -1,0 +1,20 @@
+F s by F 0 number of F s by F 0 sample per cycle.
+So, how many sample will be there in per cycle F s by F 0.
+So, if it is a 8 kilohertz sampling frequency and I have a 200 hertz F 0, then how many samples will be there in one cycle 8 k divided by 200 hertz.
+So, 40 sample.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.

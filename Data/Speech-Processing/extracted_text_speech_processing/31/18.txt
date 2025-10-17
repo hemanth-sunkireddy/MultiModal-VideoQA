@@ -1,0 +1,5 @@
+non natural features.
+Now, the problem is feature extraction is that whatever the features is there the extraction procedure must be robust.
+That means, what is robust?
+That means, if this is the speech signal if I this time I extract the features if the next time also I extract the features I will get the same features for the same speech signal and they should exactly represent the segment.
+So, sometime this features is very high.

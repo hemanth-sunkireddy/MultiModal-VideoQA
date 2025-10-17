@@ -1,0 +1,4 @@
+So, microphone there is a amplifier if it is required sometime microphone directly connected to the sound card which contain the amplifier then digital recording device or which convert that analog signal to digital signal then if I want playback.
+So, I require a speaker or headphone this kind of things.
+So, in digital recording what is does it is does the digitization and storing of the sound.
+So, digitization means it require the sampling frequency and

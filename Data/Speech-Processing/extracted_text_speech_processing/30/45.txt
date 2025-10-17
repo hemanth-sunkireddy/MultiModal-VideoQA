@@ -1,0 +1,2 @@
+So, I want maximum allowable shifting so that I can recover the signal from the inverse transform and also what kind of window I should use so that I know x of n omega for every omega.
+So, what will be the bandwidth of the analysis window and what will be the shifting dissemination in time?

@@ -1,0 +1,5 @@
+half to plus half minus half to plus half.
+So, if it is F s if I say that 2 pi capital F is the analog frequency.
+So, is the continuous signal omega is radian per second and this omega is radian per sample.
+So, this can varies from minus infinity to plus infinity.
+So, this frequency also can varies from minus infinity to plus infinity.

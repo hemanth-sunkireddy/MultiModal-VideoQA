@@ -1,0 +1,7 @@
+Suppose, I record a long sentence, it may contain three or four utterance because there may be an utterance.
+After the utterance, there is a more than 400 millisecond pause.
+Then we can say this is a single utterance, although this is part of a same sentence.
+In spoken language, the utterance is the chunk.
+In written language, we take a sentence as a chunk.
+This is the sentence level and utterance level.
+In the utterance, there inside there is a pause.

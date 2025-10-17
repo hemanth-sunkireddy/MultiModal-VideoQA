@@ -1,0 +1,3 @@
+I cannot get the local variation.
+So, what I want instead of taking the 48000 sample at a time I let us say I divide the signal with a some segment those are the segment.
+So, let us I divide the signal with a segment which is called 100 frame per second that means in 1 second I will analyze.

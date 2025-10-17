@@ -1,0 +1,4 @@
+which is duration of 10 millisecond may be window by 20 millisecond will give me a average fundamental frequency value.
+So, if I extracted that to take that 20 millisecond window and shifted the window by 10 millisecond then I get the 100 frame per second.
+So, for every 100 millisecond so, if I draw the Kolkata in f 0 plane.
+So, if it is 3.5 second signal so, there will be a 3.5 second.

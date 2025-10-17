@@ -1,0 +1,5 @@
+symbol for aspiration as per the IPA notation.
+If aspiration is voiced, then we call voiced aspiration.
+If the aspiration is unvoiced, then we call unvoiced aspiration.
+So, I have a velar sound, four varieties, ka, aspiration, kha, ga and gha.
+All are plosive or stop plosive.

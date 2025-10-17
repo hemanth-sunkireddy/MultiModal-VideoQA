@@ -1,0 +1,7 @@
+of DFT or number of channel, number of channel.
+Then go for the generalized FBS method.
+Now, I do it generalized FBS method.
+So, this I have analyzed with the FBS method with filtering view.
+Now, let us try to generalize this FBS method.
+So, what is generalization set?
+So, I can say Xn.

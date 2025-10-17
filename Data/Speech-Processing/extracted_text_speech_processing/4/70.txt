@@ -1,0 +1,6 @@
+I have a transfer function let us H z, z transform you know H z is nothing, but a y output y z divided by input x z this capital X capital Y ok, y z by x z is the transfer function H z.
+So, this H z is nothing, but a some polynomial function.
+So, let us it is p z by q z.
+So, p z is nothing, but a some polynomial function.
+So, let us it is p z by q z.
+So, let us it is

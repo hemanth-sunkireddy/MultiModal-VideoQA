@@ -1,0 +1,4 @@
+So, if it is LPC, how do you calculate it?
+It is said using this three equation which is given in the slides and I am writing.
+So, if a 1 and a p are the LPC coefficient and I want to find out the value of c 0 to c n minus 1 are the septum coefficient, real septum coefficient.
+So, how do I do that?

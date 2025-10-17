@@ -1,0 +1,4 @@
+segment or of a 20 millisecond segment for one window.
+So, my problem is that I have to find out how many times signal cross the zero line for 20 millisecond I take a window.
+So, that is why it is called short term zero crossing rate.
+If I want to calculate how many times signal cross the zero line entire signal that can also I calculate, but that will be not used because a signal which is time varying.

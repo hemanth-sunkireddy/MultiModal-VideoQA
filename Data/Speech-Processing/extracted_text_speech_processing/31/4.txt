@@ -1,0 +1,4 @@
+So, suppose so we said that ok speech speech is sample can be a features.
+Now, if you see if I consider a speech segment of 1 second, how many samples will be there if it is recorded with 16 kilohertz, then I can say 16 kilo sample will be there.
+Even if I make a window let us 20 millisecond window.
+So, 320 sample will be there 320 sample if I compare sample by sample.

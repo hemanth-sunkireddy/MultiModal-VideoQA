@@ -1,0 +1,5 @@
+signal processing.
+So, this kind of signal processing has a special name which is called homomorphic signal processing ok.
+So, I am not explaining again this slide.
+So, I want a methodology by which I can deconvolve the convolved signal.
+So, this type of signal processing represent as a

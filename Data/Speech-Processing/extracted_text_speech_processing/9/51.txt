@@ -1,0 +1,4 @@
+is nothing but a 0.
+So, what is this?
+I can write V to the power gamma into del P by del t plus P gamma V to the power gamma minus 1 del V by del t. This V is volume.
+This V is capital V which is volume minus del V into del t is equal to

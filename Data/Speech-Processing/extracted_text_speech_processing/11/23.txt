@@ -1,0 +1,5 @@
+So, it is nothing but a R R. So, load is totally resistive.
+So, radiation load is resistive means there is a loss radiation loss.
+So, I can say high frequency are effected due to the radiation loss.
+So, I can say the frequency response which I will get after the R R is high.
+Considering the losses with the bandwidth,

@@ -1,0 +1,4 @@
+if it is phase spectra theta is equal to tan inverse b by a.
+So, if I plot the theta against the frequency if this is the frequency axis and this axis is the theta then I call this is a phase spectra.
+So, frequency analysis we find out two kinds of spectra one is called phase spectra another one is called magnitude spectra.
+If you see if I analyze it if I analyze it frequency analysis if you see this window.

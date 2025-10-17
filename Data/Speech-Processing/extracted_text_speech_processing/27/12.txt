@@ -1,0 +1,4 @@
+block diagram of this convolution function.
+So, instead of m I should write n I should not write minus m because time instant I have taken n n is the fixed time instant.
+So, instead of minus m I write n. So, if I want to draw the signal diagram of system diagram of this thing.
+So, I can say this is my x n is coming it has to be modulated by e to the power minus j omega 0 n.

@@ -1,0 +1,6 @@
+if I want to butter black man window frequency response is like the hamming window this, hanging window this.
+So, most cases hanging window we are using if it is a refill is very less.
+So, different window function has different kind of frequency response.
+This frequency response will be combined with the frequency response of the signal and pass through the filter.
+So, it is time domain multiplication that means window multiply with the signal in time domain.
+So, frequency domain

@@ -1,0 +1,6 @@
+Now, if I want to normalize with respect to window length, then I again normalize with L. This is for first window.
+So, same thing will happen for any window throughout the signal.
+So, generalized formula for calculating the zero crossing rate is this one.
+And this is the block diagram.
+First signal pass through the minus 1 and 1, I make it, then take the difference.
+.

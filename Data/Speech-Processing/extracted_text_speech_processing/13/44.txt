@@ -1,0 +1,2 @@
+minus cross sectional area of the kth tube divided by the cross sectional area of the k plus 1 tube plus cross sectional area of the kth tube.
+So, the diagram so kth tube length is L k so delay is tau k. So, I can say whole diagram so kth tube length is L k. So, delay will be only tau k here also will be delay tau k.

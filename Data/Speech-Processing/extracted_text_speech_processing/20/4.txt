@@ -1,0 +1,6 @@
+how many samples are there.
+So, if F s is the number of sample and F 0 is the frequency.
+So, F s by F 0 sample will be there per cycle which I have discussed already.
+So, two time per cycle.
+So, every cycle how many samples are there F s by F 0 every cycle.
+So, cycles is equal to F s by F 0 sample.

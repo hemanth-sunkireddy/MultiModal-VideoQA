@@ -1,0 +1,2 @@
+t, which can be expressed as a constant multiplied by a exponential curve, which is represented by minima of 1 minus 1 plus beta t e to the power minus beta t or gamma.
+So, this is experimentally verified and find out by Professor Fujisaki and he can find out the value for beta and gamma for Japanese language and we have verified it for Bangla language, then beta and gamma is working fine.

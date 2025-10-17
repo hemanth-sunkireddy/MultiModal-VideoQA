@@ -1,0 +1,3 @@
+conversion.
+So, text to phoneme or I can say grapheme to phoneme conversion there is a lot of papers you find that for every language the there is a several kinds of g 2 p engines are available grapheme to phoneme conversion where the the system will take input as a text which is in grapheme information and converted its pronunciation information whatever is there.
+But for Bangla if you if you search in the net grapheme to phoneme conversion for Bangla you find my paper.

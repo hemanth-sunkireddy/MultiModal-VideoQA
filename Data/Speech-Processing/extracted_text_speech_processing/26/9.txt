@@ -1,0 +1,3 @@
+it is DFT discrete Fourier transform.
+So, FFT is nothing but an algorithm of implementation of DFT.
+So, once I get that omega is discrete then I say it is DFT that means, here omega is nothing but a 2 pi by n into k where n is the length of the DFT analysis that is recap of your review of DSP digital signal parsing.

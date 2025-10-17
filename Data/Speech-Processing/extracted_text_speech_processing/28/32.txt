@@ -1,0 +1,5 @@
+Pitch synchronous overlap add method.
+Details I will discuss these things during the speech synthesis.
+P-sola, TDP-sola, ES-nola all we have discussed.
+So pitch synchronous overlap add method, then they said if I able to find out the epoch point, the closing and opening point of the vocal fold from the signal, then I can synchronize the pitch.
+So I can exactly cut one period.

@@ -1,0 +1,3 @@
+If x n is real, if the input signal is real, then we said the real septum c n is nothing but the even function.
+So, if it is even function, then I can say that if this only exist cos term, sin term cannot be exist.
+That means 1 by 2 pi minus pi 2 pi log of x e to the power j omega into cos omega n.

@@ -1,0 +1,4 @@
+I take the DFT and after DFT I what is get I get S k then I take the log magnitude or log of S k log of log magnitude of H k. Then if I plot it, it will be look like this.
+This is a log frequency axis is in log.
+If you see I can show you if you see this is a linear view.
+So, this is the frequency scale is linear.

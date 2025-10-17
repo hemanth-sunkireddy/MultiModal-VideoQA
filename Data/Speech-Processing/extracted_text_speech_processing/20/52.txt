@@ -1,0 +1,4 @@
+take this first sample.
+Take the difference between this sample, this sample, this sample, this sample, this sample, this sample, this sample and sum it up.
+Then take this with difference of this sample, this sample and with difference of this sample with difference difference of this sample.
+So, x 0 minus x of n which n varies from 0 to n minus 1 k. So, k equal to 0 means x x x 0 minus x 0.

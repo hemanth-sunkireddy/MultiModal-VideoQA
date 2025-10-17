@@ -1,0 +1,3 @@
+cos omega t. Similarly, I can get the real part of the pressure wave ok or not.
+So, real part of this u u g omega t is this one only ok. Now, I come to the transfer function of the tube.
+So, in the tube I can say this is x equal to 0, this is x equal to L. So, if I say input is u 0 t.

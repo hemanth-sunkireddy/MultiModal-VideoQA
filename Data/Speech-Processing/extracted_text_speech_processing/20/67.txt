@@ -1,0 +1,5 @@
+I can say it is a sibilant below this threshold value I can say it is a voiced or silent.
+If there is a silence can also have a high threshold value, but if you see the Z m and energy if I combine then I can say whether it is a silence or sibilant.
+Sibilant amplitude will be high at least voicing sibilant there will be some power, but in silence only background noise will be there.
+So, power will be reduced.
+So, that way I can find out this parameter can be used for voicing and unvoicing detection.

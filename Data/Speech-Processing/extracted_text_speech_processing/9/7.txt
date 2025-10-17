@@ -1,0 +1,5 @@
+Now, if you see depending on the different sound production system, the structure, the cross-sectional area of the different portion of the cavity for different sound is different.
+So, you can say there is two kind of variation.
+While I produce the speech, speech signal is changing along the time.
+That means the constriction of the tube or structure of the tube is changing along the time.
+And also for a particular time, let us produce for this time t1.

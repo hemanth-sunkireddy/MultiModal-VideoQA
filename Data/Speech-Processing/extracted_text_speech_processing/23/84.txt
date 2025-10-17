@@ -1,0 +1,3 @@
+r value r 0 and r k all r k value if the order of the predictor is p then I can calculate r 1 r 2 r 3 r p and I can calculate alpha 1 alpha 2 alpha 3 alpha p then I calculate the g once I get the g square g is equal to nothing but the root over of that things.
+So, model gain I can easily compute using this theory ok.
+So, next class we will discuss about that.

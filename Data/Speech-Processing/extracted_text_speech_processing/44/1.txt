@@ -1,0 +1,1 @@
+So, as we discuss about the Prosodic Modeling, the Fuchisaki modeling we have tried it for Bangla language long back 2010 we have published a paper on Bengali F 0 Controlled Modeling based on Fuchisaki model in Cocosda 2010.

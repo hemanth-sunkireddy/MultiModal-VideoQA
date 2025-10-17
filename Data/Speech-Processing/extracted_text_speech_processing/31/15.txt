@@ -1,0 +1,5 @@
+bivalveal consonant.
+So, that can be a speech features.
+So, some features are natural, some features are non-natural, they are abstract represent of the speech event, but some features has a meaning phoneme, articulation, duration all has a real meaning in the speech waveform ok.
+Similarly, formant frequency if you if you remember we plot the f 1 f 2 plot of all vowels.
+So, formant plot of the all vowels using the

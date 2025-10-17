@@ -1,0 +1,5 @@
+Another one is called global variation.
+If you see here, the green line is the global variation and red line are local variation.
+So, the local variation are called accent and global variation are called phase.
+So, that is why we call it is command response model which is controlled by the phase control and action control mechanism.
+So, one is control the phase command.

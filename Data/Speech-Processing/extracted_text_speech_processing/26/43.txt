@@ -1,0 +1,4 @@
+So, it is 1.
+So, instead of k I put 1 first frequency, second discrete frequency, third discrete frequency.
+So, k has a relationship to analog frequency f, f is nothing but a 2 pi by n is the resolution into k. So, this is discrete frequency discrete.
+So, once I do that then this process is called DFT discrete

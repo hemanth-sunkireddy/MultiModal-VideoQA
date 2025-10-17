@@ -1,0 +1,4 @@
+intonation.
+Then if you see here, if I show you in the speech, now suppose this is a sentence.
+If I found the duration of each phoneme, each syllable, instead of phoneme I can define duration of the syllable, all duration of the syllables are not equal throughout the whole sentence.
+So, that means duration of the segmental property

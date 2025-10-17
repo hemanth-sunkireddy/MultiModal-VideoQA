@@ -1,0 +1,5 @@
+For PDA and VDA, voice detection or PDA can PDA and VDA I discuss later on the pitch detection algorithm and voice detection algorithm.
+So, this can be act as a voice detection algorithm, but every PDA is nothing but a VDA.
+If I able to find out the pitch, pitch is exist only for voicing signal.
+So, I can say VDA PDA is exist only for voice detection.
+So, VDA PDA pitch detection algorithm, VDA voice detection algorithm.

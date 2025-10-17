@@ -1,0 +1,4 @@
+0 and bandwidth is equal to 0.
+This is real pole, so bandwidth is equal to 0.
+Bandwidth is equal to 0 with 0 bandwidth infinite power resonance will occur at 500 hertz, 1.5 kilohertz, 2.5 kilohertz.
+If the length of the vocal tube is 17.5 centimeter and velocity of the sound is 35000 centimeter per.

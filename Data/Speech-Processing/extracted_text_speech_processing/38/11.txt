@@ -1,0 +1,2 @@
+we develop that HMM based speech synthesis which I will details I will talk at the end HMM or which is called HTS recently mostly used TTS system is HTS hidden markup toolkit based speech synthesis model this is mostly used TTS engine currently.
+Then there is a concatenative synthesis which is you can say that before HMM based TTS is

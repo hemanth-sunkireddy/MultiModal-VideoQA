@@ -1,0 +1,4 @@
+So, at the end of the course, you should able to write the algorithm for find out the different kind of speech parameter that is my expectation.
+Then extraction of the spectral time domain parameters speech signal those things in then design of simple TTS and ASR system I will cover and I will cover some part of the prosody modeling.
+Because today prosody modeling one of the important aspects in speech processing class.
+If you see there is lot of work is going on speech processing class.

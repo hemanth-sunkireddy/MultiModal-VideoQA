@@ -1,0 +1,6 @@
+2 plus 127 or including 0 it will be 2127.
+I am not saying that part.
+So, making 0 is middle positive and negative.
+Minus 127 or 126 you can take it.
+So, 8 bit number.
+So now, if I do that then 250 I have divided this 10 volt in 256 levels.

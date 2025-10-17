@@ -1,0 +1,6 @@
+trade off.
+Do not think about the mathematics.
+There is a mathematical part is there in the slides.
+I am not I just I just describe what is time frequency trade off.
+If you say in any DFT or STFT analysis or STFT STFT there is a two words one is called time.
+I have taken a small segment of the speech signal and I have apply a frequency transform.

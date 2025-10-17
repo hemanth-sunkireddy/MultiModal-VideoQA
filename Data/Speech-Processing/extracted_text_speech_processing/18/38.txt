@@ -1,0 +1,5 @@
+through a chunk of filter.
+So, that is 86 cochlear filter bank here it is designed.
+86 cochlear filter bank in male or box scale.
+Then it is passed to the half wave rectifier to detect the amplitude.
+Then AGC automatic gain compression to find out the frequency response of this acoustic signal as per the auditory response of the signal.

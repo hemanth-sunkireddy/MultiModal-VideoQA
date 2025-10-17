@@ -1,0 +1,4 @@
+So, if I want to know that information, if I take the whole signal at a time and find out the energy.
+So, it give me the average energy or if I make it average then 1 by I can make the average also.
+So, if I make the average, so I can get either total energy or average energy of the whole signal.
+So, that information is whole signal energy is ok, but that does not give me any kind of parameter by which I can process or I can use this those parameter.

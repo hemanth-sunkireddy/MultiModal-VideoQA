@@ -1,0 +1,4 @@
+So, little bit of GMM I will cover in that topic and vector quantization I will covered, but today I will let us talk about thatthis kind of application like speech synthesis and ASR.
+I am not detail covered that ASR because it is itself can take several classes.
+So, first I cover that speech synthesis applications that how do we develop the speech synthesis application what are the pros and cons and everythings and then ASR then we give you that recent train in ASR and then I talk about the action conversion which is my dream in the research this area.
+So, a lot of research work is going on in the speech action conversion and speech conversion kind of things.

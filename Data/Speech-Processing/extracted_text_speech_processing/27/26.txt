@@ -1,0 +1,1 @@
+So, I can write analysis equation in filtering view that that that the same that I have a signal x n x n x n is my signal I have frame the signal first x n is a fixed length signal I am thinking this signal consist of several frequency component and I design a several band pass filter.

@@ -1,0 +1,3 @@
+Think about an application, suppose you go to the railway stations to buy a ticket.
+So, instead of giving instruction to the machine by dialing 1, 2, 3, if you want this dial 1, dial 2 kind of things you can replace with the kiosk with the speech mode.
+I want to buy a ticket for Kharagpur to Havda, I just told to the computer, computer give me the ticket and then computer how much money, the computer give you this amount of money, give you the money.

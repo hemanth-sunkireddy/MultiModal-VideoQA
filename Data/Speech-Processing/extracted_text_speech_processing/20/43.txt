@@ -1,0 +1,5 @@
+with this, this with this, this with this and add it.
+Similarities maximum I get E 0.
+Once I shifted the sample with once, so next time I extract this sample.
+Then I multiply this with this, this with this, this with this and this with this, this with this and take the sum.
+Now, if you see since there is a signals are not similar not in phase, you can say the signal is not in phase.

@@ -1,0 +1,3 @@
+have processed in our mind and executed by this vocal tract system to produce the speech.
+So, the speech signal if I say it contain all the linguistic information, long linguistic information and paralinguistic information all those three are there in the speech signal.
+Now, if I want that a system or a machine or an algorithm should develop such that it will take input text and convert it to

@@ -1,0 +1,6 @@
+signal flow diagram.
+Once I get the signal flow diagram, can I derive the v z transfer function of the tube which is nothing but a output which is u z u l z divided by u g z z domain.
+So, u g z I know it is nothing but a impulse or got all response.
+Now, what is u l z?
+So, I could derive this transfer function.
+So, how do I derive it?

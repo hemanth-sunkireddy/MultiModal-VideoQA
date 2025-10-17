@@ -1,0 +1,2 @@
+So, I can say S z 1 minus k equal to 1 to p alpha k z to the power minus k. Let us I write alpha k into z to the power minus k this portion is nothing but a A z.
+So, A z so I can say this is my signal which is S n. If I pass through this signal.

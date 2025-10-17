@@ -1,0 +1,4 @@
+that if I take the spectrum of a speech signal, so how do you draw the spectrum of a speech signal?
+You know if X n is my time domain signal, if I apply DFT, I will get X k. I am not explaining the framing and windowing.
+So, that also included the speech processing framing and windowing.
+Instead of taking the whole signal at a time, I have a whole signal.

@@ -1,0 +1,5 @@
+S that much of sounds.
+So, L is equal to 445 I to the power 0.33.
+So, if it is 5 dB I if I know the intensity then I can calculate loudness.
+So, this is the loudness sound curve.
+Then there is a example this is called sound pressure level for different if it is 160 state engine close up.

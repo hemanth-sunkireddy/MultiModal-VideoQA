@@ -1,0 +1,5 @@
+So, this way I can do the time scale modification of the speech signal which is the application of STFT-M.
+So, this is the block diagram.
+Next one is the noise reduction.
+You know that in cool edit there is a also a button called noise reduction.
+So, suppose I have recorded a signal speech signal in silence.

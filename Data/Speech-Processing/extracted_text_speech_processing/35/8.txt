@@ -1,0 +1,3 @@
+vocal tract transfer function understand.
+So, from the speech or even the from the speech signal how do I find out the fundamental frequency that is called F 0 extraction.
+F 0 extraction has many application mainly when I discuss about the next week speech application there is a called speech synthesis.

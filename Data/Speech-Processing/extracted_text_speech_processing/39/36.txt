@@ -1,0 +1,2 @@
+So, how they match there is a different kinds of algorithms are there they are using initially used vector quantization dynamic time working hidden Markov model and then today neural network then artificial neural network then there is a today deep learning is a big topic today people are using deep learning for template matching or any kind of classification support vector machine.
+So, any kind of classification technique I can find out whether the two templates are matched or not.

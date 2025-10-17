@@ -1,0 +1,6 @@
+complexity.
+Any signal to transform in frequency domain is a computationally complex.
+Now, there is a two kinds of PDR mostly used harmonic peak detection and spectrum similarity.
+So, detect all the harmonic peaks.
+So, suppose I have a F 0, this is my spectrum, let us say this kind of spectrum is there.
+So, if you see if this is F 0, this is twice F 0.

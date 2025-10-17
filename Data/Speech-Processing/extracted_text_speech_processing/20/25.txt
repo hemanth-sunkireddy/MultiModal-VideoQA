@@ -1,0 +1,5 @@
+1 minus 1 then take the mod then the value will be 2.
+If it is 1 and 2 value of 2 second sample is positive.
+So, 1 value of first sample is positive equal to 1 take mod 0.
+So, if I take this function and check for all sample take the sum.
+So, every time

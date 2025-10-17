@@ -1,0 +1,2 @@
+if I see that the time domain function z domain it is like that.
+So, time domain S n is nothing, but S n minus k equal to 1 2 p a k S of n minus k is equal to a u g n. Now, if I consider that u g n is equal to 0.

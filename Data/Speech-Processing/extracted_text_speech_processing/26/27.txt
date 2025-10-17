@@ -1,0 +1,8 @@
+So, this is l length sample.
+So, once I cut it means I am multiplying a rectangular window of l length.
+So, suppose this is my rectangular window.
+So, what I am doing I inversing the time of the window this side and cut the signal.
+So, that is why it is n minus m because m is varying this axis ok.
+So, n minus m number of signal I cut and multiply it ok.
+So, what is this?
+This is nothing, but a.

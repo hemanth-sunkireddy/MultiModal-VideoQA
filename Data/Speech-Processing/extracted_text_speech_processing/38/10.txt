@@ -1,0 +1,4 @@
+using this kind of parameter that is why it is called parametric synthesis.
+So, formant synthesis is called parametric synthesis it is developed based on set of parallel filter because nothing if I know the formant frequency I can design that filter and based on the gain of that formant I can pass the impulse response to particular formant and can generate that speech signal.
+So, that is called formant synthesis.
+Then there is a HMM synthesis using V coder.

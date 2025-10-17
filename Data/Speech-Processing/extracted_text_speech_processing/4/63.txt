@@ -1,0 +1,6 @@
+So, let us forget about that things.
+Suppose I told you record a voice or I can say record a signal and design an algorithm or design and compute or draw its frequency response or spectrum of the signal.
+I am not saying spectrogram.
+So, amplitude response representation is called spectrum.
+So, what is that?
+It is nothing but a spectrum.

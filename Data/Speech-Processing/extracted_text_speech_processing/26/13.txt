@@ -1,0 +1,2 @@
+So, this axis is a frequency if it is linear view that means, frequency scale is linear if it is not linear view then I say the frequency scale is log scale and this axis is the amplitude of the particular component ok.
+So, this spectra is nothing, but a magnitude spectra ok. Now, if you see magnitude spectra of this portion of the signal.

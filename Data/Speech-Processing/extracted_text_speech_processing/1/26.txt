@@ -1,0 +1,6 @@
+There is a lot of segmental speech work is done.
+If you see the TTS, most of the TTS are in Indian language.
+I have developed one TTS in Indian language using different method.
+I will explain that also, but it is not as like natural as human being.
+So what we are missing is that speech prosodi.
+So today if you heard any speech scientist, any speech lab, if you go there, lot of people are working on speech prosodi.

@@ -1,0 +1,5 @@
+I get the speech ok.
+So, this is that vocal track you can say that LPC synthesis model or I can say this is the vocal track transfer function how the vocal track is can be digitized or how vocal track can be implemented that block diagram ok.
+So, H z is nothing but a G z, V z and R z.
+If you remember that what is the G z?
+G z is nothing but a two pole I can vocal track can be model as a two pole 1 minus e minus c t.

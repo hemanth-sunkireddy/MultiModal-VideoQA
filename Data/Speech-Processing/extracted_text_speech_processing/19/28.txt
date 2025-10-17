@@ -1,0 +1,6 @@
+So, that I can easily understand.
+So, short term energy is one kind of parameter.
+Then short term average magnitude, short time energy or short time average energy or short time average magnitude.
+Now, what is the problem in energy?
+When I calculate energy, the signal X n has to be square up.
+So, every sample value let us if it is a 16 bit speech sample.

@@ -1,0 +1,5 @@
+x 0 minus x 1, x 0 minus x 2, x 0 minus x 3, I am taking it and take the sum.
+Then I take x 1 minus x 0, x 1 minus x 2, x 1 minus x 3, x 1 minus x 3 and take the sum.
+So, if I do that way, when it will be minimum?
+When I take the difference from here, same signal and the same signal.
+So, x 0 minus x 0.

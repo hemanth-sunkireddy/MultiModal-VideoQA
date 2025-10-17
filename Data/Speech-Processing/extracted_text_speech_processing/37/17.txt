@@ -1,0 +1,2 @@
+text processing which can convert the this is called grapheme to phoneme or even sometime it is G 2 P G 2 P what is grapheme you know that if I say alphabet A B C D all are grapheme.
+So, the word written in form of grapheme that has to be convert to in form of

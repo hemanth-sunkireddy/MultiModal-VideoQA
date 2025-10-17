@@ -1,0 +1,6 @@
+phoneme conversion.
+If I write psychology P E C like that way it has to be pronounced written as psychology in pronunciation format which are the phoneme you know the number of if I pronounce psychology.
+So, saw is the first phoneme.
+So, I write saw if it is palatal saw I write that symbol if it is dental saw I write that symbol.
+So, that way all IPS thing.
+So, pronunciation string has to be represented by a IPA form.

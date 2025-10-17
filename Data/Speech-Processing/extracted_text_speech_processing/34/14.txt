@@ -1,0 +1,6 @@
+to uncorrelate this filter output.
+That is why I use DCT and DCT acts like an FFT.
+Here I have used DCT because this is a complex.
+So, the complex arithmetic is required, but DCT implementation is easy in this stage.
+That is why instead of FFT, we use DCT, discrete cosine transform.
+Now, I go for the delta spectrum.

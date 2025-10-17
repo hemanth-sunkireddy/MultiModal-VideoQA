@@ -1,0 +1,7 @@
+10 kilohertz.
+Then what is my tau?
+Tau is nothing but a x by c. So, what is x?
+x is the length of each section.
+I have to find out number of section required.
+So, let us I require a n number of section.
+So, if the length of the tube is l, then the x is equal to l by n. So, then tau is equal to

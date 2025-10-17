@@ -1,0 +1,4 @@
+control, which is called Fujisaki command response model, which we will discuss details.
+So, whole sentence F 0 can be model using three model, one is called TOBI, stylization and model.
+So, TOBI is nothing but a assigning some level on F 0, it may be in syllable, it may be let syllable wise.
+So, I can say this is rising.

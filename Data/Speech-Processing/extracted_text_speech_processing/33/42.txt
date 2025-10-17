@@ -1,0 +1,8 @@
+bandwidth.
+So, if it is not overlap, how many filter is required?
+4 kilo divided by 100.
+So, 40 filter is required.
+Now, if it is 50 percent overlap, if it is 50 percent overlap, then I can easily find out how many filter is required.
+So, how many filter is required?
+I can easily find out.
+So, now, once I know that is how many filter is required, then

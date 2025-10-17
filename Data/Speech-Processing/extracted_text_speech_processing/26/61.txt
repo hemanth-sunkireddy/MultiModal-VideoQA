@@ -1,0 +1,6 @@
+So, I will analyze for 50 percent overlap.
+I will discuss why the 50 percent, how much amount of overlap we should allow, how much amount of overlap we not allowed, so that we can get the signal back again.
+So, that we will discuss in synthesis part.
+So, if I to do the 50 percent overlap, then I get the no problem.
+So, that I will discuss why it is 50 percent, why not it is 60 percent, 70 percent, how much is allowable, how much is allowable not, that we will discuss during the FTFT synthesis, that is the OLA method and FBS method.
+So, FTFT analysis.

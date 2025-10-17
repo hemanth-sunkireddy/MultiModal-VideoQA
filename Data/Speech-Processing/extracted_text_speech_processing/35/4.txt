@@ -1,0 +1,3 @@
+So, if it is a voice sound that can be modeled as a impulse strain modulated by a got all transfer function and then multiply by the gain ok.
+So, when we produce the speech either speech has a voice segment or unvoiced segment if it is a voiced speech then it will be connected to here.
+If it is a unvoiced speech then there will be a noise source and it will be connected to here then I get the.

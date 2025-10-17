@@ -1,0 +1,2 @@
+So, from point of view reconstruction of f n omega f n m from x n k require the frequency sampling at least 2 pi by n w. So, length of the analysis length frequency sampling.
+So, a length of the DFT which define the 2 pi by n must be at least 2 pi by n w and for time domain viewpoint.

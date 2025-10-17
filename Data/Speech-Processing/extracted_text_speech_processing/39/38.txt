@@ -1,0 +1,4 @@
+in machine or I can say from the all train speed manage a representative vector that is of it.
+So, vector equation is not even quantized.
+What the issue is same as quantization issue.
+The quantization issue is there if you if you remember in my vector that digital quantization class what I said I have I have said I divided the let pass 5 volt.

@@ -1,0 +1,6 @@
+how do you minimize?
+I differentiate with respect to K i and equal to 0.
+So, check the differentiation and find out the K i forward value.
+I can find out the K i forward value.
+Once I get the K i forward value, similarly I can calculate the K i value for backward error.
+Then I can say the K is called per-care partial reflection coefficient or partial correlation coefficient.

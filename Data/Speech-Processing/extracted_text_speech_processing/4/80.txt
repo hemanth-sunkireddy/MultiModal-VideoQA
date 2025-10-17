@@ -1,0 +1,3 @@
+it is band pass filter, it is high pass filter.
+That is my ideal filter frequency response I want ok.
+This is the ideal response, but if I implement it with a finite impulse response filter, then I instead of getting that single that this pass band with 1 instead of this if you see this is flat 1, here I can get a

@@ -1,0 +1,6 @@
+and this has a amplitude r. So, alpha k can be represented using r k and e to the power j theta.
+This r k is not reflection coefficient.
+So, there is a amplitude of the pole and e to the power j theta.
+So, if I say alpha k complex conjugate part, it will be nothing but a r k amplitude will be same e to the power minus j theta.
+Value of alpha complex conjugate pole.
+Now, interpret the value of

@@ -1,0 +1,1 @@
+So, if I say I want to reduce the n cross n, I ask you the from the computations background that suppose I have a search space, if I make it binary search then it is log 2 n. So, that means if I instead of computing using the whole signal if I disseminate or if I if I somewhere I can disseminating the signal in some you can small chunk.

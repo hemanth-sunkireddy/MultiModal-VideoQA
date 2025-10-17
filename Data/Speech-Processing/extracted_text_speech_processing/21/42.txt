@@ -1,0 +1,5 @@
+What is error?
+S n m minus k equal to 1 to p alpha k S of m minus k whole square.
+So, that is the error.
+Now, what I have to know?
+I have to find out a set of value of alpha k for which this error is minimum for which.

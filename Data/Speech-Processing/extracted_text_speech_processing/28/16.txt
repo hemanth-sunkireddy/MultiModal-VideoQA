@@ -1,0 +1,5 @@
+constraint on analysis window and the signal if I there is some constraint is allowed, then it is it can be shown that from the STFT M also I can recover the signal.
+So, I am not reading the slide, slide you can read better than me.
+So, now come to the application.
+So, why we do STFT?
+STFT analysis, synthesis all kinds of things why we will do it?

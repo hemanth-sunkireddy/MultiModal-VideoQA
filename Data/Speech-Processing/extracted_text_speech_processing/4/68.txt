@@ -1,0 +1,7 @@
+as an amplitude.
+So, I have a long signal.
+So, I take the small chunk of the signal from here and find out this point.
+Then, I plot it here.
+So, for this whole chunk, frequency presentation will be same.
+Next chunk I will take and then I plot it here.
+So, if it is 10 millisecond window.

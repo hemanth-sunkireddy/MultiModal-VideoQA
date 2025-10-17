@@ -1,0 +1,4 @@
+Next there is a m number of filters.
+So, I can say up to a m. So, this a 1, a 2, a 3 and a m represent the feature vector which is extracted using the filter bank analysis ok. Am I clear?
+Now, how to design those?
+So, those filters are particularly nothing but a band pass filter because there are particularly particular band is pass.

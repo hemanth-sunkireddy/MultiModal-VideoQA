@@ -1,0 +1,5 @@
+each of the chunk represent the formant frequency.
+This is the first formant 1, formant 2, formant 3, so that will come.
+So, each stage represent one formant frequency, each stage represent one formant frequency.
+So, there will be n by 2 number of stage will be there.
+So, if it is n by 2 number of stage, then n by 2 formant frequency will be.

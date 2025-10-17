@@ -1,0 +1,4 @@
+m 2 dot dot m 20.
+I can calculate f 3 frame 3 m 1 m 2 dot dot m 20.
+So, it is said that out of m 20, if I take 12 number is sufficient, 12 to 13 number is sufficient.
+So, instead of 20, I can write m 13, I can take let us I take m 13 or 12, let us take 12.

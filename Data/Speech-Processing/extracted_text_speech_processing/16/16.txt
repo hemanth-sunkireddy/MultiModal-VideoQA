@@ -1,0 +1,4 @@
+it is 30 hertz to 10 kilohertz.
+So, that is data set is given that this is the microphone.
+So, this microphone is efficient to convert the acoustical signal in between 30 hertz to 10 kilohertz and produce the electrical signal.
+So, if an acoustical signal consist of 12 kilohertz, the electrical signal should not contain that component because that micro the response of the microphone at 12 kilohertz is almost 0.

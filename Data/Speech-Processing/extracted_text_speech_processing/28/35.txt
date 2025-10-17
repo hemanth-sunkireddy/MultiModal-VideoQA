@@ -1,0 +1,3 @@
+you can say the length of the DFT, then modify the dissemination rate with the new rate m equal to l by 2 to speed up factor by half and then take the inverse transform and estimate the signal.
+So, STFT m I can use to time scale modification of the speech signal if you see it here.
+So, this is dissemination in time in l.

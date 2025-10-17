@@ -1,0 +1,3 @@
+all component let us one of the component is written is a into j b in complex number then magnitude is nothing but root over square of a square plus b square and theta is nothing but a tan inverse b by a.
+So, if I draw this one with respect to frequency then I call magnitude spectra which already I have discussed in beginning class magnitude spectra.
+If I draw frequency versus theta.

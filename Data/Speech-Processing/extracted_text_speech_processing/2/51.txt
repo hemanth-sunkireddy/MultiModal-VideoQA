@@ -1,0 +1,4 @@
+band limited.
+So, I can use 10 kilohertz sensitivity of a frequency response of a microphone is very good for recording that telephone bandwidth even 5 kilohertz microphone sensitivity up to 5 kilohertz is sufficient for recording the telephone channel signal.
+Now, suppose I want to develop a speech corpus for research purpose.
+If I want that this corpus only used for scientific research.

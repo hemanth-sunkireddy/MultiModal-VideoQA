@@ -1,0 +1,6 @@
+from here to here this 45 sample is the T 0.
+So, what is F 0?
+It is nothing but a 1 by T 0.
+Suppose this signal has a sampling frequency 16 kilohertz, then I can say F 0 is nothing but a 16000 divided by T 0.
+Let us 45 sample.
+So, let us 50 sample 300 hertz.

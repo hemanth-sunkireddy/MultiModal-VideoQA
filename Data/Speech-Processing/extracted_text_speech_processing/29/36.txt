@@ -1,0 +1,4 @@
+B must be greater than the 2 pi by n. So, number of channel if it is n. So, distance between the two channel is 2 pi by n. This must be less than the bandwidth of the analysis window.
+So, there is a two condition is there.
+STFT is completely invertible if l is greater than the bandwidth of the analysis window.
+So,

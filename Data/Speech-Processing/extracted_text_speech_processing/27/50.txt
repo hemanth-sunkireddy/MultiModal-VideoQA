@@ -1,0 +1,3 @@
+if I this choice this is the frequency resolution is very low if I go there frequency resolution is very high.
+So, depending on the choice is there window size and window and windows.
+So, window size I window size will come from the length of the your FFT if n is equal to if the window length is 20 millisecond that means, 320 sample is there then my n is fixed to almost close to 320's.

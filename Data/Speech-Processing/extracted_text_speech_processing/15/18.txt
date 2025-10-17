@@ -1,0 +1,2 @@
+a n plus 1 minus a n divided by a n plus 1 plus a n. So, if I know the cross sectional area, then I can know the, decide the reflection coefficient and I can model the tube in digital domain.
+On the other hand, if I know the speech signal and if I able to find out the value of reflection coefficient alpha k, in somehow I can able to find out the alpha k value, then I can find out the.

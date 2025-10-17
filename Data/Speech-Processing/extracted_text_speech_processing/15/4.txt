@@ -1,0 +1,3 @@
+z to the power minus 1 plus R 2 R g z to the power minus 2.
+Now, if I say R g is equal to 1, if I say R g is equal to 1, total impedance is infinite, z g is equal to infinite, then R g equal to 1.
+So, R g is nothing but a, you know that R g is R R t minus R g divided by R t plus R g or what was R g minus R t or R t minus R g.

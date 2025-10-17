@@ -1,0 +1,4 @@
+which actually represent the signals and it in redundance or that means, all redundancy information is deleted and only key informations are there to form a vector which the vector represent that speech event.
+So, that is called speech features ok.
+So, there are many kinds of speech features some some things may be natural speech features some things may be unnatural speech features.
+If it natural speech features.

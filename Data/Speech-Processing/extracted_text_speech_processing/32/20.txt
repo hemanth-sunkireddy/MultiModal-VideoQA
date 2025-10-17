@@ -1,0 +1,3 @@
+and output can be added up both will be same that is the LTI system superposition principle.
+So, if the signal fall in non overlapping frequency band then they are separable.
+So, suppose I have a signal which is nothing but a x 1 x n is nothing but a x 1 n plus x 2 n addition of two signals.

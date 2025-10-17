@@ -1,0 +1,6 @@
+1.5 kilohertz to 4 kilohertz.
+So, I design that filter and shifted at 1.5 kilohertz, I get the high cost filter.
+So, that way I can design the filter.
+Digital filter design I am not going here because that you can that is prerequisite of this course that if you want to know the digital filter design, digital signal processing you have to study.
+I just give you some concept of the or you can say that this is overview of DSP.
+So, how to implement an IIR filter there is a lot of methodology are there.

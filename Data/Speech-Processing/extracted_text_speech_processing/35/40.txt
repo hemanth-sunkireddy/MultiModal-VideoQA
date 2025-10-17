@@ -1,0 +1,3 @@
+signal will cross the 0 line 2 times ok.
+So, from that philosophy I can find out the F 0 of the signal F 0 by F s F s by F 0 we have calculated that time number of 0 crossing per second.
+So, we can find out the number of 0 crossing per second and then I will find out the T 0 value for which the signal cross the

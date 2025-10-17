@@ -1,0 +1,3 @@
+with the DSP concept will be used later on.
+There is another important DSP concept is there that is will be used I am not just explaining this curve that is called discrete Fourier transform.
+I think many of you know that one is called discrete time Fourier transform DTFT discrete time Fourier transform another is called DFT discrete time Fourier transform.

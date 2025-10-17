@@ -1,0 +1,4 @@
+I should push the pause, I should put the pause with how much duration is called sentence medial pause modeling.
+So, we take this parameter type of phrase, phrase length and distance between the current phrase and dependent counterpart.
+So, what we have done for Bengali, it may not be true for other language also, I do not know, we have not tried it.
+So, suppose I have a sentence, so suppose I have a phrase p 1, p 2, p 3.

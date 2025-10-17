@@ -1,0 +1,4 @@
+in that case my DFT length should be more than 320.
+So, I 512 if I take n equal to 512 and window length is 20 millisecond that is fine no problem I can completely recover is possible.
+Another method of this in synthesis is that overlap add method.
+So, this is the another method of S TFT synthesis this is called.

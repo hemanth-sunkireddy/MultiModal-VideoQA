@@ -1,0 +1,4 @@
+homomorphic signal processing.
+Now, what is LTI system LTI system LTI system mean mean a linear system.
+So, conventional linear system suppose support the superposition principle.
+That means, if I apply L is a transform of x n is nothing, but a L of x 1 n plus x 2 n or if I apply every input separately.

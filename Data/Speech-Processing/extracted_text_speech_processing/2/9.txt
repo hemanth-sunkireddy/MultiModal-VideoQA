@@ -1,0 +1,5 @@
+x n number.
+What is nothing but a, so digital signal is nothing but a integer number.
+So, how do you do it?
+First, there is a time which is continuous.
+I have to convert this time to a some instant with a fixed interval that is delta t. So, I can say that I am taking the x a t as a sample.

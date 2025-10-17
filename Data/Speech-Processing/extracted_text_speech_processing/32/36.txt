@@ -1,0 +1,4 @@
+So, x 1 n is the spectrum of that envelope.
+So, actually x 1 n represent the time varying vocal track.
+So, that x 1 n those parameter those can be used as a parameter which will actually represent the envelope portion of the spectrum signal spectral signal ok.
+So, this kind of homomorphic signal processing is used to extract the

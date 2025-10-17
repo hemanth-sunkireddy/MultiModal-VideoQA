@@ -1,0 +1,5 @@
+So, I just quickly go through the some DSP concept.
+So, what I will discuss I am not discuss the details mathematics I will discuss concept behind that DSP algorithm ok.
+So, let us start with that continuous signal.
+So, if I if you know that this omega always represent that continuous frequency this omega ok.
+So, if I say sinusoidal signal let us say A is the amplitude cos omega t plus theta theta is the phase.

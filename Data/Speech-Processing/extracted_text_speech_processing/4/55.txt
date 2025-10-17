@@ -1,0 +1,1 @@
+So, instead of 000, I write 000 because reversible and non-reversible same, 001 I write 100, 010 I write 010 same, 011 110, 100 001, 101 101, 110 001 1 1 1 1 1 1 1 1 1 1 1 1 if you see 0426.

@@ -1,0 +1,4 @@
+can be simply implemented by sampling delay.
+So, if I replace this tau k delay by z to the power minus 1 sample delay, then I have to find out the whole z domain equation of this vocal technos function.
+So, next class I will try to do that.
+Thank you.

@@ -1,0 +1,6 @@
+So, it is 0 minus.
+So, x 0 minus x 0, x 0 minus x 1, x 0 minus x 2, x 0 minus x 3.
+So, all for all deviation I am finding out the deviation and add them and find out the average value of the deviation.
+Same next I calculate k equal to 1.
+So, shift the c x instead of x 0 I put x 1, I put x 2, I put x 3.
+So, all deviation.

@@ -1,0 +1,2 @@
+E n i E n i is nothing, but a E n i minus 1 into 1 minus K i square.
+So, this is equation number 1, this is equation number 2, then I can say alpha j i is equal to alpha j i minus 1 minus K i alpha i minus j i minus 1.

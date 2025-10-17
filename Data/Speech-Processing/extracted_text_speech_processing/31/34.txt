@@ -1,0 +1,4 @@
+then I call time domain features.
+From the frequency domain representation, from this representation if I extract the features, then I call frequency domain parameters.
+So, based on this analysis, we can say there is a three types of parameter, frequency domain parameter extraction or three types of parameter extraction methods.
+One is called frequency domain parameter extraction methods, time domain parameter extraction method, time frequency both parameter extraction methods.

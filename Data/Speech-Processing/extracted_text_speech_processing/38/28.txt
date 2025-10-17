@@ -1,0 +1,3 @@
+depend on its you can say the structure of that sentence.
+So, if I cut a diphone from the beginning of the sentence and the same diphone if I cut from the end of the sentence two diphone will be different because of prosody is changing.
+So, if I do not want that prosody is not required when I just simply synthesize the segmental information then I can say okay okay.

@@ -1,0 +1,1 @@
+If I write down that, so S n is the current sample minus k equal to 1 to p alpha k S of n minus k. So, I can say if I in the z domain, E z is nothing but a S z minus k equal to 1 to p alpha k z to the power minus k S z.

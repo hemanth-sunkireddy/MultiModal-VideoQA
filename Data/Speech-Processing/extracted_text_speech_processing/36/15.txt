@@ -1,0 +1,2 @@
+I want to calculate the deviation from the 45 degree line and find out the average value of the deviation for each delay then plot that average deviation value against the delay.
+So, what is the function 1 by n n equal to 0 to n minus k x k minus x of n plus k. So, for all the sample and dx k. So, k equal to 0.

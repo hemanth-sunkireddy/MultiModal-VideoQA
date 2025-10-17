@@ -1,0 +1,4 @@
+tremendous kind of application.
+Second language acquisition also there is some application of speech kind of things.
+So, even if speech research, I will told that ASR, lot of people are doing research in ASR, automatic speech recognition.
+And if you worry about that, there is a HMM model, hidden Markov tool, Krismith model, where people are saying that now people are saying that this model is not sufficient for those language.

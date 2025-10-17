@@ -1,0 +1,4 @@
+So, F s by 2 is my signal limitation.
+So, I can say it repeat the property this is the F s by 2 point or n by 2 point.
+So, 0 to n by n by 2 minus 1 give me the same this information and this information will be same information for baseband signal.
+So, after analyze the frequency if I use 1000 point DFT 500 point.

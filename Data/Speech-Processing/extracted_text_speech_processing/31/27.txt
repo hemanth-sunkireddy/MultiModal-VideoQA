@@ -1,0 +1,3 @@
+one is called segmental switches, another is called supra segmental switches.
+So, F 0 duration amplitude profile are the supra segmental switches, segmental switches I can say phoneme or part of a phoneme is also a segmental switches like occlusion period burst, if I able to extract the burst occlusion period V O T all are segmental information.
+Now, how do you extract the I will come supra segmental features I will come later on that the intonation pause, duration test.

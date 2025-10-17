@@ -1,0 +1,4 @@
+and output is u x t volume velocity.
+So, I can say the V a transfer function V a omega is nothing, but a u x sorry u l t u l t divided by u 0 t x is l and x is 0 here ok.
+So, what is that?
+Now, if I see that u is equal to cos omega l minus x by c. So, at u at l.

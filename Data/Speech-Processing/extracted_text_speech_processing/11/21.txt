@@ -1,0 +1,2 @@
+the acoustics load in the radiation load in here is not there it is totally short circuit which is the ideal condition we said p l t is equal to 0.
+So, the frequency response whatever we have get due to the considering the loss and that things that will be remain constant remain same that means that implies or that means that at low frequency components are not affected by the radiation load because at low frequency

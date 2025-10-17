@@ -1,0 +1,5 @@
+Then I start recording, this portion I have not speak anything, then I start speaking.
+So the noise in the silence region also is here, noise also there.
+So noise is heard somewhat during the speech and the speech is going on.
+I want to remove the noise.
+If I consider the noise is stationary signal, that means noise is not changing over the signal, then I can estimate the noise power from this silence zone.

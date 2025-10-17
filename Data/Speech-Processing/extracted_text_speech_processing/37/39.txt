@@ -1,0 +1,2 @@
+So, the there is a lot of tag sets are there in PLA standard if you see there is a lexeme that means, lexicon is started then there is a metadata then lexeme then grapheme then phoneme then alloys and then example.
+So, they said, but the problem is that they said the some words if have a multiple pronunciation use the prefer attribute choose the correct pronunciation, but it is not always true.

@@ -1,0 +1,4 @@
+how do you implement it FIR filter implementation.
+So, suppose I have a long signal long signal is there there is a long signal if I want take the whole signal.
+So, signal may be huge signal.
+So, I do not want to take the whole signal at a time then what I have to do let us I have to cut the signal this portion and apply the filter here then the take the next

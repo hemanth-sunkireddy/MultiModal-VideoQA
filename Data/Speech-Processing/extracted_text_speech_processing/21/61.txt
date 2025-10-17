@@ -1,0 +1,4 @@
+to generate the current signal.
+So, both way I can synthesize or I can estimate.
+So, once I estimate this alpha value those set of alpha value represent that time the production system.
+So, those can be a parameters for those speech event those parameter is called LPC parameter linear predictive coefficient parameter alpha 1 alpha 2 alpha p are called the LPC coefficient.

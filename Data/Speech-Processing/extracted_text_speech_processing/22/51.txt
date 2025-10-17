@@ -1,0 +1,4 @@
+So, symmetric with all diagonal elements are equal.
+So, matrix equation solve using then I can apply the Levinson Durbin algorithm to solve this matrix equation.
+So, next class we try to discuss how you want to solve this matrix equation.
+So, if you see that R n I have established here that R n is nothing, but a autocorrelation ok.

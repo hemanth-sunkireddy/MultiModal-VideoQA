@@ -1,0 +1,6 @@
+then I can say I only can get up to fourth format, I cannot get the fifth format because fifth format is 4.5 kilohertz.
+So, I will not get it.
+So, if I cut the signal in here, I will get only three format, if I cut the signal in there, I can get the three or four format.
+So, depends on the sampling frequency format will come, I will come this will discuss later on also.
+So, I am not detailed discuss about the this kind of losses.
+Now, second

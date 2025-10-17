@@ -1,0 +1,5 @@
+So, I get a signal I normalize the amplitude of that whole signal and take find out the threshold value from some previous study and adjust the threshold value to find the voice and unvoice detection.
+Similarly, for every 10 millisecond I get a Z m value.
+So, if it is noisy so Z m value will be very high.
+So, I can get the Z m plot will be look like this again down down down.
+So, again I can say the Z m value if it is high above this threshold value.

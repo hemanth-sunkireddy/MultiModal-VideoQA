@@ -1,0 +1,5 @@
+discrete time Fourier transform of this one.
+Now, if I want to make this omega is discrete, then it is called discrete Fourier transform.
+So, if I see that I am again this slide I have already explained.
+Let us explain this slide also.
+So, if you see there is a time horizon which is m, either

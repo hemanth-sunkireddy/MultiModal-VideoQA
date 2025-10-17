@@ -1,0 +1,6 @@
+then what should be the x n?
+x n is a digital signal.
+So, x n is nothing but a cos instead of continuous omega we write this omega n plus theta.
+This is called discrete frequency.
+So, this is continuous radian per second and this is that this is this is this frequency is per sample I will come details I will come.
+So, this is written like this way.

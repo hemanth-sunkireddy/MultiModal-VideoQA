@@ -1,0 +1,6 @@
+this diagram.
+So, what is the diagram?
+Here is x n, this is f s. If it is energy, then this function is square.
+So, if it is short term energy, then I can find out let us this is my signal x n whose sampling frequency is f s. Operator is x of so I can say square.
+Where is the operator signal square?
+I take the signal square.

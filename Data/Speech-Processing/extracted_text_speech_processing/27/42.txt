@@ -1,0 +1,6 @@
+time resolution decreases.
+If I increase the time resolution, frequency resolution will be decreases.
+So, that is the time frequency trade off in S T F T analysis.
+Then there is another topic is called effect of window.
+Different window has an different effect.
+What I said, whatever the frequency response I get which is x n k. Let us if I this is my output of frequency analysis n omega.

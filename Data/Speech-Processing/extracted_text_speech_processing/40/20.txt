@@ -1,0 +1,3 @@
+all words are not explicitly mentioned.
+If you find in continuous speech always end of the sentence the amplitude is going down even I have seen many cases in end syllable is not there acoustic signal is not there.
+So, this ASER model does not model this speaker mind what or you can say what speaker want to say that is prompted by the input text only.

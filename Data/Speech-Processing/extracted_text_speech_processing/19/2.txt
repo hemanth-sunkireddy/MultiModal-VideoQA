@@ -1,0 +1,5 @@
+are in time domain methods.
+Now, we are not analyzing the frequency of the speech in time domain methods for speech processing and that is used many cases those kind of methods are used ok.
+So, now, first of all that one things is that once the speech is digitized and taken into the computer.
+So, these are we are saying that digital signal processing the speech signal is now in digital domain.
+So, we always denote the speech signal with x of t.

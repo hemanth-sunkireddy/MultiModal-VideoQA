@@ -1,0 +1,4 @@
+and evaluated at m equal to n I get x m multiply by omega 0.
+So, x n is nothing but a inverse Fourier transform of frequency domain representation of STFT with 1 by 2 pi into W 0.
+So, this is a synthesis equation of STFT analysis ok. Now, what is the problem in here?
+So, for every m is equal to n.

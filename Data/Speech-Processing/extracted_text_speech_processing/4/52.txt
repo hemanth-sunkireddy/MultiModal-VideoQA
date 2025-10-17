@@ -1,0 +1,3 @@
+x 3, x 4, x 5, x 6, x 7.
+Now, you may say how do I divide the signal in odd and even if it is my signal size is 1024.
+There is a trick if you know that the just that trick I will discuss that is called bit reversible a technique.

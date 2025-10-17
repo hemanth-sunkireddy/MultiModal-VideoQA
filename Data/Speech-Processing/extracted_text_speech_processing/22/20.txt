@@ -1,0 +1,5 @@
+So, there is a speech signal outside the window length signal is 0.
+This is a very you can say this part is idea I mean this part is a concept what is the concept behind that autocorrelation thing.
+So, I can say I take a small window of signal outside the window the signal is 0.
+Now, if it is that outside the window signal is 0 within the window signal is there.
+So, this is m equal to 0.

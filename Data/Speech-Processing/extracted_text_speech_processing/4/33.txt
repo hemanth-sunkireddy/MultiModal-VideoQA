@@ -1,0 +1,2 @@
+So, if I say DFT is called symmetry, after DFT xk is symmetry, sk is obey the symmetry property.
+That means, if I draw it here xk, let us this is my k axis k. So, at here n minus 1, it is nothing but a F s. At k equal to n minus 1, it is nothing but a F s.

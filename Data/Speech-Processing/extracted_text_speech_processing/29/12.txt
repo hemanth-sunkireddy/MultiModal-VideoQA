@@ -1,0 +1,3 @@
+this is n minus m ok.
+So, I have get back the signal which is multiplication of x m and omega n minus m not x n directly.
+So, if I want to get back the x m, so x m small x m is nothing but a f m whatever I get back divided by omega n minus m ok. Now, if I evaluate f m

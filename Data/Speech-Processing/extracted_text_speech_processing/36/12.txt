@@ -1,0 +1,4 @@
+f average magnitude difference function average magnitude different function.
+So, what is the what is the theory behind what what are the methods in here.
+So, suppose you have a signal x n which may have a period which has a period which a periodic signal some fundamental frequency is there.
+Now, if I want to plot x 0, x n is equal to

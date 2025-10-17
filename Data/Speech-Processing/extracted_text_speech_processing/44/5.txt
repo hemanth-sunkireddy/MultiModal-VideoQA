@@ -1,0 +1,3 @@
+that we have developed a Bengali Bengali TTS system based on that HTS model and then try to do the F 0 modification using Fujisaki model.
+So, I will describe that things in this lectures because that will open up some research initiative on your own language.
+Now if you see depending on the that prosodic model Fujisaki has the define certain prosodic term of prosodic you can say the prosodic unit definition.

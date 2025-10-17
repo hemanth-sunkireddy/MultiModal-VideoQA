@@ -1,0 +1,4 @@
+r e to the power j omega u omega only the odd component exist only the odd function exist.
+So, this multiply with cos omega n will be 0.
+Similarly, if this multiply with sin omega n will be 0.
+So, then we what we get instead of fourth term two term will be 0 if two term 0 then this will be 1 by 2 pi minus pi 2 pi.

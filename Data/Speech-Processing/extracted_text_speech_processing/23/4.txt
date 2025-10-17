@@ -1,0 +1,4 @@
+If my estimation is very correct then it should produce the minimum prediction error ok.
+So, minimum prediction error equation it should satisfy.
+So, if I put this two equation in a matrix form it will look like this 1 E n p because same matrix that this equation to main matrix form.
+Now, if I see I want to solve this matrix it shows that if I use the Levinson recursions that means.

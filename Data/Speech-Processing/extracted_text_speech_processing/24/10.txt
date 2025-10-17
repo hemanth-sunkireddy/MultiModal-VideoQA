@@ -1,0 +1,2 @@
+transfer function of the system is gain is A 1 minus k equal to 1 to p A k or alpha k I can say z to the power minus k or I can say A k or alpha k whatever.
+Now, if I say that what is the predict this so this this one is the error filter.

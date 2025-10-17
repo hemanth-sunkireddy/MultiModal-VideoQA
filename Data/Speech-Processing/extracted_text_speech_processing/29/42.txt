@@ -1,0 +1,4 @@
+So, that is the synthesis equation.
+So, this is FBS method, S T F T synthesis.
+Let us go to the details maths what is there.
+So, in FBS method if I want to let us this is my frequency domain representation of nth window is x of n k, x of n k is my

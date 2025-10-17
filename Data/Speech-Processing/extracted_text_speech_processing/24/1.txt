@@ -1,0 +1,2 @@
+So, in last class we have talked about that covariance methods for linear predictions and we first explain that autocorrelation methods for linear predictions ok.
+So, now we are discussing about the latex formulation of linear predictions.

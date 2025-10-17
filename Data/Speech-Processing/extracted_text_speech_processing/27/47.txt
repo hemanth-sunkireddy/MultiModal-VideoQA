@@ -1,0 +1,4 @@
+So, my intention is that main lobe width has to be increased and side lobe attenuation must be very high side lobe should be very low disturbing then I can say the analysis of frequency analysis of the signal is almost pizab.
+So, that is my effect.
+So, I want to choose such a window whose main lobe width is very high.
+If you see in the spectrogram when I discussing about the spectrogram analysis in this software.

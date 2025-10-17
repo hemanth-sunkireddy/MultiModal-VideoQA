@@ -1,0 +1,4 @@
+But, using this energy or you can say the average magnitude and zero crossing rate, I can detect the voice beginning and end point of the voicing.
+So, what I will see?
+If you see this is a log energy separated voice from unvoiced and silence.
+So, this is the silence, this is the unvoiced, this is the voiced log energy in dB.

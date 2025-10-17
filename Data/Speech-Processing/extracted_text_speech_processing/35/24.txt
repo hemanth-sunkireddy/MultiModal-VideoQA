@@ -1,0 +1,6 @@
+And, there also the extraction of the fundamental frequency is very important to find out the movement of the node.
+So, ragas is defined nothing but a movement of the node.
+So, you have to find out the how the nodes are moving from the signal itself.
+So, there is a number of take.
+So, there is a number of problem and number of characteristics also in the fundamental frequency.
+If it is produced by a human being, then if you know the F 0 can be varies from 50 hertz to 400 hertz.

@@ -1,0 +1,2 @@
+based on the prosthetic structure instead of syntactic structure ok. Then we have done this thing that HTS part, then we said since F 0 if you see the HTS engine is nothing but a V coder one is called segmental information another is called supra segmental information which is nothing but a F 0.
+So, what we said we extract that F 0 contour from HMM TTS and modify as per the language requirement.

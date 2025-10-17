@@ -1,0 +1,3 @@
+and then output it produce as a speech.
+Now, if I remember if you remember that speech production mechanism how the speech is produced that message planning then that coding and then execution by the vocal tracks and produce the speech ok.
+So, speech production this part which convert the text to speech means input text to speech not only with this production model, but also other text processing model is also important because when we say something.

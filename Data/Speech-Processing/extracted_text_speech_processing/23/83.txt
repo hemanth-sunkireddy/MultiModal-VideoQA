@@ -1,0 +1,4 @@
+alpha k r k k equal to 1 to p alpha k r k. If know the alpha value, if I know the r k value, if I know the r 0 value, I can calculate g square.
+Once I get the g square, I can calculate g value.
+Is it clear or not?
+So, whatever the speech segment I get, once I know the speech segment, I can calculate the alpha value, I can calculate the r k k r k.

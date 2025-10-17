@@ -1,0 +1,3 @@
+After derive considering the boundary condition, we will derive the total task function in digital domain and then try to implement is uniform tube model.
+Then you go for the multi tube modeling of the human vocal track.
+Thank you.

@@ -1,0 +1,3 @@
+computational complexity is very large and also modeling suppose I want to model that using those features.
+So, if the features dimension is very high the modeling is very difficult.
+So, actually feature extraction means that I want I want to convert this speech segment in a such a way or such a I can say that I can represent this speech segment with a such a vector.

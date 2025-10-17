@@ -1,0 +1,5 @@
+If it is increased above 500 hertz, it becomes non-linear.
+So that bandwidth is defined as a bark.
+So one bark is equal to width of a critical band.
+So bandwidth in bark scale.
+So bark scale is equal to f by 1000 if f 500 hertz, 9 plus

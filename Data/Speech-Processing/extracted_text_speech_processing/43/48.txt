@@ -1,0 +1,5 @@
+x is in term of theta d 2 theta by d t square plus r into d theta by d t k into theta k is the stiffness r is the mechanical resistance and r is the mass mass of the muscle.
+So, mechanical resistance mass and stiffness then I can find out the relationship the movement variation of theta.
+So, if I solve this second order equation, it is nothing but exponential solution.
+So, it is nothing but exponential solution.
+So, I can say theta t

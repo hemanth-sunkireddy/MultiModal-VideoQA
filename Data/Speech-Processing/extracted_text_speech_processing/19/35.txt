@@ -1,0 +1,4 @@
+I get a value which is energy value of that speech signal, but I can I infer any information from that energy value.
+So, there is no use if I use whole signal at a time.
+So, what I will do instead of taking whole signal at a time I will multiply the signal this signal e for a particular window.
+So, I cut the signal particular window here if I cut the signal I take the signal of

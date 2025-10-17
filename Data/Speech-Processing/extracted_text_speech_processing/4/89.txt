@@ -1,0 +1,4 @@
+is also Y k is also contain the frequency response of this window function.
+So, I am not getting the exact frequency response only the filter and input signal, but also it is combined with window function frequency response.
+That is why I will get the different kinds of repeal.
+So, if you see different kind of window function are defined to reduce the different repeal stop band repeal and pass band repeal.

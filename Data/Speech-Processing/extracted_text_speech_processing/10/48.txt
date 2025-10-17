@@ -1,0 +1,1 @@
+So, VA omega is nothing but a ULT 1 by cos omega L by C into UG omega e to the power j omega t divided by UG omega e to the power j omega t. This will cancel, so it is nothing but a 1 by cos omega L by C. So, transfer function of the uniform tube

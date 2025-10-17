@@ -1,0 +1,4 @@
+This is the zero crossing, silence, unvoiced and voiced.
+Zero crossing for 10 millisecond interval, so I take the window side is 10 millisecond.
+So, suppose I can develop an algorithm like this.
+This is my energy, so I can get the interval, this is the, this block line is plotted for every 10 millisecond, every 10 millisecond there is a

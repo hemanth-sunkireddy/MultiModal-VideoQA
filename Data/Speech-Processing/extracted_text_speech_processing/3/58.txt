@@ -1,0 +1,7 @@
+I want to find out whether they are similar or not.
+That is why it is called correlation.
+Relation between let this is x n and this is y n or you can let us say this is x 1 n. So, correlation between x n and x 1 n is nothing but a similarity between these two signal.
+How do I find out?
+I just take the, so it is a digital signal.
+So, I take the sample by sample.
+I take the sample by sample.

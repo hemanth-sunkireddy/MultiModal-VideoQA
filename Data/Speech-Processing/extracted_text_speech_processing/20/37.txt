@@ -1,0 +1,5 @@
+normalize zero crossing rate.
+Then there is another parameter we said time domain parameter is called auto correlation coefficient.
+The details I will discuss during LPC analysis and F 0 analysis, but I just give you a hints what is auto correlation that idea.
+So, what is a correlation?
+You know suppose I want to find out the correlation between these two things that is nothing, but a similarity.

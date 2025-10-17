@@ -1,0 +1,4 @@
+this equation become nth order.
+So, I can say this whole v z can be say this is all 0 are in center and this is all pole model.
+So, I can write v z is nothing but a g by d z where d z is nothing but a pole model.
+So, if it is nth order so, it is nothing but a 1 plus

@@ -1,0 +1,6 @@
+and if you see the word boundary position the position of the boundary are different.
+Parasuna karo is same na polne shikvena, parasuna korona polne shikvena.
+So, prosody's ambiguity is there, but the prosody information is very important.
+Now, so spoken words identification is very important.
+What boundary marking word language is spoken word written language ice cream ice cream.
+If I say ice cream ice cream ice

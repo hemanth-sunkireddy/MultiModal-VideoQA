@@ -1,0 +1,5 @@
+So, plus side and minus side is there.
+I can divide this thing instead of 8 bit, 16 bit.
+So, 2 to the power 16 level I can divide this thing.
+So, once I divided this signal much more smaller gap, the accuracy of the quantization will be increases or quantization error will be decreases.
+I am not detailed discussing about the quantization error because that is there.

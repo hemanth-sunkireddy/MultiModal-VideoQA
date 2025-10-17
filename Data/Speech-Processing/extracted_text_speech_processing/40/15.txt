@@ -1,0 +1,3 @@
+So, this is ASR system.
+Now, I have to say I am I am assuming the acoustical signal is related to written text W. That means, I am assuming W cap is estimated output of the word written language.
+The input word must also be message in written language.

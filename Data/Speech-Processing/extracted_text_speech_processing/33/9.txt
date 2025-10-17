@@ -1,0 +1,5 @@
+e to the power j omega n d omega.
+Now, what is this?
+This is a complex function.
+So, I can say log of log of x e to the power j omega is nothing but a log of mod of log mod of x e to the power j omega plus.
+So, if I take the log.

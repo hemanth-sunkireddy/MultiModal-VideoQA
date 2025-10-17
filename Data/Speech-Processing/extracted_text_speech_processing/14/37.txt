@@ -1,0 +1,5 @@
+R 1 R 2 R 3 dot dot dot dot R n u n minus 1.
+So, it is nothing but a R 1 R 2 R 3 dot dot dot dot R n into 1 0 u l z.
+Now, u 1 I get.
+Now, I have to find out what is the relation between u g z and u 1 z.
+So, I have to consider the boundary condition.

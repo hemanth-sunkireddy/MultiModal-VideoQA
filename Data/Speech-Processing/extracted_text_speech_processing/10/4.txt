@@ -1,0 +1,1 @@
+minus rho v u by a rho by a del u by del t. Similarly, del p by del t is equal to minus rho c square del v by del x this will become del p by del t is equal to minus rho c square rho c square minus rho c square or I can say

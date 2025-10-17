@@ -1,0 +1,4 @@
+m equal to 1 to p 1 minus k m square ok.
+So, if I write down this 4 equation implement this 4 equation in a software's then I can calculate that alpha value and I can calculate the prediction error ok.
+So, if we see the next slides so, there is a equation.
+So, if I say here.

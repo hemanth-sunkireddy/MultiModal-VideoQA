@@ -1,0 +1,5 @@
+I have to evaluate it.
+So, suppose so there is a two case is there.
+Suppose I have a signal.
+So, I can say the X m is recovery is possible in two condition.
+One is that I have to know sample by sample recovery process for every m equal to n I have to do the recovery process.

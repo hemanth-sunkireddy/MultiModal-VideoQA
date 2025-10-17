@@ -1,0 +1,3 @@
+We consider the production system is an LTI system discrete time linear time invariant discrete system LTI discrete system linear time invariant linear system is linear system is time invariant and a discrete system.
+So, linearity you know time invariant know and LTI impulse response is direct convolution I am not going details.
+Then why I take that LTI system because easy to understand.

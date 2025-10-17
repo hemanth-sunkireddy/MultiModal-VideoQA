@@ -1,0 +1,4 @@
+of the Fourier transform where k equal to 0.
+So, DC component which is nothing but the average of all sample average of all sample give me the DC component.
+So, here this is should be equal to W 0 ok. Now, if it is W 0, so sum of value of square some sequence.
+So, this is obviously sum of sequence is nothing but the

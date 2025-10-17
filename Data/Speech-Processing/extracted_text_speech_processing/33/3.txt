@@ -1,0 +1,1 @@
+what is that inverse Fourier of log magnitude log of x I can say e to the power j omega mod of that log e to the power j omega m d omega or n sorry e to the power j omega m d omega this is the real shape term if it is real shape term then if I compute this one what is e to the power j omega n

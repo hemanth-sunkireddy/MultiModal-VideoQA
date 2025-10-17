@@ -1,0 +1,3 @@
+the fundamental frequency of the vocal chords.
+So, the controlling of the fundamental frequency which is I will talk about the prosody modeling part, I will details mathematical explanation I will given that how this fundamental frequency of the vocal chords can be changed.
+Now, if you see the singers are practicing in morning to touching up the some or you can see the comment like that you have your upper note is not that clear lower note is clear what is meaning, meaning is that the changing of the fundamental frequency.

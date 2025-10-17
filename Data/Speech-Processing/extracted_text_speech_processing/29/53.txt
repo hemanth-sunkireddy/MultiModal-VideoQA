@@ -1,0 +1,4 @@
+function, product of window function and impulse strain.
+So what is the meaning?
+Product of window function and impulse strain, okay.
+So I can say Wn into R equal to minus e to infinity del of n minus Rn.

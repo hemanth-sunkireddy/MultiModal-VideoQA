@@ -1,0 +1,2 @@
+resolution is 32 band, 32 band means that that whole frequency if it is f s is divided into 32 band ok.
+So, f s is divided into 32 band so that means, that if I want to make it let this is my y axis which is frequency this is my x axis which is time.

@@ -1,0 +1,1 @@
+it and take the inverse transform then what you get you get the signal divided by if I want to get exactly get back the signal then I what I required that x n has to be f n divided by w 0 but instead of division what I do take one and take another one in here

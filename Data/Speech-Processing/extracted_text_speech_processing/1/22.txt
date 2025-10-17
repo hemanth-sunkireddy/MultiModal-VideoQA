@@ -1,0 +1,3 @@
+how it is behave like that.
+So, all kinds of things we have to know.
+So, the course aim is not to deal with that sub computing or those things, deal with that what is speech, how it is produced, which features I should exploit to develop the speech base application, which features carries what kind of information, what do how the human being produce the speech, how the human being perceive the speech, all kinds of things will be converted.

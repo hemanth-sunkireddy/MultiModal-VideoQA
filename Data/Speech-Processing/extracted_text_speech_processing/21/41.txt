@@ -1,0 +1,6 @@
+So, what are the procedure to minimize the error?
+One of the procedure is mean square error minimization.
+So, I can say find out the mean square error.
+So, what is mean square error?
+E n is nothing but a m of E n m square mean square.
+So, I can say E n is nothing but a m.

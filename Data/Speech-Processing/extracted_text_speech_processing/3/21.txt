@@ -1,0 +1,4 @@
+Then, first sample is nothing but A, the amplitude less, first sample amplitude is A 1 with delta n plus n minus 0 is 0.
+Next, A 2 delta n minus 1, like that way I can write.
+So, that will be used in different time when you process the digital signal.
+Now, next concept is classification of signal, different type of signal, energy signal, power signal I am not describing, you know that if it is energy infinite then call energy signal, if power is finite then it is called.

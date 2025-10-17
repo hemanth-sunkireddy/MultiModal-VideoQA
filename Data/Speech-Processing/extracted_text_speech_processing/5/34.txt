@@ -1,0 +1,3 @@
+there is a mass and there is a mechanical damping.
+This is the mass, this is the spring constant S and this is the mechanical damping R m. So, air acts as a force on this mechanical oscillation.
+So, I can say two vocal cords can be act as a mechanical oscillator and that oscillate by the force which is coming from the

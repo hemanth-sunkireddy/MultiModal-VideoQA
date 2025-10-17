@@ -1,0 +1,2 @@
+Now, we have somewhat improved the synthesized speech, but if you think in today in all kinds of TTS which is used in HTS or HMM based TTS system, this kind of modeling is not required because we have trained the system lot of original data.
+So, that means, within the corpus there is occurrence of pause which is already taken care by the.

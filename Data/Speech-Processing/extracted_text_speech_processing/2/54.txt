@@ -1,0 +1,4 @@
+microphone may be bidirectional, may be unidirectional all kinds of directional means which point microphone has a pick up.
+That means, if I use this kind of microphone if you see the omnidirectional that means, that can that microphone can pick up from any sound any direction.
+If it is a unidirectional that can only pick up a sound from in one direction that is represented in a polar port the slides are there.
+This is the frequency response example of a microphone.

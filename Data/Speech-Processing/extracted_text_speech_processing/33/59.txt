@@ -1,0 +1,3 @@
+m minus 0.5, i equal to 0 to c minus 1, number of spectral coefficient.
+Is it okay or not?
+So next class, I will discuss how we implement it or I can say that let more details discuss on implementation issue on MFCC, then we discuss about the delta, double delta, then PLP and then RASTA, then the features extraction will be completed.

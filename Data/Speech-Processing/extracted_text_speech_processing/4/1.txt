@@ -1,0 +1,2 @@
+So, we are discussing about that LTI systems and their implementation.
+Now, come to the sequence representation of the discrete signals and LTI systems.

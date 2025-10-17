@@ -1,0 +1,5 @@
+the 1 second is divided into 100 point.
+So, now sampling frequency come down to the instead of F s it is 100 sampling rate the frame rate divided that sampling frequency.
+So, I get a 1 value here 1 value here that way 100 value I get.
+So, 100 z value I get then if I plot those 100 z value.
+So, if the signal is sibilant or if the fricative

@@ -1,0 +1,4 @@
+I am sampling the frequency scale also.
+So, suppose I have a frequency range this one here to here is f I want to discretized it ok.
+So, I am saying let us divided this length with a n number of discrete value ok.
+So, I divided this n.

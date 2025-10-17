@@ -1,0 +1,4 @@
+and then prosodic clause.
+So, this is called prosodic structure which may differ it may not coincide with one to one corresponding to the syntactic structures ok.
+So, based on this idea when we develop the HTS engine I am not discussing this slide we have already said again.
+So, when we developing our Bengali HTS TTS what we have done first we find out that develop the Bengali HTS.

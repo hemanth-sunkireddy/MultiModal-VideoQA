@@ -1,0 +1,4 @@
+Now, let us start with the human speech production and its source filter modeling.
+Since the objective is to model the human speech production system, so let us describe what is human speech production model and how it can be synthesized using the source filter model.
+So as we explained that human speech production systems depends on some steps.
+First one is the message planning that involve the linguistic parameter, then role of the utterance planning, then the psychological constraint by the motor command generation, then speech sound production and radiation of the speech from the.

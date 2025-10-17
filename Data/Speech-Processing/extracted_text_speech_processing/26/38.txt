@@ -1,0 +1,10 @@
+Fourier transform.
+So, omega is continuous.
+Now, I want to make omega is discrete.
+So, how the omega becomes discrete?
+Omega is continuous in the frequency plane.
+So, what I do?
+Let us I have a frequency scale.
+I have a DFT, DTFT, DFT discrete Fourier transform.
+Then, the length of the discrete Fourier transform is involved.
+So, DFT length, if you remember the review of the DSP, there is a n is called.

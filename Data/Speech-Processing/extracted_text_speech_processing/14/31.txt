@@ -1,0 +1,5 @@
+half.
+Then I can say I simplify this matrix z to the power minus half 1 plus R k I can write down here.
+So, it is 1 minus R k divided by this one 1 minus R k 1 minus R k minus R k z to the power minus 1 z to the power minus 1.
+Now, if I see this matrix is R k cap and this whole matrix q k is equal to R k. So, I can write R k is nothing but a z to the power minus half.
+So, q k is equal to

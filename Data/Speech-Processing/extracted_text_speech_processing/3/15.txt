@@ -1,0 +1,6 @@
+sampling frequency is 100 kilohertz.
+So, what is the value of omega?
+Omega is nothing but a 2 pi f, where it is 2 pi f by f s. So, it is nothing but a 2 pi 50 divided by 100.
+So, it is nothing but a pi.
+It is nothing but a pi.
+Now, if it is 40 kilohertz, it is nothing

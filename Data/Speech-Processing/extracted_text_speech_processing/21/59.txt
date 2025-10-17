@@ -1,0 +1,2 @@
+1 and alpha p. Once I get the value of alpha 1, alpha 2 and alpha p for which my error is minimum, then I can set using this set of alpha value, I can correctly estimate the signal, the difference between the my present signal and the estimated signal, error will be minimum.
+So, if the error is minimum that can I say

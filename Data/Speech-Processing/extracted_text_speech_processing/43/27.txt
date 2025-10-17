@@ -1,0 +1,3 @@
+is nothing but a change of length which I can define as x.
+So, I can say T 0 plus a by b e to the power b x minus a by b.
+Now, if a by b is much less than T 0, then I can say T is equal to

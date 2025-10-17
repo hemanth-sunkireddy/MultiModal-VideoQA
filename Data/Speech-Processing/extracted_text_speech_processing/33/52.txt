@@ -1,0 +1,2 @@
+So, I am calculating S cap L, L is the number of filter, S cap L using male filter bank over the male filter, I am calculating male spectrum.
+And once spectral coefficient is analyzed based on the male spectrum, then it is called male frequency spectral coefficient A M F C C.

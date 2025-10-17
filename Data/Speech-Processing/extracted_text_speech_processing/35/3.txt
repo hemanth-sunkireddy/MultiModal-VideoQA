@@ -1,0 +1,3 @@
+So, what we said that when human being produce the speech, so there is a vocal tract, that vocal tract transfer function which is H n and it is modulated the input is called Gautal excitation.
+So, Gautal excitation either vocal cord is closed or vocal cord is open.
+If vocal cord is closed then there will be a vocalic sound or voice sound.

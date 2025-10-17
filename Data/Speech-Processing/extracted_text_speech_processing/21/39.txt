@@ -1,0 +1,3 @@
+properly estimated or error will be 0.
+So, I have to minimize the error and find out the set of solution.
+So, I can say if my estimation of alpha k is let us I estimate that alpha k. So, I can say e n error for a m number of let us there is a m number of signal speech signal I can get I can take n let us I can take nth position e n m is nothing but a s n m.

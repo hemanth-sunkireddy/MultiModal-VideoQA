@@ -1,0 +1,4 @@
+like that if a sound wave is coming in this medium, if I put a area here, then sound wave will be strike here.
+Now, if the intensity of the sound wave is I, then what is the total power of the acoustical wave which is strike in this plate?
+If the area of the plate is A, then I can say their power or force is equal to I into A.
+So, I can say

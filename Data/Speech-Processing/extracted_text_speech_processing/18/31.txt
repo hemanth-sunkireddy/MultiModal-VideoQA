@@ -1,0 +1,8 @@
+So, one model is that SNP auditory model.
+If you see what is auditory model?
+So how human being perceive the speech sound I have to implement in auditory model.
+If you see there is a so stage 1, stage 2 and stage 3.
+So what is stage 1?
+What we have done?
+We have a series of basilar membrane filter.
+So I can say I can develop a.

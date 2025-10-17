@@ -1,0 +1,4 @@
+the tube is divided into p number of section.
+So, if you relate that Ki value and Rk value has a relationship or Ri value has a relationship.
+So, minus 1 minus Ki is equal to Ri.
+So, you know that the Rk value is minus 1 Rk plus 1.

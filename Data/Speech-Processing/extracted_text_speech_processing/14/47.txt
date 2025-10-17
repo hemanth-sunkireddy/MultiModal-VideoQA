@@ -1,0 +1,4 @@
+Now, is z to the power n by 2, n equal to 2, so 2 by 2.
+Then, product of k equal to 1 to n, k equal to 1 to n means n equal to 2.
+So, instead of k equal to 1 to n, I can write 1 by 1 plus R 1 into 1 by 1 plus R 2.
+Then, I can write k equal to 2 in this equation.

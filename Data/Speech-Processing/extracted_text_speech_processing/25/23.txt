@@ -1,0 +1,3 @@
+required 1 byte 1 bit if it is 1 then it is voiced if it is 0 then it is unvoiced ok. Next I if it is voiced then I have to generate the impulse who supply the impulse period that is also transmitted.
+So, I can say again the value of f 0 will be also transmitted.
+So, if f 0 value is transmitted using 1 byte let us f 0 value and this voiced unvoiced information is transmitted using 1 byte.

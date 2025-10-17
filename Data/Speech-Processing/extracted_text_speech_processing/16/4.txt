@@ -1,0 +1,4 @@
+We can better model that we can better process the speech signal that way.
+On the other hand, if I say if I produce a speech and a human listener perceive the speech, how human listener process the speech to perceive it is very important to know.
+Because unless we do not know what we perceive, the development of technology will be not possible.
+So, we want to know what kind of speech processing happen in our brain.

@@ -1,0 +1,3 @@
+If I take the product of them what I will get the sine wave impose will be the high frequency signal.
+So, now I want to extract this smooth version of the signal this sine wave.
+So, I can see the sine wave is a low frequency component this is nothing, but a high frequency component if this is my complex signal.

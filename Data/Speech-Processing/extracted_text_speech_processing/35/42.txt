@@ -1,0 +1,4 @@
+it change within one period I can show you one picture is there.
+So, in that case I fail to detect the F 0.
+So, zero crossing rate base F 0 detection is not a very good solution or good methodology for find out the F 0.
+But if you see the detecting of number of zero crossing.

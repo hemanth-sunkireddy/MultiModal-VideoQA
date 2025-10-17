@@ -1,0 +1,3 @@
+This is same as electrical transmission line lossless transmission line.
+Now, so what I want to know what I want to do is that I want to find out the transfer function of a uniform tube which is I can say this side is the vocal cords which acts as a piston.
+So, x is equal to 0 where the force is applied in the tube and x is equal to L where the tube radiate the sound energy.

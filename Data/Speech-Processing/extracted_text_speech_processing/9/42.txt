@@ -1,0 +1,1 @@
+Now, if I consider this term, this is a non-linear term, if I drop this term that this term is if the v the particle velocity is very small, particle velocity is less negligible in that case I can say that del d v by d t is nothing but a del v by del t.

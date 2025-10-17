@@ -1,0 +1,3 @@
+then I get the spectral coefficient c n if it is real log magnitude then it real.
+So, real spectrum c n now instead of signal spectrum if I use LPC spectrum then it is also possible to find out the spectral coefficient from the LPC spectrum.
+So, the parameter name is called LPC c LPC then spectral coefficient LPC.

@@ -1,0 +1,5 @@
+that some pros and cause of autocorrelation technique.
+So, computation efficiency can be improved if I if I use the FFT algorithm to implement that correlation the calculation of the correlation function ok.
+So, this you can read it.
+Now, instead of autocorrelation since autocorrelation is required the sample is multiply by the sample.
+So, if it is a if you see if it is a 16 bit signal.

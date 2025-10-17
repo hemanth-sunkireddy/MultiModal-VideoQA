@@ -1,0 +1,5 @@
+WMA, DSS, AU, etc.
+So, all are some are coded speech forward, some are non coded because it is just stored the sample.
+So, but if this is the MP3, it is a compressed.
+So, sound can be stored either compressed or without compressed.
+If I store the signal, let us that in one second it is generate 8 kilo watt, I can compress it and store it and there is no compression.

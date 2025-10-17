@@ -1,0 +1,3 @@
+of Y n. So, convolution means that suppose this is my system and I apply a signal here.
+So, output is the property of the system must be convolved or modify the input signal produce the output ok.
+So, each property of the you can say that whole property of the system

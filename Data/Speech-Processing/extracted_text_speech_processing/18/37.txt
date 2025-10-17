@@ -1,0 +1,6 @@
+Then, Lyons Cochlear Model, same things.
+So, acoustic signal, outer ear, middle ear, pre-emphasis.
+So, acoustic signal is if we pass through a, you can see we have a this kind of frequency response of the middle ear and outer ear.
+So, this can be pre-emphasized.
+Signal can be pre-emphasized using inverse response.
+After the pre-emphasis, I can pass the signal out.

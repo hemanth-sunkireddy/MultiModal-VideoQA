@@ -1,0 +1,4 @@
+then try to derive the equation of this human vocal track.
+So, uniform tube model.
+So, how do we derive that vocal track equation?
+So, if it is a system, if you studied that electrical system signals and system, if I have a system, if I apply a input, let input is x n, this I consider x n and output is y n, then transfer function if it is h n.

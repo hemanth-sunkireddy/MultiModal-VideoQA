@@ -1,0 +1,6 @@
+compared to this.
+So, short time zero crossing can be used to find out whether it is a voice signal or it is a noisy signal.
+So, short term energy is short term zero crossing can be used.
+So, the number of zero crossing can be a one parameter to extract the number of zero crossing can be a time domain parameter.
+So, this is time domain parameter I have to extract the for per frame extract the number of zero crossing.
+Then short time autocorrelation

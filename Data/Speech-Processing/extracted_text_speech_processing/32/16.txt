@@ -1,0 +1,3 @@
+So, I can say if I pass this complex signal through a low pass filter.
+So, low pass output will be the smooth variation of the signal and high pass output will be the high variation of the signal.
+So, I can say if I pass this spectrum with a low pass filter this is consider as a signal and pass this through a low pass filter then I can say the output of the low pass filter actually give me the envelope representation.

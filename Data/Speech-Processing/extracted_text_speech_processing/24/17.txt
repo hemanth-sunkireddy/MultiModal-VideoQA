@@ -1,0 +1,2 @@
+from previous i sample.
+So, I can say S m minus i is the original sample minus estimated sample k equal to 1 to i alpha k S of m minus i plus k. I want to predict if I see this here, I want to predict this S.

@@ -1,0 +1,7 @@
+the signal is clicked.
+What do you mean by clicking?
+Now, suppose I have an ADC or volume of the recording volume which is control the ADC level.
+So, suppose this is 5 volt to minus 5 volt.
+This ADC can handle 5 volt to minus 5 volt.
+Now, if I amplify my sound 7 volt to minus 7 volt.
+So, suppose 5 volt to minus 5 volt sound wave, sine wave, let us sine wave.

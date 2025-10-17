@@ -1,0 +1,3 @@
+So, in this course I will cover the extraction of different speech parameters, details I will discuss during the speech parameter extraction, what do you mean by parameter and what kind of parameter you think is suitable.
+So, those kind of things we will discuss, there is a signal processing algorithm, we use those algorithm, why we use this algorithm is very important.
+Do not read anything which is just this has written, I have read it, I copied it and give the exam not this, why this is important is very important.

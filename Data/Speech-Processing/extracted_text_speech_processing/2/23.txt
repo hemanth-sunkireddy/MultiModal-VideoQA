@@ -1,0 +1,6 @@
+So, how do we decide at the level let us this whole 10 volt is divided in or you can say that I representing this 10 volt by a 8 bit number.
+So, what is the highest value of 8 bit 2 to the power 8 8 bit number means integer value is 2 to the power 8.
+So, 2 to the power 8 if it is negative and positive.
+So, 1 bit is goes for sign.
+So, it is minus 127.
+So,

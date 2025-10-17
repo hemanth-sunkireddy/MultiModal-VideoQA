@@ -1,0 +1,5 @@
+and extracted parameter are called parameters.
+So, if the extract LPC parameter extraction extracted using LPC LPC analysis, then all coefficient a 1, a 2, a 3 all are called LPC parameters.
+So, those represent the speech signal for a particular speech segment ok.
+So, if the features is extracted segment wise.
+So, it is all features are extracted.

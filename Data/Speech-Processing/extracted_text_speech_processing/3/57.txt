@@ -1,0 +1,5 @@
+Circular convolution of x n and h n is defined as the convolution of h n with a periodic signal x p n. If the signal is periodic then I can do a circular convolution.
+So, this is the mathematics I am not going details of the circular convolution.
+Next correlation, correlation is similar mathematics with the convolution.
+What I want?
+Suppose I want to find out there is a signal like this and there is a signal like this.

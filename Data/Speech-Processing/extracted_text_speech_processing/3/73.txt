@@ -1,0 +1,4 @@
+So, it is called direct form 2 implementation.
+We use this thing when we implement this is our vocal chord systems using discrete time systems.
+So, next class I will just complete this DSP things.
+Thank you.

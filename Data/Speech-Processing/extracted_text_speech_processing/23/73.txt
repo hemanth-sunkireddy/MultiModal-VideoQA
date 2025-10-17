@@ -1,0 +1,4 @@
+if I want to transmit speech signal from this point to this point using simple LPC encoding and decoding, what I want I want to send that F 0 value, G value, alpha value or K i value in the receiver end and from F 0 value, G value and alpha value I can generate the speech signal.
+So, F 0 is extracted based on the if I get the speech signal I can extract that F 0 value.
+So, next I have to I can use K i value.
+So,

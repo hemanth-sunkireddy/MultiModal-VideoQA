@@ -1,0 +1,3 @@
+So, I said that earlier I have not considered the friction loss, viscous loss and thermal loss.
+Now, if I consider the all kinds of friction loss, thermal conduction on the wall, viscosity all kind of losses, then I found it increase the bandwidth of the complex pole and decrease the resonance frequency slightly.
+So, ultimately I can say that yes, if I consider that.

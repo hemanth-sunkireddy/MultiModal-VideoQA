@@ -1,0 +1,7 @@
+f. That means, if I can draw it with respect to k and I can convert the k with respect to f, then I get the frequency response of the signal.
+So, this can be draw in linear view or log view.
+Log view means if you see there is a two kind of view, log view and windowing I will come later on.
+So, log view and linear view.
+So, there will be a log view.
+I can take the output as a log.
+So, log spectrum or normal spectrum.

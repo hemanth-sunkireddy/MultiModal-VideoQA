@@ -1,0 +1,6 @@
+Then, how do I derive this v z if I consider this is a z domain v z which is nothing but a u l z divided by u g z and each z to the power minus 1.
+Now, z to the power minus 1 is single sample delay.
+Now, my sample delay is t equal to 2 tau.
+So, I can say instead of z to the power minus 1 it will z to the power minus half.
+So, all the z value will be replaced by z to the power minus half z to the power minus half z to the power minus half z to the power minus half.
+So, I get this.

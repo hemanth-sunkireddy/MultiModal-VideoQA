@@ -1,0 +1,4 @@
+So, it is nothing but a delay, delay will be same, same delay will be happen.
+Now, if it is that then I can say let us tau is equal to sampling period T 1, z to the power minus 1 is one sample delay, what is the delay?
+If it is 8 kilohertz then what sampling period 1 by 8 kilohertz is the sampling period.
+So, sampling period delay will be happen, let the tau T 1.

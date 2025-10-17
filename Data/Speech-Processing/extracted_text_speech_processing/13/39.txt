@@ -1,0 +1,2 @@
+u k minus t plus tau k. So, signal flow I can say this direction, this is the forward direction and this is the backward direction.
+So, this is nothing but a u k plus t minus tau k and this is nothing but a u k plus 1 minus t. So, I can say

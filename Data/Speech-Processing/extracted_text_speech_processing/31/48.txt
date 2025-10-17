@@ -1,0 +1,3 @@
+and each frame is represented by a some feature vector ok. Let us those features are filter let us those features are extracted using filter bank analysis.
+So, what is filter bank analysis?
+If I say so whole speech signal let us S n is there ok let this is my S.

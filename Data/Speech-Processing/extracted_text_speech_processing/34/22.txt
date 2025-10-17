@@ -1,0 +1,6 @@
+velocity.
+How quickly format are moving?
+Acceleration.
+So, delta, double delta can be a speech parameter.
+Now, if you calculate just differentiate that frame 2 minus frame 1 and frame 3 minus frame 2, suppose you have a signal which is randomly varying means variation is very high.
+Let this 1, this 1, this 1, the this 1, then this 1, then this 1, then this 1, then this 1,

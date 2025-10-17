@@ -1,0 +1,7 @@
+where you want to implement the band pass filter.
+Similarly, suppose I want to design a high pass filter of 1.5 kilohertz.
+If the sampling frequency of the signal is 8 kilohertz, then in frequency scale, what is the maximum signal?
+Up to 8 kilohertz I can get.
+Baseband signal is 4 kilohertz again.
+Even I can get the baseband signal is 4 kilohertz.
+So, it is nothing but a band pass filter.

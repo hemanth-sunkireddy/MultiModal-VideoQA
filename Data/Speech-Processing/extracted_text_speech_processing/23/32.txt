@@ -1,0 +1,4 @@
+into 1 minus k 2 square.
+I can find out and I can find out alpha 1 alpha 2 using this equation in hand made without programming.
+So, if p value are very less without programming I can find out that alpha alpha 2.
+So, those kinds of questions can be respect in that examination paper or I can write a program and run as real speech signal and find out the that alpha alpha value and e value for autocorrelation function using the.

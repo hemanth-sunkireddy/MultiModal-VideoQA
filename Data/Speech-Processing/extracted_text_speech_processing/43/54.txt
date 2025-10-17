@@ -1,0 +1,6 @@
+the phrase command.
+And this action command is created after the phrase command is placed, then the action command is put, this red line is generated.
+If you see, the red line almost follow the black dot s. So, it is almost possible to model the F 0 contour using this phrase command and action command.
+So, if you see, there is a number of phase.
+So, here I represent the number of phase.
+So, I equal to 1 to.

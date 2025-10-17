@@ -1,0 +1,4 @@
+to produce the different kind of sound.
+So, using the uniform tube model, speech sound production and implementation of it using the signal parsing you should able to do.
+So, I should explain how to model that this human vocal cords and how it should be implemented using the digital signal parsing techniques.
+So, some part of digital signal parsing I will cover, but that I am assuming.

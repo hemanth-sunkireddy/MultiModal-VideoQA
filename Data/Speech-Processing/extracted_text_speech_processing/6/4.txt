@@ -1,0 +1,6 @@
+So, this is nothing but a linear filter and convolution of e n and h n produce speech.
+So, in time domain if it is convolution frequency domain it is nothing but a multiplication.
+So, now how do I classify the voice sound?
+So, voice sound is classified based on two properties.
+One is the fundamental frequency of the excitation which is constant throughout the all voice sound.
+Now, different model of

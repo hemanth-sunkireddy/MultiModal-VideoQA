@@ -1,0 +1,7 @@
+6.
+So, n is equal to length of the DFT is 512, 512 point DFT I have applied.
+So, what is the resolution?
+16 divided by n, 16 k kilohertz divided by n. So, I can say 16000 divided by n is 512.
+Almost I can say 32 hertz, 32 to 33 hertz.
+I am satisfied.
+The resolution is 32 hertz.

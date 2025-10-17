@@ -1,0 +1,3 @@
+and then if I compute, is it help us?
+Yes.
+So, what they done FFT, Radix 2 algorithm that if I take the length of the DFT is we can say that if the n can be represented by 2 to the power something, the length of the DFT restriction is that I want to discrete, I want to divide the whole signal in binary space, you know 2 spaces, 2 part.

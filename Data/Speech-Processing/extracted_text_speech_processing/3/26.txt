@@ -1,0 +1,8 @@
+then may be silence, then may be voice.
+So, I can say along the time signal changes its property.
+So, it is a time varying signal.
+Later on you learn that signal parsing algorithms are applied on a stationary signal.
+So, I have to consider how I make the speech signal is non stationary.
+So, those kind of consideration we will take.
+So, this is stationary and non stationary signal.
+Then I come to the systems.

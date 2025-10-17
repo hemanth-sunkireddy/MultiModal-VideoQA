@@ -1,0 +1,3 @@
+what are the step to find out the spectral coefficient.
+So, basic processing step of for frequency parameters I get a x n is the signal then what I will do in the speech signal I do the pre pre emphasis to emphasize the high frequency component why it is required if you see in the speech signal low frequency are emphasized, but high frequency are not that emphasize.
+So, what I will do first step I will get a speech signal let us s n.

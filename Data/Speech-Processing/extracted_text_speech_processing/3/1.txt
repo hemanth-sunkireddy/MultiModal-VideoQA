@@ -1,0 +1,3 @@
+.
+So, before we start digital speech processing some ah signal processing concept has to be reviewed because those will be used frequently in many places.
+So, you may find difficulty

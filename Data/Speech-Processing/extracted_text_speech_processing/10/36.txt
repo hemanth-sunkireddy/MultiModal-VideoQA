@@ -1,0 +1,2 @@
+Now, what is if you see P is analogous to voltage, U is analogous to current.
+Now, if I say what is the you can say the impedance Z is nothing but a P X T divided by U X T. If I do that P X T divided by U X T, so it will come J Z T into tan omega L minus X.

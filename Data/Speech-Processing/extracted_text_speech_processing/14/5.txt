@@ -1,0 +1,4 @@
+So, I can draw the equation like this way.
+Let this is UGN, then the first junction, second junction, dot dot dot, nth n minus 1 junction and this is the and if you see the last one is the boundary condition at left and this one is the boundary condition at rightist.
+So, it is RG, it is half of 1 plus RG, it is minus RL, 1 plus RL.
+I can draw the n tube equivalent signal diagram, signal flow diagram and each delay is represented by z to the power.

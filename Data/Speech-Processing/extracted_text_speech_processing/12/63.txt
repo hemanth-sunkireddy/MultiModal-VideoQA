@@ -1,0 +1,3 @@
+0 or can say 0.5 half millisecond half millisecond 10 to the power 3 is half millisecond to 0.5 millisecond.
+So, 0.5 millisecond time will take from tube come to here to here.
+Now, if I say that in digital domain if this circuit I want to implement

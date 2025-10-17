@@ -1,0 +1,4 @@
+modeling or how human being perceive the frequency.
+So, perceptual effect include the most auditory model, spectral analysis on a non-linear frequency scale, spectral amplitude compression, loudness compression via logarithmic scale.
+So, we are not, we are not, you can say that physical loudness is not, physical intensity is not equivalent to the perceptual loudness.
+So, there is a logarithmic compression is there.

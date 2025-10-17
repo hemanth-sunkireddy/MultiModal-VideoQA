@@ -1,0 +1,3 @@
+how much movement and this rotation and translation can change the F 0, then how this will be used in prosody or how this will be used in continuous movement of the F 0 is an important factor.
+So, how it is used?
+If you see that rotation is provide a component which is x 2 t and translation is provide a component x 1 t. So, total change is x 1 t plus x 2 t which is in log F 0 contour.

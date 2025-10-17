@@ -1,0 +1,6 @@
+What are the frequency content in this signal?
+So I say my y axis is the frequency, my x axis is the let us x axis is the frequency and I want to know the each frequency content amplitude.
+So then the power of every single frequency.
+So this is a two dimensional plot frequency versus power.
+This is also time versus sample amplitude.
+Now the problem is that if I plot this way.

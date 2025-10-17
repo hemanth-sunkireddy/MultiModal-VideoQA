@@ -1,0 +1,5 @@
+r value.
+Yes, I get the F 0 by 2 also maximum r value because it is pure sine wave.
+If it is not pure sine wave, then I will get maxima when the sample is matched exactly with its period.
+So, if I see that plot, you see this plot.
+So, if you see this is my signal.

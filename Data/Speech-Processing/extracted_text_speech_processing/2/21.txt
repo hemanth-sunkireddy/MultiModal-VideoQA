@@ -1,0 +1,4 @@
+So, quantization is again I have to what I said I take a take a instant of this value.
+This is nothing but a voltage if it is amplitude it is voltage let us pass 5 volt minus 5 volt is here.
+So, this voltage has to be converted to a some step if you see here some step.
+So, each step I can represent by a binary number.
