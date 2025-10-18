@@ -1,0 +1,8 @@
+filename,timestamp,sentence
+1.srt,00:02:37.450 --> 00:02:42.409,"Machine learning, we mentioned that machine learning several times during the talk about data science"
+1.srt,00:02:49.840 --> 00:02:54.140,"Many machine learning models, they are coming from statistical learning"
+1.srt,00:02:55.280 --> 00:03:02.489,"In industry, machine learning engineers can develop and test machine learning models and design machine learning experiments"
+1.srt,00:08:04.560 --> 00:08:07.610,Machine learning is also a key component in Internet of Things
+1.srt,00:13:06.290 --> 00:13:12.509,"So for example, prediction includes classification regression, and these are in supervised learning"
+1.srt,00:13:14.140 --> 00:13:23.680,"And clustering, which groups the similar data points together, and anomaly detection and dimensionality reduction, they are in a category of unsupervised learning"
+10.srt,00:00:25.679 --> 00:00:28.609,And we're going to focus on supervised learning

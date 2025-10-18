@@ -1,0 +1,9 @@
+filename,timestamp,sentence
+2.srt,00:00:06.419 --> 00:00:08.929,"In this video, we're going to talk about linear regression"
+2.srt,00:00:06.419 --> 00:00:08.929,"And then we're going to talk about important quantities for linear regression, such as a fitness performance metric, things like that"
+2.srt,00:01:07.469 --> 00:01:17.030,And our goal is to tweak this parameter by optimization so that the model makes a prediction that's close to the target as much as possible
+2.srt,00:01:19.590 --> 00:01:21.189,It is one of the simplest kind of supervised learning model
+2.srt,00:01:21.239 --> 00:01:24.949,And it predicts a real value number which is regression
+2.srt,00:01:40.769 --> 00:01:46.879,That means the user doesn't need to figure out some design parameters in advance or during the training
+2.srt,00:01:50.079 --> 00:01:56.329,"And importantly, linear regression model assumes a linear relationship between the features and the target variable"
+2.srt,00:04:22.079 --> 00:04:34.989,"So this type of model, whether we have many variables or one variable, that shows some linear relationship of the variable to the target and this type of model is called the linear regression."

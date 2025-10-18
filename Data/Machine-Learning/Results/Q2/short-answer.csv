@@ -1,0 +1,5 @@
+filename,timestamp,sentence
+2.srt,00:00:06.419 --> 00:00:08.929,"In this video, we're going to talk about linear regression"
+2.srt,00:00:09.619 --> 00:00:17.170,And we'll talk about how statistically significant these estimate values are
+2.srt,00:01:07.469 --> 00:01:17.030,And our goal is to tweak this parameter by optimization so that the model makes a prediction that's close to the target as much as possible
+2.srt,00:01:19.590 --> 00:01:21.189,It is one of the simplest kind of supervised learning model.

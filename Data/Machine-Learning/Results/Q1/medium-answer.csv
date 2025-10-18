@@ -1,0 +1,16 @@
+filename,timestamp,sentence
+1.srt,00:02:37.450 --> 00:02:42.409,"Machine learning, we mentioned that machine learning several times during the talk about data science"
+1.srt,00:02:42.550 --> 00:02:48.879,So machine learning is part of data science and it is also a subfield of artificial intelligence
+1.srt,00:02:49.840 --> 00:02:54.140,It focuses on learning algorithms and building models and training them on the data
+1.srt,00:02:42.550 --> 00:02:48.879,"Machine learning consists of different types of learning, such as supervised learning, unsupervised learning, or reinforcement learning"
+1.srt,00:02:49.840 --> 00:02:54.140,"Many machine learning models, they are coming from statistical learning"
+1.srt,00:02:55.280 --> 00:03:02.489,"In industry, machine learning engineers can develop and test machine learning models and design machine learning experiments"
+1.srt,00:05:20.230 --> 00:05:26.430,"And in intersection, when the AI algorithm is learning from the data, it is called machine learning"
+1.srt,00:05:27.620 --> 00:05:33.500,"And particularly, if it deals with complex data with neural network architecture, it is called deep learning"
+1.srt,00:05:36.290 --> 00:05:41.000,And here is the Google trend on the term on machine learning and software engineering
+1.srt,00:06:13.940 --> 00:06:16.820,"Alright, that already sounds like ML is very cool"
+1.srt,00:08:04.560 --> 00:08:07.610,Machine learning is also a key component in Internet of Things
+1.srt,00:08:08.160 --> 00:08:16.160,"Smart sensors and smart devices produce a lot of data, and also machine learning plays a key role in analyzing those data"
+1.srt,00:13:03.110 --> 00:13:05.670,Here are some few examples of machine learning tasks
+10.srt,00:00:13.339 --> 00:00:16.280,So brief review of machine learning problems
+10.srt,00:00:25.679 --> 00:00:28.609,And we're going to focus on supervised learning
