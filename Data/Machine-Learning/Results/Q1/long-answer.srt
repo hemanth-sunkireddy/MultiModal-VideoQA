@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:49,380
+Machine learning, we mentioned that machine learning several times during the talk about data science. So machine learning is part of data science and it is also a subfield of artificial intelligence. It focuses on learning algorithms and building models and training them on the data. Machine learning consists of different types of learning, such as supervised learning, unsupervised learning, or reinforcement learning. Many machine learning models, they are coming from statistical learning. So machine learning extends the statistical learning by including more complex algorithms, which deal with more complex data and bigger data, and more efficient algorithms. In industry, machine learning engineers can develop and test machine learning models and design machine learning experiments. and build machine learning systems.
+
+2
+00:00:49,390 --> 00:01:10,159
+And in intersection, when the AI algorithm is learning from the data, it is called machine learning. And particularly, if it deals with complex data with neural network architecture, it is called deep learning. And here is the Google trend on the term on machine learning and software engineering.
+
+3
+00:01:10,170 --> 00:01:21,340
+As you can see, machine learning is a top skill in the jobs that involves AI skills. Alright, that already sounds like ML is very cool. Let's talk about what ML can do.
+
+4
+00:01:21,349 --> 00:01:36,480
+Machine learning is also a key component in Internet of Things. Smart sensors and smart devices produce a lot of data, and also machine learning plays a key role in analyzing those data. Machine learning is also used in self-driving cars.
+
+5
+00:01:36,489 --> 00:01:57,060
+Here are some few examples of machine learning tasks. So for example, prediction includes classification regression, and these are in supervised learning. And clustering, which groups the similar data points together, and anomaly detection and dimensionality reduction, they are in a category of unsupervised learning.
+
+6
+00:01:57,069 --> 00:02:12,340
+So brief review of machine learning problems. So in machine learning, we have supervised learning with labels and unsupervised learning, which doesn't have label and reinforcement learning with feedback signals. And we're going to focus on supervised learning.

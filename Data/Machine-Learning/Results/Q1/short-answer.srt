@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,958
+Machine learning, we mentioned that machine learning several times during the talk about data science
+
+2
+00:00:04,969 --> 00:00:09,269
+Many machine learning models, they are coming from statistical learning
+
+3
+00:00:09,278 --> 00:00:16,487
+In industry, machine learning engineers can develop and test machine learning models and design machine learning experiments
+
+4
+00:00:16,498 --> 00:00:19,547
+Machine learning is also a key component in Internet of Things
+
+5
+00:00:19,557 --> 00:00:25,777
+So for example, prediction includes classification regression, and these are in supervised learning
+
+6
+00:00:25,786 --> 00:00:35,326
+And clustering, which groups the similar data points together, and anomaly detection and dimensionality reduction, they are in a category of unsupervised learning
+
+7
+00:00:35,337 --> 00:00:38,267
+And we're going to focus on supervised learning

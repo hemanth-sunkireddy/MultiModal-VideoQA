@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,509
+In this video, we're going to talk about linear regression
+
+2
+00:00:02,520 --> 00:00:10,070
+And we'll talk about how statistically significant these estimate values are
+
+3
+00:00:10,080 --> 00:00:19,641
+And our goal is to tweak this parameter by optimization so that the model makes a prediction that's close to the target as much as possible
+
+4
+00:00:19,652 --> 00:00:21,251
+It is one of the simplest kind of supervised learning model.
