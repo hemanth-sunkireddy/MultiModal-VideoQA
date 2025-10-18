@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,790
+In this video, we're going to talk about performance metrics in classification
+
+2
+00:00:03,801 --> 00:00:07,591
+So we created a logistic regression model based on this feature and let's talk about some terminology here
+
+3
+00:00:07,602 --> 00:00:09,451
+And true positive rate, in other words, recall or sensitivity, is a measure of how many are truly positive out of all the positive cases in the data
+
+4
+00:00:09,461 --> 00:00:13,952
+Precision is used when we want to be very sure about the action
+
+5
+00:00:13,961 --> 00:00:23,172
+All right, so let's talk about cross entropy as a performance metric
+
+6
+00:00:23,181 --> 00:00:28,001
+So, why do we want to use cross entropy and not accuracy
+
+7
+00:00:28,012 --> 00:00:34,292
+We can use other kinds of metric and they are all in this sklearn.metrics module
+
+8
+00:00:34,302 --> 00:00:41,383
+So for example I can predict Yp and then most of them requires Ytrue and then Yprediction.

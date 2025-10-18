@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:27,870
+Hello everyone. In this video, we're going to talk about performance metrics in classification. So here is the example for binary class classification where the label is 1 when the tumor is malignant and the label is 0 when the tumor is not malignant. So we created a logistic regression model based on this feature and let's talk about some terminology here.
+
+2
+00:00:27,879 --> 00:01:52,450
+There is a prediction label. There is a target label. and they are in the table that this is true positive and this is true negative and this is false positive this is false negative and sometimes depending on the notation they may be the row and the column may be exchanged and this can be calculated by the scalar matrix confusion matrix module and when you use a confusion matrix module it will give the labels as row and then prediction as column, but they don't display this so Sometimes it's confusing but you can figure out by looking at the data Okay, so let's say we have all the numbers that we collected from this confusion matrix and now let's calculate some performance metrics So the most popular one in classification is accuracy Accuracy is number of correct answers divided by all the data points So it's a measure of how many are accurate out of all the data points. And true positive rate, in other words, recall or sensitivity, is a measure of how many are truly positive out of all the positive cases in the data. So this is all the positives.
+
+3
+00:01:52,459 --> 00:02:42,699
+Precision is used when we want to be very sure about the action. So for example, when we identify scammers in PayPal or Venmo, and we'd like to inactivate their account, then we want to be very sure because otherwise we can just delete innocent user's account and it'll make the customer unhappy. All right, so in summary, some performance metrics can be considered more important than the other depending on the situation and what's important in your problem. However, these performance metrics are robust and can be used in almost any cases. All right, so let's talk about cross entropy as a performance metric. So, why do we want to use cross entropy and not accuracy.
+
+4
+00:02:42,710 --> 00:03:02,020
+We can use other kinds of metric and they are all in this sklearn.metrics module. So for example I can predict Yp and then most of them requires Ytrue and then Yprediction. So I'm gonna throw in there.

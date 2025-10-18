@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:03,790
+In this video, we're going to talk about performance metrics in classification
+
+2
+00:00:03,801 --> 00:00:05,650
+And true positive rate, in other words, recall or sensitivity, is a measure of how many are truly positive out of all the positive cases in the data
+
+3
+00:00:05,660 --> 00:00:10,150
+Precision is used when we want to be very sure about the action
+
+4
+00:00:10,160 --> 00:00:16,442
+We can use other kinds of metric and they are all in this sklearn.metrics module.
