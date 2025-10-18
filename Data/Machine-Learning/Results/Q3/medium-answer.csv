@@ -1,0 +1,9 @@
+filename,timestamp,sentence
+12.srt,00:00:05.929 --> 00:00:09.720,"In this video, we're going to talk about performance metrics in classification"
+12.srt,00:00:05.929 --> 00:00:09.720,So we created a logistic regression model based on this feature and let's talk about some terminology here
+12.srt,00:02:10.220 --> 00:02:12.070,"And true positive rate, in other words, recall or sensitivity, is a measure of how many are truly positive out of all the positive cases in the data"
+12.srt,00:10:19.359 --> 00:10:23.849,Precision is used when we want to be very sure about the action
+12.srt,00:10:43.599 --> 00:10:52.809,"All right, so let's talk about cross entropy as a performance metric"
+12.srt,00:10:53.569 --> 00:10:58.389,"So, why do we want to use cross entropy and not accuracy"
+13.srt,00:05:13.639 --> 00:05:19.920,We can use other kinds of metric and they are all in this sklearn.metrics module
+13.srt,00:05:24.540 --> 00:05:31.620,So for example I can predict Yp and then most of them requires Ytrue and then Yprediction.

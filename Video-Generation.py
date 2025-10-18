@@ -5,9 +5,9 @@ from moviepy.editor import VideoFileClip, concatenate_videoclips, ColorClip
 
 # Set paths
 VIDEO_DIR = "Data/Machine-Learning/Videos"  # folder containing video files like 1.mp4, 10.mp4 etc.
-FINAL_VIDEO_FILE = "Data/Machine-Learning/Results/Q2/long-answer.mp4"
-FINAL_SRT_FILE = "Data/Machine-Learning/Results/Q2/long-answer.srt"
-INPUT_CSV_FILE = "Data/Machine-Learning/Results/Q2/long-answer.csv"
+FINAL_VIDEO_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.mp4"
+FINAL_SRT_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.srt"
+INPUT_CSV_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.csv"
 
 def format_srt_timestamp(seconds):
     td = datetime.timedelta(seconds=seconds)
