@@ -1,1 +1,0 @@
-m minus i and S n m minus k, where 1 i p 1 1 to k p, k varies from 1 to p, i varies from 1 to p. So, now S n m S n m outside the window is equal to 0, which is

@@ -1,0 +1,1 @@
+Q. Describe about Speech Perception?

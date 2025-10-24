@@ -1,3 +1,0 @@
-80.
-So, 80 band pass filter will be there and each output filter then there is nonlinearity I can pass through a nonlinearity and then low pass filter and then sampling rate reduction and then amplitude compression and I get a parameter x 1 m. So, that each filter output I can define each filter output if the signal is.
-So, there is a filter output will be 0 to n number of

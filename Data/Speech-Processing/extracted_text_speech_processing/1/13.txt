@@ -1,7 +1,0 @@
-that you should know the basic part of digital signal processing.
-So, using those principles, I should able to implement that human vocal track, that uniform tube model and I mathematically model also.
-Next one, extract the fundamental frequency or different kind of speech parameters.
-Why I require?
-If you see, what is the purpose of this course?
-If I say ask you, what is the purpose of studying the digital speech processing?
-What is the subject?

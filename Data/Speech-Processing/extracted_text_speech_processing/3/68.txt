@@ -1,3 +1,0 @@
-1 and multiply by b 1 then output is y n is nothing but a delay sample which is z to the power minus 1 y n minus 1 multiply by a 1 this is multiply by a 1 added with this input.
-So, this is the implementation of that system.
-Now, I said that if a system has let us this is my input x n.

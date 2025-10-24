@@ -1,1 +1,0 @@
-and I can take the frequency response of the input signal x k and multiply h k into x k I get y k then I take the IDFT to get the y n. So, either I can implement in frequency domain I can frequency domain transfer the h k then I can get take the time domain signal in frequency domain.

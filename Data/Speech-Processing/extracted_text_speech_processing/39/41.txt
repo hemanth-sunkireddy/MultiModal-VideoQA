@@ -1,9 +1,0 @@
-0 to 10 is divided in 5 level.
-I can say 0 to 10 variation of x 1 is started from minus 10 to plus 10.
-So, 20 is the variation.
-So, I said there is a 20 variation is there.
-Let equally divided that variation with a 5.
-Then 5 division will be state.
-So, that is vector quantization.
-If you read this slide, you can understand that code book and vector quantization.
-Details I will discuss later on in a

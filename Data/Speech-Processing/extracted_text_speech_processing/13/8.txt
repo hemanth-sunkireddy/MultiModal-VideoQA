@@ -1,5 +1,0 @@
-So, kth junction is nothing but a kth tube and kth plus 1 tube junction that junction I want to know what will happen.
-So, instead of single tube let us consider I have a tube the different different tube are connected with each other with different cross sectional area.
-So, I let us the kth junction I taken.
-So, this is the kth junction of the tube.
-So, this is the k plus 1 tube.

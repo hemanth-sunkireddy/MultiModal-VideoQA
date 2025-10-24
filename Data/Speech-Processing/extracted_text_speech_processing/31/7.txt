@@ -1,3 +1,0 @@
-which is in lower dimension or I can say that that that is a speech signal I take a signal segment and I represented in such dimension which represent the speech signal itself.
-So, I can say the features is a measure of property of the speech signal.
-So, I can say some property of the speech signal will be there that may be a natural and non-natural.

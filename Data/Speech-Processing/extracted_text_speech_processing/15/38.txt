@@ -1,3 +1,0 @@
-formant frequency in the spectrogram.
-So, if I give you the formant frequency and formant bandwidth, if I able to find out for a speech event, I can able to derive the transfer function for that speech event the vocal tract transfer function.
-Now, if I say that that event is given, so speech event let us say speech event the steady state vowel r. If I take the steady state vowel and analyze the frequency analysis and find out the formant frequency and formant bandwidth.

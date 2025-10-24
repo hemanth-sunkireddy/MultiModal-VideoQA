@@ -1,6 +1,0 @@
-technique.
-And when I want to play the sound, I will decompress the signal and play it in the web.
-Similarly, when I process the sound, I should extract the sound sample by sample.
-So, if it is a compressed format, store in a compressed format, I have to decompress it and use the sample by sample for processing.
-And again I can compress it.
-Now, any audio translation or MP3, MPEG-4, WMA, DSS, and so on.

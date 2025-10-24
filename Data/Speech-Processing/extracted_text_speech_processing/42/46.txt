@@ -1,3 +1,0 @@
-for pause deviation both prediction error we have calculated and we have reported in a papers.
-Now, if you see there is a example in here also if you if you listen this example that this thing then you find that there is a two kinds of sentence I have synthesized one is depending on the pause modeling one is just simple quantitative synthesis then you find that if I use the pause model it improve the clarity.
-So, I can say my pause model is

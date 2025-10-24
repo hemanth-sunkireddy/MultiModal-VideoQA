@@ -1,3 +1,0 @@
-procedure is spectral envelope, spectral composition of this segment and this segment will be different.
-So, pitch, loudness, timbre, perceptual dimension, fundamental frequency, intensity and spectrum envelope is the properties of physical dimension of the sound.
-Similarly, you can see that there is a hue, brightness and sharpness, not shape, and then wavelength, luminance.

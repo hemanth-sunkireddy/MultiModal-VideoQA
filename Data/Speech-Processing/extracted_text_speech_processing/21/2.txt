@@ -1,2 +1,0 @@
-Now, if you see in the speech production system that H z is my as as per the discussion in their speech production system H z is a transfer function of the speech production system which is nothing, but a G z, Godel transfer function multiplied by V z, Vogel track transfer function and radiation transfer function ok.
-So, this is the three transfer function which has to be multiplied to get that overall H z if you see in the figure the overall H z is this.

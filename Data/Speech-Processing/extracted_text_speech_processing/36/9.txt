@@ -1,2 +1,0 @@
-which has a lot of variation which is introduced by H n ok.
-So, instead of take the S n I can pass the S n to a inverse filter to get the A u n which is the error signal of the LPC analysis from the LPC error signal I can find out the F 0 value using autocorrelation is ok. Next that not very efficient or high fundamental convolution is very expensive process.

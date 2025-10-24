@@ -1,4 +1,0 @@
-particular window.
-So, what I am doing it?
-So, there is a infinite length signal, I place a window over the signal.
-So, this is L equal to 0 to L minus 1 which is W n. So, I can say short time energy in vicinity of n cap n. So, T x is equal to x square value and omega n is equal to 1.

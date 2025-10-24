@@ -1,5 +1,0 @@
-pass.
-This portion also becomes 0 and this portion also becomes 0.
-So, that is my requirement or I may say I this is called band pass filter or I may say I want a filter after 1.5 kilo hertz all frequencies should pass below 1.5 kilo hertz none of the frequencies should be there.
-So, that should be 0 that is called high pass filter.
-So, it is low pass filter

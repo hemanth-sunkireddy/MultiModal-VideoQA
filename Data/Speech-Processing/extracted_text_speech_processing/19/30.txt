@@ -1,5 +1,0 @@
-if it is x n is my signal.
-So, magnitude is mod of x n is the magnitude and then I can add it take the average take the sum value and divided by the number of sample I get the average magnitude.
-So, that I can use as a parameter for this course this instead of E 1.
-So, that kind I mathematical details I am coming.
-So, that I can use it then short time 0 crossing if you see a let us come in here.

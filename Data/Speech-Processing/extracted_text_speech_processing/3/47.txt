@@ -1,4 +1,0 @@
-produce sample then shift the single end by t equal to 1 then again product and sum then again t equal to 2 product and sum then again one sample shift product and sum.
-So, that way output will be produced.
-Let us give an example.
-Let us x n, x n is nothing but instead of writing that way let us 1, 1, 1 and here let us this is 0.

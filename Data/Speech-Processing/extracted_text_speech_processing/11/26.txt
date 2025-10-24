@@ -1,4 +1,0 @@
-Then if you see high frequency or resistive radiation, so this circuit this will be suppressed.
-So radiation loss due to the radiation loss high frequency components amplitude will be decreased.
-Now if you see that also here also then in mathematics H j omega transfer function of the tube is nothing but a P l omega divided by U g omega which is P l omega U l omega.
-So it is nothing but a Z r omega.

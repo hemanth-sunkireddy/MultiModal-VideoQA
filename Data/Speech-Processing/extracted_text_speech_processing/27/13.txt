@@ -1,4 +1,0 @@
-at particular frequency.
-This is the modulation, modulation means multiplication.
-Then it has to be passed through a system whose filter impulse response is W n and I get the output which is x of fixed time for a particular frequency response.
-So, if I draw the whole frequency response, suppose the baseband signal, I delete this one.

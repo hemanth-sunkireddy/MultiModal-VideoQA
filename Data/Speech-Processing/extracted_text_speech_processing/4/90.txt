@@ -1,4 +1,0 @@
-function and different kind of window function is defined that is called blackman window, hamming window, hanning window, kaiser window.
-So, all every everybody has an window function that is multiply with the input signal and then convolve with the filter transfer function I get the output.
-So, if I implement the filter, so this is the common window window frequency response if it is frequency response of the rectangular window if you see like this.
-So, ripple is much more.

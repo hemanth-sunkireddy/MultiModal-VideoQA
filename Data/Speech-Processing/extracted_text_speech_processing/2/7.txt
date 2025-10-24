@@ -1,8 +1,0 @@
-to produce the acoustic wave.
-Now, sampling frequency analog to digital conversion, sampling frequency is one of the important issue.
-So, basically what it is?
-It is that may be some of you are there who do not know the digital signal passing or analog to digital conversion.
-So, just I explain the very briefly that one.
-So, let us x a t is a time domain signal.
-What do you mean by time domain signal?
-Here is the time and here is the amplitude.

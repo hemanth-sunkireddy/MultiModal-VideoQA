@@ -1,4 +1,0 @@
-condition is there, if these two conditions are satisfied, then it is completely invertible process.
-So, SPS, STFT synthesis is possible only for these two cases and there is a two procedure for STFT synthesis.
-One is called filter bank summation method, another is called overlap add method.
-So, in this

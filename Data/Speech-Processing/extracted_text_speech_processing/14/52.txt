@@ -1,5 +1,0 @@
-plus R 1 R g z to the power minus 1 plus R 2 R g z to the power minus 2.
-This will be the two tube vocal track model.
-If you see this transfer function, I have a 0 at origin z to the power minus 1, but I have a two pole.
-This is second order equation.
-So, I have a second to second order.

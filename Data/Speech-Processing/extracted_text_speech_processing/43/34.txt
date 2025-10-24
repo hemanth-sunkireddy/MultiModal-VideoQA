@@ -1,3 +1,0 @@
-term, a time varying term which will be changed and a constant baseline.
-So, if you see here, this is the baseline, constant baseline F b and then the time varying term which is half of b x t. So, how this time varying term is generated?
-This time varying term is generated this time varying term is generated.

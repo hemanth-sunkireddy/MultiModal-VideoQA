@@ -1,4 +1,0 @@
-and the length signal is one single f 0.
-Similarly, if you see if I have a base frequency is 50 hertz my f 0 can varies to up to 100 hertz within a single sentence can varies because octave second one is 2 is to 1.
-Next piece is called quasi periodic if you see the speech signal it is not exactly periodic.
-So, speech signal is not

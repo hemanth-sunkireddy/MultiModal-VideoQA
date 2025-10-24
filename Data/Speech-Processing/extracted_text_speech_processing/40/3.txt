@@ -1,3 +1,0 @@
-So, I said I have recorded that acoustical signal, I extracted the parameter as I discussed frame wise either 100 frame per second or 50 frame per second as you wish ok. Now, that is called acoustical measurement.
-Then what is ASR?
-That from the acoustical measurement I have to predict which word I have spoken understand or not.

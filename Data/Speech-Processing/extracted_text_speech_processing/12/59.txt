@@ -1,2 +1,0 @@
-U t minus L t. This is nothing but a U t plus L t. So, if I consider whole tube is nothing but a delay and put these two boundary condition, now if I know R g and R l, I can derive the circuit diagram or transfer function also.
-So, in digital circuits, how the delay is implemented?

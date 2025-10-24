@@ -1,4 +1,0 @@
-half, where sigma is the density per unit area, unit area, density per unit area.
-This is the relationship between the elastic membrane vibration, membrane vibration.
-Now, if I take log, log E of F 0 is nothing but a log E of C 0 into T by sigma to the power half.
-Now, I put the value of T.

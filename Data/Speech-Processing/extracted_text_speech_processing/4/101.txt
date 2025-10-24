@@ -1,5 +1,0 @@
-I can take that derive that filter transfer function in S domain then go to the bilinear transformation to make it Z domain and once I get the Z domain transfer function I can use a discrete system to design that transfer function.
-So, that way we can implement.
-So, this is the prerequisite part which I will be referred many times during the speech processing class.
-So, this is the overview of DSP.
-Please go through these slides if it is there is a suppose you do not cover the DSP.

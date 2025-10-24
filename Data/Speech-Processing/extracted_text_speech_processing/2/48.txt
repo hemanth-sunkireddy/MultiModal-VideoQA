@@ -1,3 +1,0 @@
-microphone has a pickup pattern all kinds of restrictions are there who know the details of microphone you know that there is a lot of parameters of the microphones are there.
-So if you see I am recording a speech with a microphone whose frequency response is may be 100 hertz to 10 kilohertz.
-So I cannot get the acoustics wave after 10 kilohertz

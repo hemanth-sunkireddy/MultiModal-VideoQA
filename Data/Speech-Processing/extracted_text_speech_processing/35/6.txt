@@ -1,2 +1,0 @@
-Now, think about the reverse thing I want from the SN to extract F 0.
-I have the voice signal which is recorded I want to know if it is voiced what is it the input if I it is generated using a impulse response or impulse strain what is the fundamental frequency of the impulse strain or if you remember the LPC synthesis from the speech signal.

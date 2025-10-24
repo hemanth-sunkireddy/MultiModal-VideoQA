@@ -1,5 +1,0 @@
-So, speech is not a stationary signal.
-So, what I say that if I take this portion of the speech the property is different if I take this portion of the speech property is different ok.
-So, speech is changing along the time.
-Now, what happened suppose I want to find out the energy of this whole signal.
-So, I can easily find out energy E is nothing but a summation of n equal to minus infinity to infinity.

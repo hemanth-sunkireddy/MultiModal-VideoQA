@@ -1,6 +1,0 @@
-signal will be analyzed and either time domain or frequency domain parameter will be extracted which will represent exactly that frame of the speech signal.
-So, that is my job.
-Suppose, I have a speech.
-So, first discuss about the filter bank analysis.
-What is filter bank analysis?
-Come here.

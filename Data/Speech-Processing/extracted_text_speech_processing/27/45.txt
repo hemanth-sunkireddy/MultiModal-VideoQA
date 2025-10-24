@@ -1,5 +1,0 @@
-So, the effect of the window will be always there once I multiply by the window.
-So, the frequency response is not the exact frequency response of the signal.
-So, it is the frequency response of the main lobe multiplied by the side lobe.
-So, what I want I want to increase the main lobe should be flat.
-Ideally if the main lobe is flat then the side lobe effect of side lobe it is negligible.

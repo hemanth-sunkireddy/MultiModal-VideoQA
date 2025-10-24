@@ -1,4 +1,0 @@
-transition bandwidth ok.
-So, how do you implement the filter F I R O A?
-Two methods.
-So, I can say that let us I have a filter whose response is h n. If I know the transfer function time domain transfer function of the filter, then I convolve the input signal I get the output of the filter or what I can do I can take the frequency response of the filter which is h k.

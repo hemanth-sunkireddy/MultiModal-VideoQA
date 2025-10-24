@@ -1,3 +1,0 @@
-So, you know that if I have a SN let us I have a signal speech signal which is sampled as 16 kilohertz ok. A speech signal is sampled as 16 kilohertz ok and then I take a window length let us 20 millisecond.
-So, how many samples I should get 20 millisecond 320 sample.
-So, what should be the DFT side 250.

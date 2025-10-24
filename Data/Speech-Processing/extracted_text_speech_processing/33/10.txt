@@ -1,6 +1,0 @@
-log of theta component.
-So, a plus j b can be expressed as root over of a square plus b square which is nothing suppose this is x.
-So, it is nothing but a mod of x into e to the power j theta.
-So, if it is e to the power j theta then if I take the log.
-So, it is nothing but a plus j arg x of e to the power j omega.
-So, I can replace this x into the power j omega by

@@ -1,7 +1,0 @@
-impulse response filter.
-Now, what do you mean by a filter?
-That is very important.
-What do you mean by a filter?
-So, suppose I filter means I something is unwanted I want to discard that is filter.
-Now, in a signal suppose I have a signal which has a frequency response let us all frequency are present.
-Now, I want to cut down.

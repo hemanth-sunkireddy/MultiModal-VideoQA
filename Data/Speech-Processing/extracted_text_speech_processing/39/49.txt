@@ -1,3 +1,0 @@
-stored data.
-So, from there the best so, I want so, what is if you see the here time frame A and here time frame B I want the best possible match path and maximum I find out the distortion between the two things and if it is within the limit the frame jump will be not happen if the outside the limit I say the frame jump is happen here within the limit.
-So, frame jump is not happen.

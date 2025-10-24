@@ -1,6 +1,0 @@
-contains I DFT.
-I DFT can be easily replaced by DCT discrete cosine transform.
-Why we use DCT?
-This is the example, this is the reason.
-The DCT is required to disseminate or differentiate between the or uncorrelated the spectral coefficient extracted spectral coefficient.
-So, I have I use DCT.

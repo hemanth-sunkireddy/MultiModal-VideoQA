@@ -1,6 +1,0 @@
-Perceptual linear prediction, this is called PLP, only known as PLP.
-So, these details I will cover during the linear prediction analysis.
-This is called perceptual class linear prediction.
-Then, SNP auditory model, lion cochlear model, gamma tone filter bank model or inner ear or inner hair cell model.
-So, all are called auditory modeling of human speech processing.
-So, let us I just discuss one or two model and then you can study it.

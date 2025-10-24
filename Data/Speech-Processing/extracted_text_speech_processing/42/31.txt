@@ -1,4 +1,0 @@
-prosodic clause, prosodic clause consist of a prosodic phrase, prosodic phrase consist of a prosodic word.
-Similarly, text in text clause, sentence clause, phrase, word in text processing.
-Later on I will explain in one diagram.
-Now, the problem is that the pause, the occurrence of pause after every clause is mandatory, but if you found

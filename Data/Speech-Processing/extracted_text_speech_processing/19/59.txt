@@ -1,3 +1,0 @@
-during the recording there is a DC shift in above that is why 0 line shifted to here 0 line is DC line.
-So, if it is DC shifted what I can do either I can pass the signal through a low pass filter or I can take the average and subtract it.
-So, first normalize the DC shift of the signal then find out the 0 cosine.

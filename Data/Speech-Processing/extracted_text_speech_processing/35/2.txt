@@ -1,3 +1,0 @@
-is the fundamental frequency or F 0.
-Sometime it is referred to pitch extraction P I T C H pitch extraction, but pitch is not a physical parameter it is a perceptual parameter that is why you call F 0 extraction fundamental frequency extraction.
-Now, if you if you think that if you remember that my tube modeling lectures and LPC lectures.

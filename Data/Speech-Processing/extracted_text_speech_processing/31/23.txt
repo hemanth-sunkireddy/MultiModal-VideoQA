@@ -1,4 +1,0 @@
-So, if I extract the features for this small segment, then I can say those are called segmental features.
-Have you understand or not?
-If I extract the features for the segment, then I call segmental features.
-There may be a some features which vary across the segment like that F0 movement, duration of the speech event.

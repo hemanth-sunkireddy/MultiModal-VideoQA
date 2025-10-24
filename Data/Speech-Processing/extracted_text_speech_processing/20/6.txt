@@ -1,3 +1,0 @@
-per sample.
-So, I can say for a pure sinusoidal the number of zero crossing per sample is 2 f 0 by f s. So, suppose I said find out the number of zero crossing of a sine wave for 80 sample or for m sample.
-So, I can say the number of zero crossing

@@ -1,5 +1,0 @@
-I should use which kind of window I should apply.
-Next one, how do I implement a band pass filter?
-So, suppose I implement a low pass filter up to 500 kilohertz, let us it is 500 hertz.
-So, bandwidth is 500 hertz.
-Now, I want to implement a band pass filter of 500 hertz bandwidth.

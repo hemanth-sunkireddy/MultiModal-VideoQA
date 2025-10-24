@@ -1,7 +1,0 @@
-there is a loss.
-If we compress the sound, I have lost some sound.
-So, I cannot recover those signal those sound once I do the decompose it and process the sound sample by sample.
-So, if I want to store the just simple recording in sample by sample, use PCMA warp format.
-So, there is a PCMA warp format header file, Microsoft PCMA warp format header file.
-So, I get the sound file, dot warp format.
-This is a binary file.

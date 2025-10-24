@@ -1,5 +1,0 @@
-I pronounce the length is 1.5 milliseconds.
-So, if I frame it whatever the framing I have done parameter expression I have done let LPC parameter for 100 frame per second 100 frame per second.
-So, this give me the 100 frame this give me the 150 frame.
-Now, I try to match 100 frame with 150 frame.
-So, there will be time alignment if there is a mismatch in time alignment.

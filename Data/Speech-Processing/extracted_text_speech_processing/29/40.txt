@@ -1,3 +1,0 @@
-So, FBS is best described in term of filtering interpretation of the discrete STFT.
-So, if you remember that is STFT analysis block diagram what we done we pass the signal through the window then we modulate the signal or you can say demodulate the signal or shifted the signal e to the power minus j 2 pi by n by 0.
-So, this is the synthesis equation this is the synthesis block portion.

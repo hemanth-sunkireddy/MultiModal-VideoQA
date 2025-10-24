@@ -1,4 +1,0 @@
-So, that means, from take every sample.
-So, let us take this is x n. So, I take x 0, then I take some x equal let us k equal to 0 to 320 minus 1.
-So, n l is equal to 320 l minus 1 x of k x square of k equal to u 1.
-So, first frame power I get, then I shifted this frame.

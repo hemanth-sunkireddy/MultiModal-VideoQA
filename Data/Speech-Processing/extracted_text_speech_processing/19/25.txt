@@ -1,3 +1,0 @@
-Now, suppose some anyhow I want to find out which part is voicing part and which part is unvoiced or silence part, this I want to find out.
-So, I want to distinguish between this I want to mark this point, this point and this point that I want to mark.
-Now, if in assumption if you say that if I find out the short term energy of the whole speech

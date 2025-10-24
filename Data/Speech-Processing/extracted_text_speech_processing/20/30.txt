@@ -1,5 +1,0 @@
-So, if I see the example, if the sibilant signal, so number of zero crossing will be much high.
-So, z corresponding window z value will be very high.
-If it is signal is voice, signal is voice kind of signal, number of zero crossing will be less.
-So, z value will be low.
-So, depending on the z value, I can say whether this signal is sibilant or this signal is silent.

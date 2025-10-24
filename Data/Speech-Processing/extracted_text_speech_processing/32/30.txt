@@ -1,3 +1,0 @@
-z dash form of frequency domain representation or I can say it is a DFT.
-So, I can get x k is nothing, but a x 1 k into x 2 k then I take log.
-If I take the log, then I can

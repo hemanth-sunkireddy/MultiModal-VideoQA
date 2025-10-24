@@ -1,2 +1,0 @@
-k minus k equal to 1 to p alpha k s of m minus k s of m minus k. So, I can say I have to estimate I know the error.
-So, I have to find out the set of alpha k for which this error is minimum.

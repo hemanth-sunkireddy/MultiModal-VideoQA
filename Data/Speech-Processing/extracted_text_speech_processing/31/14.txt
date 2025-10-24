@@ -1,4 +1,0 @@
-F 0 itself can be a features, 4 m can be a features.
-If you see the duration, if I say this is the duration of the saw, this is the duration of the consonant to vowel transition, this is the registered vowel duration, this is the vowel to consonant transition.
-So, all duration kinds of speech can be a features.
-Then I can say articulation, place of articulation in a speech event has a feature.

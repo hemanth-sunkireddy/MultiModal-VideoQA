@@ -1,6 +1,0 @@
-harmonics are repeated, thrice F 0.
-So, from there I can find, if this is 2 F 0, so I can find out the repetition distance and that give me the F 0 value.
-So, how do you do that?
-It is called Kuhn filtering.
-If you remember the Kuhn has a peak and gap.
-So, if I say this is F 0 beginning twice F 0, 3 F 0, 4 F 0, then I can find out the average difference between this gap.

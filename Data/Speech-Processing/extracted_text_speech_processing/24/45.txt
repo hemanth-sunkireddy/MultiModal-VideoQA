@@ -1,2 +1,0 @@
-a i minus 1 z to the power minus 1.
-So, I can say that prediction predicted the error filter a i z can be expressed as a i minus 1 z previous iteration i minus 1 z minus k i z to the power minus i a i minus 1 z to the power.

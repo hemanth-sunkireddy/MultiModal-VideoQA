@@ -1,5 +1,0 @@
-in feature domain is nothing but a reduce the redundance information or you can also remove the redundance information.
-If there is a 320 dimensional vectors any classifier or any kind of comparison when I do it is computationally complex.
-Every member I have to compare.
-So, there is a 320 member even if simply equivalent distance.
-So, dimension is increased.

@@ -1,5 +1,0 @@
-let us if the signal contain each frame at 0 to n number of sample each filter output will be 0 to n number of sample ok.
-So, that output I can quantized or I can find out the average energy.
-So, that is my parameters ok.
-So, this is the complete filter bank analysis.
-Now how to design those filter I can uniformly uniform filter bank design I can say every filter is 100 hertz and there is a no overlapping region.

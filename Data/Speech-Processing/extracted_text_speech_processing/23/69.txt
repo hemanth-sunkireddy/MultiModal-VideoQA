@@ -1,5 +1,0 @@
-A transpose alpha is equal to D inverse y.
-So, I put that A value, I put the alpha value matrix D transpose and y, then I can get that alpha 4, alpha 3, alpha 2, alpha 1.
-So, it is reverse order we are getting.
-You can write down the equation generalize program.
-So, I can using this matrix decomposition technique, I also can calculate the alpha value.

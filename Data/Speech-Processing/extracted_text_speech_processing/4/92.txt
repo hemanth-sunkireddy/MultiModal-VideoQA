@@ -1,6 +1,0 @@
-it will be convolution.
-So, x k will be convolved with window function and then multiply with frequency response of the filter.
-So, this is happening.
-Details I will discuss when I discuss about the STFT short term frequency short term Fourier transform.
-Now, if you see the example, example implementation for a time domain signal.
-Suppose, I want to design a low pass filter cutoff frequency is omega c.

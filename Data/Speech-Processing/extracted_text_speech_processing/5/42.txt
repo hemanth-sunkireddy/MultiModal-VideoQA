@@ -1,3 +1,0 @@
-So, digital circuits will come later on.
-So, I can say whole human speech production system can be modeled using a source filter model.
-So, in I can say I can study the source or I can study the filter combine the both I will get the speech.

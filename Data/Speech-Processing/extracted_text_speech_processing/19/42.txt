@@ -1,7 +1,0 @@
-by 10 millisecond that means, 10 millisecond means 320 divided by 2.
-So, that means, 160 sample.
-So, I take that another window from 160 sample to here.
-So, this is 0 to 319 sample.
-So, this is 160 sample to another.
-So, here will be 319 plus 160.
-So, I get take that sample.

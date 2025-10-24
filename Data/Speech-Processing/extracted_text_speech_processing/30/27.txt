@@ -1,3 +1,0 @@
-Let us y n, what is the y n in overlap add method?
-y n is equal to 1 by w 0 into p equal to minus infinity to infinity.
-So, all segments I sum up x of n into w p minus n. So, I can say

@@ -1,5 +1,0 @@
-So, how do we implement a discrete system?
-There are two kinds of implementation.
-One is called direct form 1 and one is called direct form 2.
-So, one is called structure 1 implementation and another is called structure 2 implementation.
-So, what I said suppose y n is nothing but a a 1 y n minus 1 plus a let us b 1 x of n.

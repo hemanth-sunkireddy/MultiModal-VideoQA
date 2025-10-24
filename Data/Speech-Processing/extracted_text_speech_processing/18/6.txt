@@ -1,6 +1,0 @@
-In which scale, how you perceive the frequency?
-So suppose I have a x-axis, there is a scale physical frequency in hertz.
-Now I want to know if I perceive the frequency, what is my resolution power?
-In which scale a human being, normal hearing human being perceive the frequency?
-So that scale is called male scale.
-What is logarithmic scale?

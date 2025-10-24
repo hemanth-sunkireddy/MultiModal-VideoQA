@@ -1,3 +1,0 @@
-So, if the 2 pi by n is greater than b, so that means that there is a gap between the two filter, this is the gap.
-If there is a gap, so this portion of frequency is not passed through the filter.
-So, if it is this portion is not passed through the filter, then I cannot say the x of n omega.

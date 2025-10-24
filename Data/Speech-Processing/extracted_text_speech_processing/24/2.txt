@@ -1,2 +1,0 @@
-So, if you see inwhether it is autocorrelation or covariance we try to solve that matrix phi into alpha or I can say the phi i k into alpha is equal to phi 0 k we try to solve that matrix ok.
-So, how do you solve that we have calculated that phi phi is nothing, but a correlation value in case of in case of covariance matrix we calculate the correlation value of phi.

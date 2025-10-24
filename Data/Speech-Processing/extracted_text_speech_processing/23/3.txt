@@ -1,3 +1,0 @@
-To set up optimize predictor coefficient satisfy if I solve this basically I am I am optimize the alpha value will be will satisfy this two equation ok.
-So, this two equation we will derived.
-So, if I write down that this two equation in matrix form the first equation is give this matrix and second equation if I included the minimum prediction error that means.

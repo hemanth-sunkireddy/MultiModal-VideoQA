@@ -1,5 +1,0 @@
-then this must be W0.
-So, W0 means delta n. So, if it is W0, then W0, W0 will be cancelled.
-Then I can say Yn is equal to Xn.
-Or I can say this, if I say this is equal to Wn into W0, W0, then I can say this replaced by Wn, W0, W0, W0, W0, W0, W0, W0, W0, W0, W0, W0, W0, then I get it.
-Okay or not?

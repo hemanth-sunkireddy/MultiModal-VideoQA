@@ -1,4 +1,0 @@
-So, once I done the reverse transform, I will get a signal which is not exactly 320 sample.
-It is something 212 sample and also since it is not the, you can say I cannot get back the x n itself because that I have multiplied that signal with a window function.
-So, it is a multiplication of window function and the signal.
-So, my intention is that, I will

@@ -1,2 +1,0 @@
-So, let us I told you a one thing suppose I have a speech signal which has let us 8 kilohertz sampling frequency ok 8 kilohertz sampling frequency sample sample signal and let us I take a window of 20 millisecond and it is encoded yes let us 8 bit 8 kilohertz 8 bit.
-So, in 20 millisecond.

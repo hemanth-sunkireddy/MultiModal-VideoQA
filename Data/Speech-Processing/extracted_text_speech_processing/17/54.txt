@@ -1,3 +1,0 @@
-is equal to log of I by I reference, where I reference is related to the 10 to the power minus 12 watt per meter square, which is defined as a 0 dB.
-So, decibel, so deci means 1 by 10.
-So, decibel means 1 bell is equal to

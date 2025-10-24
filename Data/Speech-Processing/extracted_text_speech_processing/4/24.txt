@@ -1,3 +1,0 @@
-So, the value distance between the two k value is 8 hertz this is called frequency resolution.
-So, frequency resolution is nothing but a F s by n. So, suppose I want to find out the what is the frequency analog frequency value at k equal to 10.
-So, it is nothing but a into k is equal to F s.

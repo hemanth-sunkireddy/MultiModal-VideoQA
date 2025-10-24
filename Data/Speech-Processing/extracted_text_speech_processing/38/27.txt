@@ -1,1 +1,0 @@
-text corpus is there I can analyze that text corpus to find out how many sentence is required to cover all the diphones which I required I can search in the corpus I can find out the sentences and take that sentences and recorded that sentences and cut the diphone from that recording but the problem is that if it is natural sentences then every sentence has its own prosody

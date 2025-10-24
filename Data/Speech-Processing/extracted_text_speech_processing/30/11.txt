@@ -1,3 +1,0 @@
-So, in FBS, basic FBS method, the method can be obtained by setting the synthesis filter to a f of nm.
-I have said it is equal to delta function, delta m. So, consider a discrete, now I consider discrete.
-So, consider the discrete STFT of dissipation factor L.

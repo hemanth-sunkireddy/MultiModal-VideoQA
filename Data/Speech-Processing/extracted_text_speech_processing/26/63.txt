@@ -1,3 +1,0 @@
-for doing the spectrogram also what I can do I can take a signal for 20 millisecond and analyze for 20 millisecond and shifted the time shifting of the 10 millisecond or 5 millisecond.
-So, this will be 5 millisecond if it is 10 millisecond this will be 10 millisecond if it is shifted by only single sample then single sample delay.
-So, if I single sample then see the computational complexity 48000 sample for 48000 sample I have to analyze 48000 times.

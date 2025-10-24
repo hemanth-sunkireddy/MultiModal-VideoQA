@@ -1,5 +1,0 @@
-I think so, because if I write text txt it is in English.
-So, it is already there in ASCII code system, but if I write in Bengali, Hindi, Tamil, Malayalam all other languages those codes are come in unicode.
-So, text input text is in the form of unicode.
-So, you have to develop you have to take care about the unicode processing.
-So, once unicode same thing, but every grapheme has a.

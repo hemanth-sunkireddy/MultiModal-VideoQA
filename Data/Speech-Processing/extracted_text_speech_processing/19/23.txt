@@ -1,4 +1,0 @@
-1 and then shifting of the frame by 10 millisecond or less 50 percent if it is 20 millisecond window 50 percent overlap means 10 millisecond shifting.
-So, I get 100 frame per second I can take 25 millisecond as a window and shifted the frame 10 millisecond that also I get 100 frame per second.
-Now, this is the processing part I have discussed.
-Now, what

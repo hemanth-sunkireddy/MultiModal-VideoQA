@@ -1,2 +1,0 @@
-only non-zero if m varies from l minus 1.
-So, I can say phi i k is nothing but a m is equal to 0 to l minus 1 plus p s n m minus i s n m minus k.

@@ -1,4 +1,0 @@
-there also will be a change of length and that is L minus L 0 which is produced by which is represented by x t and this x t is summation of these two change in logarithmic domain one is rotation another is translation.
-And this rotation and translations are nothing but a spring mass movement.
-So, if it is a spring mass movement there is a second order differential equation.
-If you remember that spring mass movement of a body mechanical vibration.

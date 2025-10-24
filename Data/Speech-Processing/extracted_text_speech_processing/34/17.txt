@@ -1,2 +1,0 @@
-MFCC, frame 1, frame 2, frame 3.
-Now, if you remember, if you or if you see this spectrum of the signal, I can calculate, if you see that, I can just show you that spectrogram of a, if you see the spectrogram of this signal, if you see, look at this cursor, this is the second ferment.

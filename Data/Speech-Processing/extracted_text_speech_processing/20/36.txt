@@ -1,3 +1,0 @@
-but Z 1 is different.
-Per cycle for per sample the number of 0 cosine per sample is different, but number of 0 cosine for a particular number of sample is same for particular number of time sorry particular number of time is same.
-So, this is I can say Z m is independent of or I can say the Z m is independent of sampling frequency that is called.

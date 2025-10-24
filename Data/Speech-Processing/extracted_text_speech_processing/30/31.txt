@@ -1,3 +1,0 @@
-first period term.
-So, let us, dissemination time is L. Instead of shifting sample by sample, I shifted L sample.
-So, it is nothing but a p equal to minus infinity to infinity w p into L. I shifted L length minus N.

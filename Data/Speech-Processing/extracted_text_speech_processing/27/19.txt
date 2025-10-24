@@ -1,3 +1,0 @@
-let us convolve the frequency response of the window.
-So, instead of doing this what I will do I write this is my frequency response of window W omega or sorry this is W omega.
-Let us modulate this thing to here.

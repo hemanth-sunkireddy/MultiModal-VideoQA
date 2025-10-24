@@ -1,3 +1,0 @@
-that is I also discuss.
-So, think about that what is speech prosody first people will ask that what is prosody, what do you mean by prosody.
-Now, if you remember in speech synthesis what I said that whatever the speech synthesis technique I have used whether it is diphone base or unit selection base the prosody is an important parameter because prosody information is only if you want that speech should be natural communication then without prosody the synthesis becomes unnatural.

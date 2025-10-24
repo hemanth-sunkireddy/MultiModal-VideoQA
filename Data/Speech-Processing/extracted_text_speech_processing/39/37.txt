@@ -1,6 +1,0 @@
-Vector quantization initially this was very much used in speaker identification.
-Last week I will take one class on speaker identification because I will just describe the problem and then I will say that how the vector quantization is used in there.
-So basically vector quantization is nothing but a creating a you can say the training vector.
-Suppose if I say speed speed speed speed ten times every time there is a different speed I produce.
-Now should I store all ten speeds in a vector quantization?
-I will say

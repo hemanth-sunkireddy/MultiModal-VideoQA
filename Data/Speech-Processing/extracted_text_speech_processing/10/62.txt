@@ -1,4 +1,0 @@
-If omega L by C is equal to 3 pi by 2, then F will becomes 1.5 kilohertz.
-So, it is F 1 first formant, second formant.
-If it is third formant, then omega L by C is equal to 5 pi by 2, then it will become 2.5 kilohertz.
-If you see distance between the first formant and second formant is 1 kilohertz.

@@ -1,2 +1,0 @@
-So, for every sample by sample recovery process I have to done and I have to know X of n omega for every omega value.
-So, I can say that complete recovery is possible if sample by sample recovery process is done and X of n omega must be known for all omega.

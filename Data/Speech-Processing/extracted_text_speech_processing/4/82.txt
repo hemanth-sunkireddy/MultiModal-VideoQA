@@ -1,5 +1,0 @@
-So, where the amplitude is 1 to 0 is transitory, so that transitory portion that frequency range is called transition bandwidth.
-So, if you say normalize edge then the peak repeal pass band, peak repeal in stop band and normalize transition bandwidth.
-So, this point to this point is called normalized transition bandwidth.
-So, this is pass band frequency, this is a stop band frequency where I want to stop the filter.
-So, this bandwidth is called stop

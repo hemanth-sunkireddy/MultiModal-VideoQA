@@ -1,3 +1,0 @@
-k equal to 1 to p instead of phi n i k I can write R n i minus k is equal to phi n. So, I can say R n i minus k is k is 0.
-So, I can say R n i.
-Now, from the mean square error if you see the mean square error equation we have derived.

@@ -1,2 +1,0 @@
-for autocorrelation method solution K i.
-Now, if it is this is K i then what is the E n i is nothing but a if I see E n i I can write down E n i is nothing but a R 0 minus alpha K R n K i K. So, if I use that value then E n i becomes E n i minus 1 minus K i gamma i minus 1.

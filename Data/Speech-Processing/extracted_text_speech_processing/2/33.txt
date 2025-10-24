@@ -1,5 +1,0 @@
-Similarly, there is another conversion also I have I should taught in here.
-Suppose, sometime we said number of sample to time conversion is very important.
-Suppose, I have a speech signal, I say a speech signal is sampling frequency is 16 kilohertz.
-How much sample will be there within a 20 millisecond signal?
-So, in one second there will be a 16 kilo sample.

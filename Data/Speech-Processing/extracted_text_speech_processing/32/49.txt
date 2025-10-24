@@ -1,3 +1,0 @@
-I do the pre emphasis.
-So, it is nothing but a or I can say if it is S n. So, Y n is nothing but a here I have S n is equal to X n I have made then I can say it is nothing but a 1 minus a into X n X n minus a into X of n minus 1.
-So, that is given and a value may be or alpha alpha value may be 0.5 0.96 0.

@@ -1,4 +1,0 @@
-adaptation, synchrony residence, now rapid AGC, automatic gain control, then I can get the envelope detector mean rate spectrum and synchrony detector synchrony spectrum.
-So I get a spectrum how human being perceive frequency at the output of this stage.
-So details are here, stage 1, stage 2, stage 3 you can read.
-So this is nothing but the idea is that I have a input speech.

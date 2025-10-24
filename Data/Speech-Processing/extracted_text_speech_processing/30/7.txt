@@ -1,5 +1,0 @@
-is recoverable inverse Fourier transform.
-So, this is 2 pi plus inverse Fourier transform.
-I am not taking DFT.
-So, it is same analogy is same.
-So, minus pi 2 pi, minus pi 2 pi, then frequency response, so I can say m or r equal to minus infinity to infinity.

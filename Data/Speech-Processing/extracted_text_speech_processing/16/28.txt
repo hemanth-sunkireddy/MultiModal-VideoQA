@@ -1,3 +1,0 @@
-and perception of that nerve signal by the brain.
-So, I can say human auditory system or you can say human perception of sound I want to model.
-Now, if I say want to model it how can I model because a human being is perceive the sound I cannot measure every and each and every point what is happening in the signal level and I cannot do that.

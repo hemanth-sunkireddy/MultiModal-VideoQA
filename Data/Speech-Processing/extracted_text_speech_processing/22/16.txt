@@ -1,3 +1,0 @@
-So, since the speech is a time varying signal, I try to modulate or try to take the signal for a small window where I can consider let us this is a time invariant signal that we have already discussed in time domain methods.
-So, that is why I take a small window from the long speech signal and within that window I consider speech property is not changing.
-So, it is a time invariant signal.

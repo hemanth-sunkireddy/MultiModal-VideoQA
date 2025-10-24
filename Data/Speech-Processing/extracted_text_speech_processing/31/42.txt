@@ -1,3 +1,0 @@
-then I call frequency domain parameter, if they are extracted from the time domain representation of the signal then I call it is a time domain parameter.
-So, pitch features natural features like phoneme we are not extracted really.
-So, what we are doing we try to design an algorithm by which segment or you can say the framing I done the framing of the speech signal frame by frame speech.

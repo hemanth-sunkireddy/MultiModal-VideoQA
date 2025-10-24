@@ -1,4 +1,0 @@
-and anyhow some algorithm is used and it match this two things and give the output speech.
-So, purpose is solved.
-But, what is the problem?
-Problem is that if you say speech this time if I next time I say speech the two waveform are not identical because machine cannot or cannot produce two identical waveform or this time I say.

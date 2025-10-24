@@ -1,2 +1,0 @@
-So, K i is the weight vector of the predictor is nothing but a gamma i minus 1 divided by e i minus 1, where it is nothing but a R n i minus j equal to 1 to i minus 1 alpha j i minus 1 R n i minus j divided by e of i minus 1.
-This is the equation number 1.

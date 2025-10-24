@@ -1,5 +1,0 @@
-and I will give you some idea about the prosody modeling which we are doing in our lab that speech prosody modeling for Bengali language long time we are working in this area.
-So, there is a HMM based things I will discuss there are lot of papers also there.
-So, I will discuss the some research issue on that things.
-So, I am not details discuss about that that side that side of that sub computing side.
-So, you can read the sub computing side and try to correlate with this speech application.

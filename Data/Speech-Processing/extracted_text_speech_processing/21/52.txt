@@ -1,2 +1,0 @@
-S n m minus i into S n m minus k. So, you just can do this after I multiplying this factor with this two term, then I can put it to this side.
-So, I can say minus infinity S n m minus i into S m this negative I can take this side equal to k equal to 1 to p minus infinity to infinity S n this one.

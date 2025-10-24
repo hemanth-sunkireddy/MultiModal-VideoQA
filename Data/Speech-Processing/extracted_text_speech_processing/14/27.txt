@@ -1,3 +1,0 @@
-k plus 1.
-So, I this I I represent u k plus z u k minus z in term of u k plus 1 z u k u k plus u k plus 1 plus z u k plus 1 minus z ok. Now once I do that then if you see here this is my u k plus equation and this is my u k minus equation.
-Once I do that now if you see that if I say matrix this this this all are u k 1.

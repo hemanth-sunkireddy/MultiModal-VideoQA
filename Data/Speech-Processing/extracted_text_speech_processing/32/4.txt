@@ -1,5 +1,0 @@
-speech signal ok.
-So, different speech event who is responsible to produce different speech event H n, E n either E n may be excitation is present or excitation is not present.
-If it is excitation is present then we call voice signal, if excitation is not present there is a random noise then we call unvoiced signal.
-So, let us there is a voice signal.
-So, the excitation is present and that excitation is same.

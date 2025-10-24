@@ -1,4 +1,0 @@
-I have already explained in last class also.
-So, if you see, if I take a signal, this is my signal, then if I select this portion, if I analyze it, then I, if I can, this is the spectrum.
-So, spectrogram plot of spectrum of the signal, selected signal.
-So, this axis is the frequency axis, this axis is the amplitude axis of the mod of x k. So, instead of discrete frequency, I can write f also.

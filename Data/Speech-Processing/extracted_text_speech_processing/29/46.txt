@@ -1,1 +1,0 @@
-x n k x n k is nothing but a Fourier transform which is m equal to minus infinity to infinity x of m w n minus m e to the power minus j 2 pi by n into m k or k m. So, if I replace this thing in here as it is here, I can replace it.

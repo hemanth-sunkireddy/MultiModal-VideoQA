@@ -1,7 +1,0 @@
-with 16 bit.
-So, each sample is encoded with 16 bit and sampling frequency is 16 kilohertz.
-Suppose I record a sentence which is 3 second long.
-So, if it is sentence is 3 second long how many sample will be there 3 into 16 k sample.
-So, 48 k sample will be there.
-So, 8000 sample will be there.
-If I take whole signal at a time do the frequency analysis.

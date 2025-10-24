@@ -1,3 +1,0 @@
-has to be multiplied by alpha 1 alpha 2 dot dot dot dot alpha p. This side I can write this matrix form is equal to k equal to 0.
-So, I can say phi 1 0 phi 2 0 dot dot dot phi p 0.
-Now, if I able to solve this matrix, I can get the value of alpha 1 alpha 2.

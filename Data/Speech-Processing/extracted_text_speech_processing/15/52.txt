@@ -1,3 +1,0 @@
-of gortle pulse transfer function, gortle generate gortle transfer function plus vocal track transfer function into vocal track transfer function into lip radiation transfer function.
-So, if there is a voicing impulse strain will be there that will be modified by the as per the gortle transfer function and that modified signal fed to the vocal track and after lip radiation I get the speech signal.
-If it is unvoiced speech then I can say it is connected to random noise and it will only modify by the vocal track.

@@ -1,4 +1,0 @@
-every cycle a simple cytosine channel cross the 0 line 2 times and if it is DC shifted, let us correct the DC shift then find out the 0 crossing.
-2 times it cross the 0, so 2 time per cycle ok.
-So, for every cycles it cross the 0 line 2 times.
-Now, if the sampling frequency is

@@ -1,7 +1,0 @@
-amplitude.
-So, I can develop a scale on which human being perceive the frequency.
-If you see it will come look like this.
-So, this scale is called male scale which is a logarithmic scale, ok.
-So, I can say the human perception of frequency that I can derive by experiment.
-This axis the frequency.
-So, I generate a pure tone of different frequency and I generate a pure tone.

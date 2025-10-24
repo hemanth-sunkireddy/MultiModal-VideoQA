@@ -1,4 +1,0 @@
-or you can say the most commonly used signal processing algorithm in speech is called convolution.
-So convolution is the most frequently used.
-If you see that if I want to find out a output for a input in a system, then the system transfer function is convolved with the input to produce the output of the system.
-So, convolution is most commonly used algorithm in DSP.

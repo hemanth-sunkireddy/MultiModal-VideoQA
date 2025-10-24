@@ -1,1 +1,0 @@
-So, now we have derived that transfer function of lossless tube without considering any loss infinite power at 500 hertz 1.5 kilo hertz 2.5 kilo hertz.

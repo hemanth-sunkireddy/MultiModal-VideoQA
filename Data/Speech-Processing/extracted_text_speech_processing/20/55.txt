@@ -1,3 +1,0 @@
-So, x of n after n sample if the same sample is appear then I can call the period of the signal is x n. So, difference will be minima when the signal repeat itself.
-So, if I say this kind of plot I will get.
-So, first minima will occur at f 0, second minima will occur at twice f 0, third minima occur thrice f 0.

@@ -1,1 +1,0 @@
-Now, if x 1 n consist of frequency 0 to pi and x 2 n consist of frequency pi to 2 pi then I can easily separate by a linear filter I can easily separate, but if x 1 is convert with x 2 n then it is very difficult to separate or if I have a linear filter I can easily

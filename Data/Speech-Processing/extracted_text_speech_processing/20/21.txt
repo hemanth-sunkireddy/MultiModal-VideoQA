@@ -1,3 +1,0 @@
-of x n is minus 1 and this is 1.
-So, if I see this sample this is 1, this is 1, this is minus 1, minus 1, minus 1, 1 ok. Now, if I say so I have to check 2 sample at a time I have to check 2 sample at a time.
-So, I can say if this minus this if both are

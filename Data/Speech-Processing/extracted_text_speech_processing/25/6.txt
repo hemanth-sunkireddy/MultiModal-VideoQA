@@ -1,2 +1,0 @@
-b 0 m minus 1 ok. Now, if E 0 m E 0 1 is nothing, but a E 0 m minus K i into K 1 into b 0 m minus 1.
-Similarly, suppose I want to predict b 1 m. So, b 1 m backward prediction error b 1 m again I put the i equal to 1 in here.

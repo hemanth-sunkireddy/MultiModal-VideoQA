@@ -1,4 +1,0 @@
-Now, I can shifted this notation instead of writing this way I can write this way also.
-What is the way?
-X n omega 0 is nothing, but a e to the power minus j omega 0 n x of n omega 0.
-So, what I am doing instead of convolving the frequency response of the signal.

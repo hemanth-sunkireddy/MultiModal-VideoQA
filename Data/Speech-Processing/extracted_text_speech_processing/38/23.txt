@@ -1,3 +1,0 @@
-vocal region because it does not know dynamics are there I cannot say which one is so because it may be the pure consonant but consonant to vowel transition is important.
-So that part also contain the consonant information so I cannot select the transitory part I can select the steady state part so steady state part to steady state part I can cut I can make a dictionary.
-So, all possible diphone for a particular language I cut steady state middle part of the steady state to next middle part of the steady state.

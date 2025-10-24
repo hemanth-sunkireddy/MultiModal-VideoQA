@@ -1,3 +1,0 @@
-So, if X n is the average over many short time segments instead of normalized and normalized by W 0, then X n is nothing but this one.
-So, I am not mathematics you can see from the slides, so why W 0 is equal to W n give by this one.
-So, I can say

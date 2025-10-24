@@ -1,4 +1,0 @@
-plus tau.
-So, if it is that, what is this?
-What is the correlation between the two signal?
-It is x n and y n plus L R L.

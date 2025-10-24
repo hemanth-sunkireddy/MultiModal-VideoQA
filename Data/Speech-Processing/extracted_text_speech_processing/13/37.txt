@@ -1,3 +1,0 @@
-into u k plus t minus tau k plus 1 minus r k into u k plus 1 minus t. Now, try to draw the diagram at the junction point.
-So, I want to draw the diagram at the junction point from these two equations.
-Let us try in here only.

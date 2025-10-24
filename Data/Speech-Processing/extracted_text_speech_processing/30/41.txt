@@ -1,2 +1,0 @@
-So, if I summarize FBS method, the constraint is this one, which define me the size length of the analysis window must be less than the number of analysis channel.
-And OLA method define a constraint which omega c the bandwidth of the analysis window.

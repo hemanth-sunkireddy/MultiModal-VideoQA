@@ -1,7 +1,0 @@
-point.
-So, I can say I can explain it better here.
-So, suppose I have a signal then silence.
-So, now, what is this one?
-So, what I do?
-I take for every 10 millisecond, I find out the average magnitude or I can say that average magnitude a m or I can find out the e m energy.
-Okay.

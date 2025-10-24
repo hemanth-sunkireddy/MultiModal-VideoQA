@@ -1,3 +1,0 @@
-So, if the source is exist, so all voice sound the source is modified by the filter and source has only property the fundamental frequency contour and it is nothing but a impulse.
-So, if you say here in the slides, so it is nothing but a impulse.
-So, excitation generation nothing but a impulse and that excitation is coming through a filter which is model as a linear filter why we consider linear filter and how this model is mathematically describe we will discuss later.

@@ -1,5 +1,0 @@
-So, this axis is the k axis discrete frequency k and this axis the amplitude of the amplitude mod of x k. So, this is mod of x k axis.
-So, k equal to 0 I get here.
-So, I get this kind of speech spectrum.
-Note that smooth I am drawing it smooth.
-If you draw it real then if you see you get this kind of speech spectrum.

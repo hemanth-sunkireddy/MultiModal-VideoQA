@@ -1,6 +1,0 @@
-Then, can I think that output speech which has collected using a microphone cannot, can it be analyzed using linear signal processing?
-Yes.
-So, that is from there the concept of linear prediction analysis comes.
-So, this system can be linearly modeled.
-So, from the signal if I want to find out the transfer function, that is why I want to predict the vocal tract constriction.
-So, if I know the signal, yes it is possible to find out the signal.

@@ -1,6 +1,0 @@
-16 kilohertz sample 16 k sample per second.
-So, I can get 16 k into 5 80 k sample.
-So, I have a 80 k sample this side.
-I take a window of 20 millisecond.
-So, I take the sample number 0.
-So, if it is F s is 16 kilohertz.

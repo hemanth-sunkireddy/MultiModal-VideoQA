@@ -1,5 +1,0 @@
-1 f 0 period.
-So, if I say 160 sample how many millisecond?
-80 sample is 10 millisecond.
-So, duration if it is 50 hertz then I have a 20 millisecond duration fundamental frequency.
-So, if f 0 then what is the duration t 0 is nothing but a 1 by f 0 20 millisecond length fundamental.

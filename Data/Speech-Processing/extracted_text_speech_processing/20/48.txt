@@ -1,2 +1,0 @@
-x 0 minus x 0 take the mod.
-Then instead of x 1 x 0 take let us x k and n plus k. So, I can say n equal to 0 to capital N minus 1 minus k which is nothing but a d k. So, I can say

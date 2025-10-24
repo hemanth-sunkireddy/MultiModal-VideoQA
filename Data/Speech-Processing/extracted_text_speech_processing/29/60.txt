@@ -1,3 +1,0 @@
-r, except r equal to 0.
-So, if I take this, let us instead of time domain, if I take the, so this is the constraint of FBS analysis.
-So, if I take the frequency analysis of this, then what I will get k equal to 0 to n minus 1.

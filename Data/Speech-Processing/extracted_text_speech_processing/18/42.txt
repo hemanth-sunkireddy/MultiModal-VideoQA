@@ -1,5 +1,0 @@
-of auditory nerve.
-So, this kind of auditory models are mainly we use that PLP that we will discuss during the linear perceptual coding LP when we discuss the LPC that time we discuss the PLP details.
-Now, why this auditory models are important in human speech perception?
-So, non-linear frequency scale.
-So, suppose I have a speech signal I extract the parameter in linear frequency scale.

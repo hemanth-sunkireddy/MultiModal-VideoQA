@@ -1,5 +1,0 @@
-first maxima then calculate the lag 1 by lag is the f I can get the f 0 value ok.
-So, this is the autocorrelation base f 0 extraction very easy, but it is time consuming.
-Now, if you remember if you see this signal in autocorrelation f 0 extraction if you see this signal, signal is decaying r k value.
-So, this is the decaying r k value.
-So, this

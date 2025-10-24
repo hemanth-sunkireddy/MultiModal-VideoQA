@@ -1,4 +1,0 @@
-L is the length of the vocalix, T is the tension and A is the stiffness at T equal to 0.
-Then its relationship is dT by dL is equal to b into T plus A.
-So, b is a constant, A is a stiffness at A is the stiffness at T equal to 0 and T is the tension, L is the length of the vocalix.
-Now, if I integrate both sides, I will get

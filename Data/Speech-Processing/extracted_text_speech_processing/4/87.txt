@@ -1,4 +1,0 @@
-chunk, next chunk, next chunk I can do that way.
-Once I cut the filter what I am doing?
-Whether I take the DFT or filter once I cut the cut the signal in a chunk that means, if this is x n I am multiplying x n with a window function which is 1 within the interval let us it is L minus 1 0 to L minus 1.
-So, 0 to L minus 1 window function is a amplitude is 1.

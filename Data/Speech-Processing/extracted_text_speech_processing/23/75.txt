@@ -1,1 +1,0 @@
-is the LPC equation or I can say in time domain if I multiply it this side H z minus H z into k equal to 1 to p alpha k z to the power minus k is equal to g. So, I can say H z is equal to H z into k equal to 1 to p alpha k.

@@ -1,4 +1,0 @@
-I can easily measure the intensity of a sound.
-But once I say loudness, once I say loudness, this sound is louder than the previous sound.
-It does not mean the intensity of the first sound is twice than the previous sound.
-If I say this sound is twice louder than the previous sound, then I cannot say the current sound is not 2 i or previous or if the previous sound is i, it is 2 i.

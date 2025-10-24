@@ -1,3 +1,0 @@
-for detecting the voiced or unvoiced detection, but yes I can do the voiced unvoiced detection using zero crossing rate.
-So, normalized zero crossing rate means it is normalized with respect to window length.
-So, if it is so I can say normalized zero crossing rate is z is equal to nothing but 1 by 2 L summation of m let us x m sorry mod of S n g of

@@ -1,4 +1,0 @@
-speech.
-So, that all kinds of text processing and that signal processing are required in case of development of TTS.
-So, if you see in the slides if I show you the text to definition of text to speech text to speech software is used to convert word or sentence from a computer documents into audible speech spoken through the computer speakers.
-So, TTS is nothing, but a input is text and output is speech application.

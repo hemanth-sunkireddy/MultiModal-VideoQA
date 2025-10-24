@@ -1,1 +1,0 @@
-The equation is that r tau is equal to summation of n equal to let us I writing in digital domain or you can say n equal to 0 to n minus 1 x of n x of n plus k let us write instead of tau I write k. Now, for r 0.

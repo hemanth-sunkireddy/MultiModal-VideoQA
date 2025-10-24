@@ -1,7 +1,0 @@
-that sensitivity changing has to be model in spectral envelope also or equal loudness curve.
-Log spectrogram integration temporal features.
-So, I can say the temporal features is very important in a speech signal.
-How the spectral dynamics is changing is also a part of a speech signal, also a features of a speech signal.
-So, that is also very important for speech perception.
-Timber is one of the examples.
-Suppose, I am producing a signal, somebody else is producing a signal, same signal is

@@ -1,4 +1,0 @@
-n d omega n d omega because log of minus pi to pi log of x e to the power j omega mod into j sin omega n sin omega n d omega is equal to 0 because this is the even part.
-So, even part is 0.
-So, only the odd part is exist ok.
-So, c n is equal to 1 by 2 pi minus pi to pi log of e to the power j omega cos omega n.

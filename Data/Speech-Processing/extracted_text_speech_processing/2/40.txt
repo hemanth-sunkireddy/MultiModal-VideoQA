@@ -1,5 +1,0 @@
-you can say the it is just not stereo mono kind of things.
-So, either 5.1 channel sound you have heard mono sound heard, stereo sound heard, stereo means two channel, mono means single channel, 5.1 means 5.1 channel.
-I am not discussing that part that is another course which is called audio system engineering, there I have discussed the mono and stereo kind of things.
-So, what kind of file format is there?
-If you see that there is a file format lot of file format you see dot op, nsp, mp3, mp4,

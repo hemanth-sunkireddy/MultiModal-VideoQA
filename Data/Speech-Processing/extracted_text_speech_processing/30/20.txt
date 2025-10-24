@@ -1,3 +1,0 @@
-greater than 1, then F n is an interpolating filter.
-So, FBS method if I consider the synthesis function or smoothing filter is delta function and L equal to 1, then FBS method I can recover the signal.
-But if I want L greater than 1 in FBS method, then F n is an interpolation filter.

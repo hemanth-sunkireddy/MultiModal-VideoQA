@@ -1,8 +1,0 @@
-So, these two equation we have derived.
-Now, if I have not predict anything what is E 0 M?
-What is E 0 M?
-E 0 M means that what is error?
-Error is that sample value minus estimated value.
-So, if order is 0 that means I am not estimating anything.
-So, error is nothing but a SN.
-So, similarly backward error.

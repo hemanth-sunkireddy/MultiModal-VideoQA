@@ -1,1 +1,0 @@
-So, let us start that new topic which is called short time Fourier transform S t F t S t F short time Fourier transform.

@@ -1,3 +1,0 @@
-16 bit multiply by another 16 bit sample.
-See worst case it require lot of memory and also multiplication is computationally complex.
-So, for hardware implementation or when that computation facility is not that enough you can use average magnitude difference function which is called AMD.

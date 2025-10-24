@@ -1,3 +1,0 @@
-some rider or some constraint.
-What is those constraints?
-It constraints says that if the baseband frequency of this signal is bandwidth is b, baseband or you can say the bandwidth is b means, let the highest frequency component of this signal is f m. If I sample this signal which is f s which must be greater than or equal to 2 f m, this is the rider.

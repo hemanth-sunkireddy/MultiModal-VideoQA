@@ -1,3 +1,0 @@
-using linear prediction model for speech production system.
-So, if I know the theta k, if I know the theta k and value of r k, then I can model the system.
-Theta k give me the formant frequency position and if r k tends to 0, tends to unit circle, amplitude of that pole is tends to your close to unit circle that give you the.

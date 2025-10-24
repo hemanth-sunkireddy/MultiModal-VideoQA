@@ -1,3 +1,0 @@
-and a system had H 1, then I have another system called H 2, let us say this is H 2 and this is Y n, then I can interchange these two systems, H 2 can be here and H 1 can be here, does not does not effect that output.
-So, I can say I can change this side to this side and this side to this side, so I invert that one.
-So, I can say X n inverting it.

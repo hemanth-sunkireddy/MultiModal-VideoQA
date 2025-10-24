@@ -1,4 +1,0 @@
-What do you mean by accuracy?
-You can say think about the resolution.
-So, suppose I have a straight line and I want to measure the straight line in some small scale or I say there is a line which is like this.
-If I want to measure in a scale small scale, why put the scale along this line?

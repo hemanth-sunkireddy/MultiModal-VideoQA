@@ -1,3 +1,0 @@
-1, then r k is minus 1.
-If a k is a k plus 1 is much much greater than a k, then r k is plus 1.
-So, this is 1 minus r k. If r k is plus 1, then if you see this signal reflected the backward wave is multiplied by this backward wave, effect of backward wave is multiplied by 0.

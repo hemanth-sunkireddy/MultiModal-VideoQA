@@ -1,6 +1,0 @@
-V to the power gamma del P by del t plus P gamma V to the power V to the power gamma minus 1 into A into del x.
-What is A into del x?
-Into del V by del x.
-So, it is nothing but a V into del V by del x.
-So, I can write V into del V by del x.
-So, it is nothing but a

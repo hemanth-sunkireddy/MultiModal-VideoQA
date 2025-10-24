@@ -1,4 +1,0 @@
-I can divide x k also, two space I can divide the signal.
-So, let us start with the disseminating time time algorithm.
-So, here what I do instead of computing whole DFT at a time, I divide the input signal in two term one is even term another is odd term.
-Then again this one is divided even and odd and even and odd until and unless.

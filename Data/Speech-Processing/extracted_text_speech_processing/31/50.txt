@@ -1,4 +1,0 @@
-So, there is a non overlapping filter there may be less non overlapping 100 hertz to 200 hertz then 200 hertz to less 300 hertz.
-So, each filter has a particular pass band.
-So, from the each pass band I will get the power if that particular frequency component is there in the speech signal.
-So, if there is any component 0 to 100 hertz

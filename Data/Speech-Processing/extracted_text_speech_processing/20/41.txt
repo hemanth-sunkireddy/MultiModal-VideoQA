@@ -1,4 +1,0 @@
-and then sum up.
-So, it is nothing but a energy T 0.
-Similarly, if it is R 1, so the signal is same signal is shifted by 1 then multiply.
-So, x 1 the x 0 will be multiply with next x 1 here x 0 is not x 1 x 0 x 1 is treated as a 0 and last sample will be multiply with the 0 because if I take the outside the vicinity of the window signal is 0.

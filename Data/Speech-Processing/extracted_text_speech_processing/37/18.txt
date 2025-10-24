@@ -1,3 +1,0 @@
-pronunciation string IPS string I have said in that first week that I can convert my name in IPS string that depends on the pronunciation.
-So, if I write let us say write Kolkata Kolkata it is a graphemic information it has to be convert to its pronunciation information which is Kolkata this has to be convert.
-So, this is called grapheme to

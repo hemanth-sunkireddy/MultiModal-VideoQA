@@ -1,4 +1,0 @@
-H n H n is nothing but a sample number 1, sample number 2, sample number 3 sample is there.
-Now, what I said to produce the convolution, let us I draw the first.
-So, produce the convolution X n has to be folded.
-So, I folded X n I will draw here to here this is number 1.

@@ -1,3 +1,0 @@
-that if it is within this threshold value then I call it is a silence if it is above the threshold value then I call it is a voice.
-So, I normalize the amplitude because you are recording then you say that if I record in high volume then threshold value will be change.
-So, what you will do you can normalize the speech signal with respect to some sample you can say that this is the maximum level of

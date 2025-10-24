@@ -1,3 +1,0 @@
-equal to 0, n equal to 1, n equal to 3, n equal to 4.
-So, I know the which window it is path and for each window I calculate the normalized zero crossing rate with respect to 2 L, here is the L is the length of the window.
-So, let us I have a signal, let us this same see this example for a 1 kilohertz sine wave as a input using 40 millisecond window length with various value of sampling frequency.

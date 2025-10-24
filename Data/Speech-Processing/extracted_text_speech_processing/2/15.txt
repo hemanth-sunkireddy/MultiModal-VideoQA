@@ -1,1 +1,0 @@
-So, in that case I required F s must be greater than twice F n. So, instead of taking the analog signal, so on the analog signal I am taking some sample instant that is called that how do you take the sample instant multiplying this signal with a sampling frequency impulse signal whose frequency is F s.

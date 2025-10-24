@@ -1,7 +1,0 @@
-And what is the property?
-Now, a discrete time signal is periodic if its frequency f is rational number.
-What do you understand?
-What is where the small f is come?
-Now, what is omega?
-Omega is nothing but a 2 pi f. Now, if it is digitized signal what I have done?
-I have replaced this t by n into capital T. So, this omega continuous frequency omega is nothing but a 2 pi f.

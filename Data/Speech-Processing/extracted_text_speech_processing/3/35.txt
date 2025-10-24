@@ -1,4 +1,0 @@
-suppose x is suppose operator square always it will be square whatever the input will come it will square.
-So, property does not change along with the time.
-So, it is a time invariant system.
-So, how do you mathematically say that if it is x n is the input of a system H and output is y n. If I apply x n minus k I should get the

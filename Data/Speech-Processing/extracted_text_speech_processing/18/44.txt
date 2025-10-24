@@ -1,5 +1,0 @@
-So, spectral amplitude, dynamic range or compression or loudness log.
-So, if I see each tone has an amplitude.
-Now, perception of that tone, that particular frequency depends on the threshold of hearing.
-So, perception of amplitude for all frequency is not same.
-I have to go through the equal loudness curve.

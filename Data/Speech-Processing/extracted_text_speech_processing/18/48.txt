@@ -1,6 +1,0 @@
-Once I say the speech, that if I say segmental and supra-segmental, I can say that speech is not a stationary signal.
-It is not a pure tone.
-It is a stationary signal.
-So it changes along the time.
-If I take a short duration, 20 milliseconds, for a, let us say for a phone, and long duration for a speech segment.
-So along the time, property of the speech signal is changed.

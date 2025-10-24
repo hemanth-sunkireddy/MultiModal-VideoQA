@@ -1,3 +1,0 @@
-So, Wn is 1.
-So, this must be less than the analysis window because it is product of R into n. So, in that case, this is the single case.
-Second case, if nw is greater than equal to n or is greater than n.

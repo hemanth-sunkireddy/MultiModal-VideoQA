@@ -1,4 +1,0 @@
-to 60 millisecond, maybe even faster speech it may be a 30 millisecond.
-So, at least I can ensure that my window length is lower than the transitory part ok.
-So, then I can say yes that details signal information we along the time I can find out if I take the window length 20, 25 millisecond.
-So, that is why if you say in whole processing of the speech we use 20 to 25 millisecond.

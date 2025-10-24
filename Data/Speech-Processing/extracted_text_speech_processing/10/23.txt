@@ -1,3 +1,0 @@
-u plus t minus l by c plus u minus t plus l by c. So, there is a differential equation.
-So, since the differential equation are linear with constant coefficient, the solution must be in the form of k plus k minus represent the amplitude and the forward and backward wave.
-So, I can say if it is linear wave equation,

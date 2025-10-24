@@ -1,3 +1,0 @@
-256 no 512 because it is implemented in FFT.
-So, length of the window has tied with the frequency time resolution and type of the window I will choose what kind of details analysis I want maximum cases in speech and hamming and hanging window is used.
-So, next class I will do discuss about the STFT.

@@ -1,4 +1,0 @@
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.
-So, diagonal element and A transpose if it is lower triangle is the transpose is upper triangle matrix.
-So, this is this ok. Now, if I solve this then I can get solve this matrix.
-If I solve this D 1 is nothing, but a

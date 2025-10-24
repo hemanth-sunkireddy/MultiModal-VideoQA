@@ -1,1 +1,0 @@
-If I say that S n is nothing but a linear combination of previous sample n minus k with a multiplication factor a k, I can say that for k equal to 1, so a 1 S n minus 1 plus a 2 S n minus 2 dot dot dot dot a p into S n minus p.

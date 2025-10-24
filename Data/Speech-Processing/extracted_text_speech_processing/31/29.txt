@@ -1,4 +1,0 @@
-And if I analyze the frequency, see this is the frequency spectrum of that segment.
-So, in frequency domain the speech is represented in a frequency domain of this segment.
-Now, if you see there is a movement of the formant, if I choose small segment there is a movement of the formant.
-So, you can say the peak denotes the

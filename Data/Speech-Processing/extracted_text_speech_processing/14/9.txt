@@ -1,5 +1,0 @@
-So, earliest arrival is n tau which is n number of tube each section delayed by tau.
-Next signal will come by 2 tau delay.
-So, I can say next signal will be integer multiple of 2 tau delay.
-So, that is why I said 2 k sorry k 2 tau k into 2 tau k is the integer and 2 tau is the delay.
-Now, if I consider to avoiding the alloysing

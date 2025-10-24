@@ -1,5 +1,0 @@
-is much linear and the upper bandwidth is non-linear.
-Then utilization of temporal features and auditory masking of tones.
-So, those phenomena can be used in auditory modeling or when we extract the speech parameter from the speech, we have to include this perceptual variation so that the parameter directly represent the human speech percept, what we have done in the inside the ear.
-So, that is called perceptual modeling.
-So, the different auditory models are available.

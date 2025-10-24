@@ -1,2 +1,0 @@
-all frequency components should pass to the output and after 500 hertz none of the component should pass to the output then it is called low pass filter because low frequency component is pass high frequency component is attenuated to 0 ok.
-So, there may be I may want this type that frequency component between 500 hertz to 1.5 kilohertz may pass.

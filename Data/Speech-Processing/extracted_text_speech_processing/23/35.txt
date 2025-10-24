@@ -1,4 +1,0 @@
-uniform tube model if it is 7 tube length is 17.5 centimeter first format is 500 hertz next format is 1.5 kilohertz.
-So, they are separated by 100 hertz 1000 hertz that means 1 kilohertz.
-So, I can say that if it is my F s is my sampling frequency ok.
-So, what is the baseband frequency F s by 2 how many complex pole is required to realize one format

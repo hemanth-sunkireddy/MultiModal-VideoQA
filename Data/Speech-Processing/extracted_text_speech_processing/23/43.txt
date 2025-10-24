@@ -1,6 +1,0 @@
-And if you see the red color, where LPC analysis is 10.
-So, there is a lot of formants are there.
-So, I can see that it is roughly estimate that spectral envelope.
-If I increase the LPC order, the number of variation is increases.
-So, it accurately increase the it accurately the spectrum envelope.
-So, depending on my requirement, if I want the smooth spectrum,

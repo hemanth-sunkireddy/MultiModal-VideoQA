@@ -1,4 +1,0 @@
-So, 0 2 4 6 1 3 5 7.
-So, I can say let us start the signal instead of taking the signal 1 2 3 6.
-So, I take the upper part let us 0 2 4 6 and then I take 1 3 5 7.
-Then again this can be divided into two part.

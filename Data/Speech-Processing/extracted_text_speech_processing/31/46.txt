@@ -1,6 +1,0 @@
-and represent by a single vector.
-So, instead of doing that if I do that then time resolution I completely lost as we discussed in the frequency analysis.
-So, what I will do instead of analyzing that I will that this is my whole signal and I frame the signal.
-So, I can say I window the signal.
-So, I can say let us take 20 millisecond window and shifted the window by 10 millisecond.
-So, I can say

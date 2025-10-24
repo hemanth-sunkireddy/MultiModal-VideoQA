@@ -1,5 +1,0 @@
-that all pole related to the formant frequency or resonance frequency later on resonance frequency.
-So, at for every pole there is a resonance frequency.
-So, if Q s is a first order system first order then it is a only single pole.
-So, I can the single resonance frequency if it is a multi order systems nth order say n number of resonance frequency will be there.
-So, if I see if I look at the frequency response of this linear system it will be look like this.

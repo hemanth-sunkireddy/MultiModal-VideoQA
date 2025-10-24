@@ -1,4 +1,0 @@
-How much memory is required?
-Sampling frequency is 8 kilohertz encoded with 16 bit recorded in mono channel.
-So, if it is 8 kilohertz 8 bit in 1 second it will generate 8 k sample.
-So, in 50 millisecond I have to know how much sample it will be generate and for each sample is 1 byte how much memory required I can calculate.

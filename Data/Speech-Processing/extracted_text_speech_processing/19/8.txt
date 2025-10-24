@@ -1,8 +1,0 @@
-frequency.
-So, rate of sample in 1 second I get F s number of sample.
-Now, if I window the signal let us 20 millisecond window.
-So, 1 second signal how much frame I will get?
-50 frame I will get if I slice the whole signal in a 20 millisecond window.
-So, I get the 50 slice.
-So, I have a 1 second signal I slice it every 20 millisecond.
-So, I get

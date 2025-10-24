@@ -1,10 +1,8 @@
-# BTP 1 - Automatic multimodal question and answering for video lectures
+# Automatic multimodal question and answering for video lectures
 
 **Presentation:** [Canva](https://www.canva.com/design/DAGhsnSEdRo/IxsYfXwTJMAf6B7icCmBbQ/view?utm_content=DAGhsnSEdRo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2715aa87e)
 
 **Demo:** [Youtube](https://www.youtube.com/watch?v=EWW-C-lGbvo)
-
-**Dataset:** [Coursera Website](https://www.coursera.org/learn/introduction-to-machine-learning-supervised-learning/home/week/1)
 
 ## Project description
 This work involves synthesizing a video from a set of video lectures that answers the question raised by the student. This contains following objectives.

@@ -1,5 +1,0 @@
-If I take it then problem will come.
-So, what we will take the key difference model method is that limit of summation include the term before m equal to 0.
-So, if the order is p instead of 0 I would consider the previous sample also and here also I previous sample also I have to consider.
-So, if the order is p, p number of previous sample I have to consider.
-So, tapering of the window does not matter here the window does not matter here whatever window function I can use.

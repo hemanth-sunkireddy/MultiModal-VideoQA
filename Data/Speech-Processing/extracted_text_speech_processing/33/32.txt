@@ -1,7 +1,0 @@
-which is the most used parameter in speech application.
-MFCC are used in most of the cases, most of the cases MFCC is used.
-So, compute, so you can say that there is three simple step in MFCC computation.
-Compute FFTT power spectrum of the speech signal, apply MEL filter bank and then compute DCT.
-Why?
-I will come, why these steps we require.
-So, what we said.

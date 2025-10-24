@@ -1,1 +1,0 @@
-Now, if I want to analyze this thing, so if I done demodulation, I have to done again for every x n omega 0, I have to modulate it and take its sum and I get back the 1 by n into omega 0 w 0, I get back the signal y n. So, y n is equal to x n, if w 0, w 0 is not equal to.

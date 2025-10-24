@@ -1,2 +1,0 @@
-and pass the signal S n, I can get E n because E n is nothing but a S z into A z S z into A z S z into A z S z into A z.
-So, I can say if I pass S z S n through a A z filter, I get E n. So, I can say I can get the error signal.

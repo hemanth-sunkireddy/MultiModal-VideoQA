@@ -1,4 +1,0 @@
-those represent the transfer function at that position and each each pole if it is those are represented the pole position equivalence to the pole.
-So, each pole represent the formant frequency.
-So, actually alpha 1 alpha 2 alpha 3 should represent the formant frequency is the frequency plane.
-Now, if I take 14th order then the alpha value which is not close to unit circle not give you the formant frequency.

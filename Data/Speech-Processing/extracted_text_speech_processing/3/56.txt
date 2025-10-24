@@ -1,5 +1,0 @@
-this will be third sample 1 2 3 4.
-So, this sample again become 0.
-Now, I product this will this, this will this, this will this, this will this, this will this, this will this and add together and get the Y n. So, that way I get whole Y n. So, that is why I am holding shifting product and sum.
-So, convolution.
-Then there is a term called circular convolution.

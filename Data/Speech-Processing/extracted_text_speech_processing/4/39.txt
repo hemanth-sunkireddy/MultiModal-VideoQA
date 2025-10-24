@@ -1,5 +1,0 @@
-it will be look like this power will be distributed at adjacent computation point.
-So, this will be look like this.
-So, this is the DSP computational leakage.
-Then there will be another another effect windowing effect also will be come I will discuss later on when we design the filter.
-Now, you know that implementation of DFT is a discrete Fourier transform.

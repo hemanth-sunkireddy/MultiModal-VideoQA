@@ -1,5 +1,0 @@
-then it is nothing, but the gain and noise ok.
-So, this is the summary.
-Now, comparison you may compare the different methods.
-So, what are the difference method for LP extraction?
-If you see that latex methods only use combine that two stage covariant that correlation or autocorrelation or correlation matrix and linear solution they are combined to both together.

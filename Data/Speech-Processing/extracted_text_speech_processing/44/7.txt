@@ -1,3 +1,0 @@
-So, you see that every I then there is a gap then there is a M then there is a gap.
-So, in written language this gap identified that word boundary.
-But in case of spoken language if I say I am then there is no gap between I and M there is a co-articulation effect of I and M. So, I cannot say this boundary is exist in spoken language, but yes there is a hardly word boundary exist.

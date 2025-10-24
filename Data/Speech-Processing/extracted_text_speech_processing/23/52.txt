@@ -1,4 +1,0 @@
-So, f s is equal to 16 kilohertz.
-So, if it is 16 kilohertz then f s by 2 pi into pi by 3.
-So, f s by 3 6 is nothing but a 16 k divided by 6 it is 1 kilohertz by formant frequency.
-And formant bandwidth is nothing but a f s by pi into log of

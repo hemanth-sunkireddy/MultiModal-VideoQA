@@ -1,3 +1,0 @@
-So, if it is for every 10 millisecond I get one sample you can say that one data.
-So, I can say here I get E n which is nothing but a for every 10 if it is 10 millisecond shifting.
-So, 100 frame 100 per second earlier it is F s let us it is 1 F s per F s number of sample per second instead of F s number of sample.

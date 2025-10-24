@@ -1,2 +1,0 @@
-z to the power minus half, there will be a delay z to the power minus half and again there will be a junction.
-So, junction let us signal flow diagram this is this, this is this, this is this, again this will be 1 minus r 2, this will be 1 plus r 2, this is r 2, this is minus r 2.

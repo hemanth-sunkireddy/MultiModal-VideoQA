@@ -1,2 +1,0 @@
-I provide a input which is nothing but the acoustic signal and from the acoustic signal it should convert the linguistic information only the linguistic information like the words which is contained in this utterance or sentence which I have spoken.
-So, either I may say single word may be a sentence or several words together w 1 w 2 w 3.

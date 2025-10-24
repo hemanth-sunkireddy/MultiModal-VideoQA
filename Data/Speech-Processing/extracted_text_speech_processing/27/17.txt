@@ -1,2 +1,0 @@
-Once this is passed through this time domain convolution frequency domain multiplication, so this will be multiply here.
-So, this portion is my output I get as a x of n omega 0 which is nothing but a x of omega plus omega 0 multiply by w omega.

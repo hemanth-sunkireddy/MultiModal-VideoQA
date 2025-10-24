@@ -1,5 +1,0 @@
-as a feature extraction it is not that good.
-So, what will be the speech features or why it is required?
-So, if I say that then I can start from here what is features or parameters whatever I said.
-So, what is speech features?
-I can say let us take the speech signal and find out some parameters.

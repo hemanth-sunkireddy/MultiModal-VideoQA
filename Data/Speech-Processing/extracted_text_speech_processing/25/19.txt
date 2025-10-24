@@ -1,8 +1,0 @@
-from this point to this point.
-So, my bit rate is 160 byte I have to transmit it.
-I have to transmit it 160 byte from this point to this point.
-Can I reduce it using this LPC method?
-So, instead of transmitting 20 millisecond.
-So, since it is 8 kilohertz what should be the order of the prediction?
-So, for F s is equal to 8 kilohertz.
-So, I can say F s by 1000.

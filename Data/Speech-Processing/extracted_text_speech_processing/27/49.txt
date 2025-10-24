@@ -1,4 +1,0 @@
-then it is different.
-So, depends on the window, the frequency response is different.
-Even if I do the spectral analysis, analyze spectral by scan, see that there is a different window selection, hamming window, hanging window, then black man window, then Kaiser window Gaussian and this is the FFT size.
-So, this is the choice of n.

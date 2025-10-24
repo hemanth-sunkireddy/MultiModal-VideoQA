@@ -1,2 +1,0 @@
-So, during the sentence speech is not same sometime I said some consonant sometime some vowel sometime some consonant sometime consonant to vowel transition.
-So, all kinds of variation is exist if I take the whole signal and draw the magnitude spectra which is like this if I take the whole signal and draw the magnitude spectra that means whole signal and I draw the magnitude spectra that is nothing but a average spectra of whole signal.

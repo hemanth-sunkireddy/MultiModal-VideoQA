@@ -1,3 +1,0 @@
-I cannot take whole signal at a time and analyze its frequency domain and do some modification in frequency domain and take the inverse to get the time domain signal.
-This is not possible because the signal is non-stationary, some part is modified.
-So, what I say I want to take part of the signal and analyze it in frequency domain and do some modification, take the inverse transform.

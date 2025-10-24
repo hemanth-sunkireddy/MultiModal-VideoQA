@@ -1,7 +1,0 @@
-2, F 3, F 4.
-Then if I ask how many complex conjugate pole will be there?
-4 pair.
-How many pole will be there?
-Complex pole will be 8.
-So, if n tube model is there, n number of pole is there in a transfer function, then I can say n by 2 complex conjugate pole will be there.
-So, literally I can get n by 2 complex conjugate

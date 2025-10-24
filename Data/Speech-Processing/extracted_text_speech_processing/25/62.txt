@@ -1,2 +1,0 @@
-So, r k is nothing but a minus k i or you can say r i let us say r i is equal to minus k i.
-Now, if I know r k value or r i value, then I can express a k plus 1 in term of a minus k i or I can say.

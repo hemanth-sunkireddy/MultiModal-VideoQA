@@ -1,5 +1,0 @@
-2 complex conjugate pole is required to realize one formant.
-So, it is 2.
-So, F s by 2 into 2 pole how many every 1000 hertz signal.
-So, I can say F s by 2 into 2 by 1000 2 2 cancel.
-So, I can say F s by 1000 number of pole number of complex conjugate pole complex pole not conjugate conjugate then it is.

@@ -1,8 +1,0 @@
-What is the male scale?
-You know this using this equation.
-We have already derived the male scale.
-So, the bandwidth of the filter is depends on the male scale.
-So, instead of uniform bandwidth filter, I take male scale filter.
-So, what is human perception in frequency?
-Lower frequency, our resolution is very high.
-That means lower frequency, we can perceive linearly along the physical frequency, but at the higher frequency, we can perceive the

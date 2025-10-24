@@ -1,5 +1,0 @@
-this is m equal to l minus 1.
-Now, so if I want to predict, I said the linear prediction means I am to predict the current sample from the previous sample.
-So, if I say that my I take the p point predictor alpha alpha alpha 1 alpha 2 alpha p. So, suppose I want to predict the first sample in here, what is the previous sample?
-All are 0.
-So,

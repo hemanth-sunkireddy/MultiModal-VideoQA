@@ -1,7 +1,0 @@
-we have a some low resolution.
-That means, the band of frequency, the frequency band we perceive as a same frequency is larger.
-So, I can say at the high frequency region, the bandwidth of the filter will be large.
-So, that means, we do not require that much of coarse resolution.
-So, rough estimation is sufficient for high frequency.
-So, that is why we take the bandwidth of the filter will be larger.
-So, bandwidth defined by the .

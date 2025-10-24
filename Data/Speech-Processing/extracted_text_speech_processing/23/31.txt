@@ -1,4 +1,0 @@
-find out that alpha 1 and alpha 2 and find out the autocorrelation error E ok.
-So, you can find out k 1 k 2.
-So, I can say E is equal to nothing, but E 0 into 1 minus k k k i square where i varies from I can say 1 to m square m equal to 1 to what are 2.
-So, it is nothing, but E 0 into 1 minus k 1 square.

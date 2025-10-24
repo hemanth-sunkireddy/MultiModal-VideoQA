@@ -1,4 +1,0 @@
-0 I can do that that is equal to 0.
-Now, if I say what is V volume is nothing, but a A into del x cross sectional area into del x.
-So, cube if you see the cube volume of the cube is nothing, but a y z plane cross sectional area del y into del z into del x.
-Now, if I say d V or if I say del V.

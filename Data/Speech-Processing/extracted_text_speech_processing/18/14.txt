@@ -1,4 +1,0 @@
-So, if within this band if the frequency occur, then I cannot distinguish the difference between the two frequencies.
-So, this band is called critical band, critical band.
-So, the auditory system can be roughly model as a filter band consists of 25 overlapping band pass filter which is varies from 0 to 20 kilohertz.
-So, that band so I can say instead of human auditory systems, I can think about engineering model of some band pass filter.

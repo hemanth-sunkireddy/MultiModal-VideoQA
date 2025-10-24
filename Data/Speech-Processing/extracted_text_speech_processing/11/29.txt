@@ -1,2 +1,0 @@
-the frequency response is that for when frequency are 500 hertz 1.5 kilo hertz 2.5 kilo hertz, but the response is high frequency are attenuated due to the radiation loss and it is not 0 bandwidth because of the if I consider the losses inside the tube.
-Now so vocal track can be characterized by a set of resonance that depends on the vocal track area function with shift due to the loss.

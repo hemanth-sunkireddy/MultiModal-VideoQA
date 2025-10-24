@@ -1,5 +1,0 @@
-I can subtract not full full.
-So, what is the problem is that if the if this is a noise and speech signal contains a sibilant sound which is also a noise, if I subtract it the sibilant sound may go.
-So, this is the problem.
-So, then what kind of estimation I can say ok if this is a sibilant sound then do not subtract this.
-So, those kind of algorithm I can write and I can remove the noise from the speech signal.

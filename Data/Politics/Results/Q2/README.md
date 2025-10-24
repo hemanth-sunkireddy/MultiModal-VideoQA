@@ -1,0 +1,1 @@
+Q. What were Raja Rammohan Roy’s views on modern education?

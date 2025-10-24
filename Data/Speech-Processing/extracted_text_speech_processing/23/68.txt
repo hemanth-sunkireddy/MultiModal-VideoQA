@@ -1,5 +1,0 @@
-let us y matrix.
-So, I can write down this one again a 1 y 1 and this one and then again I solve and generalize this one for any order this is the generalization I can write down this matrix I get y value.
-Once I get that y value so, this is d A transpose alpha is equal to y.
-So, I can say A transpose alpha is equal to d inverse y.
-So, d inverse I can easily calculate then I can say alpha.

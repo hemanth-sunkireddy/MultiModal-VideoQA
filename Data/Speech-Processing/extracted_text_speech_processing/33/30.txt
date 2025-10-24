@@ -1,6 +1,0 @@
-So, if I calculate the spectral coefficient from LPC spectrum using this three formula, I get the spectral coefficient from LPC spectrum.
-So, LPC spectral coefficient.
-If I know the spectral coefficient, I can calculate the LPC coefficient using this formula.
-So, all are the speech parameter.
-The spectral is a speech parameter.
-LPC coefficient is a speech parameter.

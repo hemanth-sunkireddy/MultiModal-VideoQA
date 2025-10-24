@@ -1,6 +1,0 @@
-If I see this equation, if you see this equation what is there?
-This is a complex number.
-So, there has a magnitude and there has a phase.
-So, I can say h e to the power j omega has an complex.
-So, it has an phase or you can say the magnitude which is nothing but a h e to the power j omega mod and e to the power j phi omega is the phase.
-So, I can say h is a real part and imaginary part.

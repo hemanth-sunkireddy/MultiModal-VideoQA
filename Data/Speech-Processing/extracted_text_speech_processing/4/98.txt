@@ -1,6 +1,0 @@
-with the frequency between the 1.5 kilohertz to 2 kilohertz.
-So, what I will do?
-I will just shift this low pass filter to 1.5 kilohertz frequency so that I get this one.
-Understand or not?
-So, it is nothing but a frequency shifting of the low pass filter.
-So, any band pass filter I can implement just implement the low pass filter of the desired bandwidth and shift here that frequency response.

@@ -1,3 +1,0 @@
-So, if I have a 16 kilohertz signal 16 kilohertz is a sampling frequency and n equal to 1 kilo 1 k then I said every band is nothing, but a 16 hertz.
-So, this is 16 hertz this is 16 to 32 hertz this is 32 to 48 hertz.
-So, I can say that F s the frequency scale

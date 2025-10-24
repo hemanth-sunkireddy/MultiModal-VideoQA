@@ -1,9 +1,0 @@
-then I can say n is equal to 512.
-If it is 512, this is the resolution.
-So, now resolution curve 512.
-So, resolution is increases.
-What is the resolution?
-Resolution means this is a frequency scale.
-If I divide this long window, so that resolution is less.
-If I want to increase the resolution, the division has to be very small size.
-So, 2 pi by n value.

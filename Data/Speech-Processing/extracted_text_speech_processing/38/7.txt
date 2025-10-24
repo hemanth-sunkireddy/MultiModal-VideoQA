@@ -1,3 +1,0 @@
-If you remember we said in that that a speech event or I can say whether it is O or whether it is A it can be determined by the formant frequency.
-If you remember the formant frequency f 1, f 2, f 3 and formant bandwidth if I know the formant frequency and formant bandwidth I can generate O.
-So, that is called parametric.

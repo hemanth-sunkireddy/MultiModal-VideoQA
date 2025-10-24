@@ -1,2 +1,0 @@
-which is very important latex modeling for LPC extraction and also LPC parameter that extraction also implementation of pole 0 filter all those kind of things we will discuss.
-So, LPC synthesizer because that is very important how do you synthesize the speech signal at decoder once I know the k value and alpha value.

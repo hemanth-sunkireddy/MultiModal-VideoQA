@@ -1,4 +1,0 @@
-pure occlusion period is a segmental features, burst is a segmental information.
-So, if the features is extracted segment by segment or for a particular segment of the speech signal, then I call this is a segmental speech features.
-If the features is across extracted across the segment, then I call it is a supra segmental speech features.
-So, if I say segmental speech features all the speech event.

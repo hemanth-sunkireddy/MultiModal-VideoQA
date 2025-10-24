@@ -1,3 +1,0 @@
-there is a some ambiguity in written language by ice cream I do not know whether it is ice cream or ice cream ok. Then it is impossible to use higher order statistical model for language model beyond trigram I cannot use, but that trigram model not give me the enough language model information.
-So, what I do?
-So, there is a list till there is a open challenge.

@@ -1,4 +1,0 @@
-Now, if I we said that if the each tube has a fixed length del x, then this tau the delay line tau can be represented by z to the power minus 1, because z to the power minus if the T 1 is equal to tau ok.
-So, this is the single junction kth junction signal flow diagram.
-Now, if I consider the same if the tube has n number of sections.
-So, suppose I have a tube length is L.

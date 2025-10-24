@@ -1,4 +1,0 @@
-So, it has the property of Fourier transform.
-So, inverse transform is possible.
-So, if I this I have get frequency transform of what signal plus window.
-See if I take the IDFT in here or so this is DTFT IDTFT in here in digital domain or if it is in DTFT discrete time Fourier transform it is if it is in DFT.

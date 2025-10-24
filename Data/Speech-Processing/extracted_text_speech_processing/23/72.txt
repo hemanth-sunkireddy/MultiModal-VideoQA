@@ -1,3 +1,0 @@
-I can design this filter and if I if I know the voice signal is nothing, but a impulse.
-So, I generate the impulse based on that f 0 value of the voice signal and multiply the gain, gain let us g and then if I can pass through this filter I can generate the pitch signal.
-So, if it is LPC decoder let us simple LPC decoder and decoder.

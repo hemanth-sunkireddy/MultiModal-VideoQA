@@ -1,5 +1,0 @@
-I am not going details, but it is there.
-So, I can say the select the first silence portion, I can say this portion is noise portion.
-So, I can transform noise reduction, noise reduction then I can say get profile because this portion this is not sufficient to get the profile.
-So, I can FFT size I can reduce and then also it is not sufficient.
-So, what I will do I will select much more whatever is possible then find try to find out noise reduction.

@@ -1,5 +1,0 @@
-The acoustic wave contain 20 hertz to 20 kilohertz sound.
-Once I put the microphone in the front of the mouth, so microphone has a limitation.
-Microphone has one property that it has to be convert this acoustic wave to a electrical signal.
-So microphone may have a limitation.
-So microphone may have a sensitivity, microphone may have a frequency response.

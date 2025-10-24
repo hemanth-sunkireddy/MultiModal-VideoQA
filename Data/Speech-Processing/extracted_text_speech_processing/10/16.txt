@@ -1,3 +1,0 @@
-C is the velocity of the sound, x is the position.
-Now, similarly what is P x t?
-P x t is nothing but a rho c by a u plus t minus x by c plus u minus t plus x by c. So, this I can say is nothing but a Z, Z t which is called impedance of the transmission line or impedance of the acoustic tube is nothing but a.

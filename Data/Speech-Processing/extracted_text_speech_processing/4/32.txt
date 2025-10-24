@@ -1,4 +1,0 @@
-is nothing but a frequency is equal to 0 that is nothing but a d c component of the signal.
-So, x 0 is the d c component of the signal.
-So, those property you have to know frequency resolution d c component how do you make the k to f conversion those things will be used in implementation of digital this digital speech processing ok. Now, there is another property I have not described this one again.
-So, the symmetry property is there.

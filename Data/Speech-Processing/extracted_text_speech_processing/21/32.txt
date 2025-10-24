@@ -1,4 +1,0 @@
-to get the signal synthesis.
-So, how do I estimate these values?
-If you see, I have only one equation.
-If you see that, I have already, if you see this equation, I have only one equation where I can say S n is equal to a 1 S of n minus 1 plus a 2 S of n minus 2 plus.

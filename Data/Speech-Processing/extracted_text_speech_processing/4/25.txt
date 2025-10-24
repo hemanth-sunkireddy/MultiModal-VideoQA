@@ -1,4 +1,0 @@
-So, at k equal to 10 in this case F s is 8 kilohertz 8 into 1000 divided by 1000 into 10.
-So, 80 hertz.
-So, if my signal is contained 80 hertz component then the power at here will be come here.
-So, once I want to draw the draw a DFT suppose I done a DFT.

@@ -1,1 +1,0 @@
-forget about this part let us consider i have a signal and i shifted the frame with factor l so this emulation time this emulation factor is l ok so i can say y by n after i take the idf t is nothing but a l by n into r equal to minus infinity to infinity and k equal to 0 to n minus 1

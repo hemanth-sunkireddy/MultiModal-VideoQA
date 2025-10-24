@@ -1,2 +1,0 @@
-what I will do if I recorded for 4800 sample.
-So, what I will do I take a window of 20 millisecond that means 320 sample then I analyze the DFT and then I shifted the signal shifted the window for the next frame by 10 millisecond means 160 sample then I get the next frame do the DFT then I shifted the again 10 millisecond I analyze the window and do the DFT then I get the signal.

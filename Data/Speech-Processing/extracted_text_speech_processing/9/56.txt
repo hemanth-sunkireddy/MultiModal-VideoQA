@@ -1,5 +1,0 @@
-is volume velocity and this capital V is the volume because here I have said del x by del t is nothing but a particle velocity sorry particle velocity sorry it is particle velocity.
-So, this V is the particle velocity.
-So, I can say V to the power gamma is cancel.
-So, I can say del p by del t is nothing but a rho into p del V by del x is equal to 0.
-So, I can say

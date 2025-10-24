@@ -1,6 +1,0 @@
-If my dissemination factor means shifting of the window is greater than the N w, L is greater than the N w. So, next window may be come in here.
-So, L has shifted the window in here.
-So, next window come in here.
-So, what is happened for this portion of signal?
-I do not know.
-I do not know this portion of the signal.

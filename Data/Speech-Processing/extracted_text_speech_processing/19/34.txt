@@ -1,4 +1,0 @@
-square is the energy.
-So, this is the whole signal energy long term definition.
-Now, if I take the long term definition let us this is the my signal and if I take the whole energy at a time or this is my signal and I take the whole energy at a time no use, but I do that with that parameter because I want to find out where voice signal, un voice signal, silence.
-So, if I take the whole signal at a time find out the energy.

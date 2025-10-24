@@ -1,7 +1,0 @@
-If it is sampled at 8 kilohertz, then single sample delay means 1 by 8 kilohertz.
-This is a single sample delay.
-So, 1 by 8 kilohertz, I think 125 microsecond.
-Then how much delay will be required?
-0.5 millisecond.
-I can calculate the number of Z is required.
-So, I can instead of delay, I put Z to the power that number of n. Delay will be simulated.

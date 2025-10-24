@@ -1,6 +1,0 @@
-then this is called male scale spectral coefficient.
-So, since the my spectrum is frequency warp in male scale, that is why it is called male frequency spectral coefficient.
-So, what I am actually doing in mathematics?
-I am designing the filters.
-I will explain in the next class.
-First, I design the describe the

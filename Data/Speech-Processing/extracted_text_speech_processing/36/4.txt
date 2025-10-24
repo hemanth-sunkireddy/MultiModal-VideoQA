@@ -1,2 +1,0 @@
-So, let us 20 millisecond signal is represented by x n. So, if I find out the maximum amplitude within the 20 millisecond, then I can then I can say the k k into that max amplitude will give me the C L value ok. K value is between 0.6 to 0.8 ok. Now, if I want that I have a signal which is lot of variation in amplitude.
-So, instead of taking the single max.

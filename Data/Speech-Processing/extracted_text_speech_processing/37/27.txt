@@ -1,3 +1,0 @@
-that is called SSML, SSML speech synthesis markup language, speech synthesis markup language.
-It is nothing but a XML structure which is used to do this kind of job text normalization, grapheme to phoneme conversion and prosody tag marking.
-So, when you developed your website, if you all the text, all the written whatever the written communication is there, if it

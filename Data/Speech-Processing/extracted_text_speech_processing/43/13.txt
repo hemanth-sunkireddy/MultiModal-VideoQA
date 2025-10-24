@@ -1,3 +1,0 @@
-this is flat, this is falling, then I can define the pattern of rising, it is sharp rising, it is flat rising.
-So, those kinds of things is used in Tobie model.
-Then stylization, I can approximate whole F 0 contour is some set of linear line or linear segment, then I can say I can model that things that is called stylization or I can generate some mathematical model and based that model.

@@ -1,5 +1,0 @@
-conjugate pole product.
-So, what is if you see that then if I say this is my unit circle.
-So, complex conjugate pole.
-So, this is the real axis, this is the imaginary axis.
-If a pole occur in here with a angle of theta, there will be another pole which is conjugate this pole minus theta.

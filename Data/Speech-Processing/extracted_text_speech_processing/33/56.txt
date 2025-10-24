@@ -1,4 +1,0 @@
-but in male scale instead of frequency I get S cap K which is in male scale or instead of K I can here write L. L is the number of analysis filter.
-So, if it is a 40 filter or if it is a 20 filter, so L varies from 0 to 19.
-So, I can get number of filters.
-So, once I pass through the male filter, I get male.

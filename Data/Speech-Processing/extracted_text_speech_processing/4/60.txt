@@ -1,2 +1,0 @@
-So, whatever the frequency response I will get frequency response I will get that is the average frequency response of whole signal means I am considering during this time the signal does not change its property.
-So, what I am losing I am losing the time domain resolution of the signal time domain resolution I am losing ok. Now, if I want to increase the time domain resolution what I will do.

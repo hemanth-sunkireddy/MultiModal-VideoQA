@@ -1,5 +1,0 @@
-gap between the articulator opening and vocal cord closing.
-So, there is called VOT, voice onset time.
-During this period, vocal cord may produce an aspiration sound, then it is called aspirated sound.
-If it is aspiration is not there, we call unaspirated VOT.
-So, this VOT, this VOT, this VOT.

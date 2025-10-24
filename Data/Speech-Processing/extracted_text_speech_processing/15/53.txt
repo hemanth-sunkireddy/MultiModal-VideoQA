@@ -1,4 +1,0 @@
-and lip radiation and I get the speech signal.
-So, random noise passes through vocal track and included lip radiation produce the speech for unvoiced speech.
-If it is a voiced speech, impulse strain will be modified by the Guadal pulse generator and that will pass through the vocal track and lip radiation produce the speech.
-So, if you see three Tufts pole function, G z can be approximate by the second order this two pole two pole function.

@@ -1,4 +1,0 @@
-Let this is my filter frequency response.
-If this is the frequency response, then I can say frequency response let us this is 2 pi by n. So, let there is another filter.
-Let us this is 2 pi by n into 2 into 1.
-So, summation

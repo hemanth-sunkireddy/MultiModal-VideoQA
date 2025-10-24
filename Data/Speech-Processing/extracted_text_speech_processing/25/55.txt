@@ -1,4 +1,0 @@
-and use single stage.
-So, those are the computational issue is there you can read it from that slides stability issue is there generate for autocorrelation the guaranteed for autocorrelation and guaranteed for lattice method, but covariance method it is not guaranteed because if it is a large matrix then you know the upper triangular matrix lower triangular matrix.
-So, there has some problem.
-So, you can say the covariance method is not guaranteed, but autocorrelation method and lattice method.

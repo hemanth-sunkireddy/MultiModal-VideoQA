@@ -1,2 +1,0 @@
-So, 0 crossing for 400 samples is 80 number even instead of 400 sample I said how many time signal will cross the 0 line for 30 millisecond 30 millisecond in a 30 millisecond signal how many time signal cross the 0 line.
-So, if we say F s is 1 kilohertz that means, 1 millisecond has 1 k sample or 10 k sample.

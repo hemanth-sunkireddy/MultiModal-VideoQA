@@ -1,4 +1,0 @@
-I want to find out how many times signal will cross the 0 line.
-Here my formula will not work because I do not know where the cycle number of cycle F 0 I do not know, F s I know, I know only F s sampling frequency I know, I have sample the signal something else.
-Now, let us this is an x n is a signal first I explain it then I put the generalized formula.
-So, this is the first window.

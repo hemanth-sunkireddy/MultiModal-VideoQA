@@ -1,4 +1,0 @@
-But if you see this black portion is started breaking in this portion.
-So I can say this portion is nothing but a consonant vowel transition.
-So after seeing a spectrogram, I can know the structure of a stop consonant or plosive co where is occlusion, burst, VOT, again vowel, again occlusion, burst, VOT.
-So co co co co. Now if I say co with co, co co co co co co,

@@ -1,3 +1,0 @@
-is the easiest algorithm.
-So, time complexity of computation of F 0 is very less, but it is not at all noise prone.
-So, I can say method zero crossing detection by the F 0 restriction methods is very not that useful or you can say that is not reliable ok. Next technique is called autocorrelation technique which is mostly used technique for F 0 detection.

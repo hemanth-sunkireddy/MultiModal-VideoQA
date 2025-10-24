@@ -1,4 +1,0 @@
-So, d t by d x is equal to b into t plus a.
-Now, if I integrate both side, so what will get?
-I will get t is equal to t 0, sorry t is equal.
-So, if I, so I can say d t by d x is equal to b into t plus a, where t is the tension or I can say x instead of x, I can put l.

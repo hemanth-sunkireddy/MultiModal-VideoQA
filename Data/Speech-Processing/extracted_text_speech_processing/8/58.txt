@@ -1,4 +1,0 @@
-may be exist in Bangla but it may not be exist in Hindi or it may not be exist in English.
-Some phoneme which is exist in English but not in Bengali.
-So what is happen?
-Suppose I produce the English, the speech which I produce in English language, sequence of sound is such a way that it follow the English language grammar but what happening is that my English cannot be say it is the British English how the British is pronounced.

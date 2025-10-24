@@ -1,3 +1,0 @@
-reconstruction is only possible if I suitably choose the window and also the shifting of the window.
-So, that is why if you see in any parameter extraction we do the frequency analysis of the speech signal what we done.
-So, suppose I have a long speech signal let us this is 4800 sample which is 16 kilohertz sampling rate and 3 second signal.

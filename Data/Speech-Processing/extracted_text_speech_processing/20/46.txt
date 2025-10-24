@@ -1,8 +1,0 @@
-at red color.
-So, what is the definition of a fundamental frequency?
-Signal repeat itself.
-So, when it will be repeat?
-If the sample value was similar.
-So, I can say the signal repeated in here, signal repeated in here, signal repeated in here.
-So, this is nothing but a f 0, this is nothing but a twice f 0, this is nothing but a thrice f 0.
-So, that can be used to calculate the fundamental frequency of the signal.

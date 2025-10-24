@@ -1,5 +1,0 @@
-if I select this portion of the signal it is different, different spectra.
-So, I can say the speech is not a stationary signal.
-So, I have to analyze the speech signal with a segment wise.
-So, instead of taking the whole signal I have to take the signal part of a signal ok.
-So, let us I have recorded my voice of a sentence and it has one second it has sampled at 16 kilohertz.

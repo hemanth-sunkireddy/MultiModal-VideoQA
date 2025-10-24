@@ -1,4 +1,0 @@
-and prozodi modeling that text processing for prozodi is combined together called language processing and then it goes to speech synthesis.
-So, I will synthesis there is a lot of formats are there we will discuss details on synthesis because it is speech processing class.
-So, we discuss about the synthesis part a voice output is called the speech.
-Now the one problem is there that text I think many of you know the Unicode.

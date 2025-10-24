@@ -1,2 +1,0 @@
-of digitization process if I consider my sampling period t is equal to 2 tau.
-So, my sampling period t is equal to 2 tau what I am saying suppose I want to create a band limited signal or less speech signal whose maximum frequency is 500 hertz 5 kilohertz or 5 kilohertz let us say 5 kilohertz is the maximum bandwidth.

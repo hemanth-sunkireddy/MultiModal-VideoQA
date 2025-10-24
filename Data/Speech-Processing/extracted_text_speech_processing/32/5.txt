@@ -1,2 +1,0 @@
-for all voice signal only difference is the shape of the vocal track is different and different kind of speech signal is produced.
-So, our ultimate aim find out the actual representation of H N from the S N. So, I recorded the speech signal S N which is nothing, but a convolution of H N convolved with.

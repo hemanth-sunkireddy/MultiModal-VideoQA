@@ -1,3 +1,0 @@
-So, suppose I have a log signal and I do STFT, STFT then what is required that for every sample.
-So, I can I have taken a some portion of the signal and for every sample I have to recover it.
-So, suppose I have a 408, 4800 sample point then synthesis is possible if I sit there the window analysis window.

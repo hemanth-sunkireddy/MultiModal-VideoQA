@@ -1,6 +1,0 @@
-K 1 into B 0 m minus 1.
-So, what is B 0?
-This is B 0 m. So, if it is B 0 m, I want to produce B 0 m minus 1.
-So, I can say Z to the power minus 1.
-So, S m is fitted here, speech signal is fitted here.
-So, E 0 m B 0 m is equal to S m ok. Z to the power minus 1 delay if I

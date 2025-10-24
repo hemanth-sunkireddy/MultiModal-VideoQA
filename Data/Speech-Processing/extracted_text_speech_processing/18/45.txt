@@ -1,4 +1,0 @@
-So, I can say spectral amplitude compression as per the equal loudness curve I have to do.
-So, I can dynamic range or amplitude of the spectrum has to be compressed as per the threshold of hearing.
-The hearing sensitivity of the human ear to the amplitude is not same or not equal to all frequency.
-So, as per the sensitivity is changing along the frequency.

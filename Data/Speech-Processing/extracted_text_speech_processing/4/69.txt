@@ -1,4 +1,0 @@
-then this 10 millisecond will be same this 10 millisecond will be same that is why you see this kind of things are coming ok.
-So, this is called spectrogram and earlier one is called spectrum ok.
-So, next is the digital filter this is the last portion of the DSP view.
-So, digital filter if you say any forget about the filter any transfer function let us I have a.

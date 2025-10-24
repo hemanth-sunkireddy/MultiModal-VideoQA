@@ -1,5 +1,0 @@
-I know the junction diagram 1 plus r k 1 minus r k. Then what is r k?
-r k is called reflection coefficient.
-How it is come?
-What is z k?
-Rho sheet by a k rho c by a k minus rho c by a k plus 1 cross sectional area of the a kth tube cross sectional area of the k plus 1 tube minus rho c by a k.

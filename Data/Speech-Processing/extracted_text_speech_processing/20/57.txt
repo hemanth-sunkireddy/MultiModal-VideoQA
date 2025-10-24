@@ -1,5 +1,0 @@
-and I want to find out where the speech event is started and where the speech event is ended.
-So, let us I quiet for some time and start recording.
-I want to find out the time when I start speaking and when I end speaking, speech and non-speech.
-So, beginning of speech interval and ending of a speech interval that I have to detect.
-So, how do you detect it?

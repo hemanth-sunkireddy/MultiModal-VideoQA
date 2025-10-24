@@ -1,1 +1,0 @@
-So, there is a two problem one is that I can generate SN or if I know a 1 a 2 a p suppose I do not know a 1 a 2 a p then I can say yes if I know the current sample and previous p number of sample p number of sample then I am able to predict the value of a 1 a 2 a p for which the my prediction is 100 percent correct.

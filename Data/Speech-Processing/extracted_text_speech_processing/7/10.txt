@@ -1,7 +1,0 @@
-So, there is a synchronization problem between the articulator close and release and vocal chord close and release.
-So, there will be a time gap.
-So, if I say state diagram, let us here vocal chord articulator is closed.
-So, velar portion is closed means articulator is closed.
-So, articulator is closed, no signal.
-Let us this is the articulator open position, this is closed position, this is articulator.
-Now, this is

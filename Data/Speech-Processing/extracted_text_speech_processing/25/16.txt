@@ -1,3 +1,0 @@
-if I implement this diagram this thing in digital computer and then if I apply speech signal I get the excitation signal I get the excitation signal ok.
-So, this is called prediction latex filter for az or error filter implementation latex filter for az or error filter implementation.
-Now suppose in speech synthesis.

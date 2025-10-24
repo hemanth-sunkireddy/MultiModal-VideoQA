@@ -1,5 +1,0 @@
-taking every sample is very difficult because, if it is 8 kilohertz 8 k sample.
-So, instead of 8 k sample, let us I divide that whole 1 second signal in a 100 frame and 100 frame for every 10 millisecond, I get a parameter.
-Now, slide the window.
-So, effectively what I am doing, I am windowing the signal with overlap methods.
-So, this is window length, let us let us 20 millisecond and this is frame shift.

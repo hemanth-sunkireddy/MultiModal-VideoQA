@@ -1,2 +1,0 @@
-then probability of W of 4 for a given W of 3 like that way that is bigram model.
-Similarly, trigram model probability of W 1 W 2 then W 3 for a given W 1 and W 2, but trigram up to trigram model I can go if I go beyond above trigram model the complexity will be arise again.

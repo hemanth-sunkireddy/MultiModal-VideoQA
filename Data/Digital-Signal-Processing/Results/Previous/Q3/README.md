@@ -1,0 +1,1 @@
+Q. Explain about Discrete Cosine Transform?

@@ -1,6 +1,0 @@
-vowel to consonant transition.
-That means that articulator is producing vowel let us a, ca, then it want to produce vowel co.
-So what is the effect?
-The vocal chord has to be open and the articulator has to be closed.
-So vocal chord opening is not started but articulator is moving to close to produce the co.
-So once the articulator moving to close the air flow is reduced the sound in the if you see the formant structure is changing.

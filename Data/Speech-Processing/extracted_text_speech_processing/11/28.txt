@@ -1,2 +1,0 @@
-So, that is why if I see any speech signal, if you see the speech signal, it will look like that high frequency or amplitude or less, this is due to the radiation loss, high frequency amplitude or very less.
-So, this is the frequency response of the uniform tube, if I consider whole tube vocal track is a single tube, then I say this is the frequency response, this is the transfer function of the single tube model.

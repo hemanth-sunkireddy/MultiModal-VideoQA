@@ -1,2 +1,0 @@
-If I take that, then I can say the speech signal, if you see this that the speech signal which I have taken S n m is nothing but a infinite series of S m multiplied by a window function whose vicinity is between 0 to L minus 1.
-So, for a long speech signal, I let us this is the n th window.

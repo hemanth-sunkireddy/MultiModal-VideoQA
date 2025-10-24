@@ -1,3 +1,0 @@
-x square of n whole signal whatever the signal is there I can take that whole signal at a time x square n that is the energy.
-Now, if I take that energy then if I want to know that this portion is voice.
-So, energy of this signal is high this portion is unvoiced energy is low this portion is noise energy is low compared to this this is high this portion again voice it is high.

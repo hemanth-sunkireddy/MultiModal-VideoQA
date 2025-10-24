@@ -1,3 +1,0 @@
-Now, I have to find out the solution of this second order differential equation and again solution of this second order differential equation give me the velocity.
-So, if I draw the solution of this second order differential equation you know that second order differential is total solution is nothing but a.
-So, I can say that u x t is equal to u plus t minus x y c minus u plus t plus x y c.

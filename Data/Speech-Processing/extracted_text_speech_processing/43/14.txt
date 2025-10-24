@@ -1,3 +1,0 @@
-has a some parameter and I can varies those parameter to generate this F 0 contour that is called generation process, Fujisaki generation process model.
-So, we will discuss details on generation process model.
-So, this is called Fujisaki generation process F 0 contour modeling that if you remember we have said F 0 has a two kinds of variation one is called local variation.

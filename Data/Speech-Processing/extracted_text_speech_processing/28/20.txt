@@ -1,5 +1,0 @@
-Go on.
-What is time scale modification?
-I can give you example.
-I want to either speed up or slow down the speech signal while maintaining the approximate pitch.
-If you remember earlier that there is a tape recorder or you can say the gramophone.

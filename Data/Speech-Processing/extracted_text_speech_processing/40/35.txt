@@ -1,5 +1,0 @@
-or spoken word language spoken word.
-So, we developed a system which trained on spoken word for Bengali.
-Now, identification of the spoken word is important.
-So, spoken word is identified for a spoken language database.
-So, I can say I record the I collect the spontaneous speech and identify the prosodic information based spoken word position and I said those words I can create a dictionary and I told the recognizer those are the words which I

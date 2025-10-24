@@ -1,8 +1,0 @@
-If it is 44 kilohertz, then you can calculate how many samples will be there.
-So, instead of 20 second, I can say 30 second.
-So, once I say the window size of 40 millisecond, then you know how much sample will be there.
-Similarly, if I say if 320 samples I have taken, time domain representation is 20 millisecond.
-I can convert.
-This will be frequently used in speech processing.
-Number of sample to time, time to sample.
-So, this is the basic idea of

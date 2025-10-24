@@ -1,6 +1,0 @@
-The output is called filter bank analysis of the speech signal.
-So, each of the filter output if this is the complete filter bank analysis model, if you see the filter pass through a band pass filter.
-So, this is the first band, second band, third band up to q number of band is there.
-So, if I say I have a signal call let us I have a 16 kilo hertz sampling frequency.
-So, what is the baseband frequency?
-Baseband frequency signal

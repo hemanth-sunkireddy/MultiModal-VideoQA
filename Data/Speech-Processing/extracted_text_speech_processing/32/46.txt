@@ -1,3 +1,0 @@
-q frequency q frequency q e u e f r e n c y.
-So, low q frequency slowly varying component, high q frequency fast varying component.
-So, removal of the unwanted component filtering can be attempt in sceptral domain itself and that filtering is called liptering instead of filtering we said it is liptering because this is this filtering of this here this is the time domain signal.

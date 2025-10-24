@@ -1,4 +1,0 @@
-x n z transform.
-So, convolution become product dot then dot becomes addition then addition becomes addition I take the inverse transform in time domain.
-So, same things whatever I do here it is there in the slide x 1 n then z domain then I take the log I get cap take the inverse transform then I get the x 1 cap into x 2 cap.
-This is called

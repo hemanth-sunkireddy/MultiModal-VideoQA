@@ -1,3 +1,0 @@
-in less 8 bit then I divided this plus 5 volt to minus 5 volt into 56 level and each level changing by single bit if it is fine then 127 plus and 127 minus.
-I said that all this voltage level this delta will be represented by only single representation that line.
-So, whatever the voltage within this limit may be I say it is falling here once it cross here.

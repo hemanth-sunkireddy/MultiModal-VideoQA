@@ -1,3 +1,0 @@
-So, what I am doing?
-I am shifting the signal or shifting the window with the time.
-So, e to the power minus j omega n omega n m equal to minus infinity to infinity x of n plus m omega n sorry omega minus m minus m e to the power minus j omega m.

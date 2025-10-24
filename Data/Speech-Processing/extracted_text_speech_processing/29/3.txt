@@ -1,5 +1,0 @@
-Once I apply the IDFT in here, I should get back X n. So, this is the normal Fourier transform property.
-Now, STFT also follow the normal Fourier transform property.
-So, I can say I have done STFT, can I get back the signal again?
-Is this possible?
-So, what we want to do here

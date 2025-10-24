@@ -1,5 +1,0 @@
-is slower than the movement of the leaf during the acting.
-So what I want, I want let us record a speech little bit faster.
-So I can play it fast that means changing the sampling resampling it or what I can do I can cut some portion.
-So that is called time scale modification.
-So in time scale modification cut and paste.

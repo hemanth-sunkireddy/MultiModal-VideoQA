@@ -1,5 +1,0 @@
-There will be an effect at junction also.
-So, the main purpose for multiple tube modeling is that I have to find out what happening at each and every junction of the tube.
-So, the cross section let us this one is very small cross sectional area this is wide cross sectional area.
-So, what will happen volume velocity and pressure wave equation in this junction what will happen all tube will be connected here this junction.
-So, let us I want to know what will happen at k th junction.

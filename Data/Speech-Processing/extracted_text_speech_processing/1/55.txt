@@ -1,3 +1,0 @@
-to work in speech processing.
-So, if you say the language communication, so different kind of dimension.
-So, speech processing involves algorithm, it is psychoacoustic, room acoustic, speech production, acoustic part, then information theory part, phonetics part, signal processing part, statistical signal processing, entropy, all kind of multidisciplinary action has been involved in developing the speech technology.

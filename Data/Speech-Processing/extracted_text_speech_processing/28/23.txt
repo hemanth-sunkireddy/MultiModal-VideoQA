@@ -1,6 +1,0 @@
-If I modify more, then what will happen?
-Once I increase the speed, the spectral characteristics are resampling.
-That is nothing but resampling.
-Spectral characteristics also changing.
-So the fundamental frequency of speed is also changing.
-So that is why when you play a 60 rpm record in 40 rpm.

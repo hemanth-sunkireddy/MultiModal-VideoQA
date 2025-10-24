@@ -1,0 +1,7 @@
+filename,timestamp,sentence
+4.srt,00:05:45.379 --> 00:05:51.740,"Here the time domain signal is discrete, but frequency domain it is continuous"
+4.srt,00:30:39.720 --> 00:30:41.500,"So, this is the limitation of Fourier transform"
+4.srt,00:45:12.680 --> 00:45:17.830,Details I will discuss when I discuss about the STFT short term frequency short term Fourier transform
+19.srt,00:16:22.649 --> 00:16:30.090,"So, short time zero crossing can be used to find out whether it is a voice signal or it is a noisy signal"
+19.srt,00:16:52.980 --> 00:17:06.340,Then short time autocorrelation I come then short time average magnitude difference those are the parameter I can use from the speech signal and those every parameter has its own purpose also
+19.srt,00:17:15.500 --> 00:17:22.860,"So, energy E of a signal which is n is equal to minus infinity to infinity x of n"

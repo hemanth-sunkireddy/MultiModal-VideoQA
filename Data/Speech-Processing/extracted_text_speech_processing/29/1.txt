@@ -1,3 +1,0 @@
-So, we have we have already discussed about the STFT analysis ok.
-So, STFT now we discuss about the STFT synthesis ok.
-So, in STFT analysis.

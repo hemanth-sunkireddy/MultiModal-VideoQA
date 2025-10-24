@@ -1,3 +1,0 @@
-sample per cycle.
-So, cycle per sample is nothing but a F 0 by F s. So, I can say twice F 0 by F s number of zero crossing per sample.
-So, if I want to find out

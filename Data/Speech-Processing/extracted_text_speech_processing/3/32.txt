@@ -1,5 +1,0 @@
-A system has certain property.
-What are the property?
-It is may be statics or it may be dynamic system.
-A discrete system is called statics or memoryless if its output at any instant n depend at most on the input sample at the same time, but not past or future sample of the input.
-So, suppose my y n is only depends on x n and x n minus y n.

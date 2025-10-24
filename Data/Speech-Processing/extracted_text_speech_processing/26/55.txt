@@ -1,3 +1,0 @@
-So, if I plot that way, I get this spectrogram.
-If you see 64, if I take it 64, if I zoom it time is domain, if you see there is a band, band will be visible, sorry, band will be visible.
-If you see the line, vertical line and horizontal line.

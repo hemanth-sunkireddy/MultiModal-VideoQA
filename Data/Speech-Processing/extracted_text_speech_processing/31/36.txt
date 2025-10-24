@@ -1,5 +1,0 @@
-segment wise that I will come later on why it is.
-Then there is a called frequency domain parameter filter bank analysis, short term spectrum analysis, sceptral analysis, formant parameters MFCC, delta MFCC all kinds of parameter are called frequency parameter.
-Time domain parameter LPC shape parameter, frequency time domain parameter perceptual linear prediction and wavelet analysis ok.
-So, all parameter extraction methodology let us we try to explain one by one.
-So, you learn.

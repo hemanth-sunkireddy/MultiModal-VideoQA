@@ -1,4 +1,0 @@
-10 kilohertz, but other frequency the conversion from acoustical signal to electrical signal is very low either very low or almost 0.
-Similarly, human ear is not sensitive or intensity sensitive to all frequency equally.
-So, the may be here is 1 kilohertz may be after 5 kilohertz it also increasing.
-So, 5 dB of 100 hertz, 5 dB of 2 kilohertz the intensity perception by the human being.

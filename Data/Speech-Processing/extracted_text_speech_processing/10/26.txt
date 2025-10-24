@@ -1,2 +1,0 @@
-k minus e to the power j omega t x equal to 0.
-And similarly, 0 is equal to Z d into u plus k plus e to the power j omega t minus l by c plus k minus e to the power j omega t plus l by c. From here, I can say e to the power j omega t into j omega t.

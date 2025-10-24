@@ -1,5 +1,0 @@
-like 3322 log 10 1 plus f by 1000 or 1127 log e 1 plus f by 700.
-So, this equation is actually fitting this curve.
-So, this equation is called Peets-Meyle scale, Meyle equation, okay, Peets in Meyle scale.
-So, suppose I have f is equal to 2 kilohertz, then I can find out what is the value of the f in Meyle scale.
-So, I can put that Peets in Meyle scale.

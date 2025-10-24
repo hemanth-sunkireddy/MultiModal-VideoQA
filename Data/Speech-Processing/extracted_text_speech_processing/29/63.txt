@@ -1,5 +1,0 @@
-frequency response of the analysis filter should sum to a constant across the entire bandwidth.
-This is constant, is equal to constant.
-So, the summation of all frequency response of analysis filter must be a constant.
-So, next class I will describe the pictographical analysis filter format.
-Let us Opposite present form.

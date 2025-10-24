@@ -1,4 +1,0 @@
-1, but not x n plus 1, then I can say my system is static.
-So, our memory less system and if it is future sample, then I can say it is with memory system.
-So, memory less system, static system with memory system is dynamic system.
-Then time invariant and time variant system, time invariant and time variant signal.

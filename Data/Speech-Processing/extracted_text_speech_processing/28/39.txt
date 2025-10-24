@@ -1,5 +1,0 @@
-and subtract it from the spectral information of this pitch and again re-synthesis, I can remove the noise.
-So, what I will do?
-I first estimate the noise power by analyzing this portion, take a single window on this portion and I can estimate that n omega.
-Then I apply that noise estimation.
-So, noise estimation is let us Sb.

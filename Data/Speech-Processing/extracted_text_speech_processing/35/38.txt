@@ -1,4 +1,0 @@
-f 0 is not there, but spectral repetition tell me what is the f 0 of that signal.
-So, sometime this is also important that we have if we are looking for the only f 0, f 0 may not be there, but 2 f 0 is there, 3 f 0 is there.
-So, repetition of the spectral information from there I can find out the I perceive the f 0 frequency ok.
-So, if this kind of band limited signal is come then it is very difficult to find out the f 0 also.

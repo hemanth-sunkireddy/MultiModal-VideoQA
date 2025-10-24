@@ -1,3 +1,0 @@
-second order will be cancelled.
-So, I can see the total H z is in the form of a all pole model.
-So, H z I can express H z is nothing but a all pole model 1 minus k equal to 1 to p a k z to the power minus k. So, this is the basis point why we do LPC analysis linear predictive analysis for voice.

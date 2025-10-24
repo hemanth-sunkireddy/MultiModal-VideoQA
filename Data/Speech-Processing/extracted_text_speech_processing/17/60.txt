@@ -1,3 +1,0 @@
-the combined frequency response of the outer air and middle air I can say this is look like this.
-So, this way is the frequency, this way is the loudness in dB reference is 10 to the power minus 12 watt 0 dB.
-Now, if you see the for this frequency and for this frequency let us this is for 1 kilohertz.

@@ -1,7 +1,0 @@
-will be magnified by n by 2 if it is real valued signal.
-If it is a complex signal, it will be n number of.
-So, when you do the inverse DFT, I should normalize the amplitude by if it is if it is real input signal.
-So, it is n by 2.
-If it is a complex input signal, then it will be n. And there is a DFT leakage.
-All those things you can find in that DSP book.
-DSP leakage means.

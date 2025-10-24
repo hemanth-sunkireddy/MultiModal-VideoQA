@@ -1,3 +1,0 @@
-Let us P n is my digital signal P n is a 3 delta n plus 3 plus a 1 delta n minus 1 plus a 2 let us delta n minus 2.
-So, this del a 3 a 1 are the coefficient and those are the delta position.
-So, at that position the signal has amplitude a 3 sample has amplitude a 3 at that position.

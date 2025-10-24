@@ -1,3 +1,0 @@
-So, once I predict this one from 0 in the error maximum error I will get I want to predict this one all 0, but one sample is there error will be slightly reduced I want to predict this one from two non zero slightly reduced.
-So, once I go towards the window my error will be decreasing decreasing decreasing.
-Once I come in the n sample then what I want to predict.

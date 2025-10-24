@@ -1,5 +1,0 @@
-So, if I know calculate the K i value then implement a z and 1 by a z using a MATLAB program try it.
-If you have any confusion write my in email or you can forum you write it that I cannot implement it ok. Then implement a z once you implement a z.
-So, I implement a z in a program.
-What is the input?
-Input is SN which is 20 millisecond signal of R.

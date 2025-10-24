@@ -1,3 +1,0 @@
-So, selection of the microphone frequency response, microphone time, how to connect it all are very important.
-So, which microphone I should use, it depends on what kind of application I want to develop.
-Suppose, I want to develop a speech coding for telephone channel, then I should not use a very high end microphone which frequency response is 20 kilohertz, because my signal is 4 kilohertz.

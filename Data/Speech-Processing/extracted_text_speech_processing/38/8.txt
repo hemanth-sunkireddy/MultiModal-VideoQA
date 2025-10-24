@@ -1,3 +1,0 @@
-So, if I know the formant parameter and formant bandwidth for that particular speech event, I can generate the speech event using articulatory synthesis that you know the LPC model.
-If I know the LPC feature vector a 1, a 2, l p then I know designing a filter I can generate that event.
-But the problem is that if you see that once we speak the movement of the speech formant.

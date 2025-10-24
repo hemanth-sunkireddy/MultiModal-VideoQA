@@ -1,4 +1,0 @@
-Now, if I consider that then what is the problem?
-If I consider that whole the whole tube is a connected tube instead of a single tube.
-So, the problem is that I know what will happen when it sound will travel throughout the tube ok.
-If it is a single tube I know input and output it is in the tube actually nothing, but a delay I can derive the equation for signal flow equation from the input and output I can find out the transfer function of the tube.

@@ -1,3 +1,0 @@
-So, they match store template with the given template if they match found match then declare this given template is nothing but a this because this has matched.
-So, I have a let I in machine I have a given a rectangular template then circular template, triangle template and let like this kind of template I test.
-Then if I provide a test template with circle then it try to match with this.

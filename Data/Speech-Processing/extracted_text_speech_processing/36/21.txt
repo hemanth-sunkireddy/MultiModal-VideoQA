@@ -1,5 +1,0 @@
-So, distance between the harmonics is the fundamental frequency or inverse of the speech period.
-So, what is the key philosophy behind the frequency domain PDA?
-That if a signal consists F 0, then harmonics will be repeated F 0, twice F 0, 3 F 0, 4 F 0.
-So, from there I can calculate the F 0.
-So, main drawback of frequency domain PDA is the high computational

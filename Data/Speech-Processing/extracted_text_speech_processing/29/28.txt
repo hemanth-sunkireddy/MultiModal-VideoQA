@@ -1,2 +1,0 @@
-must be equal to the bandwidth or I can say B must be greater than equal to 2 pi by N. If it is there then I can say none of the omega is left out all omega is pass.
-So if it is B equal to 2 pi by N then the picture will be what will be the pictures.

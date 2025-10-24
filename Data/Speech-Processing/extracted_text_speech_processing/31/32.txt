@@ -1,3 +1,0 @@
-formant position of the signal.
-So, formant frequency are extracted using the LPC formant LPC spectrum analysis also.
-So, I want an algorithm by which I can extract the formant frequency then is called formant frequency extraction and those formant frequency for a particular speech segment ok.

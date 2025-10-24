@@ -1,2 +1,0 @@
-So, that is my extraction algorithm.
-So, since I want to extract only h k, so after log if I pass this portion to the low pass filter, then I can eliminate e k that is my target and to find out log of h k. This kind of signal processing has an special function, this is called homomorphic.

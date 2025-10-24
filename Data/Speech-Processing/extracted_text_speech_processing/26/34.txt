@@ -1,3 +1,0 @@
-So, suppose the example whatever I have given, so I have 3 second recording, so I have a 48000 sample.
-Let us I take 10 millisecond window, so that means, 160 sample, so in 160 sample I take and I do the DFT, then again take the another 160 sample, then I do the DFT.
-Actually what we have done.

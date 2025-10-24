@@ -1,4 +1,0 @@
-and overlap and add them.
-So, overlap add operation effectively eliminate the analysis window.
-So, what I doing instead of dividing by the W 0, I take the overlap analysis window and this overlap if I add them.
-So, due to this overlap addition this effect of analysis window will be.

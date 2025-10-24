@@ -1,4 +1,0 @@
-Then what I have to do I have to take a short take a select a short segment of the signal and do the analysis.
-Next again I have to select the next segment and do the analysis.
-So, what I am doing instead of taking the whole signal I taking a small portion of the signal let us this is 1269 sample I have taken then I take the frequency analysis ok.
-So, as you know in the recap.

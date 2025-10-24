@@ -1,3 +1,0 @@
-to create the threshold of hearing compared to 1 kilohertz.
-Similarly, I can say let this is a 10 dB curve.
-So, let us 10 dB at 1 kilohertz to perceive the same loudness for 200 hertz signal, I require larger intensity to perceive the 300 hertz signal.

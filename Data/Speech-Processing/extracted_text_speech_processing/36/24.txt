@@ -1,4 +1,0 @@
-rough average difference that give me the average value of the F 0 that is the idea.
-Spectral similarity I have a spectrum I can simulate this is my F 0, this is twice F 0, this is thrice F 0 and try to similar find out the correlation I mean whether it is matches with the original spectra or not.
-Once it is matches you said this is my F 0 spectral similarity based F 0 detection.
-There is a time frequency domain F 0 detection also lot of algorithm on time frequency based F 0 detection.

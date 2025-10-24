@@ -1,2 +1,0 @@
-If you remember in during my lecture on human perception of frequency and ampli or smith's perception, we said the signal, the frequency perceived by the human being is not in linear scale, this is in male scale.
-So, instead of taking the linear filter, now I convert the filter bandwidth as per the male scale.

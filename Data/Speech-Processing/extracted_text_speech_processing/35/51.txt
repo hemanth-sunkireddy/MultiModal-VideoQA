@@ -1,3 +1,0 @@
-So, around 300 hertz I can calculate the f 0 value ok. Now, how you process it ok this procedure is ok.
-So, how you process it?
-If you remember that suppose I have a signal I have recorded my name at 16 kilo hertz 16 bit.

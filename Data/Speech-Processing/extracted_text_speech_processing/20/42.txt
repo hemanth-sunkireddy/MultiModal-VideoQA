@@ -1,3 +1,0 @@
-1, then I get a value, then I get a value r 2, then I get a value of r 3 just shifted.
-So, if I shifted it, if you think in a sine wave manner, let this is a sample, this is a sample, this is a sample, this is a sample, this is a sample, this is a sample, again sine wave 1, 2, 3, 1, 2, 3.
-Now, once I multiply this with this, I get

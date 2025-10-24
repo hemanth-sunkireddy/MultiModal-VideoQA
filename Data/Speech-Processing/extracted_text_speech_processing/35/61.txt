@@ -1,3 +1,0 @@
-Calculating the autocorrelation using that R k is equal to n k equal to n equal to 0 to n minus 1 x n x of n plus k, I am calculating different formula this using this formula.
-So, this is called normalized cross correlation function instead of autocorrelation.
-If I calculate

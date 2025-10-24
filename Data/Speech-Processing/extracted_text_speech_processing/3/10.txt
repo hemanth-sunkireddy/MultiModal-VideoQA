@@ -1,5 +1,0 @@
-I am not discussing the number system, what is the rational number.
-And then discrete time sinusoidal whose frequency are separated by integer multiple of 2 pi are identical.
-Very simple, if the cos is a distinct sinusoidal, if it is integer multiple of 2 pi separated then they are identical.
-So, 2 pi is the maximum period.
-So, the highest rate of oscillation, the highest value of small m, what is the highest value of small m?

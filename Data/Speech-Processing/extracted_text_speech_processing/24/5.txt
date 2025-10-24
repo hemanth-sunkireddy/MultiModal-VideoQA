@@ -1,5 +1,0 @@
-and solve the linear equation in two separate step.
-So, I want that can I combine these two step?
-Yes, it is possible in case of Latics formulation combining those these two those two two step and use a simple step.
-How it is possible?
-Now, first let us I have a speech signal M number of there is a speech signal there is a sample the lot of sample.

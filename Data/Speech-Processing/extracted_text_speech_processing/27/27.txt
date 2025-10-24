@@ -1,2 +1,0 @@
-with a fixed frequency frequency frequency band and each band pass filter is shifted to a particular frequency.
-So, what I am doing if this is my frequency scale I designed a band pass filter one this one second one will be here third one will be here fourth one will be here how do I do that each bandwidth is 2 pi by n. So, this is nothing, but a shifted to

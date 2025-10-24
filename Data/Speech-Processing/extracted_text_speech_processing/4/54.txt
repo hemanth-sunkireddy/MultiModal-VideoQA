@@ -1,5 +1,0 @@
-I require 3 bit this is equal to 3, 3 bit I require.
-So, I can see the 3 bit I can generate 7 number.
-Now, to do this odd and even distribution what I do that access the signal in bit reversible format.
-When you access the signal the index term reverse the bit, if it is 10 bit reverse the bit.
-So, what I will do I reverse the bit.

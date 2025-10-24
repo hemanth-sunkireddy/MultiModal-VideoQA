@@ -1,2 +1,0 @@
-previous iteration alpha value of previous iteration z to the power minus k minus z to the power minus k minus k i into z to the power minus i this is i minus 1.
-So, I can say k equal to 1 to i I can say k equal to 1 to i minus 1.

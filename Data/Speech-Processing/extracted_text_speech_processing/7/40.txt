@@ -1,5 +1,0 @@
-all the consonant can be described.
-It can be consist of two symbols or it can consist of single symbol and with diacritics marks which explain whether the aspiration is present or not.
-This aspiration, if this H has two varieties, if it is simple H then it is called unvoiced aspiration.
-If it is a voiced aspiration then I have to use the symbol of voice applicative.
-Okay.

@@ -1,5 +1,0 @@
-1.
-So, 1 minus 1 is equal to 0.
-If the sign is changed then only I want one count.
-So, I can write down a function that Z n less than 0 crossing count of 0 crossing is nothing, but a change of sign S n g of x.
-So, sample 1 so that means, x of n plus 1 or if I write

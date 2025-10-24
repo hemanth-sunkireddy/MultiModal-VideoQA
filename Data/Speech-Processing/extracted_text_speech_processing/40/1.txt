@@ -1,2 +1,0 @@
-So, there is a state of art statistical model if you see, this is the block diagram of a state of art statistical model.
-So, in here what we want in speech recognition the problem in ASR is that.

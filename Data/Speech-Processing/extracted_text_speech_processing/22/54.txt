@@ -1,3 +1,0 @@
-So, instead of writing phi i k, I am now writing in autocorrelation.
-This method is called autocorrelation methods based LPC coefficient analysis.
-So, next class I will try to derive those three Levinson-Dikerson equation by which this matrix can be solved using this type of autocorrelation value.

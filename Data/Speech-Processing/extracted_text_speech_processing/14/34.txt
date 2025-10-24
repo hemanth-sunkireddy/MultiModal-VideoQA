@@ -1,6 +1,0 @@
-Now, if you see that this diagram there is a n minus 1 symmetry junction.
-So, this is 1, 2 and this is n minus 1.
-Here junction is not symmetry in R L cases only problem is that there is a no backward wave in here.
-Let us I put a backward wave with 0.
-So, there will be a I can put a backward wave here which is nothing but a 0.
-So, it is 1 minus R n

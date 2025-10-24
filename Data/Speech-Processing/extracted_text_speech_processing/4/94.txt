@@ -1,4 +1,0 @@
-and then I can implement it in time domain.
-So, if you see the book there is a different so different window has different type of transition bandwidth and peak side lobe.
-So, this is the ripple in peak side lobe and this is the transition bandwidth.
-So, if I rectangular filter the order of the filter is m then transition bandwidth delta is nothing but a 4 pi by m. So, m is the

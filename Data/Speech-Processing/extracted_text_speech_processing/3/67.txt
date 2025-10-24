@@ -1,2 +1,0 @@
-this is my system this can be a system.
-So, I can write down the system this is my x n input and I can say that x n n minus 1 let us it is n minus 1 plus let us c 1 into x n. So, I can say this is multiplied by c 1 added with a delay sample z to the power minus 1.

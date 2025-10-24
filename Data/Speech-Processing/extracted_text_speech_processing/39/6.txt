@@ -1,4 +1,0 @@
-W of 4 may form a sentence, may be some sentence I can say that open this folder or I can say open.
-So, either it may be single word or it may be string of words.
-So, that should understand by the machine that is ASR.
-Now, application of ASR there are several application challenge that most common application if you see in your mobile phone there is an ASR if you say home then it will dial home.

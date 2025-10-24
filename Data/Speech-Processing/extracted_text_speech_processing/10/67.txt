@@ -1,3 +1,0 @@
-second.
-So, that I know this is the frequency response for the uniform tube model with without considering any kinds of loss or any the walls is rigid wall not variable wall means walls is rigid.
-So, next lecture I will discuss how this response will be effected if I consider one loss.

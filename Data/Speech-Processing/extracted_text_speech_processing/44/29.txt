@@ -1,3 +1,0 @@
-there is a timing occurrence of the phase command timing and if you see the action command there is a beginning and end command beginning and command end.
-So, we generate some rule for that some paper is published based on that and then we generate those rule using that Fujisaki model and using those rule we synthesize that generate the F 0 contour.
-So, then we synthesize the speech I will show you the result in later on and dB n.

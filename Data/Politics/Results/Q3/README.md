@@ -1,0 +1,1 @@
+Q. Explain about Hindi swaraj or Indian Home Rule?

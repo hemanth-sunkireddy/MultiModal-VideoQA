@@ -1,4 +1,0 @@
-this is nothing, but a convolution.
-So, what I am doing a signal is multiplied by a window.
-So, time domain multiplication frequency domain convolution that means, this is nothing, but a convolution of frequency response of the window and the signal frequency response.
-So, what is meaning suppose if I have a window of rectangular window.

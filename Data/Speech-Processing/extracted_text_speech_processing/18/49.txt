@@ -1,4 +1,0 @@
-So, dynamics of the speech signal is changed.
-So, I can say 20 millisecond is also the parameter from the 20 millisecond is also in some kind of parameter we can get and from long interval also we can get some kind of parameter which is also important for speech processing.
-So, temporal structure is very important for.
-So, I can say that speech contain both kind of information not only the segmental information supra segmental information.

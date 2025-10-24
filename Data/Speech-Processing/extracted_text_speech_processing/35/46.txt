@@ -1,7 +1,0 @@
-that means, if this is my signal this is my signal first coefficient is nothing, but a product of the all sample.
-So, this is this sample this sample this this sample multiply by this sample.
-So, I get the maximum value next time I shifted this signal by one sample in here.
-So, instead of this signal my signal will start from here.
-So, I take this sample with 0 and I will take this sample with 0.
-So, this is the signal I am getting.
-So,

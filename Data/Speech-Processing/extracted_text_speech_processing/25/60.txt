@@ -1,6 +1,0 @@
-Now, I give you the problem.
-The problem is here.
-Can I estimate this area function from the speech signal?
-I want to estimate that suppose I produce R. I want to how the area function is changing during the production of R. So, how this area function is changing?
-Let this tube is modeled.
-So, if it is a pth order LPC analysis, so I can say

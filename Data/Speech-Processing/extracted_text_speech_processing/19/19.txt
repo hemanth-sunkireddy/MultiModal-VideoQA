@@ -1,6 +1,0 @@
-and some part of the consonant.
-So, I lose the transitory part.
-So, instead of 100 millisecond, so if I small amount signal processing problem, large amount signal I lose the time resolution.
-So, what I want?
-I want a optimum length of the window, so that it does not effect so much.
-So, I can say let us 20 to 25 millisecond of window if I take, then one transitory period roughly 40 millisecond.

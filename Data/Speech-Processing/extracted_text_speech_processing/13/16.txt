@@ -1,3 +1,0 @@
-So, the volume velocity this point is the volume velocity which is injected in the second tube and the volume backward volume velocity in the kth tube is nothing, but a volume velocity which is injected due to the backward wave.
-So, I have to find out the expression of the forward wave of the kth plus 1 tube and backward wave at the kth tube.
-If I able to find out these two expression then I know.

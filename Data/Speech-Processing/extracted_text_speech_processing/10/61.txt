@@ -1,5 +1,0 @@
-17.5 centimeter.
-So, L is equal to 17.5 centimeter.
-What is C?
-Velocity of sound, velocity of sound is 35 centimeter per second.
-So, I can say F is equal to 35000 divided by 4 into 17.5 which is equal to 500 Hertz.

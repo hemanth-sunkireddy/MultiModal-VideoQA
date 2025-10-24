@@ -1,5 +1,0 @@
-same things consider this is H and this is X.
-So, I can say this H is convolved or you can say the X property of X is convolved with H T. So, what I said that H has to be shifted a folded.
-So, Y T is means H has to be folded first, folding then shifting T equal to 0, then product and sum this sample product with this sample.
-So, this is the product.
-So, this is the product.

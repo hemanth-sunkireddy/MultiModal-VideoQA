@@ -1,2 +1,0 @@
-I will open a speech signal in this spectrogram and time domain speech signal, then try to find out what kind of signal it is, whether it is a tau, whether it is a dou, whether it is a dou, whether it is a pau, whether it is a va, we want to classify it.
-So, thank you.

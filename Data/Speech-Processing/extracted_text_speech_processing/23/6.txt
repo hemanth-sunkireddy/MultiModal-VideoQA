@@ -1,3 +1,0 @@
-optimum solution or pth iteration give me the optimum solution.
-So, in Levinson recursion I said we can say that I can predict the current I value or current this this matrix equation current current value from the previous or ith order solution.
-So, what is the I minus I minus 1 th order solution R n.

@@ -1,4 +1,0 @@
-I may take 20 millisecond window, but I slide the window let us 50 percent overlap.
-So, effectively 10 millisecond sheet.
-So, I can say frame rate in here is in 1 second then I get 100 frames.
-So, if it is frame rate is FR, then I can say that if it is 10 millisecond sliding of the window, I take the window 20 millisecond.

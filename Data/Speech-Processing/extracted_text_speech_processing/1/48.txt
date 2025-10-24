@@ -1,6 +1,0 @@
-in the speech or you can say that I have generated the acoustic wave from my mouth.
-Now, suppose this acoustic wave I want to transmit from this point to this point and these two points are far away where this acoustic signal cannot reach here.
-Have you understand?
-Suppose, I am speaking in this room, the persons who are sitting in this room can be audible.
-But suppose you are sitting in your home, you want to listen the same acoustic wave.
-So, I have to take the help of

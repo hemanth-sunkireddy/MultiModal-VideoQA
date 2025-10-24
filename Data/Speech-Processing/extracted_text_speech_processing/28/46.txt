@@ -1,4 +1,0 @@
-then I shifted the signal that way then take another window from here to here.
-So, if it is 10 millisecond is shifting, so this is 10 millisecond, so again 10 to, so this is 10 millisecond, this is 20 millisecond.
-So, I can first window is 0 to 20 millisecond.
-So, first window, first frame, frame 1 0 to 20 millisecond, second frame 10 to 30 millisecond.

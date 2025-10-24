@@ -1,2 +1,0 @@
-matrix.
-So, I can say R n 0 R n 1 dot dot dot dot R n p minus 1 this side R n 1 dot dot dot dot R n p minus 1 R n 0 dot dot dot R n.

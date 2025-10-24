@@ -1,4 +1,0 @@
-So, I can say m or I can write clearly b i minus 1 m minus 1 because z to the power minus 1 is there.
-So, b j b i minus 1 b i minus 1 m one sample delay b i minus m minus 1 sample delay m minus 1.
-So, this is the forward prediction error.
-Similarly, if you said b i z if it is b i z b i z is equal to

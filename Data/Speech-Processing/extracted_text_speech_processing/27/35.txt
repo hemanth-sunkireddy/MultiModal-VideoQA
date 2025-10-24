@@ -1,4 +1,0 @@
-then we exactly recover the signal that we will discuss which is called synthesis.
-So, l STFT analysis this is the STFT analysis part synthesis part I will discuss in the next class.
-So, there is a some property if you find any book there is a some property of the STFT analysis I am not reading the slides you can read the slides better.
-Now, come to the another things which is called time frequency.

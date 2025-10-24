@@ -1,5 +1,0 @@
-So, those are the problem in speech recognition.
-There is other problem also human physiological change.
-Suppose today I say some word then I got coal and cup and I say the same sentence, but the acoustic signal will be different because there is a physiological change in happens in here.
-So, there will be different.
-Similarly, the words spoken by a male voice and female voice.

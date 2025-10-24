@@ -1,2 +1,0 @@
-So, z to the power half z, so z 2 z divided by 1 plus R g into 1 minus R g, this will be 1 by 1 plus R 1 into 1 plus R 2, then I can matrix multiply this in this one.
-So, this one is 1 plus R 1 R 2 z to the power minus 1, 1 minus R 1 z to the power minus 1.

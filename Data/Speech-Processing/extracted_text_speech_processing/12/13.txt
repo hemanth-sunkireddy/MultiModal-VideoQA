@@ -1,4 +1,0 @@
-is the complete model.
-Now, putting these two boundary condition, try to simulate this single tube vocal cord model.
-So, if I say this vocal track, if I say this is my input volume velocity.
-So, there will be output volume velocity, this is the there is a this is u you can say that this is u t u t.

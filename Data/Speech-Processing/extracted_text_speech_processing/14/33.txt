@@ -1,2 +1,0 @@
-1, I can say is nothing but a R 1 R 2 R 3 dot dot dot R n into u n minus 1 sorry u n plus 1.
-I can write k varies from 1 to n let us if it is k varies from 1 to n u 1 is nothing but a R 1 R 2 R 3 dot dot dot R n into u n plus 1.

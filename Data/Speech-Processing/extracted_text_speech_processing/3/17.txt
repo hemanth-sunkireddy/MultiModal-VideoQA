@@ -1,4 +1,0 @@
-this is radian per second, this is radian per sample.
-Next concept is complex signal.
-A complex it is known everybody knows that complex signal, however, is a vector everybody knows a complex vector or complex signal has an amplitude and has an phase.
-So, I can say if I A plus j B is a complex number, it can be written as r e to the power j theta.

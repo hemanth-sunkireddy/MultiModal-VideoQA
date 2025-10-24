@@ -1,2 +1,0 @@
-So, we have derived this two equation ok.
-So, forward error i th order forward error is nothing but the previous one minus previous backward error multiplied by the

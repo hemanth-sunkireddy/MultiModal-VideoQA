@@ -1,6 +1,0 @@
-HMM model.
-I will show you HMM based speech synthesis where pause and duration are within the when you train the system that is model.
-And also F 0 somewhat it is model, but F 0 also not model correctly.
-I will show you that what is the problem there and how can it can be overcome.
-So, this is pause.
-Now, come to the F 0 which is very important parameter because if you see the F 0.

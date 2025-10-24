@@ -1,3 +1,0 @@
-So, that means that if I know the previous n number of sample, some linear combination of those previous n number of sample will provide me the current sample.
-So, suppose I know previous 3 sample, I know some set of combination of this previous 3 sample will provide me the current sample.
-So, some set of previous sample will provide me the current

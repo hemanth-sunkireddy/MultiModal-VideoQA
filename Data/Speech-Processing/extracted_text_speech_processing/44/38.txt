@@ -1,2 +1,0 @@
-So, I have to extract those linguistic parameter which parameter has a correlation with the f 0 contour I have to find out that is all established you can see that the syntactic structures of the sentence is important and if you see that pause modeling although in HTS engine cases pause modeling is not separate it is within the training there, but yes we can definitely train the system better way if we know when the pause will occur how the pause is related with syntactic structure.
-So, that information can be incorporated in HTS training.

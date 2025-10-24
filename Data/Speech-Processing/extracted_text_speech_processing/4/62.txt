@@ -1,5 +1,0 @@
-So, once I increase the time domain resolution, my frequency domain resolution is decreasing.
-So, if I take long signal, I time domain resolution is losing.
-If I take small signal, frequency resolution is losing.
-So, this is the limitation of Fourier transform.
-That is why people are use more number of other number of transform like wavelet, EMD all kind of things is used.

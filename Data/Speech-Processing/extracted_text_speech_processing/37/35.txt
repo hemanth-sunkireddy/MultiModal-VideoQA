@@ -1,6 +1,0 @@
-and there will be a pronunciation of w 1.
-So, there will be a w 2 word, there will be a pronunciation of w 2 words.
-So, this is one kind of approach, this is called dictionary based approach, where I require the pronunciation dictionary of all the words, because I do not know which text will come in my input.
-So, all the words pronunciation dictionary is required, but you know the words list of words are infinite.
-You can say that there is a some kind of combined word.
-So, you can intelligently develop a root word dictionary.

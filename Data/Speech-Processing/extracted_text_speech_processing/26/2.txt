@@ -1,5 +1,0 @@
-So, in this whole week we discuss about the STFT.
-So, STFT we have the two dimension one is analysis another is synthesis view we will discuss and then do you discuss about that FT filtering view and that Fourier transform view and then synthesis by filter bank filter bank summation and OLA methods overlap add methods.
-So, all those things will be discussed during this week.
-So, what what is STFT?
-Why STFT come into the picture?

@@ -1,4 +1,0 @@
-H z has an impulse response or I can say H z in time domain it is nothing but H n. So, H n has an impulse response it can be finite or it can be infinite or non finite.
-So, if I say if it is infinite finite.
-So, if it can be finite or infinite.
-So, if I say that it has a finite impulse response then we said implementation is called FIR filter finite impulse response filter.

@@ -1,4 +1,0 @@
-dot dot dot dot plus a p s of n minus p. So, I can write S n minus a 1 s of n minus 1 plus a 2 s of n minus 2 dot dot dot dot a p s of n minus p is equal to 0.
-So, this is a single equation.
-How many unknown?
-a 1, a 2, a 3 up to a p. So, in a single equation,

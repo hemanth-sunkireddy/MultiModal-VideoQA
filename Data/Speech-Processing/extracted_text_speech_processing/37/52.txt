@@ -1,4 +1,0 @@
-dictionary for all exceptional cases.
-So, that is called hybrid approach.
-Then once I done that that text normalization and G 2 P let us I am not discussing about the text processing required for prosody modeling because for prosody modeling I will discuss in the next week the last week I will be details discuss about the prosody modeling of different languages English there is a prosody modeling.
-So, there is lot of prosody model available.

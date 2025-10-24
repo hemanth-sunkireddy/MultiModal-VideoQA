@@ -1,5 +1,0 @@
-So, what we have done we are consider the spectrum has to be passed through a homomorphic signal processing or what one kind of homomorphic signal processing we have done by which we can extract the envelope of the spectrum which is called septrum ok.
-Thank you.
-So, next class we will discuss about the MFCC ok.
-Thank you.
-Thank you.

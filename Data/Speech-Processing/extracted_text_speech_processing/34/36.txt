@@ -1,4 +1,0 @@
-So, it is a modulate relative spectral amplitude modulation filter of spectrum is equivalent to modulation filter of log spectrum.
-So, those are the modification of the frequency parameter.
-So, this is the all about that parameter extraction of the speech signal.
-Thank you.

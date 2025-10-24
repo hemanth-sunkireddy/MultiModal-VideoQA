@@ -1,3 +1,0 @@
-is nothing but a sum of n equal to 0 to n minus 1 x of n into e to the power minus j omega n k. So, how many number of complex multiplication is in here n cross n n cross n complex multiplication is there.
-Now, I want to reduce it I want to reduce this complex multiplication.
-So, that it can compute very faster.

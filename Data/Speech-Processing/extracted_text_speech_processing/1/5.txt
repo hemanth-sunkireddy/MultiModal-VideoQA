@@ -1,5 +1,0 @@
-the course.
-From the learner's perspective, as a learner of the course of digital speech processing, at the end of the whole course, you should able to do following this course objective.
-What is the course objective?
-First is categorize and label the different speech sound for a given speech signal based on the spectrographic view and time domain speech view.
-So, not all those things are written in the slides.

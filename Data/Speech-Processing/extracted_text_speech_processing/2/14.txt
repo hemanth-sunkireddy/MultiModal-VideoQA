@@ -1,4 +1,0 @@
-It is possible to recover the signal if it is greater than or equal to twice f m. Why it is greater than or not all time equal to?
-Because let us think about a pure sinusoidal wave.
-If it is a pure sinusoidal wave, if it is 2 f, if f s is equal to 2 f m, then all the sample will be here.
-So, I cannot recover the signal.

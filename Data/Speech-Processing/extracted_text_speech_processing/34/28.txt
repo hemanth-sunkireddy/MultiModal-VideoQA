@@ -1,5 +1,0 @@
-12 12 12 1 1 1.
-So, 36 plus 3 39 dimensional feature vector.
-So, MFCC feature vector with a 39 dimensional feature vector.
-So, this is called MFCC feature vector.
-Next is

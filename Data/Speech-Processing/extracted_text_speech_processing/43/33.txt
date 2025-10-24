@@ -1,3 +1,0 @@
-is nothing but a L minus L 0.
-Now, if it is half of b x, so if x is time dependent, I can write it is x t. So, I can say that f 0 contour or log f 0 contour when plotted in logarithmic scale as a function of time can be expressed in the sum of constant baseline.
-This is the constant and term and time varying term.

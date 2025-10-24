@@ -1,8 +1,0 @@
-We have taken part of a speech signal.
-Then what we have done?
-We have taken that if you remember the example, suppose I have a 16 kilohertz sample signal.
-I have recorded 3 second of my speech.
-Then I have 4800 sample in 3 second.
-So, I have not taken all sample at a time and done that STFT analysis, done the Fourier transform.
-Then it is very easy.
-I take whole signal at a time.

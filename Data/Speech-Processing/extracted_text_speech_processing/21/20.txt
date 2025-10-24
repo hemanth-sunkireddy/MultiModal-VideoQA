@@ -1,4 +1,0 @@
-I predicted the current sample which is S cap N. Now, what is the prediction error?
-If I know the current sample then S n minus predicted sample is my prediction error.
-So, S n minus S cap N is my prediction error.
-So, if I if I able to make that prediction error equal to 0 such that for the value of alpha k alpha value.

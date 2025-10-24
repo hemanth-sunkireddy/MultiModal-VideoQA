@@ -1,2 +1,0 @@
-to a system h, whatever output I will get this will be same if I apply two input individually.
-Let us put a factor a 1 and a 2, this a 1 x 1 n plus h of a 2 x 2 n. So, if it is support a superposition principle then I say the system is a linear system.

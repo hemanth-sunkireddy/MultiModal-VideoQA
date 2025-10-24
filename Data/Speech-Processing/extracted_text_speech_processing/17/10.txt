@@ -1,3 +1,0 @@
-So, now come to that we know that how human being perceive the sound, how human basilar membrane convert that mechanical motion to normal motion.
-Now, think about in engineering model we said so basilar membrane response maximally to different input frequency, frequency tuning occur at basilar moment.
-So, I can say that each of the tank circuit is responsible for a particular frequency band which is a constant Q filter.

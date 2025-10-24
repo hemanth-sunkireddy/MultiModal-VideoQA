@@ -1,5 +1,0 @@
-Also, number of quantization bit and also stereo or mono that I have not discussed details, but most cases in sound recording does in mono.
-Since, it is a single channel that I want to record the human voice.
-So, when you analyze your voice in computer, you should record the signal in mono format not stereo format.
-It is not required because there is no two source are there single source is speaking.
-So, it is mono is sufficient same things.

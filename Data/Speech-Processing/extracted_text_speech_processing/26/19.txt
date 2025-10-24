@@ -1,4 +1,0 @@
-then it is called time is short short time and if I do the Fourier analysis Fourier transform.
-So, this is called short time Fourier transform.
-So, I can say I frame by frame I take and analyze and I have to get back the same frame again if I take the inverse DFT.
-So, whatever modification I do in the spectral magnitude then again I take the inverse transform.

@@ -1,5 +1,0 @@
-I can go for the microphone selection.
-Suppose I want to record, I say you to record your name in your computer.
-So, how do you record it?
-You may use a headphone and connect it to the computer sound card and you record the sound.
-But once the human being produce the speech, its range is 20 hertz to 20 kilohertz.

@@ -1,6 +1,0 @@
-then how many sample will be there in 20 millisecond?
-In 1 second there will be a 16 k sample.
-So, in 1 millisecond 16 sample.
-So, 120 millisecond I can get 320 sample.
-So, there is a 320 sample in 20 millisecond.
-I have a take the first frame 0 to 320 and since I am multiplying a window function with amplitude 1.

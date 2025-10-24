@@ -1,6 +1,0 @@
-C 0 is nothing but a log of G square.
-What is G?
-G is called gain, model gain, LPC gain.
-During the LPC analysis, I have already discussed how to calculate the G for a given signal.
-So, if I know that G, C 0 is nothing but a log of G square.
-Then, I can say C m is equal to a m plus.

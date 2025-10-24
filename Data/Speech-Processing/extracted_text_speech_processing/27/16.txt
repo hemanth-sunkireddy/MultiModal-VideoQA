@@ -1,1 +1,0 @@
-say omega plus omega 0 modulation is done shifted to omega 0 origin omega origin has to be shifted to omega 0 once this is called modulation once this modulation done let us I have a filter which impulse response is w n but frequency response is like this this is the frequency response of the filter so it is nothing but a capital W omega ok

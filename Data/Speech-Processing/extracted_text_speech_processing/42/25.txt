@@ -1,5 +1,0 @@
-After every sentence, we know there is a pause in speech.
-And each sentence is consist of certain clause.
-After every clause, pause is mandatory.
-If this pause is more than 300 milliseconds, then I treated that clause is an utterance.
-Or if it is less than 300 milliseconds, then I can say those are not single utterance.

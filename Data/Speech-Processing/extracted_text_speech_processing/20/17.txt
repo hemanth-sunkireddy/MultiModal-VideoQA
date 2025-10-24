@@ -1,3 +1,0 @@
-So, I can say the zero crossing only happen if the signal value signal or sample sample sign in change positive to negative sign.
-So, every time when a previous sample if it is positive next sample is negative zero crossing occur.
-Previous sample is negative next sample is positive zero crossing occur.

@@ -1,1 +1,0 @@
-So, I can say whole frequency scale can be think about a some filter this is 0, this is 2 pi by n, this is 2 pi by n into 2, this is 2 pi by n into 3 so that way ok. Now if I say this is the number of DFT length is equal to n.

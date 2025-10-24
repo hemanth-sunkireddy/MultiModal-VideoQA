@@ -1,6 +1,0 @@
-So, if I suppose I have a long signal which is stationary signal.
-So, whether I take this portion or I take this portion or I take this portion, this portion, this portion or this portion, the signal property is remain same.
-In that case, I do not have any problem.
-Now, suppose the signal time is also changing.
-Along the time signal property is changing.
-So, if I say, if I take this portion of the signal 1024.

@@ -1,5 +1,0 @@
-I have done mistake, this is should be, this should be 2 pi by n w must be greater than equal to 2 pi by n. This is given in the slide.
-So, there may be a mistake in once I am writing in the book, board.
-So, time frequency sampling is there.
-Now, suppose I want to write down that overlap add method in algorithm.
-So, if you see, if you go through this slide, you can get the algorithm.

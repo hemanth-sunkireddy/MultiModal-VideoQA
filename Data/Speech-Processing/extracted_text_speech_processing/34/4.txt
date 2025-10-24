@@ -1,4 +1,0 @@
-So, if I calculate, if I take the DFT, n is equal to 512, then I can get x k. Once I get s k, I can take the mod of s k, which is nothing but a real square plus imaginary square.
-I can take it.
-Once I take it and then I want to plot it.
-So, this axis is my k axis and this axis is my mod of.

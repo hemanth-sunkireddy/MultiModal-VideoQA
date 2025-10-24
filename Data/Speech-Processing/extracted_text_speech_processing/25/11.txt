@@ -1,4 +1,0 @@
-signal which is Sz or I can say in time domain I can write Augn this is Hn and I get Sn.
-What is Hz?
-Hz is nothing but a gain either A or write G gain A or G I can write the gain as a G also.
-So, I write the G gain as a G.

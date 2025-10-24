@@ -1,2 +1,0 @@
-it cannot be any value at omega equal to 2 pi by k by L must be 0 ok.
-So, I does not it does not matter if omega c is greater than 2 pi by L then I have to ensure at every omega 2 pi by k 2 pi by L it should be 0.

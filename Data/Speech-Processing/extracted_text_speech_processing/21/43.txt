@@ -1,8 +1,0 @@
-this error is minimum.
-How to minimize the error?
-Let us take that you know that function minimization problem.
-So, minimize by setting what?
-I want to set d of e n by d alpha i is equal to 0.
-So, how do you minimize?
-I have to minimize the function.
-So, the first order differentiation with respect to for which value I for with respect to which value I minimize it?

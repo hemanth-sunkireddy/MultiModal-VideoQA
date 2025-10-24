@@ -1,7 +1,0 @@
-then I can say this angle is nothing but a theta.
-So, this is rotation.
-Now, if I translate it, then it is L plus x.
-If I move this direction, then it is L plus x.
-So, L is the length of the vocalic, x is the extension of elongation of vocalic, theta is the angular displacement of the thyroid.
-So, if I do the angular displacement, there also will be a length change.
-If I do the transformation,

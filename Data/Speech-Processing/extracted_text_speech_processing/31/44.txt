@@ -1,4 +1,0 @@
-So, we will discuss about the filter bank analysis.
-So, suppose for the other slides let us S n is my signal, speech signal recorded speech signal.
-So, let us I give you a real example let us I recorded my name and my name has consist of the signals of let us 1.5 second and that signal is recorded 16 kilo hertz.
-So, I can say in 1 second.

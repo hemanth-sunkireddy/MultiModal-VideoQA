@@ -1,6 +1,0 @@
-R n i minus j.
-Now, here I say i is equal to 1.
-So, j is equal to 1.
-So, if it is j is equal to 1, then i 1 minus 1 is 0.
-So, this will not executed.
-So, this R 1 divided by E n i minus 1 is 0.

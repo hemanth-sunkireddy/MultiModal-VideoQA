@@ -1,2 +1,0 @@
-So, if rotation give me the action component, then I can say G a t represent the action component with a multiply by a constant which actually contain the amplitude of the that component.
-So, if I see that the rotation angle theta t is varying like this, elongation will be delayed, then logarithm of f 0 also will be like varying like this.

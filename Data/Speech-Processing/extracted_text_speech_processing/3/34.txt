@@ -1,5 +1,0 @@
-that is called stationary and non stationary signal, but if it is time variant and time invariant system.
-So, if the system does not change its property over the time then I call it is a time invariant system.
-If it is change along with the time then I can say it is a time variant system.
-If I consider this vocal tract is a system along the time it change its construction.
-So, it is a time varying system.

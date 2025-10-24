@@ -1,4 +1,0 @@
-I will get 0, then 8 hertz, then 16 hertz, then 24 hertz, then let dot dot dot dot, then you have 48 hertz and then next one is 56 hertz.
-So, my resolution does not support the 50 hertz.
-So, the power, but the signal has only power at 50 hertz.
-So, if I make the DFT, so instead of looking like 50 hertz single spike.

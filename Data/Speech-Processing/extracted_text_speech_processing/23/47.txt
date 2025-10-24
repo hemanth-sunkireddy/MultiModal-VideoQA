@@ -1,4 +1,0 @@
-plot this in this frequency scale again shift it and plot it and that way you get the LPC spectrogram ok.
-So, the LPC spectrogram.
-Now, ok formant suppose that this I will discuss later on also I have discussed in that during the tube analysis that formant position r e to the power j theta.
-So, if the frequency of the formant frequency of the formant is given by f s by 2 pi.

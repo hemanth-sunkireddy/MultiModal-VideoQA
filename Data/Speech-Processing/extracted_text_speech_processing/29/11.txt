@@ -1,2 +1,0 @@
-then it is n k this is d f t. So, if I take the I d f t I will get back x n multiply by omega n minus n because I have taken the frequency transform of this signal only x n multiply by the omega n minus 1.
-So, I can say what I obtained f n which is nothing but a x n or you can say if it is I write m then it is m.

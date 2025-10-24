@@ -1,6 +1,0 @@
-for 2 tube.
-If I consider that my length of tube whole vocal cord is vocal track is simulated using 2 tube.
-So, if it is 2 tube, so n is equal to 2.
-If I put n equal to 2, then 1 by v z will become 2 by 1 plus R g will be same.
-This will be 1 minus R g will be there.
-So, there is no effect on here.

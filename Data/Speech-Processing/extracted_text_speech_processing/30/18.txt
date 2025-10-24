@@ -1,4 +1,0 @@
-f of m is equal to delta m and l is equal to 1, this satisfies.
-If f m is equal to delta m and l equal to, so sample by sample recovery satisfies.
-So, FBS method, so this is, satisfy FBS method.
-So, generalize FBS method if.

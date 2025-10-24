@@ -1,8 +1,0 @@
-should modify the each input of the signal.
-So, that is why whole h k will modify the each input.
-So, this is convolution.
-How it is done?
-It has a operation or how many operation is involved?
-It is folding, shifting, multiplication and summation.
-If you look at this equation, this is nothing but a folding.
-So, if I say x n equal to y equal to 0, then it is nothing but a h k.

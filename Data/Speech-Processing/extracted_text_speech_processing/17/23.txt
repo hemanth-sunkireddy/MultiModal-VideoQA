@@ -1,5 +1,0 @@
-I have to know.
-How good an estimation of the fundamental frequency?
-So, in the frequency domain and intensity domain, there is a some parameter.
-Fundamental frequency, the resolving power is 0.3 to 0.5 percent.
-So, if I say my F 0 is 200 hertz and somebody's F 0 is

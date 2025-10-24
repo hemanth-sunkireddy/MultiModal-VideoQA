@@ -1,4 +1,0 @@
-again 320.
-So, 320 plus 160 again I said 320 to 320 plus 320 to 320.
-So, that way I have taken that window shifted the window with 50 percent overlap ok. Again I will come that later on briefly.
-So, STFT analysis.

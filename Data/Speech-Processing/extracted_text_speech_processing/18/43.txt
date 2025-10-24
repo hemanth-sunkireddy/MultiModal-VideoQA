@@ -1,3 +1,0 @@
-Then physically I am doing is ok that I can extract the physical frequency, but how human being perceive that is important also to incorporate.
-So, if I want to incorporate that then all this frequency scale of the signal must be non-linear which is logarithmic scale either in male scale or bulk scale.
-Then spectral amplitude, dynamic range, timber is an important parameter.

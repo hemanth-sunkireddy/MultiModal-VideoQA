@@ -1,4 +1,0 @@
-If I synthesize F 0 contour is embedded on the original speech, if you see how all the synthesis speech is like this.
-So, there is no difference between the synthesized contour and the original contour.
-So, I can say that quality wise that it is possible to analyze and then synthesize using the F 0 modeling.
-So, this we have tried for Bengali in many reason and then what we have done.

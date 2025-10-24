@@ -1,4 +1,0 @@
-Other is called STFTM synthesis.
-To avoid speech synchronous problem, use only the magnitude spectra of the frame.
-From the magnitude spectra, it is possible to synthesize the speech signal.
-So compute x of n L omega at appropriate frame interval or dissemination rate and appropriate window length.

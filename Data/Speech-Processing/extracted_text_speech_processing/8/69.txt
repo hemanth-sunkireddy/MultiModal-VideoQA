@@ -1,6 +1,0 @@
-This is frequency analysis.
-So, I say instead of linear view, I can make it log view.
-Now, if you see this is the frequency representation and this is the dB in power, power of the particular frequency.
-Now, if you see this, let us scan it with little bit of high things.
-So, if you see this is the fast peak.
-So, fast peak may be

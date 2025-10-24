@@ -1,0 +1,17 @@
+filename,timestamp,sentence
+2.srt,00:18:40.980 --> 00:18:46.400,"So, in this case only discrete cosine transform what we will be looking at"
+2.srt,00:18:49.780 --> 00:18:54.670,8.1 ddct implementation in using code composer studio we can implement
+52.srt,00:00:01.219 --> 00:00:25.589,Welcome back to real time digital signal processing course
+48.srt,00:00:30.910 --> 00:00:37.750,"So, how we can implement using both MATLAB and then the DSP processor what we will be looking at it"
+48.srt,00:00:26.300 --> 00:00:30.519,"So, before giving the demo, so we will have little on the theory part of it"
+48.srt,00:03:58.409 --> 00:04:04.229,"So, that is joint program extend group actually what it is"
+48.srt,00:04:04.559 --> 00:04:08.739,"So, here what are the steps involved in it"
+49.srt,00:00:28.629 --> 00:00:33.649,So we will continue in today's class also
+49.srt,00:00:35.679 --> 00:00:46.670,"So, in the last class we discussed about discrete cosine transform where it is being used we know that it is in JPEG compression"
+51.srt,00:00:00.340 --> 00:00:25.760,"Namaste, welcome back to real time digital signal processing course"
+51.srt,00:00:34.629 --> 00:00:37.729,"So, today we will continue discrete cosine transform"
+52.srt,00:04:31.389 --> 00:04:39.600,"So, the we know that this is how we have introduced our DCT that is discrete cosine transform"
+52.srt,00:04:40.129 --> 00:04:43.620,"So, we know that it is going to store the cosine waves"
+52.srt,00:04:43.939 --> 00:04:49.599,them to a set of coefficients what we have given the values here
+57.srt,00:56:36.579 --> 00:56:43.229,"So, how the DC value is going to be maximum in case of discrete cosine transform"
+57.srt,00:56:28.239 --> 00:56:36.349,And then where are the low frequencies present and medium and then high frequencies

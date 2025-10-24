@@ -1,3 +1,0 @@
-Now, if I consider that the tube the wall which I suppose to be rigid, if this wall is not rigid, this wall can flexible, this wall can modify if pressure is high, if there is a pressure wall can change.
-So, what is happening instead of cross sectional area A is fixed.
-Now, A is also function of

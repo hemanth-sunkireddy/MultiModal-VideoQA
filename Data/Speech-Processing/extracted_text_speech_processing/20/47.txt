@@ -1,4 +1,0 @@
-So, that is auto correlation parameter for time domain processing.
-Details again I will discuss during the F 0 extraction.
-Next is called average magnitude difference function A M D F. Instead of taking the multiplication of the signal, I just take the mod, magnitude difference mod, mod of the magnitude difference.
-So, suppose I have a X 1 take the

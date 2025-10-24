@@ -1,5 +1,0 @@
-for every 10 millisecond I get a if it is fundamental frequency then also for 10 millisecond I get one pitch parameter.
-So, it may contain average of 3 or 4 pitch period inside the 10 millisecond may be 3 or 4 to 5 pitch period is there if it is female voice.
-So, now we are framing the speech signal and shifting the window by 10 millisecond.
-So, this is the example if this is written here.
-So, this is the interval.

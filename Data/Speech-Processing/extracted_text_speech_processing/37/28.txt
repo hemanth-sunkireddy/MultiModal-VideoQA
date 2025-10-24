@@ -1,4 +1,0 @@
-tagged using SSML, then it is very easy to synthesize that text when it pass through the synthesizer.
-So, SSML mainly designed to tag your input text such a way that it can take by a synthesizer engine and process that text because the text is structured and it is processed it can produce the better synthesized speech.
-So, SSML there is a lot of tag sets are there.
-So, if you there is a study is available you can go through the W3C SSML you get a lot of document and that document content what are the tag sets are there.

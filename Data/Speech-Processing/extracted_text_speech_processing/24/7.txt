@@ -1,4 +1,0 @@
-this S m sample ok.
-So, using this previous i sample I want to predict this S m sample ok.
-So, if I do that then it is called forward prediction I can say it is a forward prediction.
-Similarly I can predict let this S m minus 1 sample this sample based on that P.

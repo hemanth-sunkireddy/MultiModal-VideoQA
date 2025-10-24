@@ -1,5 +1,0 @@
-that action conversion.
-So, my proposal is that can I not modify the F 0 contour and segmental information based on that target language action using some DNN or deep neural network or some rule base method.
-So, we have not yet done that we have started that work.
-So, it is possible that action conversion can be done using the because it is ultra ultra all HTS synthesis is nothing but a V coder.
-So, using the same principle.

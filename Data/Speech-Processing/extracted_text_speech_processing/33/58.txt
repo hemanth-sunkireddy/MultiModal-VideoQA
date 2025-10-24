@@ -1,5 +1,0 @@
-And instead of DFT, what I will do?
-I will pass instead of DFT, this IDFT can be replaced by a DCT, discrete cosine transform.
-IDFT can be replaced by a DCT.
-So, this DCT equation is this.
-So, S cap M or L whatever will cos pi by L.

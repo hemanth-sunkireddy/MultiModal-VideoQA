@@ -1,4 +1,0 @@
-Next challenge issue is that due to the band limitation.
-If you remember in telephone speech, we say telephone speech is 300 hertz to 3.5 kilohertz or 4 kilohertz.
-If it is that, so below 300 hertz no signal, no component.
-So, suppose I am speaking over the telephone, my fundamental frequency is 180 hertz.

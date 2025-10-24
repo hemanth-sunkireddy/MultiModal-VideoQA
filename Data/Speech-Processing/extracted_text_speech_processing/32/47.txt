@@ -1,4 +1,0 @@
-Then, this filtering called liftering.
-Then, you can discuss the homomorphic filtering.
-So, if log x omega, then I can pass through a, so in view of the time signal, I can low pass pass the low pass filter and I can find out the slowly varying component.
-So, I can say I am not going details of that filtering technique of here.

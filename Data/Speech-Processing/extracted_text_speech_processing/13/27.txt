@@ -1,2 +1,0 @@
-minus u k minus t plus tau k which is equal to the volume velocity input of the k plus 1 t. So, it is nothing but a u k plus 1 plus t minus u k plus 1 minus is it ok or not.
-Second one is that output pressure of the kth tube will be equivalent to the input pressure of the k plus 1 tube.

@@ -1,3 +1,0 @@
-So, output is nothing but a 0.5 x of n plus 0.9 x of n minus 1.
-Now, let us this is my y n. So, y n is nothing but a this plus there is a y n minus 1.
-So, I can take one input from here and then z to the power minus 1 delay apply and added with it with a multiplication factor.

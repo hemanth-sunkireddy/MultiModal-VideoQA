@@ -1,1 +1,0 @@
-shown that this constant is satisfied for all finite bandwidth analysis windows whose maximum frequency is 2 pi by m. This is possible when if I take the, this is my analysis window and this is omega c, omega c. So, this omega c frequency whose maximum frequency

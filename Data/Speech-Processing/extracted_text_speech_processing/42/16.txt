@@ -1,4 +1,0 @@
-then I found there will be a movement of the fundamental frequency.
-And the fundamental frequency is not continuous because in utterance there may be a non-voice region.
-So, if the speech signal is non-voice there will be no F 0 because F 0 is part of the vocal chord vibration.
-If the vocal chord vibration does not exist that means there is a no F 0, but if you if you if you remember if you see that F 0 contour throughout the sentence you find there is a movement of the F 0 continuous movement of the F 0 in a particular pattern.

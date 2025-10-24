@@ -1,2 +1,0 @@
-this is backward prediction error ok.
-If it is that then forward prediction error backward prediction error is ok. Now, think about the Levinson recursion what are the Levinson recursion said in Levinson recursion I am not explaining in the board it is written in the slides if you see step 1 it will be for 0 order predictor is nothing, but a r 0.

@@ -1,4 +1,0 @@
-phenomena is called frequency masking and this is utilized in speech coding to hide the coding, hide the noise.
-So, suppose the coding generate a noise, if the noise is within this limit then I can say this noise is not perceivable.
-So, to hide this noise frequency masking is much more useful.
-I am not going details about the frequency masking, there is a lot of details on frequency masking.

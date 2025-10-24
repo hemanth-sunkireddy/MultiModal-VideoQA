@@ -1,4 +1,0 @@
-if the range is within this limit.
-Intensity 1.5 dB overall, if it is 50 dB and if it is less 51.5 dB, no difference.
-For a same frequency, if the two 50 dB and 51.5 dB, we cannot perceive the differences.
-Now, I come to the physical dimension of the sound.

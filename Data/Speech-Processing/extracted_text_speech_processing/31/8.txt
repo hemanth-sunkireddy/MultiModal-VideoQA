@@ -1,5 +1,0 @@
-and those property actually represent the speech signal.
-So, reason for feature extraction redundancy if I say if I compare sample by sample there may be many sample which does not required to represent the signal.
-So, I can say like that suppose if you say the extract some features by which you can remember me.
-So, actually you are not remembering my each and every.
-So, suppose I show you my image.

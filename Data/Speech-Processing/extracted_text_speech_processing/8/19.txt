@@ -1,7 +1,0 @@
-There is a lot of noise is there that is why upside frequency are present.
-So, if I forgot the noise, if I consider only this portion is a silence portion.
-Let us try do the noise removal.
-There is this tool has provided the facility that I can remove the noise.
-So, there may be a 50 hertz noise in here.
-So, what I will do there is a provision for noise reduction analyze.
-Let us transform noise reduction the subtraction noise reduction

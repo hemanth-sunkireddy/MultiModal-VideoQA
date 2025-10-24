@@ -1,2 +1,0 @@
-speech ok. Now, let machine learn this or machine store this then I said speech then that acoustic output has to be matched with this acoustic what that machine has already stored acoustic signal and if the signal is matched then I say I said speech ok.
-So, speech that word is stored.

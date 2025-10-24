@@ -1,5 +1,0 @@
-let us F s and the cycle that fundamental frequency of what this signal frequency is F 0.
-So, for every cycle it cross the 0 line 2 time.
-So, sampling rate F s. So, if how many cycles are there in per sample?
-So, F s samples are there by F 0 sample per cycle.
-So, for every cycle.

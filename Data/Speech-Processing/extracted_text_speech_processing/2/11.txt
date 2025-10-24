@@ -1,3 +1,0 @@
-delta t. So, n delta t. So, n 0 that means here, 1 means here, 2 means here, 3 means here, 4 means here, 5 means here.
-So, if I think about the frequency representation of this delta t, 1 by delta t is the frequency.
-What is the frequency of operation of this switch with the frequency is 1 by delta t.

@@ -1,5 +1,0 @@
-or you can say the R k value plot is decaying.
-So, it is nothing but a like this way, this way, this way, this way, this way, this way, then this is going down and almost 0.
-So, I cannot get the first peak and second peak are not equal, it is down.
-So, detection of peak is very difficult, sometime may be erroneous also.
-So, how do I

@@ -1,4 +1,0 @@
-plus rho c by a k plus 1.
-If I evaluate it, it is nothing but a a k plus 1 minus a k divided by a k plus 1 plus a k or not.
-So, this is called that is why R k is called reflection coefficient.
-It is nothing but a cross sectional area of k plus 1 tube.

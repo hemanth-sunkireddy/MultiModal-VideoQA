@@ -1,3 +1,0 @@
-is less than equal to NWO.
-So, length or I guess a dissemination of time or shifting of the window is less than the length of the analysis window and the number of channel if it is N then the distance between the two channel which is 2 pi by N must be less than equal to the bandwidth of the analysis window.
-So, this is the two.

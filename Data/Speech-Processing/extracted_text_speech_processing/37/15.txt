@@ -1,3 +1,0 @@
-text may contain abbreviation number or suppose 2 by 3 Lalin-Soronyi then it should be pronounced as 2 by 3.
-So, all kind of number abbreviation will be there in the text and that text has to be normalized first normalization.
-So, that is a TTS this is called text normalization text has to be normalized first.

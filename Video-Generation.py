@@ -4,10 +4,10 @@ import csv
 from moviepy.editor import VideoFileClip, concatenate_videoclips, ColorClip
 
 # Set paths
-VIDEO_DIR = "Data/Machine-Learning/Videos"  # folder containing video files like 1.mp4, 10.mp4 etc.
-FINAL_VIDEO_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.mp4"
-FINAL_SRT_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.srt"
-INPUT_CSV_FILE = "Data/Machine-Learning/Results/Q3/medium-answer.csv"
+VIDEO_DIR = "Data/Speech-Processing/Videos"  # folder containing video files like 1.mp4, 10.mp4 etc.
+FINAL_VIDEO_FILE = "Data/Speech-Processing/Results/Q2/short-answer.mp4"
+FINAL_SRT_FILE = "Data/Speech-Processing/Results/Q2/short-answer.srt"
+INPUT_CSV_FILE = "Data/Speech-Processing/Results/Q2/short-answer.csv"
 
 def format_srt_timestamp(seconds):
     td = datetime.timedelta(seconds=seconds)
@@ -33,7 +33,12 @@ def create_continuous_srt(clips_info, output_filename=FINAL_SRT_FILE, transition
 
 
 def parse_timestamp(timestamp_str):
-    start, end = timestamp_str.split("--> ")
+    if "-->" in timestamp_str:
+        start, end = timestamp_str.split("-->")
+    elif "->" in timestamp_str:
+        start, end = timestamp_str.split("->")
+    else:
+        raise ValueError(f"Invalid timestamp format: {timestamp_str}")
     return start.strip(), end.strip()
 
 

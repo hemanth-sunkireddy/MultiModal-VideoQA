@@ -1,6 +1,0 @@
-frequency domain representation of nth window.
-Now, if I take the IDFT, I get the time domain signal.
-So, let us time domain signal is yn, then yn is equal to inverse Fourier transform of xnk.
-So, I can say 1 by n or I guess yn.
-So, in inverse Fourier transform, what should I get?
-Instead of yn, I can write

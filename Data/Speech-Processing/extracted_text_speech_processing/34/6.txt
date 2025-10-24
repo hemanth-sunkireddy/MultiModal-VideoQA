@@ -1,5 +1,0 @@
-up to n by 2.
-Now, I am calculating them, I want to implement the male filter.
-So, based on the male scale, let us design the initial filter bandwidth is 100 hertz.
-Let us design 100 hertz and center frequency is 50 hertz.
-So, I can say this is 50 hertz, this is 50 hertz and this is 50 hertz.

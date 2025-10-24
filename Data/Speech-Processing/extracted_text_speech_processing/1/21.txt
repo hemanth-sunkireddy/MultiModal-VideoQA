@@ -1,5 +1,0 @@
-Earlier a CD can contain 7 to 10 songs if it is stored in original format.
-Now think about MP3, a compression technique, speech coding compression technique.
-MP3, I can compress 160 songs in single CD.
-So, speech coding is also another aspect.
-So, while I doing the speech based any kinds of application, the first thing is that I have to know the speech, what the scientific aspects of the speech.

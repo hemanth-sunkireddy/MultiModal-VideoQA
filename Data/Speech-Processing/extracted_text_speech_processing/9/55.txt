@@ -1,3 +1,0 @@
-V to the equal to 0.
-So, V to the power gamma into del P by del T plus rho gamma into P into V minus 1 into V V V to the power gamma del V by del x is equal to 0.
-So, this V

@@ -1,0 +1,1 @@
+Q. Explain about Speech Coding? And Different types of Speech Coding?

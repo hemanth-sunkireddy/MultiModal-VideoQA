@@ -1,1 +1,0 @@
-excitation source is nothing but a impulse, then I want a speech or signal processing methodology by which I can separate h k from the product of h k into e k. So, what I can do is, if you see if it is a product, if I take the log,

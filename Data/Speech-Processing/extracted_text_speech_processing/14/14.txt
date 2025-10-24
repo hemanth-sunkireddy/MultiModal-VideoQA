@@ -1,5 +1,0 @@
-using a signal flow diagram I can derived it.
-So, let us there is a procedure for derived it.
-So, let us use some procedure or some simplest this may be the simplest form procedure for derive your transfer function of v z which is nothing but u l z divided by u j z.
-How do we derived it?
-If I consider each one of the junction is acts as a latex if you see the symmetrical this is r 1 this is r 2 this is r n minus 1, but all are symmetrical.

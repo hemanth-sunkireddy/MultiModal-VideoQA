@@ -1,8 +1,0 @@
-is multiplied by the m 0.
-What is the m 0 coefficient?
-It is 0.
-Then, I can find out k equal to 1, then k equal to 2 and then k equal to 3.
-So, all those 3 will be multiplied by the m function.
-So, m is called filter weight function.
-So, that filter weight function multiplied by the individual power, then I take the sum, I get the point, this point.
-Next, I design another filter with 50 percent overlap.

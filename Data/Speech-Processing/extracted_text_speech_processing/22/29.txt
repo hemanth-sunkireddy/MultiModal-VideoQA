@@ -1,4 +1,0 @@
-it will be negative error.
-So, error will be maximum at this point also.
-So, if I see the error error plot it is started from 0 E 0 and I get E L plus P minus 1 because I have to go P sample this side also.
-So, my order of the my error error error length is E L plus P minus 1 because L minus 1 is.

@@ -1,2 +1,0 @@
-if the bandwidth is b, so there will be a b at every 2 pi by n modulation as we already explained in DFT filter view.
-Now, if I say if this is my bandwidth, this is my bandwidth, so distance between this two is 2 pi by n. If the bandwidth is less than the 2 pi by n,

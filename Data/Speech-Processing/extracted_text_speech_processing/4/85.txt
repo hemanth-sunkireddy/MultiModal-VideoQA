@@ -1,5 +1,0 @@
-domain, multiply both and get the output and take the IDFT, get the input.
-So, these are the two implementations, either frequency domain implementation or time domain implementation.
-So, have you understand?
-Either I can implement the filter in time domain or I can implement the filter in frequency domain.
-Now, suppose I want to implement the filter in time domain or frequency domain or any domain when I want to implement.

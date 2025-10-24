@@ -1,4 +1,0 @@
-then from the equation I can draw the signal flow diagram for a single tube model considering two boundary conditions.
-Now, instead of a single tube if I consider that freeze production system is nothing but a multiple tube then what should be the transfer function and how do we implement it.
-So, next class we will start there.
-Thank you.

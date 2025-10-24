@@ -1,2 +1,0 @@
-which is nothing but a called F s sampling frequency F s. So, sampling theorem if you see if the there is a sampling theorem this is the sampling theorem which explain this slide I am not saying again and again.
-So, I can say if the sampling theorem say that it is possible to completely recover this signal from this sample signal there is a

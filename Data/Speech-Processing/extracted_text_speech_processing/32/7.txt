@@ -1,3 +1,0 @@
-this is h k this is nothing, but a multiplication of e k. So, if I take the DFT here discrete Fourier transform or if I represent the speech signal in frequency domain.
-So, this is nothing, but a product of spectral representation of vocal track with the spectral representation of source excitation source.
-So, if I say

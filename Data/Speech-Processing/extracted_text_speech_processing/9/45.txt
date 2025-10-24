@@ -1,6 +1,0 @@
-rho into del V by del t. This is the equation number 1.
-So, Newton's second law of motion.
-Now, I come to the gas law.
-What is gas law said?
-P V is equal to n R T. You know n is moles of air, R is gas constant, T is the temperature in Kelvin.
-That is the gas law, adiabatic gas law.

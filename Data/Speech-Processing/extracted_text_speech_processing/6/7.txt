@@ -1,5 +1,0 @@
-If you see look like this, so every peak is called formant.
-So all voice sound are characterized by those formants.
-So this is first formant, second formant, third formant and fourth formant so on the formant will be there.
-So if it is frequency domain, if this axis is frequency and this axis is the amplitude of that frequency and omega is the analog frequency, it is a so in analog frequency then it is nothing but a multiplication.
-So this

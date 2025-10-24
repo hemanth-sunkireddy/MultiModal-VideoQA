@@ -1,5 +1,0 @@
-I say medium is homogeneous.
-So, I have already said some assumption I have taken that amplitude of the pressure wave is within the limit where the sound is transmitted linearly that is why we call this linear wave equation.
-Now, if it is linear wave equation then how do I derive that wave equation?
-So, what do you understand by the wave equation?
-That means,

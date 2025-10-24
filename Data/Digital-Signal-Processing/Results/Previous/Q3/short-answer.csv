@@ -1,0 +1,8 @@
+filename,timestamp,sentence
+2.srt,00:18:40.980 --> 00:18:46.400,"So, in this case only discrete cosine transform what we will be looking at"
+52.srt,00:00:01.219 --> 00:00:25.589,Welcome back to real time digital signal processing course
+48.srt,00:00:30.910 --> 00:00:37.750,"So, how we can implement using both MATLAB and then the DSP processor what we will be looking at it"
+49.srt,00:00:35.679 --> 00:00:46.670,"So, in the last class we discussed about discrete cosine transform where it is being used we know that it is in JPEG compression"
+51.srt,00:00:00.340 --> 00:00:25.760,"Namaste, welcome back to real time digital signal processing course"
+52.srt,00:04:40.129 --> 00:04:43.620,"So, we know that it is going to store the cosine waves"
+52.srt,00:04:43.939 --> 00:04:49.599,them to a set of coefficients what we have given the values here.

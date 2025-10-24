@@ -1,3 +1,0 @@
-If you see the speech segments properties or signal property of the speech segments are different in along the time.
-If I say this time this portion is completely silence, this time vocalic, this time noisy, vocalic, noisy, silent, burst.
-So, all kinds of speech events are there and if I say the signal space different time the speech segment signals are different.

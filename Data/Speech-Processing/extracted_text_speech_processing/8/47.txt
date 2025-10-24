@@ -1,3 +1,0 @@
-then you have to know what kind of signal I am getting and what are that phonemes it how it is behave.
-So, I cannot say the result consonant recognition result of English and consonant recognition result of Bengali may be different because Bengali has more more number of stop consonant compared to the English stop and plosive even Hindi has more number of stop consonant compared to the English.
-So, identifying the voice consonant is easy because voice there is a some signals are there some frequency composition is there, but if you see the difference between the co, to, to, po is only the transitory part.

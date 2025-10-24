@@ -1,6 +1,0 @@
-and LPC to sceptral, sceptral to LPC conversion is possible.
-Now, we go for the next topic which is called MFCC parameter, male frequency sceptral coefficient.
-So, there is a many information in the slide.
-I am not going details of the slides.
-I just give you the gist.
-Male frequency sceptral coefficient and MFCC, this is popularly known as MFCC.

@@ -1,6 +1,0 @@
-this block suppose there is a block I apply one plane one pressure is applied.
-So, if it I apply a pressure the volume will be changed.
-If the volume is changed mass should be changed, but mass will not change.
-This increase the density due to the conservation of mass, mass will remain same density will be changed.
-Volume will be changed because that cube will be deformed due to the applied pressure ok.
-So, although the if the pressure is increases

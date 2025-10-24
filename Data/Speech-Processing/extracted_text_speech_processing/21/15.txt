@@ -1,6 +1,0 @@
-current sample S n. So, what is this?
-This is nothing but a linear prediction.
-So, what is why it is called linear prediction?
-Suppose there is a line.
-If this is the line, if I know this point, this point and this point, I can say I can predict this point by linear combination of the previous point with a some coefficient factors.
-So, this is called linear prediction.

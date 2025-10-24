@@ -1,3 +1,0 @@
-i th order i th prediction m minus 1 z to the power minus 1 is there minus K i into E that means, E m i minus 1.
-So, this is called forward prediction error, this is called backward prediction error.
-So, I can easily say forward prediction error i th iteration forward prediction error is equal to i minus 1 th iteration forward prediction error.

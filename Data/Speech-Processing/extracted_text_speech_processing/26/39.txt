@@ -1,3 +1,0 @@
-length ok.
-So, if I take the n number of DFT n is the DFT length that means, 0 to 2 pi whichever the discrete frequency that 2 pi frequency scale I have divided in n number of sample.
-So, there is so each division is nothing, but a 2 pi by n 2 pi is the highest frequency which is f s.

@@ -1,1 +1,0 @@
-is estimation of S m is only S n m. So, I can write this is equal to m equal to minus infinity to infinity k equal to 1 to p alpha k S of n m minus k into S m into S m. So, this term I can replace.

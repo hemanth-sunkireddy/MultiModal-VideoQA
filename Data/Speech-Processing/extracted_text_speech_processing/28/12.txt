@@ -1,3 +1,0 @@
-then I call phase spectra ok.
-So, f t f t m f t f t m short term Fourier transform magnitude short term Fourier transform magnitude.
-So, only magnitude part will take we discard this phase part do not use this phase part and this is many cases it is used.

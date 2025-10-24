@@ -1,1 +1,0 @@
-Now, if I say that then what is d v d t is a total derivative that and v is a function of x and t, v is a function of x and t. So, I can say d v d t is nothing, but a del v by del t plus v into del v by del x ok or not del v by del x.

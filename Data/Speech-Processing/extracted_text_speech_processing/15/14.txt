@@ -1,4 +1,0 @@
-1 load, but R n is equal to R L. So, let us load is R L is equal to 1.
-So, no resistive load for low frequency R n is equal to R L which is equal to 1.
-Now, I can say I can find out the what is the value of if I know that R n is equal to 1, then from that side left side this last R n is equal to 1.
-So, I can find out R n minus 1.

@@ -1,7 +1,0 @@
-then what I am losing?
-I am losing the time resolution.
-So, if I increase the frequency resolution, I decrease the time resolution.
-So, that is called time frequency tradeoff.
-If I take a larger amount of signal at a time, my frequency resolution will be very high, but I lose the within that time the variation of the signal I lose.
-So, the time resolution will be decreases.
-So, if I increase the frequency resolution,

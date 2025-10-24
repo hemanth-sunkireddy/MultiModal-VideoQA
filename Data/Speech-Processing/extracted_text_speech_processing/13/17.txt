@@ -1,3 +1,0 @@
-So, what will happen in the junction I can draw the equivalent signal flow diagram at the junction.
-So, my whole purpose is to find out how much forward wave is injected by the kth tube to the kth plus 1 tube and how much backward wave is injected by kth plus 1 tube to the kth tube that I have to find out.
-So, I want to know the expression of u k minus t minus

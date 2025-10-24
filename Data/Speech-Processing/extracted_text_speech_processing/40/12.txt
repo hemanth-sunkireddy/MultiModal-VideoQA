@@ -1,4 +1,0 @@
-So, I have to maximize this one and maximize this one or I can say the product has to be maximized.
-This is called language model, this is called acoustical model.
-So, acoustical model is done based on the HMM and language model done based on the diagram, bigram, diagram or in the gram model.
-So, this is language model, bigram.

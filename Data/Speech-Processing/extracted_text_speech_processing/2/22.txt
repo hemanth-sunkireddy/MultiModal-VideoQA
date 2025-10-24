@@ -1,4 +1,0 @@
-is the binary number.
-So, I can say let us that my minus 5 volt to plus 5 volt or I can neatly draw it.
-So, that you can understand it that let us I have a signal which varies from minus 5 volt to let us this is minus plus 5 volt and this is minus 5 volt.
-So, this whole 10 volt I divided into a some level.

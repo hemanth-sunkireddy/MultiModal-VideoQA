@@ -1,3 +1,0 @@
-Now, ok just come to the calculation then derive that equation then find out the parameter.
-Now, if we see that if it is a pure sine wave two number of 0 crossing per cycle.
-Now, if the sampling frequency of this sine wave is F s and the fundamental frequency is F 0 that means, length of the period is 1 by F 0 then I can say.

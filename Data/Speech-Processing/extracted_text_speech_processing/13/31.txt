@@ -1,4 +1,0 @@
-deduce from these two equations.
-Now, if I take this one, then I can say that this using these two equations, I can find out the expression.
-I am not deriving, you can derive it and find out the expression.
-So, the expression of u k plus 1 plus t will be 2 z k divided by

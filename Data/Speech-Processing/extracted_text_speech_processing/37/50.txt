@@ -1,5 +1,0 @@
-for the TTS engine.
-So, W3C has an PLS specification even we can started a community building on that how do we build community communitively the pronunciation dictionary.
-There is a website we have developed a web based engine where you can develop the pronunciation dictionary in PLS standard W3C PLS standard.
-So, that is website is available in IIT Kharagpur I think it is run at pedagogy main like that I kind of domain name.
-So, at the end I will give you that web address where you can use.

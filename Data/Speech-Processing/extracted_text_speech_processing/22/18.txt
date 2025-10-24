@@ -1,4 +1,0 @@
-So, here m equal to 0 nth window.
-So, here m equal to L minus 1 and where n plus this is nth window.
-So, it is if the starting point is n. So, suppose I have a this is the first window.
-So, the from starting point is 0 signal up to let us 160 sample 159 sample 160 sample period window ok. Next next window is start from 160 sample.

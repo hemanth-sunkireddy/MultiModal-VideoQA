@@ -1,3 +1,0 @@
-18 hertz difference.
-So, instead of 65, even if it is 65 plus 18 hertz, then also we cannot see any difference.
-That is called just noticeable difference J N D. So, due to the limitation of human perception, we cannot distinguish.

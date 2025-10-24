@@ -1,1 +1,0 @@
-what we will get I will get log of x 1 k plus log of x 2 k x 1 k and x 2 k both are complex both are complex now this things so this is in k domain now I apply inverse z transform

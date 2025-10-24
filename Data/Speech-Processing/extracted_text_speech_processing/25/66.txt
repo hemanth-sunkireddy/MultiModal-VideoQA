@@ -1,4 +1,0 @@
-books that if this is my vowel signal those are the area function.
-So, area function I can draw if I know the speech signal ok.
-So, reversely if I know the area function I can generate the speech signal that is a tube synthesis.
-Now, if I know the speech I can find out the what kind of constriction or what kind of different cross sectional area is made during the production of that.

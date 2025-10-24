@@ -1,6 +1,0 @@
-a formant frequency using spacing some filter along the spectrum.
-So, that can be possible.
-So, suppose I have a, so what is the baseband if the sampling frequency is f s, how much n I should take?
-I should take up to n by 2 because it is symmetry, DFT is a symmetry.
-So, I can say if it is a f s, then maximum baseband frequency is f s by 2.
-So, if I have a DFT length is n.

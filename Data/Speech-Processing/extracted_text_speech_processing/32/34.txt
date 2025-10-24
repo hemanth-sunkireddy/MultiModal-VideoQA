@@ -1,4 +1,0 @@
-domain if you see it is not exactly x n I taking this log signal as a time domain signal and take the inverse DFT.
-So, this is not exactly x n. So, this domain is called spectral domain, spectral domain.
-Now, if you see it is a additive signal.
-So, I can say it can be passed through a low pass filter to suppose I want to discard x 2.

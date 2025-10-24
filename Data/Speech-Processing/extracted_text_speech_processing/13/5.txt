@@ -1,2 +1,0 @@
-So, if I say we will do that then I can say this is the L 1, L 2, L 3, L 4, L 5 number of this is the length of the tube and 5 number of tube is connected to each other.
-Or I can consider L 1 equal to L 2 equal to L 3 equal to L 4 equal to L 5 then the length of the tubes are same, but n number of small tube I divided and whose cross sectional area is A 1, A 2, A 3, A 4, A 5 all are not same different cross sectional.

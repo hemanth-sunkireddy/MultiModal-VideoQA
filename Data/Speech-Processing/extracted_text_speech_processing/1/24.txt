@@ -1,4 +1,0 @@
-As an engineer or as a scientist, you should know why I am doing this thing.
-So, different kind of speech parameter extraction, I will explain this parameter extraction algorithms are available in the book.
-If you I have referred to books, you know that and you can go to those books, the all kinds of algorithm are explained.
-But in the class, what I explain that why we are doing this kind of parameter, what is the advantage, what is the disadvantage, those kinds of things I will cover in this class.

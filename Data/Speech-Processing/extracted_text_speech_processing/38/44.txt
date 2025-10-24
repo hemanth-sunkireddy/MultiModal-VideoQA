@@ -1,4 +1,0 @@
-If this is the block diagram of the whole TTS engine and this is the rule we have written down then we generate this dictionary is created.
-So, we recorded how the dictionary signal dictionary is created we recorded all the consonant with vowels in a nonsense words.
-So, how the dictionary is created I can told you that the problem is that if it is co and then it is a.
-So, I recorded co co co co four five times and I take the most appropriate one middle one.

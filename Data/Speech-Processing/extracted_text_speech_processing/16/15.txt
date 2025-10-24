@@ -1,4 +1,0 @@
-a microphone has if you see the microphone has a frequency response.
-Let us discuss about the frequency response.
-Suppose, a microphone has a frequency response, if you know the frequency response because frequency response is nothing but a frequency versus amplitude plot that means, for a particular intensity sound of different frequency how it represent in electrical signal.
-So, suppose a microphone has a frequency response whose flat area is around let us from here.

@@ -1,4 +1,0 @@
-I can derive the formant frequency and bandwidth.
-So, this is autocorrelation method I have described and all other things I have described.
-Then there is a other methods also that if you see that there is a covariance methods for linear prediction covariance methods for linear prediction.
-So, covariance methods is also one another methods instead of autocorrelation

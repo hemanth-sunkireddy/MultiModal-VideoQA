@@ -1,3 +1,0 @@
-f 2, f 3 all formant representation can be a features by which I can identify the speech signal or by on the other hand I can say those formant frequency represent the speech signal ok.
-So, formant may be a natural features.
-So, there is a some non natural features that not natural like that shape term linear predictive coefficient they are represent the speech signal, but

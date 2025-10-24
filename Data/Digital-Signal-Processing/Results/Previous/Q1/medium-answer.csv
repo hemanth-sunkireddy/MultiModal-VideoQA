@@ -1,0 +1,17 @@
+filename,timestamp,sentence
+9.srt,00:19:46.389 --> 00:19:54.230,"So, coming to comparison between FIR versus IAR"
+9.srt,00:19:54.689 --> 00:19:58.519,"So, we will take up IR filter more detailed one next few classes"
+12.srt,00:00:01.209 --> 00:00:26.449,Welcome back once again to real time digital signal processing course
+12.srt,00:00:26.570 --> 00:00:29.170,"So, today we will discuss about IR filters"
+14.srt,00:11:20.950 --> 00:11:28.750,"So, for that FIR filters will have higher order whereas, IR filters what we can achieve is with the lower"
+14.srt,00:11:36.610 --> 00:11:41.700,Coming to minimum order design when we want to do the thing
+14.srt,00:20:05.690 --> 00:20:16.809,"So, IR filter needs order 2 whereas, FIR filter needs 12th order then number of multiplications in this is going to be 12 h 0 to h 11"
+14.srt,00:20:16.809 --> 00:20:21.539,"And then whereas, in the IR filter because it is second order"
+18.srt,00:20:30.380 --> 00:20:37.680,"So, you will be seeing now from the FIR filter you have got both numerator and then denominator coming in"
+18.srt,00:20:38.130 --> 00:20:43.970,"So, IR filter as we know it is a feedback concept what it is going to use"
+18.srt,00:20:30.380 --> 00:20:37.680,"So, it will be having both numerator and denominator"
+19.srt,00:34:57.460 --> 00:35:01.350,"So, just the last slide to wind up our IR filter"
+19.srt,00:35:05.950 --> 00:35:11.980,"Few of the parameters what you can see the thing, one or two I will specify and rest of it you can go through"
+34.srt,00:21:17.860 --> 00:21:28.190,Output is linear function of the filter input
+47.srt,00:10:17.219 --> 00:10:23.099,"So, now, it must be triggering because the coefficients we have to keep the same a naught a 1 a 2 a 3"
+47.srt,00:10:23.559 --> 00:10:28.699,"So, here it is IR filter whereas, in the analysis we use the FIR filter"

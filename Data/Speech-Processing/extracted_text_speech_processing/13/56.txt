@@ -1,5 +1,0 @@
-So, instead of you can say the single tube, I consider multiple tube of different cross sectional area are conjuncted with each other.
-Let there is a n number of tube, then I derive the signal flow diagram for the single junction, the same junction will be repeated for n minus.
-So, if there is a n tube, n minus 1 junction will be there.
-So, n minus 1 junction will be there in the tube, this will be repeated.
-Then I can say the delay

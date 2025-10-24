@@ -1,5 +1,0 @@
-I do not want this lot of variation then I can use LPC order reduce the LPC order.
-If I want that I want to exactly copy the spectrum then I can increase the LPC order.
-So, using this I can also draw the spectrogram also this is the real life example of LPC spectrum.
-If you see how many formants are there 1 2 3 4 5 6 7.
-Now, if I say

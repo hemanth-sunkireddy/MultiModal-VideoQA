@@ -1,1 +1,0 @@
-p, where i is equal to i can varies from 1 to p. Because I am taking the derivative of del del alpha i, where i with respect to first factor alpha 1 with respect to second factor with respect to second factor up to alpha p. That is why the i will be 1 1 to p. So, now once this is equation like this, this is my equation, then I can say.

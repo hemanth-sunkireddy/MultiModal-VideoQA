@@ -1,6 +1,0 @@
-C, spectral coefficient.
-So, basically this is done n by 2 because k equal to n minus 1 is not required because DFT analysis is symmetry property.
-This is F s by 2 you know that this is nothing but n by 2.
-So, I can say k equal to 0 to n by 2 is sufficient.
-So, I can say take 0 to something some length I can take which represent the envelope spectral coefficient.
-So, this is the extraction of the septon coefficient.

@@ -1,5 +1,0 @@
-s n minus 1.
-Then also error will be maximum because this is not linear combination of all sample.
-So, once I move towards this inside the window my prediction error will be minimize minimize minimize minimum.
-Again when I want to exit from the window.
-So, I have a l minus 1 sample.

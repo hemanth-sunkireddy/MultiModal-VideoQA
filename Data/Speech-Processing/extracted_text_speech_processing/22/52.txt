@@ -1,5 +1,0 @@
-So, instead of phi i m I have to know R n 0.
-So, what is R n 0?
-R n 0 is nothing, but a first R 0 R 0 or R n 0 is nothing, but a if it is L number of sample.
-So, let us k equal to 0 to L minus 1 x of k into x of k. Now, what is R n 1?
-It is nothing, but a

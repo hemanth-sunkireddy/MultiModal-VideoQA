@@ -1,7 +1,0 @@
-in the slides.
-Let the length of the vocal track L is equal to 17 centimeter and the velocity of sound is 340 meter per second.
-Find the number of section required to generate 5 kilohertz bandwidth voice signal.
-So, I have to generate 5 kilohertz bandwidth voice signal.
-What should be the sampling frequency?
-F s should be 10 kilohertz or not?
-F s should be

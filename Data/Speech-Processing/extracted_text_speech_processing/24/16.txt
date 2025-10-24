@@ -1,4 +1,0 @@
-So, I can say forward prediction error E z is nothing but a S z into A i z, A i z.
-Now, I want to say the backward prediction error.
-So, what is backward prediction error?
-I want to estimate S m minus i.

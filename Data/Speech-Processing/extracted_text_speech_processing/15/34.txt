@@ -1,5 +1,0 @@
-then I can get the resonant frequency.
-And if the B k value is non-zero, then I get a bandwidth pole.
-There will be a pole, there will be a formant which has a bandwidth.
-So, B k provide me the bandwidth, theta k provide me the formant position.
-So, this information will be used when we develop the model.

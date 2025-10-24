@@ -1,3 +1,0 @@
-HTS hidden Markov toolkit based speech synthesis technique.
-So, next class I will discuss about that ASR some portion of the ASR and then we talk about that action conversion that things and the last week is the prosody.
-Thank you.

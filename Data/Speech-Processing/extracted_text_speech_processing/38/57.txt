@@ -1,4 +1,0 @@
-parameter and this is called excitation parameter.
-So, we have extract we have separate from a large speech database with this we have separate the excitation we have the excitation parameter and also we have a spectral parameters.
-Based on these two parameter we developed HMM parameter estimation technique ok. Now, once the text is come input text.
-So, text analysis is done contextual labeling is done.

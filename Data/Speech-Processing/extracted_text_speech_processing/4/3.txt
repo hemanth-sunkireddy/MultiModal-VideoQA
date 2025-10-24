@@ -1,2 +1,0 @@
-y n is nothing but a h n convolved with x of n which is nothing but a k equal to minus infinity to infinity h k into x of n minus k ok x of n minus k is ok or not ok. Now let us consider I want to find out the frequency response.
-So, if I excite the systems with an individual frequency.

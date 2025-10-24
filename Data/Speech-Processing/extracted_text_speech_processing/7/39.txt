@@ -1,5 +1,0 @@
-and friction part.
-This is voice friction, this is the voice flushing.
-Similarly, this cha after the friction, there may be a VOT which is aspirated or unaspirated.
-So, I can write either this symbol which is cha and cha and this symbol is ja.
-If it is aspiration, it is ja.

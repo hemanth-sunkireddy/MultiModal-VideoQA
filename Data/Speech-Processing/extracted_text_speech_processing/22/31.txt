@@ -1,6 +1,0 @@
-0.
-I am not considering the sample value.
-Now, if I do that then what is my equation?
-So, my equation E n is nothing but a m E n square m. Now, if you see m I do not have.
-So, where is the error vicinity?
-Error can vary from 0 to l minus 1 plus p. So, there is no infinite error series.

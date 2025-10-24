@@ -1,7 +1,0 @@
-is the sampling frequency?
-10 kilohertz.
-10 kilohertz is the sampling frequency.
-So, band limited is 5 kilohertz, Nyquist criteria is 10 kilohertz.
-So, if I want to reach the Nyquist criteria in this 2 tau delay, so 2 tau must be equal to the sample period.
-So, 2 tau is equal to sample period.
-If 2 tau is equal to sample period.

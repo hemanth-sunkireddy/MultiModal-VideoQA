@@ -1,3 +1,0 @@
-If you see there is a plot we have already discussed which is called spectrogram.
-So, this plot is called spectrogram this plot is called spectrogram.
-So, what is spectrogram consist if you see this axis is the time, this axis is the frequency and the intensity of the particular frequency is represented by a.

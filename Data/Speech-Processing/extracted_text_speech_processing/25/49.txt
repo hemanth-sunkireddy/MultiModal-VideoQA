@@ -1,6 +1,0 @@
-What is the what is the k parameter?
-How do we calculate the k parameter?
-So, can we actually minimize the error?
-So, if I say I am not writing in a board if you see in the slides if you see in the slides k forward.
-So, e forward prediction error mean square forward prediction error is this one.
-So, you know that e i m can be written as e i minus 1 m minus k i into b i minus 1 m minus 1 that whole square.

@@ -1,6 +1,0 @@
-So, what I will do?
-I will shift the one signal by one sample.
-So, that is the correlation.
-So, if it is autocorrelation, then y n is equal to x n. It is similarity between the signal itself.
-So, in that case, the r 0 first coefficient is nothing but a x n square.
-Each sample has to be square.

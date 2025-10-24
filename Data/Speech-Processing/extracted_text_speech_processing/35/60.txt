@@ -1,3 +1,0 @@
-improve this result I want this decaying should not be there.
-So, if I want the decaying should not be there then that is called modified or you can say the normalized autocorrelation.
-Next autocorrelation the formula is this one instead of calculate autocorrelation.

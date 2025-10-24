@@ -1,3 +1,0 @@
-So, there is a given acoustical model I have to find out which word I have spoken.
-So, I can say the problem is probability of W for a given acoustical measurement.
-So, I want maximize the probability of recognize the word correct word for a given acoustical

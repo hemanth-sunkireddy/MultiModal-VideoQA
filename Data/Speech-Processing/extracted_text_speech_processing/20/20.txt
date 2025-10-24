@@ -1,2 +1,0 @@
-else if else or or you can write or S n g x of n equal to minus 1 if x of n is less than 0.
-So, if x of n is less than 0 then the value of S n g

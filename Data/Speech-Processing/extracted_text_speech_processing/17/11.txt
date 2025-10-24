@@ -1,5 +1,0 @@
-So, I can say let this is particular frequency band, this is also responsible is particular frequency band.
-Then I want to know is this band are linear or is this band are non-linear.
-So, bandwidth of the each of the particular filter is it linear overlapping or non-linear overlapping?
-How do you define that?
-How do you I do know that things whether it is a non-linear and linear?

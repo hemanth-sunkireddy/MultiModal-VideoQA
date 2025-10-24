@@ -1,3 +1,0 @@
-If you see, suppose I have a time domain signal, I have already showed you time domain signal and this is the, this portion I have selected, this portion of the signal I have selected and take the frequency response of the signal.
-Now, there is a point, if I take n is equal to 1024 point, 1024 that means, order of the DFT is 1024.
-So, I take the signal 1024 sample signal.

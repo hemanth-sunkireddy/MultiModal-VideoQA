@@ -1,4 +1,0 @@
-domain it is continuous.
-So, I can say this this transform.
-So, it will frequency transform means this e to the power minus j omega m. So, this time domain it is discrete frequency domain it is continuous.
-So, I can say it is nothing but a DTFT discrete Fourier transform of x m multiply by W n minus m which is window function this product.

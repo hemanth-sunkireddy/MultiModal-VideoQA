@@ -1,3 +1,0 @@
-This is a variation of F 0.
-Child speech can have a 400 hertz frequency.
-Now, if you see F s, if sampling frequency is my 8 kilohertz, let us 8 kilohertz and if I say that length if I F 0 is 50 hertz.

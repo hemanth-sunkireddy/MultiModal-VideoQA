@@ -1,2 +1,0 @@
-So, we have discussed about the frequency domain parameter extraction and LPC parameter extraction already covered.
-So, there is a one important parameter which has to be extracted from the fundamental the from the speech signal.

@@ -1,4 +1,0 @@
-1, 5, 3, 3 and sorry 1, 5, 3, 7.
-So, this arrangement is done automatically if I just access the signal the index of the signal is change in bit reversible mode.
-So, if it is n equal to let us 1024.
-So, I require 10 bit to represent the index.

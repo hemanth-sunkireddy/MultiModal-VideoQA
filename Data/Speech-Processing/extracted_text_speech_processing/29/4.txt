@@ -1,4 +1,0 @@
-So, suppose something analysis I want to do in you can say the frequency domain and then again I want to get back the time domain signal.
-So, what do you want?
-Suppose I have a speech signal and I want some processing in frequency domain, some enhancement, let us some, we have to enhance some frequency band of this signal, ok. And then again I want to get back the speech signal.
-Since we have not taken the whole speech signal at a time, we have

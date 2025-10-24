@@ -1,6 +1,0 @@
-capital I.
-So, if there is a three phase in here, if you see how many phase are there 1, 2, 3.
-So, three phases are there 1, 2, 3 and 4 last one is negative phase amplitude is negative.
-So, it will be negative direction.
-So, three phases are there 1, 2, sorry 4 1, 2, 4 a, p, i are the amplitude of the phase command and this is the variation.
-Then action command a j equal to 1 to capital J.

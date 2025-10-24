@@ -1,5 +1,0 @@
-difference number 1.
-So, k equal to let us 0.
-So, I take the difference between the x 0, I take the difference of first sample with all other sample and their sum.
-Then I have to show there is n number of sample.
-So, I can normalized it 1 by n. So, I take n number of sample signal.

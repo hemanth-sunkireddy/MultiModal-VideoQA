@@ -1,7 +1,0 @@
-0.5 second.
-So, there will be a 100 frame.
-So, 0.5 second will be divided by 150 frame.
-So, every frame is 10 millisecond.
-For every 10 millisecond, I can calculate an average F 0 value.
-For next 10 millisecond, so I can get the F 0 contour which each points are 10 millisecond apart.
-So, 20 millisecond signal I will calculate R k value and find out the maxima.

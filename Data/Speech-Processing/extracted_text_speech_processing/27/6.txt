@@ -1,2 +1,0 @@
-e to the power minus j omega 0 m. This signal multiply by the window, this is my window or not.
-So, I can say I find out the convolution or the particular component with the signal and then the convolution output pass through a.

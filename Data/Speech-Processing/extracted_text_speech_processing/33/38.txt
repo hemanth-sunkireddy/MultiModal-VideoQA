@@ -1,6 +1,0 @@
-and those resonance frequency actually define the speech event which is produced by the vocal track.
-So, if I want to find out those resonance frequency, what I can do?
-Let us instead of taking the whole spectrum, I can take a filter kind, design some filter kind of things.
-So, this is not perfectly done.
-So, I can just sifted this one in here.
-So, I can design some filter.

@@ -1,4 +1,0 @@
-20 kilohertz, 44, 40 kilohertz, 44 kilohertz I have taken.
-Now if I increase the sampling frequency, I said that I can accurately take the signal.
-Now sometime you see although human speech is 20 hertz to 20 kilohertz, we have taken a sampling frequency let us see what is the meaning.
-Meaning is that

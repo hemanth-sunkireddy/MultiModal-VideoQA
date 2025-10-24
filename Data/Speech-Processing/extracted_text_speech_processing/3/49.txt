@@ -1,5 +1,0 @@
-k multiply by x of n minus k. So, which signal has to be folded?
-X n. So, I can fold the x n. So, if I draw in pictogram, so this is x n first sample, second sample, third sample, fourth sample.
-So, 0, 1, 2, 3, 0, 1, 2, 3.
-So, if I want to fold it, so it will be this side 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3, 0, 1, 2, 3, 0.
-So, this

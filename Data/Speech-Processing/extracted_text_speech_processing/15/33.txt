@@ -1,3 +1,0 @@
-Now, importance of this V k is nothing but a produce a bandwidth, V k produce a bandwidth and theta k give the formant position.
-When the value of R k approach to unit, I can get the formant frequency, resonance frequency.
-So, if it is R k approach to unit, close to unit circle.

@@ -1,5 +1,0 @@
-I get 100 number of sample per second.
-So, I get E n value E n is equal to 1 2 dot 100 for 1 second.
-Here, F s sampling sample 1 2 up to F s F s number of sample or not.
-So, this is called I can say that short term energy.
-Now, if I instead of energy, I can say that

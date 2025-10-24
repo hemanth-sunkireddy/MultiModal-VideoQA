@@ -1,5 +1,0 @@
-100 frame per second and 20 millisecond is the window length.
-Take 20 millisecond window length and find out the 100 frames of frame shift is 10 millisecond.
-Find out the E n and M n. Then plot the three signal.
-One is your first recorded signal, then plot it E n, then plot M n. So, for recorded signal, there are lot of samples will be there.
-For E n, for one second I get

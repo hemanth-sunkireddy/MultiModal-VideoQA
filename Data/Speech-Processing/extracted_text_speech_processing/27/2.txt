@@ -1,4 +1,0 @@
-So, can I not think that I have a signal I want to analyze the signal for a particular band.
-So, if I say this is a band pass filter.
-So, I analyze the signal for this band then analyze the signal for this band.
-So, I can say this is nothing but a if I have a signal pass the signal over different band pass filter and each bandwidth is nothing but a

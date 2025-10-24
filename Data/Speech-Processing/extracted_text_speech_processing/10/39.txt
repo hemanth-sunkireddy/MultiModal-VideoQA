@@ -1,5 +1,0 @@
-this is volume velocity and this is pressure wave.
-Now, if I interpreted that things what is the envelope?
-Here envelope is Z d pressure wave Z d sin omega L minus x by c this is part is the envelope part this part will be same variation e to the power j omega t that is actually like a envelope part and this is the envelope part in here.
-Now, if you see this portion is constant if the L is constant this portion is constant.
-So, one is sin omega

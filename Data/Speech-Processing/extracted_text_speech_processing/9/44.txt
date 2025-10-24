@@ -1,3 +1,0 @@
-del z rho into volume.
-So, rho volume means del x del y del z into del v by d t this will cancel.
-So, I can write minus del p by del x is equal to rho del v by del t this is the equation number wave equation number 1 minus del p by del x is equal to rho del v by del

@@ -1,3 +1,0 @@
-even 0 4 and odd 2 6 again it is even 1 5 odd 3 5.
-So, once I get two signal I compute the DFT this is called butterfly algorithm I will not details discuss the mathematics of butterfly algorithm.
-Now, if you see I get the output x 0 x 1 x

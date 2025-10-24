@@ -1,4 +1,0 @@
-Now, instead of sine wave let us I have a speech signal.
-So, it is not a I cannot say two times per cycle.
-So, I have a R b signal I do not know number of cycles which is the period I do not know anything there is a signal only.
-I want to know how many times signal cross the zero line for a 40 millisecond.

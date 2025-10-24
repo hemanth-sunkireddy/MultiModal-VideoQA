@@ -1,6 +1,0 @@
-Then, it is 2 pi f into f by f s. So, it is nothing but a 2 pi 40 by 100.
-So, it is 4 by 5 pi normalized discrete frequency.
-So, this omega is called discrete frequency.
-This concept is very important.
-This will be used in many ways.
-So, this omega continuous, this is discrete.

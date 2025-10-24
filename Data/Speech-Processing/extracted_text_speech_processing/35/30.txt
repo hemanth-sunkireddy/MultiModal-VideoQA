@@ -1,4 +1,0 @@
-The f 0 is continuously moving or there may be a difference forward, backward that kind of variation.
-So, it is not a smooth f 0, it can be look like this kind of f 0 contour.
-So, next frequency next next period it is less, next period it is also, detail is randomly varying that is why it is called quasi periodic signal not exactly periodic signal.
-Then f 0 is influenced by many factors, I cannot say the my f 0 will be same for all time.

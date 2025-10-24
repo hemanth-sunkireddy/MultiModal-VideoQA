@@ -1,4 +1,0 @@
-Sometime if it is voice bar like this, so I do not know whether it is a voice bar and whether it is a noise.
-So for that purpose we use another parameter, but at least using EN I can find out where the speech signal has high energy, where it is there is no energy that I can find out.
-So this can be used as a voice detection.
-You plot it and see it how it is behave like.

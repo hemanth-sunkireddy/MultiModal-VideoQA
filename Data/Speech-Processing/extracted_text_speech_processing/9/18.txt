@@ -1,3 +1,0 @@
-can I develop a mathematical equation how that pressure wave is propagated from one point to another point that is the wave equation.
-Now, considering that amplitude of the pressure if I say the wave is propagated linearly then we say linear wave equation.
-Here I am saying the amplitude of the sound is not that enough.

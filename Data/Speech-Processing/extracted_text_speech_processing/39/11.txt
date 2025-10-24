@@ -1,4 +1,0 @@
-So, from the acoustic signal of the training data I learn the machine and which is called model generation I learned the W 1 model is generated or machine is learned.
-Then if I said that word based on the learning of the machine, machine should match the pattern and say you have said this word.
-So, it is nothing but a pattern matching algorithm I can say language model all kinds of things I will come later on.
-So, nothing but a acoustic signal.

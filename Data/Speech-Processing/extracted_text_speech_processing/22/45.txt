@@ -1,2 +1,0 @@
-So, mean square error E n is nothing but a phi n 0 0 minus k equal to 1 2 p alpha k phi n 0 k. So, that also can be written R n 0.
-So, phi n is replaced by R n which is autocorrelation minus k equal to 1 2 p alpha k R n k only.

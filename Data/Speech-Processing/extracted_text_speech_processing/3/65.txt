@@ -1,5 +1,0 @@
-this is parallel I can shift it here and here.
-So, I can plus it or I can star it.
-So, this is review of the system property then I can ask you the draw the is the transfer function of this one.
-So, these two are parallel this is series with these two system and then again this this the whole transfer function will be parallel you can practice it.
-Now implementation is important.

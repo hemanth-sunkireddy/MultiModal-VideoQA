@@ -1,4 +1,0 @@
-We have extracted the F 0 contour which is represented by that black ah black spot here there is a black mark is there.
-So, those represented the ah ah original F 0 contour ok. And if you see there is a blue line once I put the phrase command then the blue line is come which is the phrase command.
-And if you see the black line straight line is the base line and after putting the action command you see the red line is generated.
-So, this red line is actually synthesized F 0 contour.

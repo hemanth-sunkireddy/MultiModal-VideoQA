@@ -1,8 +1,0 @@
-it contains whole recording of the sound.
-Let us I get this, there is a header.
-So, if you see this header, there is a different chunk position has different information.
-So, I have to know what is the sampling frequency of the sound and what is the encoded bit of the sound.
-If it is 16 bit, that means 2 byte represent one sample.
-If it is 8 bit, 8 bit represent one sample.
-If it is stereo, all channels are same.
-If it is stereo, there are two channel recording is there.

@@ -1,5 +1,0 @@
-I can say those are the overlapping filter.
-So, I can say the filters are designed using 50 percent overlap.
-So, if this is my first band 0 to 100 hertz next filter will be 50 hertz to 150 hertz.
-So, then I can say they are 50 percent overlap filter band.
-Then I can say the bandwidth of the filter is not linear.

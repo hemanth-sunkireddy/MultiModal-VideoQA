@@ -1,4 +1,0 @@
-or the double delta coefficient across the few frame instead of single frame.
-So, suppose for the first one instead of taking m 1 of frame 2 minus m 1 of frame 1, I can say that take few frame m 1 and find out the delta coefficient.
-So, this is the equation to get the smooth movement of the formant.
-So, delta coefficient is not just difference between the frame.

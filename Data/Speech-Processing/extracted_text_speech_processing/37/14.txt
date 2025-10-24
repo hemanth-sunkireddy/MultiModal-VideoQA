@@ -1,7 +1,0 @@
-when we pronounced we complete form we pronounce.
-So, there is a lot of text normalization is required unless it will not when the TTS will produce.
-So, TTS does not know how to produce this.
-So, this has to be converted in normal text format.
-So, that is called text normalization.
-So, if I write the TTS.
-So, there is a input block input block is text.

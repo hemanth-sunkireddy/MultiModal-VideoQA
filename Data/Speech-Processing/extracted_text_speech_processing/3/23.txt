@@ -1,2 +1,0 @@
-So, digital signal x if n is the period then x of n plus small n plus capital N is equal to x n then you call signal is periodic.
-Then symmetric and anti symmetric signal a real valued signal x n is called symmetric if x of minus n is equal to x n. On the other hand if it is anti symmetric then x of minus n will be minus x n. So, this is the signal property.

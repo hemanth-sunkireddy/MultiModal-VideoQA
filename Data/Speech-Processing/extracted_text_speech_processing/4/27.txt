@@ -1,3 +1,0 @@
-has an amplitude and has an phase.
-So, I can write this signal is nothing but a cos and sin a plus j b a plus j b.
-So, if it is a plus j b then I can say x k has an magnitude response which is defined like so discrete signal is third bracket always represented by a third bracket slide may be it is first bracket, but discrete signal is

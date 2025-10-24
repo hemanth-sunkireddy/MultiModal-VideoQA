@@ -1,5 +1,0 @@
-how many samples will be there?
-160 samples will be there.
-Now, each sample is 1 byte.
-So, I can say this 20 millisecond window can be stored or can be required 160 byte memory to store.
-Now, suppose the problem is that I want to transmit this 20 millisecond speech

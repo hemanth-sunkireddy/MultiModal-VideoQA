@@ -1,5 +1,0 @@
-have you understand M f c c that is why it is called M f c c male frequency spectral coefficient.
-Now, how do you design those things?
-So, what should be the or what should be the block diagram?
-So, I am I am describing the complete back block diagram of male frequency.
-So, if you see the basic signal processing block is remain same pre emphasis windowing DFT.

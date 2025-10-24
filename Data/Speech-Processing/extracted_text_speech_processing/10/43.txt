@@ -1,2 +1,0 @@
-sin omega t. So, cos part is the real part, sin part is the imaginary part.
-So, I can say the real part of u x t is nothing but a cos omega L minus x divided by c divided by cos omega L by c into u g omega.

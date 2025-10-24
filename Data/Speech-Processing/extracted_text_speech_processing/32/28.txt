@@ -1,1 +1,0 @@
-Let us I take x n ok, I take x n I want that x n is nothing, but a x 1 n convolved with x 2 n. So, at the end I want to find out the x 1 n instead of convolve I want a x cap n which is nothing, but a x 1 cap n.

@@ -1,3 +1,0 @@
-1 after that it amplitude is 0 that is window function.
-So, if it is 1 if it is this type of window I am not multiplying the signal with any function this is called rectangular window.
-Now, once I do the rectangular window then my frequency response of the output frequency is y n y n if I take the y k.

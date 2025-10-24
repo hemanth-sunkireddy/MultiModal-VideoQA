@@ -1,4 +1,0 @@
-After I get DFT, what I can do after so if it is SN is my signal, I pre-emphasized it and after DFT let us I am not doing the I am not writing the pre-emphasis and windowing part.
-So, after DFT I get SK.
-So, SK is the normal frequency spectrum.
-So, then from SK if I calculate mod of SK.

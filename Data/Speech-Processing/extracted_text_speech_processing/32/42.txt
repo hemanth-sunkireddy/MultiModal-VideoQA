@@ -1,3 +1,0 @@
-part will be also a real and even part of the signal.
-And if you know that x if I take the DFT of this or I frequency transform frequency F T of this I can get x omega, x omega is a complex things which has a magnitude which is mod of x omega and an angle of x omega a plus j b.
-So, mod and so if I take the mod part.

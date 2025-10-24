@@ -1,3 +1,0 @@
-Now, what is complex sep term?
-Now, complex sep term if I say this is x cap n is my complex sep term, it is nothing but a 1 by 2 pi minus pi 2 pi x of log.
-So, there are two part one is you can say log x e to the power j omega d omega or not.

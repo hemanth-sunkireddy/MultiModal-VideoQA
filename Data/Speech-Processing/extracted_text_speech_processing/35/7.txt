@@ -1,3 +1,0 @@
-We extracted gain fundamental frequency and LPC parameters.
-So, fundamental frequency is required to generate the impulse by which frequency impulse should be gone through the vocal track modification, gotel filter and produce that gotel source.
-So, that fundamental frequency is part of the gotel excitation, it is not part of the.

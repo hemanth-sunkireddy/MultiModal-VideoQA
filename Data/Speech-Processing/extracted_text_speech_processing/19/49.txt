@@ -1,2 +1,0 @@
-let us x of k mod into w n minus k, where n is the here n is the starting window number of window.
-So, if it is first window n value equal to 0, if it is second window n value is equal to 160, shifting is 160 sample, if it is third window n value will be starting window of the window n v.

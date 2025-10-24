@@ -1,7 +1,0 @@
-So, what is this term?
-This is nothing called a frequency shifting or modulation.
-It is nothing but a modulation.
-If I multiply, let us cos omega t multiply by another cos signal cos omega 0 t. What is that?
-Let us call carrier signal and multiply with the base band signal.
-So, output is cos omega c plus omega 0.
-If I cos omega 0, I multiply by another cos omega

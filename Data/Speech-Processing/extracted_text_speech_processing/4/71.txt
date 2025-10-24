@@ -1,4 +1,0 @@
-is nothing but a polynomial function.
-So, solution of P z provide me with a 0 position and solution of Q z provide me the pole position.
-That is why H z is a pole 0 filter pole and 0 filter that is why H z has a formant and 0 provide the anti-formant or resonance anti-resonance.
-So, pole 0 filter any filter can be implemented using a pole 0 filter.

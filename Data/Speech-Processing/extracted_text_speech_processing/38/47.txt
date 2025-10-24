@@ -1,4 +1,0 @@
-yes no loss synthesis.
-Then there is a unit selection method will come because if I see the all diphone based TTS and all that pertinent based TTS has some problem in natural prosody because prosody is not there I have to model that prosody.
-But modeling of the prosody is not that is simple.
-So, they said instead of selecting the diphone can I select a larger

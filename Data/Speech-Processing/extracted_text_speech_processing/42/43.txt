@@ -1,3 +1,0 @@
-We have done, we have analyzed the what is the occurrence probability of pause in a readout text of a Bangla.
-So, Bangla we have collect readout sentences because we want the textual information must correlate with the spoken information.
-So, what we said we take that written text, we can say that we have taken some sentences, those sentences are read by some speakers and then we analyze the pause and then we try to correlate what is the relations between those pause with this pause.

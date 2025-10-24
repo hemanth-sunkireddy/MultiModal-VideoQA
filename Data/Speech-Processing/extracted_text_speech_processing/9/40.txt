@@ -1,5 +1,0 @@
-So, what is force?
-Minus del P by del x into del x del y del z is equal to mass into acceleration.
-What is acceleration?
-Del V by d V by d t. Rate of change of particle velocity is the acceleration.
-So, I can say it is nothing but a m into d V d t. This V is the particle velocity.

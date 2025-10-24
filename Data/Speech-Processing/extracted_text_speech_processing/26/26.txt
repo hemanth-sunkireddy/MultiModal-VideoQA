@@ -1,2 +1,0 @@
-Now, let us this is my whole signal this is whole signal x n. So, this is the nth instant n I want to cut a portion of the signal what I do from the nth instant let us I want to cut l number of l number of sample l number of sample.
-So, what I will do from nth instant I take the l number of sample this side.

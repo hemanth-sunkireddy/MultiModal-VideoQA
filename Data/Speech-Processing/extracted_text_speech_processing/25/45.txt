@@ -1,3 +1,0 @@
-and implement 1 by a z using a program in matlab or c anywhere you can write the program implement a z and 1 by a z and calculate k i value.
-So, I for implementation I require k i value.
-So, k i value can be calculated either using autocorrelation function from there you can calculate k i value or directly you can calculate k i value I will show you that slide how to directly k i can be calculated.

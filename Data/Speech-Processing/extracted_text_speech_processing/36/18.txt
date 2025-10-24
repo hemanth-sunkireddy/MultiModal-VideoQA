@@ -1,6 +1,0 @@
-to find out the fundamental frequency when the computation power is less.
-And what is the drawback?
-Less computational complex is ok, implement hardware.
-The performance is poor and it does not cater for variation in energy of the speech signal.
-If you see the deviation depends on the variation of the energy.
-So, suppose this time I speak some speech which is less energy and next time is high energy.

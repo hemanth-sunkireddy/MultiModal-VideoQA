@@ -1,8 +1,0 @@
-it is very like this.
-If my limitation is 5 volt, if I apply 7 volt, so what will happen?
-After 5 volt, it will be flat.
-So, after 5 volt, it will be flat response.
-So, what is if it is flat, what is happening?
-So, this portion I am not getting.
-I am getting a flat.
-So, if it is cleft, that means it developed a square wave.

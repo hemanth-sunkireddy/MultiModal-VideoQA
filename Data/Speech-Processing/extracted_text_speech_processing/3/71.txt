@@ -1,3 +1,0 @@
-So, this is called direct form 1, because there is a required 2 memory, 2 delay are separate input delay and output delay are separate.
-If I implement this way, then this signal is same.
-So, I can say instead of 2 delay, I can replicate it by a single delay z to the power minus 1 multiply a 1 and z to the power minus 1 multiply by b 1.

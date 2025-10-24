@@ -1,7 +1,0 @@
-So, if you know the prosody modeling then work on emotion area will be very easy.
-So, that is why I touches the prosody modeling part.
-Yes, I can include one or two lectures on GMM.
-So, that it can give you some overview what is Gaussian mixture model, why we have used that and that HMM.
-I have said that HMM is nothing but AI algorithm.
-You can find a lot of lectures on HMM modeling.
-If you want then I can put the if you require a particular query if you have a particular query you can directly contact me.

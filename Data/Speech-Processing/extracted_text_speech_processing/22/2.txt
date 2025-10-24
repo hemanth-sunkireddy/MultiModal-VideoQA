@@ -1,5 +1,0 @@
-Let us there is the functions that mean square error minimization give me this equation.
-Now, another things I can say how to find out the error.
-So, what is the error function?
-So, if you see E n is nothing but a m equal to minus infinity to infinity E n square m error mean square this is the mean square error.
-So, what is this?

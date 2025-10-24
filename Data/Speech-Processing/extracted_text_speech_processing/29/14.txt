@@ -1,5 +1,0 @@
-I can get back the signal.
-So, if w 0 is non-zero then only I get back the signal ok.
-So, which is already explained if you see in here this slide.
-So, I have taken a this is my f n m is my frame signal which is nothing but a x m multiplied by the window function.
-I take the DFT and then I take the I DFT.

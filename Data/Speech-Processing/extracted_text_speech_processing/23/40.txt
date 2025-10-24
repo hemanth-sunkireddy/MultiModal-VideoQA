@@ -1,4 +1,0 @@
-those actually characterize the vocal tract ok. Now, forget about this part I will come later on.
-Then if those coefficient are represent the form the you can say the pole position ok.
-So, format those are the represent the actually pole position.
-So, I can say if I take the frequency transform of those coefficient.

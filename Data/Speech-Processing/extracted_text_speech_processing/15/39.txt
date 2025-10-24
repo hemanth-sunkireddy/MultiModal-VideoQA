@@ -1,5 +1,0 @@
-then I can able to find out the transfer function of that Vogel trap.
-So, complex conjugate now, so do not confuse with number of complex conjugate pole and pole, number of normal pole.
-So, if there is a n-tube model, n-tube model is there, then I can get n by 2 complex conjugate pole.
-So, there will be a n by 2 formant.
-So, if I able to

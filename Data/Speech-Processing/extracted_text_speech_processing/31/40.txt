@@ -1,5 +1,0 @@
-is very difficult in continuous speech.
-So, how do I can find out a phoneme for?
-How do I can find out phoneme for?
-Or how do I find out phoneme so?
-So, instead of finding out phoneme so, let us blindly analyze the speech signal frame by frame and assign each frame to a particular phoneme or I can say the extracted parameter represent this frame.

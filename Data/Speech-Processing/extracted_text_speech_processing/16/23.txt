@@ -1,4 +1,0 @@
-So, what is the effect of sound?
-If the train sound is coming from this direction, so I should able to localize the train sound is coming from my right hand this side and the sound intensity will be increases when train come to my place and when train is going away then I can say the sound is coming from this direction.
-So, if I able to manipulate this effect then I can say it is a surround sound because sound is coming from this direction.
-So, I can understand sound is coming from this direction.

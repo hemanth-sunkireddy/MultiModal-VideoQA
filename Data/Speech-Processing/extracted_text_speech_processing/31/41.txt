@@ -1,4 +1,0 @@
-Later on I try to classify whether this belongs frame belongs to so or po or po.
-So, that is my job.
-So, I can say the features are extracted segment wise and they are the representation of that segment either it can be time domain or it can be frequency domain.
-So, if the if those features are extracted extracted frequency representation of that segment.

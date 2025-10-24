@@ -1,1 +1,0 @@
-and I have to choose n so that 2 pi by n 2 pi by a frequency sampling at least must be greater than or equal to 2 pi by n w n w is the length of the window so now I take an example so less window length is n w let us take

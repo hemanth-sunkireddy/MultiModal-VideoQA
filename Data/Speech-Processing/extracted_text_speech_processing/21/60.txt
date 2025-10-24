@@ -1,3 +1,0 @@
-this set of alpha value actually representing the production system or representing H z for that time.
-Since, the speech is time bearing signal, let us say take the time instant, this instant I get a some speech value.
-For those speech value, if I extract this alpha value, then I can say this alpha value can represent this H z or H z can be implemented using this set of alpha value.

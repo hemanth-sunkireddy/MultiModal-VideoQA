@@ -1,5 +1,0 @@
-for every sample which is computationally not feasible because FFT calculation is a time consuming method.
-Lot of complexity is there.
-So, if I want to sample by sample recovery, that is not a possible solution.
-Second one is that I have to know X n omega for every omega.
-So, what kind of things?

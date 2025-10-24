@@ -1,3 +1,0 @@
-I can do some stylization means I can linearly approximate this f 0 contour.
-So, I can say whole f 0 contour is nothing but a sum of some linear line within this line f 0 is fixed.
-So, this is called piecewise linear approximation or I can generate a mathematical model by which changing the parameter I can generate this.

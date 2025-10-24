@@ -1,5 +1,0 @@
-That what is the application of STFT?
-Signal estimation and modification, STFT or STFTM both.
-Suppose I have a signal Xn that may contain less 2 kilohertz to 5 kilohertz component.
-I want to reduce the amplitude of this portion.
-So I analyze Xn in frequency domain and reduce whatever modification I want.

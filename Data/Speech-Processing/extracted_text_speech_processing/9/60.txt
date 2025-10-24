@@ -1,2 +1,0 @@
-So, del square p by del x square let us minus is equal to rho into del v by del t into 1 by del x.
-If I again do it in the respect to t minus del square p by del t square is equal to rho c square del v by del x into 1 by del t. So, if you see this side.

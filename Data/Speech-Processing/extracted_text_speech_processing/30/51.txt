@@ -1,5 +1,0 @@
-Let us take the example.
-Let us there is a call rectangular window.
-Length of the rectangular window is n w. You know if it is a rectangular window, then what is the frequency domain representation of rectangular window?
-It is nothing but a sinc function.
-So, a sinc function

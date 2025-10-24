@@ -1,2 +1,0 @@
-10 log i by i reference decibel dB, decibel.
-So, if the intensity of a sound is i, then I can say convert in dB is nothing but a 10 log i by i reference, where i reference is equal to

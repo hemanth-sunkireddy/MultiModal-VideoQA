@@ -1,4 +1,0 @@
-then I change the omega for 2 hertz, then I change the omega for 3 hertz.
-So, I can do that way and n is the number of sample.
-So, I apply a e to the power j omega n what should be the output then y n is nothing but a k equal to minus infinity to infinity h k let us h k into x of n minus k is replaced by e to the power j omega.
-So, e to the power j omega.

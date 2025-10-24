@@ -1,4 +1,0 @@
-So, if it is instead of log I can take only log magnitude if you see this slides if I see the only log magnitude then I can this is the real septrum.
-If I take the complex log this is called complex septrum ok.
-This is called D star inverse because I take the log I take the complex exponential.
-So, septral analysis

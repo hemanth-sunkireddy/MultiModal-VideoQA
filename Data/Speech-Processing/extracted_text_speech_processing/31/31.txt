@@ -1,3 +1,0 @@
-by which I can robustly extract the formant frequency ok.
-So, there is a I required an algorithm by which I can extract all the formant frequency f 1, f 2, f 3, f 4.
-One of the methods is that you know that if there is a LPC coefficient a 1 to a p, if I take the frequency transform of those LPC coefficient they are actually represent the.

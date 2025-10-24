@@ -1,4 +1,0 @@
-what is p 2?
-It is nothing but a since del x is the length along the x-axis direction.
-So, it is nothing but a small p x plus del x t. What is p of x plus del x t?
-It is nothing but a p of x t minus p of x t and plus del x plus del x t.

@@ -1,4 +1,0 @@
-can be represented by a additive signal.
-So, what kind of transformation I should do, so that convolution become simple addition.
-So, if you see the slide this figure represented the homomorphic system for convolution.
-So, x n some kind of transformation d then is represented as the instead of convolution I get x 1 n plus x 2 n.

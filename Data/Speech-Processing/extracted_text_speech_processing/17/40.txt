@@ -1,5 +1,0 @@
-So, that is the pitch in perceptual domain.
-So, main parameter physical domain parameter of pitch is called fundamental frequency or F 0.
-Many places I referred to F 0 also F 0 fundamental frequency of that sound.
-Then loudness intensity physical parameter is intensity I can measure the intensity 5 dB, 6 dB, 7 dB, but loudness is in perceptual parameter.
-I can say this is louder sound.

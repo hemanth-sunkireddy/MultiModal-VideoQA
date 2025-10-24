@@ -1,2 +1,0 @@
-P 4, I have a 4 phase phrase, then it may be N P, it may be V P, it may be N P, I do not know.
-So, I detected that, then we find out that type of phrase and important parameter, then length of the P 1 in terms of number of syllable, number of syllable, we measure in term of number of syllable and also whether this P 1 dependent on P 2 or not.

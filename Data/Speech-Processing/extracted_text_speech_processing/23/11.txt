@@ -1,3 +1,0 @@
-which is nothing but a E n i minus 1 1 minus k i square.
-So, i th k i k i is nothing but a this R n i minus.
-So, R n i means R n R n is the autocorrelation coefficient i th autocorrelation coefficient minus j into 1 to i minus 1 alpha j i minus 1 R n i minus j.

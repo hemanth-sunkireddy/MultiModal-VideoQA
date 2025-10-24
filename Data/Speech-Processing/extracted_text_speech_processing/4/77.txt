@@ -1,3 +1,0 @@
-after 5 kilohertz I want signal or system should not produce let signal should not produce any response.
-That means, that filter is that filter frequency response is that up to 500 kilohertz or 500 less 500 hertz I want response should be like this and after 500 hertz I do not want anything.
-So, that means, 0 to 500 hertz.

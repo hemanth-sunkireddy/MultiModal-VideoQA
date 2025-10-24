@@ -1,4 +1,0 @@
-the to conceptualize those DSP problem.
-So, what I do that I will just review some DSP concept, but details I will not go because details this is a separate subject which is called digital signal parsing because this is the best point of knowing the digital speech parsing.
-So, whatever the acoustic phonetics speech production you know that is different because that does not require any DSP concept that much, but once I explain start that explaining the digital speech processing and modeling discrete modeling discrete time modeling.
-So, in that cases some DSP concept is required.

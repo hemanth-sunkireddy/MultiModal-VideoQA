@@ -1,4 +1,0 @@
-So, they are comfortable with the spoken version.
-So, that is called text to speech synthesis and their applications.
-Now, what typically text to speech synthesis system there the first block is called text normalization.
-If you see if I say open any page whether it is English, whether it is Bengali, whether it is Hindi, whether it is Marathi, if you read any text any text passages.

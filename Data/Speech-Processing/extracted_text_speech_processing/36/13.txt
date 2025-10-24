@@ -1,3 +1,0 @@
-x 0 versus x 1, then x 0 versus x 2, x 0 versus x 3 are that way.
-So, x 0 versus x 0 will be come here, x 0 versus x 1 some come here.
-So, I can get a scatter plot if x this sample is exactly match with another sample x k, then I get a

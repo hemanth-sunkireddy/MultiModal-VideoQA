@@ -1,2 +1,0 @@
-a i z is nothing but a 1 minus k equal to 1 to i it is a pth order predictor if I say it is ith order predictor it is nothing but a alpha k z to the power minus k. So what is forward prediction?
-Forward prediction is says that SM or I can say that if it is I have predicted error forward prediction error.

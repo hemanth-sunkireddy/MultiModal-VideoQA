@@ -1,5 +1,0 @@
-then how many samples will be there?
-How many samples will be there?
-My F 0 is 50 Hertz and F s is 8 kilo Hertz.
-So, I can say 8 k 8 into 10 to the power 3 divided by 50.
-So, it is nothing but a 8000 divided by 50 160 sample 160 sample in

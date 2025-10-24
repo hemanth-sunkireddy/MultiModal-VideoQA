@@ -1,5 +1,0 @@
-minus 1 ok.
-If it is that then what is forward prediction error?
-So, I can say E z or I can say E z is nothing, but a a i.
-So, instead of a i I can put this one.
-So, S z into a i minus 1 z minus K i z to the power minus i.

@@ -1,6 +1,0 @@
-So, I can find out the number of section is required.
-So, this way I can find out and this way I can model that signal.
-So, since that vocal track can be modeled as a all pole model, I am not going details of that thing, this is the form and trajectory.
-So, I can see that the whole V z can be.
-So, this is the V k is the product of this, if it is right V z then product will be here.
-So, I can say this digital implementation again same.

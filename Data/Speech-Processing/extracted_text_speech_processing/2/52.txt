@@ -1,4 +1,0 @@
-If I want that that should contain that whole human speech range of frequency, then I should use a very high end microphone whose frequency response may be 15 kilohertz or may be 20 kilohertz.
-So, the microphone then the amplifier is also there.
-Amplifier frequency response also important.
-So, amplifier and microphone whole frequency response should be higher than the my desired what frequency I want to record that.

@@ -1,1 +1,0 @@
-may be exist in the speech either in filter portion or in source portion or if i say speech is also depends on the commun composition of the sound sometime this composition pattern also provide some information which can be exploit to detect the person ok so next class i will discuss what is formant

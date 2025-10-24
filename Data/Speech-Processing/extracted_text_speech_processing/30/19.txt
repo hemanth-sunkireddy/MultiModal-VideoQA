@@ -1,4 +1,0 @@
-If L is greater than 1, then F m is an interpolating filter.
-So, F m is F m is delta m only basic FBS method, but if F m is if it is F m is delta m, then the consideration is the time decimals in L should be 1.
-Decimals factor in time L should be 1.
-If I want L is

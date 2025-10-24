@@ -1,4 +1,0 @@
-until and unless the distance within the two frame is very high.
-Then I can say let I can say this is a 100 frame, frame 1 to frame 100, but once I compare this is frame 1 to frame 150 within that time also because I have not jumped.
-So, that is dynamic time working.
-So, time frame of this signal is worked as per the

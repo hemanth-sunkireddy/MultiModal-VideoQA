@@ -1,3 +1,0 @@
-radiation load does not affect the frequency response of the acoustical tube.
-So, low frequency are less affected.
-Now, if I say J omega or omega L r is much greater than R r at high frequency much much greater than R r then I can say it is nothing it is nothing but a R r J omega L J omega L cancel.

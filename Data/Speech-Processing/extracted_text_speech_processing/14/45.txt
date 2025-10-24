@@ -1,3 +1,0 @@
-for R 3, z to the power, if it is R n product of z to the power half, z to the power half, z to the power half, so n number of, so it is nothing but z to the power n by 2 k equal to 1 to n 1 plus 1 plus R k, k equal to 1 to n cap R k cap, so R k is like the matrix is this and 1 0.
-So, now if I say my n is equal to 2, then I can find out the impulse risk or transfer function of the tube model.
-So, if I simplify this thing.

@@ -1,1 +1,0 @@
-first part system take input combine by convolution and transform them into additive output second part system is conventional linear system i can suppose linear filter inverse of first system take the additive input and transform to them convolution output so whatever modification i will do in l part linear time invariance of those will be in additive signal

@@ -1,0 +1,16 @@
+filename,timestamp,sentence
+2.srt,00:17:18.819 --> 00:17:23.279,And then later on we can see that how this can be eliminated also
+2.srt,00:17:43.709 --> 00:17:47.089,"So, one of the example we will take it how we can"
+2.srt,00:17:23.779 --> 00:17:43.709,implemented or we will be looking at basically in this module
+44.srt,00:06:45.510 --> 00:06:48.440,"So, we say that in speech coding in wireless systems all this thing 1G systems have analog speech transmission in that and we know that in 2G and 3G systems have digital speech and what is the type of source coding we are going to have it which is going to vary"
+44.srt,00:14:28.550 --> 00:14:31.650,"So, now, we will come to the digital speech"
+44.srt,00:14:32.040 --> 00:14:38.650,"So, we say that speech coder why we need it device that converts speech to digital"
+44.srt,00:14:32.040 --> 00:14:38.650,"So, in this case you are seeing the span how it is varying"
+46.srt,00:00:00.340 --> 00:00:26.420,"Namaste, welcome back to real time digital signal processing course"
+46.srt,00:26:36.210 --> 00:26:42.809,"So, more natural quality speech that is slightly higher bit rate what we have to account for"
+46.srt,00:26:47.720 --> 00:26:53.119,"So, the application of speech coding what we will look in the next class"
+46.srt,00:26:43.299 --> 00:26:47.319,Happy learning and thank you for listening to this lecture
+48.srt,00:00:51.490 --> 00:01:01.230,One of the application was LPC coding what we did both in MATLAB and then
+57.srt,00:51:23.279 --> 00:51:32.579,"So, next we went on to discuss about the speech coding techniques whether we had the waveform coders or coders"
+57.srt,00:51:32.909 --> 00:51:39.899,and you can see that what kind of applications they use which are the bands what it is going to be used
+57.srt,00:51:40.219 --> 00:52:02.469,"And one of the example what we took was one of the students project to show that LPC coding how it can be done both analysis and synthesis and then reconstruct your voice at the receiving gate almost equivalent we will not say same, but at least it is going to match with whatever voice it was getting generated"

@@ -1,4 +1,0 @@
-into theta.
-So, if I say every complex conjugate pole indicate one formant, if it is close to unit circle this is called formant frequency it contribute to the formant frequency because energy will be very high.
-So, if I say complex conjugate pole, so suppose this is my unit circle and if there is a formant there is a pole angle is theta.
-So, there will be a the system is real.

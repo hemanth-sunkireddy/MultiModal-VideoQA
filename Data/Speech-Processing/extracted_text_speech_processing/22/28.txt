@@ -1,7 +1,0 @@
-0, this is my current sample is 0 from the previous p sample.
-So, current S n is 0.
-So, linear combination of previous p sample cannot be 0.
-So, I can say there will be a error which will be maximum.
-So, there will be error in here also.
-All kinds of error may be positive negative.
-I do not know which kind of error it will be.

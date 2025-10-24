@@ -1,1 +1,0 @@
-and glottis vibration can be model as a source so we said the source filter model we said let this is a filter that is h let us h s and there is a source called e s or i can say e n and h n in digital system and the output is the speech either s s or small s n ok so now if i say that this is a filter ok

@@ -1,3 +1,0 @@
-previous tube cross sectional area then I can find out the what should be the cross sectional area of the next tube.
-So, if I say beginning tube let us A 1 is equal to 1 then I can estimate A 2 if I know A 1 K 1.
-So, if I say A 1 is equal to 1 then I can find out A 2 if I know K 1 1 minus K 1 divided by 1 plus K 1 then if I know A 2 then I can

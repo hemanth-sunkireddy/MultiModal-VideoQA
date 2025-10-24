@@ -1,2 +1,0 @@
-So, let us start with that new new chapter which is called Analysis Synthesis of Pol 0 Model.
-Basically here we are dealing with that LPC analysis and LPC synthesis ok.

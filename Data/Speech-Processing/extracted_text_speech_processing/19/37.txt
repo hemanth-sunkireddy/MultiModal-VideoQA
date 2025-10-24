@@ -1,3 +1,0 @@
-if it is within l equal to less n equal to 0 to l minus 1 ok else it is 0.
-So, I cut the signal from the long signal I cut a window and take the energy ok.
-So, if I say that find out the short term energy first I record a record your let us record your name in a let us F s is equal to

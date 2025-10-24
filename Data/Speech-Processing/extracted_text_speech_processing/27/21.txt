@@ -1,4 +1,0 @@
-Or what I will do explaining it.
-So, what I want to do is that instead of writing w I can say I can get the w omega.
-So, once I get the w omega that is the frequency response of the window pass the baseband signal with the frequency response of the window.
-So, if the baseband signal is frequency response is this.

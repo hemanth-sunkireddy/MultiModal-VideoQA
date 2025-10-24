@@ -1,4 +1,0 @@
-and if I extract in next time it this features is very high then there is a some problem.
-So, the main problem is the we should call those are the speech features whose extraction procedure is robust and also computationally less complex.
-If it is computationally very complex then the feature extraction may require much more time.
-So, I cannot develop the systems which is real time ok. Any kind of application if you say.

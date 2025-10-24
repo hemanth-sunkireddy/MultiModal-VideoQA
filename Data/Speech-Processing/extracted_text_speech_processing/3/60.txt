@@ -1,5 +1,0 @@
-it is does not matter whether I shifted the signal this way or this way both will give me the correlation.
-So, this is the lth correlation if it is zeroth coefficient then I start from zero sample to zero sample if it is fifth sample then I shifted this signal this side fifth sample.
-So, start with this this portion of the signal will be not used.
-So, I will compare this portion signal with this whole signal understand.
-Then if I l equal to 10 then let us this is the 10th sample.

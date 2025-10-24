@@ -1,5 +1,0 @@
-So, the signal is varying like this way.
-So, that is time domain representation of the signal, analog signal.
-So, analog signal is continuous.
-If you see, it is a continuous signal.
-Now, I want to convert this signal to a digital signal, which is x n. I convert this same signal to an analog digital signal, which is x n. Instead of x t, I convert to

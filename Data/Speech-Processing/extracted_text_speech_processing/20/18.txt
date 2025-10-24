@@ -1,6 +1,0 @@
-So, I can say let us I compare where the.
-So, there is a zero crossing will be occur in between two sample.
-So, within this two sample I have to find out whether there is a zero crossing occur or not.
-So, how do I find out?
-I have to check within this two sample whether the sample value change the sign or not.
-So, I can check let us this is x 0 and this is x 1.

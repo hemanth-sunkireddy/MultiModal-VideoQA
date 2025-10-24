@@ -1,5 +1,0 @@
-I will get from the condition.
-So, I said that if it is the my first tube and it if it is the kth tube and if it is the k plus 1 tube red one is the k plus 1 tube.
-So, the volume velocity which is inject at the output of the kth tube will be the equal volume velocity at the input of the red tube.
-Similarly, the output pressure of the black tube is equivalent to the output pressure of the red tube that is why I make ok.
-If it is that.

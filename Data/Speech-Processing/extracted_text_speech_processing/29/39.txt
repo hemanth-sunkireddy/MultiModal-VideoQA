@@ -1,5 +1,0 @@
-You can say in this lectures or this course, I will discuss about the two methods.
-One is called filter bank summation method, another is called overlap add method.
-So, let us go one by one.
-So, if you see filter bank summation method, I will not.
-So, traditional short time synthesis method is a commonly referred as a filter bank summation method.

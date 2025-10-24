@@ -1,5 +1,0 @@
-acoustic wave.
-So, once the human being produce the speech to any kind of speech processing, I should have to digitize the speech because we said the digital speech processing.
-So, I say something I have to converted that acoustic wave to digital speech domain.
-First analog signal then analog to digital conversion.
-So, what we do that we use a microphone and amplifier.

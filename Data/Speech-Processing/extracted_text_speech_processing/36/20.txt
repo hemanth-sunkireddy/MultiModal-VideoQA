@@ -1,4 +1,0 @@
-in that time I use A m d f average magnitude difference ok.
-There is other algorithm also f from maximum detection some magnitude difference all others methods are also adaptive filtering circular average magnitude difference function cumulative mean normalize different function.
-So, all others methods also available.
-Then frequency domain PDA pitch detection algorithm or f 0 detection algorithm frequency domain PDA operates on speech.

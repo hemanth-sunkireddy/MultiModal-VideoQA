@@ -1,4 +1,0 @@
-literally that does not have a meaning.
-So, if I say the LPC coefficient a 1, a 2, up to a p all represent that speech frame there is there is the parameters or features, but they are non natural features.
-Similarly, safe term then the MFCC vocal track area functions all kinds of features are there which is non natural.
-So, we discuss about the extraction of some natural features and

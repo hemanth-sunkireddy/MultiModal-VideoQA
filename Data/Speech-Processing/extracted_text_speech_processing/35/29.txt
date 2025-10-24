@@ -1,3 +1,0 @@
-So, when I generated the speech signal using unit impulse response, the F0 between the two consecutive periods is not same.
-There are some differences and that small difference is called zeta.
-So, suppose I generate an F0, I extracted an F0, I cannot say all the F0 value will be same for some segment.

@@ -1,3 +1,0 @@
-Fourier transform inverse DFT k equal to 0 to n minus 1 length of the DFT x of x of n k into e to the power j 2 pi by n into n k inverse IDFT.
-So, this is the IDFT IDFT ok.
-So, what is

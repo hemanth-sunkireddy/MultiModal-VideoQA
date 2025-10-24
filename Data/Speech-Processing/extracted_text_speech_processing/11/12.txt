@@ -1,3 +1,0 @@
-it will be on and around of 500 hertz slightly shifted.
-So, I can easily say normally if it is tube is totally open first ferment is 500 hertz, second ferment is 1.5 kilohertz, third ferment is 2.5 kilohertz, third ferment is 2.5 kilohertz, fourth ferment is 3.5 kilohertz, fifth ferment is 4.5 kilohertz.
-So, now if we see if a signal is band limited with 4 kilohertz.

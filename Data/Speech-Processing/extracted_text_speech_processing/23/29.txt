@@ -1,3 +1,0 @@
-this is normalized autocorrelation normalized autocorrelation.
-So, if I say what is the normalized prediction error if it is normalized then prediction error E 0 is equal to 1 because it R 0 by R 0.
-So, it is nothing, but a M equal to 1 to I 1 minus K M square I varies from 1 to P.

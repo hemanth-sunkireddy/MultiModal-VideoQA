@@ -1,5 +1,0 @@
-So, all kind of things we want to do.
-So, that is all speech coding.
-How do I develop an efficient algorithm so that with a minimum cost I can transfer a signal speech signal from here to here in a real time situation.
-So, I want some kind of algorithm or compression kind of things which can compress my speech and transfer that things.
-Think about that audio CD, audio CD, think music CD or you can say that vocalist that song CD.

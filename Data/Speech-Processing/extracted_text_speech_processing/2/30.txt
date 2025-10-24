@@ -1,4 +1,0 @@
-then 16 kilo byte.
-So, there is a trade off what quantization level I should use, what kind of sampling frequency I should use.
-So, when you record the speech signal suppose you recording the speech signal for telephone speech which is band width is 300 hertz to 3.3 kilo hertz.
-So, if it is my signal is band limited to 3.3 kilo hertz I should not sample this signal with a very high frequency.

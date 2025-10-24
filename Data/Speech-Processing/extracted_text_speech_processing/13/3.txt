@@ -1,3 +1,0 @@
-Now, we want to make the model with a multiple tube of different cross sectional area connected to each other.
-So, if I see let us this this kind of things that let us this is the glottis and this is the lips this is the structure of my vocal track.
-Now I can say whole vocal track instead of modeling by a single uniform tube can be modeled as a multiple number of uniform tube connected with each other.

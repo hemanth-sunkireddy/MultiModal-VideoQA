@@ -1,5 +1,0 @@
-after every phase, pause may not be there or pause may be there.
-So, I have to make a model which can detect after which phase pause is necessary and how much duration.
-So, I have to detect the occurrence of the pause in after phase and the duration of that pause.
-So, this is the model.
-So, this is the model.

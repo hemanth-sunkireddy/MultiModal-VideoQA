@@ -1,2 +1,0 @@
-How can I model this tube model so that I can say I can if I able to design the mathematical model of the human vocal cord system then I changing the parameters I can produce the speech or what I know that if I know the exact model or approximate model of the human speech production system I know the model property.
-So, I deriving the model property I can understand what kind of signal processing I should apply on human speech so that I can know exactly what is happening in here.

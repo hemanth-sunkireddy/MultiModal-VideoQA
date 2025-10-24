@@ -1,5 +1,0 @@
-Before that we should explain it.
-So, what I said that x of nk is nothing but a complex number Fourier transform.
-So, every Fourier transform component has two parts.
-One is called magnitude and another is called angle phase.
-So, if it is

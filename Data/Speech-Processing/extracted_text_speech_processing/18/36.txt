@@ -1,3 +1,0 @@
-I pass through that is a chunk of band pass filter which is actually critical band filter and each filter output is nothing but a sensor response.
-So I calculate the response and I have to adjust that firing throughout that you can say the amplitude compression that part has to be done.
-So that part I have done and I estimate the firing of the hair cell to perceive the frequency that is called SNP auditory model.

@@ -1,5 +1,0 @@
-to produce that any.
-So, this TTS engine can itself take any word you can give it can pronounce with the same clarity, but the main problem is that prosody is not there, prosody is not there.
-So, prosody has to be incorporated.
-So, that I will discuss later on.
-So, this is Bangla TTS we call ES NOLA Epoch synchronous overlap add method and this is the block diagram of the whole TTS.

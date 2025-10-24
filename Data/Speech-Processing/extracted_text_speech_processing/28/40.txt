@@ -1,4 +1,0 @@
-is the noise estimation.
-So, I can subtract the noise estimation from the signal spectral estimation and I resynthesize it I can get back the signal the noise is removed ok.
-So, this way there is a lot of lot of algorithms you can develop.
-So, all that there is a algorithm there may be a complex procedure I can find out I can estimate the noise in different way.

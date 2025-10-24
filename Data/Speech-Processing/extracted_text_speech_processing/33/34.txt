@@ -1,3 +1,0 @@
-I cut the signal, I pre-emphasize the whole signal, then cut the signal in a frame in a window, then shifted the window by a frame.
-So, framing, windowing all things I have done and after that if I take the DFT, I will get x k. Now, if I calculate mod of x k and if I plot with the frequency, then I get spectrum, spectrum of signal x n. What is that?
-So, what is spectrum?

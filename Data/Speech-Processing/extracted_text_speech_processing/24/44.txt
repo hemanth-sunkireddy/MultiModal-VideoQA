@@ -1,3 +1,0 @@
-and another is this one.
-So, if I say this is i minus 1 order predictor.
-So, I can say this is nothing but a a i minus 1 z minus k i z to the power minus i into since it is z to the power plus k then I can say it is nothing but a a i minus 1 z to the power minus 1.

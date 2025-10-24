@@ -1,2 +1,0 @@
-If it is B z, so I can say the forward predict forward error in in time domain if I express in time domain this terminology.
-So, I can say E m or I can write E m time domain E z E m e to the e e e i minus 1 m. So, I can say it is E i m is E i minus 1 m forward prediction error.

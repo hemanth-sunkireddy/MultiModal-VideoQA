@@ -1,4 +1,0 @@
-each of the sensor is responsible for particular frequency band.
-So, let us this perceive 0 to 5 hertz, let us this perceive 5 hertz to this 10 kilohertz or you can say 2 hertz to 10 6 hertz.
-So, there is a overlapping frequency band is by perceived by each and every sensor.
-So, I can see

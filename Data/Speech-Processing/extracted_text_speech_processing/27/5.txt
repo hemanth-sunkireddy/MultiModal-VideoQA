@@ -1,3 +1,0 @@
-convolved with x m that is my DFT equation ok. Now, if it is window then the I have not taken the whole signal at a time.
-So, I cut the signal using a window.
-So, I can say x of n omega 0 for a particular frequency it is nothing, but a m equal to minus infinity to infinity x of m e to the power.

@@ -1,5 +1,0 @@
-Then, there is an intonation or F 0 modeling.
-If I say an utterance, throughout the utterance F 0 is not constant.
-Fundamental frequency of the utterance is not constant.
-So, if I say suppose I have a speech signal, let us I have a speech signal of 1 second.
-The, if I extracted the F 0 for every 10 milliseconds, if I have a 1 second utterance, then the F

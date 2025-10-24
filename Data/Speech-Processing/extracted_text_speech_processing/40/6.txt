@@ -1,1 +1,0 @@
-this can be equal to probability of a given a w into probability of w divided by probability of a joint probability ok so if i want to maximize this probability this can be treated same problem i can state that i have to maximize this one

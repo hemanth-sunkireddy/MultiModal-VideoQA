@@ -1,4 +1,0 @@
-second formant and third formant is 1 kilohertz it is fixed because tube length is fixed.
-This is similar with your earlier physics theory that if this side is closed then the first harmonics will occur at lambda by 4.
-So, L is equal to lambda by 4.
-So, F is equal to C by lambda which becomes C by 4 L. C is the velocity and L is the length of the tube which is thin.

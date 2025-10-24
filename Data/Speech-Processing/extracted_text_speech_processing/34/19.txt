@@ -1,4 +1,0 @@
-between the frame 1 and frame or frame 2 and frame 1 and difference between the frame 3 and frame 2 is the dynamics.
-So, if I say first order dynamics, then I can say F 2 minus F 1 frame 1 MSSEC parameter minus frame 2 MSSEC parameter.
-So, next F 3 minus F 2 then F 4 minus F 3.
-So, this is the first order dynamics.

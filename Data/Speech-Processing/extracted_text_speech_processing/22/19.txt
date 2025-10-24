@@ -1,4 +1,0 @@
-2 that signal.
-So, I can say if it is frame rate is 10 millisecond, then I can say overlap signal.
-So, first window may be I taken 160 sample, then shifted the window by 80 sample and I take the window from here to here.
-So, let us this is my nth window, where I take m equal to 0 my window length is l. So, outside the window length, I consider the signal is 0 there is a no signal.

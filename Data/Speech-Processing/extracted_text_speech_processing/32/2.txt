@@ -1,1 +1,0 @@
-design of those kind of filters has a little bit of problem means they are not that much of robust because design an ideal filter of pass band 0 to 100 hertz is very difficult you know that and dsp how to design this filter ok so instead of doing that let us we try to represent other way so what is that

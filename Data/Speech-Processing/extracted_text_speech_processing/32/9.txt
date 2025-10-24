@@ -1,3 +1,0 @@
-log of S k is nothing but a log of H k plus log of E k. So, I can take the absolute log or I can take the simple log also.
-So, in log domain the product is nothing but a additive.
-So, if it is additive.

@@ -1,3 +1,0 @@
-So, there is a other kinds of application let us we discuss.
-We have discussed about that ASR, we have discussed about the synthesis.
-So, I am not going details of ASR, I am not discussing that HMM model, Viterbi algorithm because I think that required another.

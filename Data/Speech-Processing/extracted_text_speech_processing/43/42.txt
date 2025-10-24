@@ -1,5 +1,0 @@
-local accent.
-So, then I can say accent is controlled by rotation of thyroid muscle and phasing is controlled by translation.
-So, translation mechanism control the global variation.
-So, translation effect is time if it is x t. So, translation will change the f 0 in roughly change the f 0 and rotation will change the local variation.
-So, global variation plus local variation in logarithmic f 0.

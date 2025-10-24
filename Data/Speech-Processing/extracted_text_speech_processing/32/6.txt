@@ -1,3 +1,0 @@
-p n ok. Now, I want that how do I extract h n eliminate e n I want to eliminate e n. So, if it is a convolution time domain it is a convolution.
-Now, if I take the frequency transform of this signal.
-So, this is s k

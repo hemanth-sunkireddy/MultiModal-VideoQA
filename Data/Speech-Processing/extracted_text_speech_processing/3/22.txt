@@ -1,6 +1,0 @@
-signal.
-Periodic signal, aperiodic signal, a signal is periodic if it is repeat its nature after certain time interval in time domain.
-If it is repeat in nature let us after n sample then I can say the n sample is the period of the signal.
-So, x n is periodic with period n if and only if x n plus n is equal to x n. So, why the periodicity?
-If this point and next repeating point is same then I can say the signal is repeat itself.
-So, it is a period.

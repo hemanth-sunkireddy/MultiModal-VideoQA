@@ -1,5 +1,0 @@
-sum of the x 2 is overlap with x n then it is difficult to separate.
-So, what do you want we want in principle of homomorphic signal processing.
-So, importance of homomorphic system is the speech processing lie in their capability of transforming non linearly combined signal to additively combined signal.
-So, basic purpose is that transform the non linearly combined.
-So, I want that convolution signal.

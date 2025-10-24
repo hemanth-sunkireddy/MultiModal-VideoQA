@@ -1,3 +1,0 @@
-which is nothing but R 1 by R 0 R 2 small r 2 is nothing but a R 1 by R 0 R 2 by R 0 similarly R 3 small r 3 R 3 by R 0.
-So, those are called normalized then if I use this small r to extract the value of K i and E i and alpha i j then I can say.
-.

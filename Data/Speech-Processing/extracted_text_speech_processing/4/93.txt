@@ -1,4 +1,0 @@
-So, this is the frequency response of the filter.
-So, user in implementation of filter user will provide the frequency response of the filter.
-I have to design design if I want to if I want to design in time domain then I have to derive the time domain representation or time domain transfer function or time domain impulse response of the filter and then convert with the input signal.
-So, if I do that I will get this kind of response.

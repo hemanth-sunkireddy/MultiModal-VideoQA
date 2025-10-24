@@ -1,6 +1,0 @@
-That is why I say it is digital speech processing.
-I am not saying that the speech processing in analog domain.
-I said digital speech processing.
-Once I take this electrical signal in digital domain, what kind of processing we should use so that we can develop different kind of technology.
-So, if you see this slide, the source of information is the speaker, human speaker.
-Then measurement or observation, this acoustic

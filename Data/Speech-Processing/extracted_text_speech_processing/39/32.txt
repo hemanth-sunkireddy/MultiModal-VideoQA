@@ -1,4 +1,0 @@
-So, what is there it is nothing but a template means.
-So, template means that suppose I have let us say I have a rectangle is a template.
-Now, I produce similar rectangle and then I say this is a rectangle because this matched with this.
-So, this is a template which is store in computer or store in machine and I have given a test template this one.

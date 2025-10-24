@@ -1,4 +1,0 @@
-1 and I can say this signal should be added here with minus k 1 and this signal should be added here to get the BDN minus k 1.
-So, if you see the same structure is repeated here.
-So, this is called latex structure single latex, second latex, third latex and that way I can get the value of EPM.
-If the pth order prediction

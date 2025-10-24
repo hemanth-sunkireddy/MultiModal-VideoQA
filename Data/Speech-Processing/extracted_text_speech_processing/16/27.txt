@@ -1,6 +1,0 @@
-within the headphone, it is not outside.
-Once you put the headphone, sound is producing in there only.
-So, the whatever the sound here is perceived, the localization happen in the headphone only.
-So, there is a sound localization issue.
-Now, if I come that I want to make the auditory model, auditory system model.
-So, I can say whole auditory system model, it include sound the acoustical signal to normal conversion,

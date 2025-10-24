@@ -1,5 +1,0 @@
-or idea to acoustic wave.
-Here, I want a machine which can convert that the signal which is coming here or acoustic wave to understanding of the speaker's message.
-So, this kind it is not yes or I do not say it is automatic speech recognition, here understanding also is a part.
-Here also this speaker modeling is not that he just read a text.
-Once you talk, you do not read the text, we understand the text and generate that text using a acoustic wave.

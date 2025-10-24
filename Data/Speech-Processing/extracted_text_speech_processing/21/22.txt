@@ -1,3 +1,0 @@
-synthesis.
-If I know a 1, a 2, a p and previous p number of sample, I can synthesize the current signal or if I know the current signal and previous p number of sample from the previous p number of sample, I can predict the set of value of a for which the error will be 0.
-So, one is called analysis when I deriving the value of a 1, a 2 and a p.

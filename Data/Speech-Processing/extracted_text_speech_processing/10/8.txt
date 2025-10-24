@@ -1,4 +1,0 @@
-domain is analogous to voltage in electrical domain.
-Similarly, u is analogous to i, volume velocity in acoustic domain is equivalent to electrical current in electrical domain.
-And if I say l is equal to rho by a, so this rho by a is called acoustical inductance, acoustical inductance.
-Similarly, I can say that a by rho c square

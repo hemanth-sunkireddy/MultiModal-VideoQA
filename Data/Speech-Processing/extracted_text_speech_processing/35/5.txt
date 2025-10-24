@@ -1,5 +1,0 @@
-signal SN ok.
-So, now what is F 0?
-So, F 0 is part of the vocal chord oscillation.
-So, if it is vocal chord oscillation, so F 0 will be here the impulse by which we are simulating the vocal chord vibration has a period.
-So, that period is responsible for fundamental frequency of the speech signal.

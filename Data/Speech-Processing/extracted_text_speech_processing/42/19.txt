@@ -1,6 +1,0 @@
-it changing along the utterance.
-I can say that utterance instead of sentence.
-So, along the utterance duration profile is changing that is called duration of syllable or phoneme whatever you can say phoneme duration in term you can model it in another syllable also.
-So, syllable duration are changing across the time.
-So, duration is an important parameter which convey the speech prosody.
-If I if I demonstrate you if you repeat this if you copy this duration and paste it again if you change the duration you find the prosody is changing.

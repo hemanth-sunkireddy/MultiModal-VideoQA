@@ -1,2 +1,0 @@
-Z k or mod of Z k. So, I can find if the R value I know, if I know the sampling frequency, if I know pi I know, so I can go the I get the formant bandwidth bandwidth or vice versa.
-If I know the formant bandwidth, I can find out the value of R. If I know the formant frequency, I can find out the value of theta, then I can derive the transfer function of that.

@@ -1,6 +1,0 @@
-male scale spectrum.
-Then I can take the log of S cap L because spectral coefficient has to be calculated using homomorphic decomposition which require the log.
-So, log of S L and then I take the DCT instead of IDFT.
-Instead of IDFT, I take the DCT.
-So, complete block diagram MFCC filter MFCC equation.
-So, this block diagram

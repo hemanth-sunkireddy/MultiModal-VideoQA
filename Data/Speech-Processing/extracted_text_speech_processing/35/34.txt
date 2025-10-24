@@ -1,4 +1,0 @@
-I will discuss in that prosody when I do the prosody analysis and prosody use of prosody information in speech processing in the 8th week lecture.
-So, F 0 has an important part, but extraction of 0 has a challenge also.
-If I say I cannot get a purely voice signal, there may be a some noise is included.
-Quasi-periodic in nature in speech.

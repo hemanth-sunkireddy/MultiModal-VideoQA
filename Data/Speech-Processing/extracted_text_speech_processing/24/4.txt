@@ -1,3 +1,0 @@
-to find out the value of alpha.
-So, I can say autocorrelation methods and covariance methods both are two step.
-Step one computation of matrix of correlation value and then efficient solution of set of linear equation ok. Now, this lattice method says that can I combine this two step that says that I do not want to use that autocorrelation compute correlation.

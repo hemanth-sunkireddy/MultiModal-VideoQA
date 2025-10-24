@@ -1,5 +1,0 @@
-I can identify the person.
-So, I can exploit that information to recognize the biometric or biometric signature of the person.
-Similarly, shows vocal cords, my vocal cords length and weight will be different from somebody else.
-So, there may be a some parameter exist here also by which I can identify the person.
-So, biometric signature.

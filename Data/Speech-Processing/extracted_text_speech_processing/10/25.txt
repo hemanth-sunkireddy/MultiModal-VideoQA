@@ -1,4 +1,0 @@
-by c exponential solution.
-So, this is the exponential solution.
-Now, if I put that value in two equation, equation number 1 in here and equation number 2 in here.
-So, in 1 I can say u g omega e to the power j omega t is nothing but a k plus e to the power j omega t because x is equal to 0 minus.

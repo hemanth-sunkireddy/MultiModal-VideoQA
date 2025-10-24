@@ -1,6 +1,0 @@
-0.5 to 0.96, 0.95 to 0.96 to 0.97 those are the variation.
-Then what I will do?
-I do the framing.
-What kind of framing?
-I have a fish signal, I extract, I put the window length one window red color to red color one window, then I shifted the window if it is 50 percent shifted, if it is 20 millisecond and 10 millisecond shifting, then 50 percent overlap.
-So, for each each window for each frame I can get frame 1, frame 2, frame 3.

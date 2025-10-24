@@ -1,3 +1,0 @@
-E m is nothing but a original signal original sample minus estimated sample is the prediction error.
-So, if it is this is my original sample and this is my predicted sample.
-So, this is nothing but a S m minus what is predicted sample this one k equal to 1 2 i alpha k i

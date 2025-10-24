@@ -1,4 +1,0 @@
-So, sound localization is one of the major issues because human has a two ears that is why we can localize the sound.
-Second one is the focus attention on a particular sound or you can say the noise cancellation.
-If you understand if you study the radar signal processing in electronics you know the how the clutter noise is rejected or kind of things.
-So, if I have two ears help human being to attention or focus on a particular sound.

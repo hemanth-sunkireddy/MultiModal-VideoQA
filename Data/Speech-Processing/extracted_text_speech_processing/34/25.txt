@@ -1,4 +1,0 @@
-it is we take several frame and calculate the average difference and then move the filter like a smoothing function.
-So, that I can get the smooth variation of the formant frequency.
-So, that is called delta coefficient and if I take the delta delta double delta coefficient.
-So, now if I if you remember in the first slides if I make the MFCC vector features so what I said.

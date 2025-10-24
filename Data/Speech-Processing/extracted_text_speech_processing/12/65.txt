@@ -1,6 +1,0 @@
-and I get the digital circuit if I know the R L and R G. So, next this kind of mathematics you can practice later on.
-Let us then we discuss about the multi tube modeling.
-So, next class we will discuss about the multi tube modeling.
-So, single tube modeling we derive the signal flow diagram.
-You do not have to remember it.
-If you understand that things if you able to derive this equation.
