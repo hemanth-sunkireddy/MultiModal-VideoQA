@@ -1,0 +1,9 @@
+filename,timestamp,sentence
+22.srt,00:07:05.459 --> 00:07:09.959,"So, what we have is it this is we call it as a finite duration"
+22.srt,00:26:25.419 --> 00:26:33.429,"So, now we will assume that how to go with we said that DFT is a periodic function"
+24.srt,00:15:06.350 --> 00:15:12.009,and then the periodic signal in the time domain x p of n for all n and if you take a discrete time Fourier series then it is going to become x of k for all k
+24.srt,00:15:12.490 --> 00:15:19.430,"So, we say that x tilde of n that is periodic DFT if I take it results in the periodic x of k"
+24.srt,00:15:06.350 --> 00:15:12.009,"So, here x of n periodic what we are represented instead of x p of n"
+30.srt,00:19:55.670 --> 00:20:04.819,This is how both of them decimation in time and decimation in frequency work for your analysis and synthesis equivalent of DFT
+30.srt,00:20:06.440 --> 00:20:10.990,"Now, some of the important DFT properties we are seeing in this slide"
+30.srt,00:20:26.589 --> 00:20:30.680,"So, x of n is equal to x of n plus capital N is nothing, but this thing what will be getting it x of n itself"

@@ -4,10 +4,10 @@ import csv
 from moviepy.editor import VideoFileClip, concatenate_videoclips, ColorClip
 
 # Set paths
-VIDEO_DIR = "Data/Speech-Processing/Videos"  # folder containing video files like 1.mp4, 10.mp4 etc.
-FINAL_VIDEO_FILE = "Data/Speech-Processing/Results/Q2/short-answer.mp4"
-FINAL_SRT_FILE = "Data/Speech-Processing/Results/Q2/short-answer.srt"
-INPUT_CSV_FILE = "Data/Speech-Processing/Results/Q2/short-answer.csv"
+VIDEO_DIR = "Data/Digital-Signal-Processing/Videos"  # folder containing video files like 1.mp4, 10.mp4 etc.
+FINAL_VIDEO_FILE = "Data/Digital-Signal-Processing/Results/long-answer.mp4"
+FINAL_SRT_FILE = "Data/Digital-Signal-Processing/Results/long-answer.srt"
+INPUT_CSV_FILE = "Data/Digital-Signal-Processing/Results/long-answer.csv"
 
 def format_srt_timestamp(seconds):
     td = datetime.timedelta(seconds=seconds)
